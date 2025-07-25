@@ -46,10 +46,10 @@ MAX_CHUNK_SIZE = 800000  # ~800K characters ≈ ~200K tokens
 MIN_SIGNAL_THRESHOLD = 0.25  # Adjusted based on test data (was 0.3)
 AI_IMPROVEMENT_THRESHOLD = 1.5  # 50% improvement needed to use AI result
 
-# Gemini 2.0 Flash pricing (as of 2025)
+# Gemini 2.5 Flash Lite pricing (as of 2025)
 GEMINI_PRICING = {
-    'input_tokens_per_million': 0.075,  # $0.075 per 1M input tokens
-    'output_tokens_per_million': 0.30,  # $0.30 per 1M output tokens
+    'input_tokens_per_million': 0.10,  # $0.10 per 1M input tokens
+    'output_tokens_per_million': 0.40,  # $0.40 per 1M output tokens
     'requests_per_1000': 0.0001  # Minimal request cost
 }
 
@@ -102,7 +102,7 @@ class EnhancedSignalProcessor:
         if self.api_key:
             genai.configure(api_key=self.api_key)
             self.ai_model = genai.GenerativeModel('gemini-2.0-flash-exp')
-            logger.info("✅ AI enhancement available (Gemini 2.0 Flash)")
+            logger.info("✅ AI enhancement available (Gemini 2.5 Flash Lite)")
         else:
             self.ai_model = None
             logger.warning("⚠️ No API key - AI enhancement disabled")
@@ -675,7 +675,7 @@ def main():
     print(f"   Rules-only: {estimates['estimated_processing_time']['rules_only_hours']:.1f} hours")
     print(f"   AI-enhanced: {estimates['estimated_processing_time']['ai_enhanced_hours']:.1f} hours")
     print(f"   Total: {estimates['estimated_processing_time']['total_hours']:.1f} hours")
-    print(f"\n💰 ESTIMATED COSTS (Gemini 2.0 Flash):")
+    print(f"\n💰 ESTIMATED COSTS (Gemini 2.5 Flash Lite):")
     print(f"   Total tokens: {estimates['estimated_costs']['total_tokens']:,}")
     print(f"   Input cost: ${estimates['estimated_costs']['input_cost']:.2f}")
     print(f"   Output cost: ${estimates['estimated_costs']['output_cost']:.2f}")

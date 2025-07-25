@@ -179,4 +179,9 @@ The system now provides comprehensive metrics:
 ✅ **Clean Architecture**: Essential scripts only, archived old system  
 ✅ **Ready for Production**: Tested and documented  
 
-Your Ray Peat corpus processing system is now **optimized for million-token context windows** with **maximum signal extraction** through a **clean, unified architecture**. The system intelligently processes your entire corpus while preserving educational value and creating massive, coherent chunks perfect for your advanced language model deployment. 
+Your Ray Peat corpus processing system is now **optimized for million-token context windows** with **maximum signal extraction** through a **clean, unified architecture**. The system intelligently processes your entire corpus while preserving educational value and creating massive, coherent chunks perfect for your advanced language model deployment.
+
+**📋 Complete Documentation:**
+- `docs/CORPUS_PROCESSING_ESTIMATES.md` - Detailed cost and time estimates
+- `preprocessing/cleaning/README_UNIFIED_PROCESSING.md` - System documentation
+- `docs/DATA_PIPELINE.md` - Original pipeline documentation 
