@@ -24,10 +24,10 @@ import rules_based_cleaners as rbc
 import ai_powered_cleaners as aic
 
 # Constants
-DEFAULT_RAW_DATA_DIR = "raw_data"
-DEFAULT_ANALYSIS_FILE = "corpus_analysis.csv"
-DEFAULT_OUTPUT_DIR = "cleaned_corpus"
-DEFAULT_METADATA_FILE = "metadata.json"
+DEFAULT_RAW_DATA_DIR = "../../data/raw/raw_data"
+DEFAULT_ANALYSIS_FILE = "../../data/analysis/corpus_analysis.csv"
+DEFAULT_OUTPUT_DIR = "../../data/processed/cleaned_corpus"
+DEFAULT_METADATA_FILE = "../../data/processed/metadata.json"
 
 # Quality thresholds for tier classification
 TIER1_THRESHOLDS = {

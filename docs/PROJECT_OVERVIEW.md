@@ -258,4 +258,4 @@ For questions, suggestions, or contributions:
 
 *"Energy and structure are interdependent at every level."* - Ray Peat
 
-**Mission**: Preserving and democratizing Dr. Ray Peat's bioenergetic wisdom for future generations. 
+**Mission**: Preserving and democratizing Dr. Ray Peat's bioenergetic wisdom for future generations

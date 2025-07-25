@@ -127,10 +127,11 @@ def remove_known_artifacts(text, file_path=""):
         text = re.sub(pattern, '', text, flags=re.MULTILINE | re.IGNORECASE)
     
     # File-specific cleaning based on category
-    if "Townsend" in file_path:
+    file_path_str = str(file_path)
+    if "Townsend" in file_path_str:
         text = re.sub(r'.*Townsend Letter.*?\n', '', text, flags=re.IGNORECASE)
     
-    if "kmud" in file_path.lower():
+    if "kmud" in file_path_str.lower():
         text = re.sub(r'KMUD.*?\n', '', text, flags=re.IGNORECASE)
     
     # Clean up after artifact removal
