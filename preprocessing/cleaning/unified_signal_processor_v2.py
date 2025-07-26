@@ -42,7 +42,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Enhanced constants based on test analysis
-MAX_CHUNK_SIZE = 800000  # ~800K characters ≈ ~200K tokens
+MAX_CHUNK_SIZE = 400000  # ~400K characters ≈ ~100K tokens (reduced for better processing)
 MIN_SIGNAL_THRESHOLD = 0.25  # Adjusted based on test data (was 0.3)
 AI_IMPROVEMENT_THRESHOLD = 1.5  # 50% improvement needed to use AI result
 
@@ -69,6 +69,7 @@ class ProcessingResult:
     api_calls: int = 0
     estimated_cost: float = 0.0
     error_message: Optional[str] = None
+    processed_content: str = ""
     
     @property
     def signal_improvement(self) -> float:
@@ -101,7 +102,7 @@ class EnhancedSignalProcessor:
         self.api_key = api_key or os.getenv('GOOGLE_API_KEY') or os.getenv('GEMINI_API_KEY')
         if self.api_key:
             genai.configure(api_key=self.api_key)
-            self.ai_model = genai.GenerativeModel('gemini-2.0-flash-exp')
+            self.ai_model = genai.GenerativeModel('gemini-2.5-flash-lite')
             logger.info("✅ AI enhancement available (Gemini 2.5 Flash Lite)")
         else:
             self.ai_model = None
@@ -387,7 +388,7 @@ Document to process:
                 response = self.ai_model.generate_content(
                     prompt,
                     generation_config=genai.types.GenerationConfig(
-                        max_output_tokens=8192,
+                        max_output_tokens=32768,  # Increased from 8192 to prevent truncation
                         temperature=0.1,
                         candidate_count=1
                     )
@@ -453,70 +454,36 @@ Document to process:
             original_size = len(original_content)
             self.stats['total_input_size'] += original_size
             
-            # Step 1: Rules-based cleaning
-            if file_path.suffix.lower() == '.html':
-                rules_cleaned = rbc.clean_html(str(file_path))
-            else:
-                rules_cleaned = original_content
-            
-            rules_cleaned = rbc.normalize_whitespace(rules_cleaned)
-            rules_cleaned = rbc.remove_known_artifacts(rules_cleaned, str(file_path))
-            
-            # Step 2: Initial signal assessment
-            signal_ratio_before, topics_before = self.detect_ray_peat_signal(rules_cleaned)
-            logger.info(f"📊 Rules-only signal: {signal_ratio_before:.3f}, Topics: {len(topics_before)}")
-            
-            # Step 3: Determine processing strategy
-            processing_method = 'rules_only'
-            final_content = rules_cleaned
+            # Purely AI-based cleaning
+            processing_method = 'ai_enhanced'
+            signal_ratio_before, topics_before = self.detect_ray_peat_signal(original_content)
             signal_ratio_after = signal_ratio_before
             final_topics = topics_before
             input_tokens = output_tokens = api_calls = estimated_cost = 0
-            
-            # Enhanced AI triggering logic
-            needs_ai_enhancement = False
-            
-            # Check tier analysis
-            if tier_info:
-                fidelity = tier_info.get('textual_fidelity_score', 10)
-                noise = tier_info.get('semantic_noise_score', 10)
-                atomicity = tier_info.get('document_atomicity_score', 10)
-                
-                if fidelity < 4 or noise < 5 or atomicity < 5:
-                    needs_ai_enhancement = True
-                    logger.info("🎯 Tier analysis indicates AI enhancement needed")
-            
-            # Check signal threshold
-            if signal_ratio_before < MIN_SIGNAL_THRESHOLD:
-                needs_ai_enhancement = True
-                logger.info(f"🎯 Signal ratio {signal_ratio_before:.3f} below threshold {MIN_SIGNAL_THRESHOLD}")
-            
-            # Step 4: AI enhancement if needed
-            if needs_ai_enhancement and self.ai_model and len(rules_cleaned) > 1000:
+
+            final_content = original_content # Initialize final_content with original_content
+
+            if self.ai_model and len(original_content) > 1000:
                 try:
-                    logger.info("🤖 Applying AI enhancement...")
-                    ai_result = self.ai_enhance_signal(rules_cleaned)
+                    logger.info("🤖 Applying AI enhancement (purely AI-based approach)...")
+                    ai_result = self.ai_enhance_signal(original_content)
                     
-                    # Use AI result if significantly better
-                    improvement_ratio = ai_result['signal_ratio'] / max(signal_ratio_before, 0.001)
-                    if improvement_ratio >= AI_IMPROVEMENT_THRESHOLD:
-                        final_content = ai_result['enhanced_content']
-                        signal_ratio_after = ai_result['signal_ratio']
-                        final_topics = ai_result['key_topics']
-                        processing_method = 'ai_enhanced'
-                        input_tokens = ai_result['input_tokens']
-                        output_tokens = ai_result['output_tokens']
-                        api_calls = ai_result['api_calls']
-                        estimated_cost = ai_result['estimated_cost']
-                        
-                        logger.info(f"✅ AI enhancement successful: {signal_ratio_after:.3f} signal ratio "
-                                  f"({improvement_ratio:.1f}x improvement)")
-                    else:
-                        logger.info(f"⚠️ AI enhancement insufficient: {improvement_ratio:.1f}x improvement "
-                                  f"(needed {AI_IMPROVEMENT_THRESHOLD:.1f}x)")
+                    final_content = ai_result['enhanced_content']
+                    signal_ratio_after = ai_result['signal_ratio']
+                    final_topics = ai_result['key_topics']
+                    input_tokens = ai_result['input_tokens']
+                    output_tokens = ai_result['output_tokens']
+                    api_calls = ai_result['api_calls']
+                    estimated_cost = ai_result['estimated_cost']
+                    
+                    logger.info(f"✅ AI enhancement successful: {signal_ratio_after:.3f} signal ratio")
                         
                 except Exception as e:
                     logger.error(f"❌ AI enhancement failed: {e}")
+                    processing_method = 'failed_ai_fallback_to_original'
+                    # final_content remains original_content due to initialization
+                    signal_ratio_after = signal_ratio_before
+                    final_topics = topics_before
             
             # Update statistics
             self.stats[processing_method] += 1
@@ -547,7 +514,8 @@ Document to process:
                 input_tokens=input_tokens,
                 output_tokens=output_tokens,
                 api_calls=api_calls,
-                estimated_cost=estimated_cost
+                estimated_cost=estimated_cost,
+                processed_content=final_content
             )
             
         except Exception as e:
@@ -642,6 +610,130 @@ Document to process:
         }
         
         return full_corpus_estimates
+    
+    def process_corpus(self, 
+                      input_dir: str,
+                      output_dir: str,
+                      analysis_file: Optional[str] = None,
+                      limit: Optional[int] = None) -> Dict:
+        """Process entire corpus with enhanced tracking."""
+        input_path = Path(input_dir)
+        output_path = Path(output_dir)
+        output_path.mkdir(parents=True, exist_ok=True)
+        
+        # Load tier analysis
+        tier_data = {}
+        if analysis_file and Path(analysis_file).exists():
+            try:
+                df = pd.read_csv(analysis_file)
+                for _, row in df.iterrows():
+                    file_path = row['file_path']
+                    tier_data[file_path] = {
+                        'textual_fidelity_score': row.get('textual_fidelity_score', 10),
+                        'semantic_noise_score': row.get('semantic_noise_score', 10),
+                        'document_atomicity_score': row.get('document_atomicity_score', 10)
+                    }
+                logger.info(f"📊 Loaded tier analysis for {len(tier_data)} files")
+            except Exception as e:
+                logger.warning(f"Could not load tier analysis: {e}")
+        
+        # Find all files to process
+        file_patterns = ['*.txt', '*.html', '*.md', '*.pdf']
+        all_files = []
+        for pattern in file_patterns:
+            all_files.extend(input_path.rglob(pattern))
+        
+        if limit:
+            all_files = all_files[:limit]
+        
+        logger.info(f"📁 Found {len(all_files)} files to process")
+        self.stats['total_files'] = len(all_files)
+        
+        # Process files with checkpointing
+        results = []
+        metadata = {'processing_timestamp': datetime.now().isoformat(), 'files': []}
+        
+        for i, file_path in enumerate(all_files, 1):
+            logger.info(f"📄 Processing file {i}/{len(all_files)}: {file_path.name}")
+            
+            # Get tier info
+            rel_path = str(file_path.relative_to(input_path.parent))
+            tier_info = tier_data.get(rel_path)
+            
+            # Process the file
+            result = self.process_file(file_path, tier_info)
+            results.append(result)
+            
+            # Save processed content if successful
+            if result.success:
+                relative_path = file_path.relative_to(input_path)
+                output_subdir = output_path / relative_path.parent
+                output_subdir.mkdir(parents=True, exist_ok=True)
+                output_file = output_subdir / f"{file_path.stem}_processed.txt"
+                
+                # Get processed content
+                with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                    original = f.read()
+                
+                processed = result.processed_content
+                
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    f.write(result.processed_content)
+                
+                # Add to metadata
+                metadata['files'].append({
+                    'original_file': str(file_path),
+                    'output_file': str(output_file),
+                    'processing_method': result.processing_method,
+                    'signal_ratio_before': result.signal_ratio_before,
+                    'signal_ratio_after': result.signal_ratio_after,
+                    'signal_improvement': result.signal_improvement,
+                    'key_topics': result.key_topics,
+                    'original_size': result.original_size,
+                    'processed_size': result.processed_size,
+                    'compression_ratio': result.compression_ratio,
+                    'processing_time': result.processing_time,
+                    'estimated_cost': result.estimated_cost
+                })
+            
+            # Save checkpoint every 10 files
+            if i % 10 == 0:
+                self._save_checkpoint(str(file_path))
+                logger.info(f"💾 Checkpoint saved at file {i}")
+            
+            # Progress update
+            if i % 25 == 0:
+                avg_cost = self.stats['total_estimated_cost']
+                avg_time = sum(self.stats['processing_times']) / len(self.stats['processing_times'])
+                eta_hours = (len(all_files) - i) * avg_time / 3600
+                logger.info(f"📈 Progress: {i}/{len(all_files)} ({i/len(all_files)*100:.1f}%) | "
+                          f"Cost: ${avg_cost:.2f} | ETA: {eta_hours:.1f}h")
+        
+        # Save final metadata
+        metadata_file = output_path / 'processing_metadata.json'
+        with open(metadata_file, 'w', encoding='utf-8') as f:
+            json.dump(metadata, f, indent=2)
+        
+        # Generate final summary
+        successful_results = [r for r in results if r.success]
+        
+        summary = {
+            'total_files': len(all_files),
+            'successful': len(successful_results),
+            'failed': len([r for r in results if not r.success]),
+            'rules_only': self.stats['rules_only'],
+            'ai_enhanced': self.stats['ai_enhanced'],
+            'total_estimated_cost': self.stats['total_estimated_cost'],
+            'total_processing_time': time.time() - self.stats['start_time'].timestamp(),
+            'average_signal_improvement': sum(r.signal_improvement for r in successful_results if r.signal_improvement != float('inf')) / max(len([r for r in successful_results if r.signal_improvement != float('inf')]), 1)
+        }
+        
+        # Save summary
+        summary_file = output_path / 'processing_summary.json'
+        with open(summary_file, 'w', encoding='utf-8') as f:
+            json.dump(summary, f, indent=2)
+        
+        return summary
 
 def main():
     """Enhanced main function with estimation and resumable processing."""
@@ -692,8 +784,21 @@ def main():
     print(f"\n🚀 Starting processing in 5 seconds...")
     time.sleep(5)
     
-    # TODO: Add the actual processing logic here
-    print("✅ Enhanced processing system ready!")
+    # Full corpus processing
+    summary = processor.process_corpus(
+        input_dir=args.input_dir,
+        output_dir=args.output_dir,
+        analysis_file=args.analysis_file,
+        limit=args.limit
+    )
+    
+    print("\n🎉 Processing completed successfully!")
+    print(f"📊 Final Results:")
+    print(f"  ✅ Files processed: {summary['successful']}")
+    print(f"  🔧 Rules-only: {summary['rules_only']}")  
+    print(f"  🤖 AI-enhanced: {summary['ai_enhanced']}")
+    print(f"  💰 Total cost: ${processor.stats['total_estimated_cost']:.2f}")
+    print(f"  ⏱️ Processing time: {(time.time() - processor.stats['start_time'].timestamp()) / 3600:.1f} hours")
 
 if __name__ == "__main__":
     main() 
