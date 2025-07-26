@@ -1,0 +1,81 @@
+
+
+**RAY PEAT:** Maria de Sousa’s work on thymus-derived cells and their relation to the body's iron economy has made people aware of the possibility that iron “fortified” flour and other foods might be contributing to the incidence of leukemia and other cancers, and to immunodeficiency resulting from maldistribution of lymphocytes.
+
+**CONTEXT:** What is the potential danger of iron fortification in foods?
+
+**RAY PEAT:** And with the weight of iron advertisements in this country one inevitably starts feeling that it is not going to be easy to tell this community that in some circumstances iron may be bad.
+
+**CONTEXT:** What is the societal challenge in addressing the potential harm of iron?
+
+**RAY PEAT:** “It is iron and flintstones, and the food almost all of our Hodgkin's children ate — as we found out from the rough survey of eating, drinking, and living habits.”
+
+**CONTEXT:** What was observed in the diet of children with Hodgkin's disease?
+
+**RAY PEAT:** It was probably the World Health Organization’s observation of a high death rate from malaria in people who were given supplementary iron for their “anemia” that made it obvious that iron can have rapid and deadly immunosuppressive effects, though it had long been suspected that an increase in the iron burden was a factor in the immunosuppressive action of blood transfusions. My interest in the toxicity of iron was aroused by the published discovery that, when added to animal food, iron destroys the vitamin E which was also added to the food. Subsequently, it was found to destroy other vitamins, too.
+
+**CONTEXT:** What led to the understanding of iron's immunosuppressive effects and its toxicity to vitamins?
+
+**RAY PEAT:** In recent years, the interaction of iron with vitamin E (and other reductants) and unsaturated fats, to produce lipid peroxidation, has been the dominant issue in research on the toxic effects of iron. “Reperfusion injury,” any stress causing oxygen depletion and an excessively reduced (electron-rich) cellular state, the importance of lipid peroxidation and iron in aging, and the role of iron in damaging steroid synthesis in steroidogenic tissues, have been important lines of study lately.
+
+**CONTEXT:** What are the recent research findings on iron toxicity?
+
+**RAY PEAT:** Early in the century, the tendency of calcium and iron to be deposited together in damaged tissues was noted, but the exact reason for this association still isn't known. I think iron's role in “age pigment,” lipofuscin, is an important part of the mechanism. In oxygen deprivation, heme (the iron-binding oily component of hemoglobin and various enzymes) is produced, largely by spontaneous, non-enzymic means. Age pigment consists mainly of lipid peroxidation products, with heme and iron. It has the adaptive function of keeping NADH oxidized in a low-oxygen environment, in which mitochondrial respiration is inadequate, allowing NADH to keep the glycolytic sequence operating. It has been found that age pigment is produced in the fetus, because of its low-oxygen environment, and in fish that are living under ice, again because of the low-oxygen environment, which allows iron to become reduced and to catalyze lipid peroxidation. In old age, blood leaving the lungs is often only half saturated with oxygen; the tissues are likely to be overloaded with iron, and it becomes increasingly likely that fat will be mobilized as an energy source.
+
+**CONTEXT:** What is the role of iron in "age pigment" (lipofuscin) and its relation to oxygen deprivation and energy metabolism?
+
+**RAY PEAT:** The other factors besides iron overload and oxygen deprivation which cause premature loading of the tissues with “age pigment” are a diet low in vitamin E and/or high in unsaturated fats, and an excess of estrogen.
+
+**CONTEXT:** What other factors contribute to the formation of "age pigment"?
+
+**RAY PEAT:** Around the time these factors in the formation of age pigment were being investigated, the Shutes were investigating the antagonism between estrogen and vitamin E. Essentially, their antagonism consists of the fact that vitamin E spares oxygen, and that estrogen wastes oxygen.
+
+**CONTEXT:** What is the antagonistic relationship between estrogen and vitamin E?
+
+**RAY PEAT:** Women absorb dietary iron about three times as well as men do, but during pregnancy their absorption is about nine times as efficient as men’s.
+
+**CONTEXT:** How does iron absorption differ between men and women, and during pregnancy?
+
+**RAY PEAT:** The famous antagonism of molybdenum to copper absorption is similar to that between iron and copper. Copper deficient cells, for example in the heart, become overloaded with iron. Recently, various studies show that cellular oxidative stress promotes iron retention, which would be logical, since iron is essential for respiration, and cells struggling to respire would tend to use evolved mechanisms for retaining the iron needed to form new respiratory enzymes. (As I suggested above, I think spontaneously formed heme is the probable reason for iron’s tendency to concentrate in hypoxic tissue.) Estrogen, by creating relative hypoxia, promotes iron retention.
+
+**CONTEXT:** What is the relationship between iron, copper, oxidative stress, and estrogen in cellular iron retention?
+
+**RAY PEAT:** The fetus, a whole organism within an organism, has a special oxygen problem. Fetal hemoglobin, with a great affinity for oxygen, helps it survive in that situation. (I suspect that fetal hemoglobin will reappear whenever there is prolonged hypoxia.)
+
+**CONTEXT:** How does the fetus manage its oxygen problem, and what is the role of fetal hemoglobin?
+
+**RAY PEAT:** I believe it is the low oxygen environment which causes the fetus to be born with a great surplus of iron. Prenatally, iron is absorbed about 40 times faster than while the baby is nursing. Although pregnant women absorb iron from food very efficiently, they tend to give up their stored iron to the baby. This could account for the greater longevity associated with having more babies, and especially with the lower incidence of cancer in child-bearing women.
+
+**CONTEXT:** Why is the fetus born with a surplus of iron, and what is the potential benefit of this to the mother?
+
+**RAY PEAT:** Milk is remarkably “deficient” in iron, and it seems obvious that this is an adaptive feature, allowing the child to “grow into” the large amount of iron stored in its tissues at birth. I mentioned the fact that iron and calcium both tend to be deposited in damaged and dying tissues. If it is the situational hypoxia of the fetus that causes its prenatal iron overload, we might expect it to be “overloaded” with calcium, too, and that seems to be the case, with the extra calcium being stored in the porous centers of the bones.
+
+**CONTEXT:** Why is milk low in iron, and what is the connection between fetal iron overload, calcium, and bone development?
+
+**RAY PEAT:** Estrogen causes an exaggerated absorption of calcium, as it does of iron, and high calcium diets have been found to be very toxic to pregnant animals. The combination of estrogen and calcium can cause a condition called osteopetrosis, or hardening of the bones, in which the bone-marrow cavity is closed up, severely limiting the production of the cells which would become Natural Killer cells, normally found in the spleen. Estrogen causes a reduction of Natural Killer cells in the spleen, even without destruction of the bone marrow.
+
+**CONTEXT:** What are the effects of estrogen and high calcium diets on bone development and immune cells?
+
+**RAY PEAT:** Estrogen, and a variety of poisons, cause even soft tissues to retain calcium. It is clear that scleroderma, a hardening of the skin, involves the interaction of calcium, iron, lipid peroxidation, and hormones, but lately it seems that no one wants to think about it physiologically. The food and drug industries have their motives; we are hearing more about drugs to chelate iron and calcium from the body, than about simply leaving iron out of food, or restoring vitamin E and magnesium. And researchers like to aggrandize themselves by making problems seem more complex than they really are. And of course, disease-centered fund-raising organizations always see their business as raising funds, not finding cheap solutions to problems.
+
+**CONTEXT:** What is the physiological basis of scleroderma, and why are simpler solutions like removing iron from food overlooked?
+
+**RAY PEAT:** At the age of 12, people are less likely to die than at any other age. The curves for mortality from cancer, and from all causes combined, are similarly shaped, with a minimum around the age of 12. The sex hormones tend to stop bone growth, at least in the sense that puberty leads to the hardening of the growth-areas of long bones. When growth stops, the concentration of iron in the tissues tends to increase (even without considering the effect of hormones on iron absorption).
+
+**CONTEXT:** What is the significance of the mortality minimum at age 12, and how does it relate to sex hormones and iron concentration?
+
+**RAY PEAT:** The high mortality of old age is associated with a high concentration of iron in the tissues, just as the high mortality of young infants is associated with a high concentration of iron. As the infant's iron is diluted by growth, mortality decreases. Infectious disease and leukemia, which have been associated with excess iron, are highest in childhood and old age.
+
+**CONTEXT:** How does iron concentration relate to mortality rates in infants, old age, and during childhood?
+
+**RAY PEAT:** In essence the immunological system has evolved with the ability to survey, and recognize, and utilize — I don’t know exactly what. But this ability is expressed as a capacity to survey metals and, in particular, iron. It goes in as ferrous iron, and is then rapidly oxidized into ferric iron. This is then bound to a protein, transferrin, and so is carried into the bone marrow and thus given to the early red blood cells, which need it for the blood cycles. But iron is also bound to a second protein, ferritin, which is a storage protein. When red cells get old they break down in the spleen and are eaten up by the macrophages, which then make ferritin. (It enters the storage pool again.) Then there is the third protein, lactoferrin, which is synthesized by polymorphs, the white cells, and is present in milk and in our secretions. The amount we excrete per day is absolutely minimal. You can only shove it in; you can't push it out. Now if, for some reason or other, there is too much iron around, the macrophages go and mop it up. And as far as I'm concerned, in the diseases we've been studying — Hodgkin's, leukemias — there is an abnormality in the lymph nodes and the macrophages in regard to the intake, or the handling, of the iron. ...I have a simple scheme, again probably too simple. Lymphocytes go and are caught where there is an excess of iron. A malignant cell, like a virulent cell, behaves like a virulent bacterium. It becomes capable of sucking up iron avidly and utilizing it. ...if the tumor cells eat up the signal — iron — the lymphocytes won't go there. The tumor will grow undisturbed because the lymphocytes have not had a signal to move toward it.
+
+**CONTEXT:** How does the immune system interact with iron, and what is the proposed mechanism for iron's role in cancer and leukemia?
+
+**RAY PEAT:** As I mentioned above, I think some of the excess iron accumulates in the form of age-pigment, and that this material serves to keep glycolysis running as an emergency energy source. Glycolysis produces lactic acid, which is characteristic of tumor metabolism even in the presence of oxygen, and lactic acid has its own direct effects on immunity.
+
+**CONTEXT:** How does accumulated iron, in the form of age-pigment, relate to glycolysis, lactic acid, and tumor metabolism?
+
+**RAY PEAT:** Americans who eat processed grain products are obliged to eat iron, because of the federal law that they must be “fortified,” in spite of the clear evidence that adding iron to food destroys its vitamins. Only public pressure can change this law. Those who have promoted the use of iron fear change, because of their potential liability.
+
+**CONTEXT:** What is the problem with iron fortification in processed grain products, and what is needed to change this law?

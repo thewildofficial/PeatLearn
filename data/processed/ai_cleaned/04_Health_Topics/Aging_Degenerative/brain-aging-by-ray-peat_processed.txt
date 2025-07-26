@@ -1,0 +1,49 @@
+
+
+**RAY PEAT:** "The energy available to the white cells, and the condition of the various tissue cells, govern the processes of phagocytosis, healing, and tissue remodeling. Thyroid hormone and body temperature are important factors governing the activity of white cells. The rate of movement of white cells through the tissue is strongly dependent upon temperature! (with the rate increasing with an increase in temperature), and they are generally tolerant of very high temperatures. The conditions governing resorption of the tadpole’s tail are probably relevant to how white blood cells function in mammals. Either cold or hypothyroidism tends to suppress or delay the phagocytic activity in the tadpole tail. With an adequate temperature and thyroid hormone, the cells selectively remove the oldest cells first, indicating that they recognize cellular age."
+
+**CONTEXT:** The discussion is about the role of phagocytic white blood cells in maintaining the integrity of the organism, including their function in wound healing and the removal of damaged or aged cells. The question is how temperature and thyroid hormone influence these processes.
+
+**RAY PEAT:** "Bacterial endotoxin inhibits mitochondrial respiration, and this respiration is needed for the intramitochondrial conversion of cholesterol into pregnenolone. With aging, pregnenolone and its derivatives, progesterone and DHEA, decline sharply. The brain, the organ with the highest concentration of those stabilizing substances, has many systems for adapting to their decreasing concentration, but the immune system is probably less able to compensate for those aging changes."
+
+**CONTEXT:** The conversation shifts to the metabolic underpinnings of aging and how it affects cellular function, particularly in the brain and immune system. The question is about the link between bacterial toxins, mitochondrial respiration, steroid hormone production, and the aging process.
+
+**RAY PEAT:** "The combination of an extreme decrease in concentration of the protective steroids in the brain, and impaired function of the phagocytes, might account for some of the features of Alzheimer’s disease. In this disease, microtubules accumulate within nerve cells and other nerve cells die, leaving tangles of their axons, including microtubules. These cells are not removed, as dead cells normally are. Subnormal temperature and hypothyroidism probably contribute to the inertia of the phagocytes. (In mammalian cells, microtubules dissolve at low temperatures, and are stable at higher temperatures. Phagocytosis seems to depend on a functional microtubule system within the white cells.)"
+
+**CONTEXT:** The discussion focuses on potential mechanisms behind Alzheimer's disease, specifically the accumulation of cellular debris and the failure of phagocytic cells to clear it. The question is about how low temperature, hypothyroidism, and impaired phagocyte function might contribute to these pathological changes.
+
+**RAY PEAT:** "But the reason for the nerve cell's death, and for the tangles of filaments within living cells, seems to be a metabolic problem of the nerve cells themselves. A few years ago, there was talk of a similarity between the “amyloid” deposits, and the blood protein, pre-albumin. Since that protein transports vitamin A and thyroxin, I wondered about the possible effects of a vitamin A deficiency. Vitamin A regulates lysosomes, and so a deficiency might promote the accumulation of intracellular debris. It is an antioxidant, and so a deficiency might tend to induce the stress-hypoxia proteins, and it is used massively in the synthesis of steroids (for example, progesterone supplementation spares vitamin A). But possibly most important is the “de-differentiation” that occurs in many cells in a vitamin A deficiency. In the skin and mucous membranes, a vitamin A deficiency acts like an excess of estrogen, to promote the formation of keratin."
+
+**CONTEXT:** The focus is on the metabolic origins of neuronal dysfunction and the accumulation of abnormal proteins in Alzheimer's disease. The question explores the potential role of vitamin A deficiency, its impact on lysosomes, antioxidant function, steroid synthesis, and cellular differentiation, linking it to keratin formation and estrogen-like effects.
+
+**RAY PEAT:** "Twenty years ago, English researchers found virus-like shapes in the brains of old people, and suggested that senility might be caused by a virus. Later, one of them found that aged brain tissue was antigenically similar to scrapie-infected brain tissue from a young animal, and antigenically distinct from healthy young tissue. In size and over-all structure, keratin filaments are similar to the scrapie particles, and to the filaments that accumulate in Alzheimer’s disease. I think of keratin as a protein made by a cell which has lost the energy to make more functional proteins. Normally, keratinized cells are formed by rapid cell division at a body surface, where little energy is available. In chronic vitamin A deficiency, the keratin-forming cells divide more rapdily than normal. Dandruff and the moist white equivalent of dandruff on mucous membranes, leucoplakia, are promoted by a deficiency of vitamin A, or an excess of estrogen. Radiation often causes a similar hyperkeratosis, probably by destroying vitamin A, and, like estrogen, by creating a respiratory effect. I suspect that the plaques in Alzheimer's disease are the brain's equivalent to the plaques of leucoplakia, or of dandruff, and that the overgrowth of the glial cells is the result of the same tendency of cells to divide rapidly, while the non-dividing neurons accumulate an excess of fibrous proteins that can’t be degraded."
+
+**CONTEXT:** The discussion delves into potential infectious or structural similarities between aging brain tissue, scrapie, and keratin filaments, drawing parallels to Alzheimer's pathology. The question explores the idea that keratin represents a cellular state of energy depletion and de-differentiation, exacerbated by vitamin A deficiency and estrogen excess, and how this might manifest in brain plaques and glial cell overgrowth.
+
+**RAY PEAT:** "In degenerative diseases, the stress - and age - induced accumulation of iron and other mitochondria-toxic material (e.g., calcium, aluminum, and lipid peroxidation products including age-pigment) and the failure of detoxifying systems make therapy with ordinary nutritional supplements fairly ineffective. Direct supplementation of the various natural protective substances (or their analogues) in addition to the protective vitamins (especially E) and minerals (especially magnesium) is more appropriate."
+
+**CONTEXT:** The conversation addresses the challenges of treating degenerative diseases due to the accumulation of toxic materials that impair mitochondrial function and the inadequacy of standard nutritional approaches. The question is about more effective therapeutic strategies.
+
+**RAY PEAT:** "The supplementation of prenenolone, etc., will allow dietary vitamin A to be spared for other purposes, including regulation of mitosis, differentation, and oxidation."
+
+**CONTEXT:** This statement follows the discussion on vitamin A's role and the potential benefits of pregnenolone. The question is about how pregnenolone supplementation might positively impact vitamin A utilization.
+
+**RAY PEAT:** "GABA-related metabolites, such as GHB, butyric acid, succinic acid, and the butyrobetaines, have multiple protective functions, including promotion of respiration and pregnenolone synthesis, regulating gene expression, and reducing damage from glucocorticoids."
+
+**CONTEXT:** The discussion expands to other beneficial metabolic compounds. The question is about the protective roles of GABA-related metabolites.
+
+**RAY PEAT:** "DHEA seems to be involved in various regenerative processes, and a deficiency of it is prognostic of increased probability of death from various causes, including cancer, heart disease, and AIDS."
+
+**CONTEXT:** The focus shifts to the role of DHEA. The question is about its involvement in regeneration and the implications of its deficiency.
+
+**RAY PEAT:** "Progesterone has the special status of being an essential nerve growth factor, and generally blocks the catabolic actions of the glucocorticoids and estrogen, thereby protecting all tissues, from brain cells to white blood cells."
+
+**CONTEXT:** The importance of progesterone is highlighted. The question is about its specific functions as a nerve growth factor and its protective effects against catabolic hormones.
+
+**RAY PEAT:** "Thyroid hormone protects against stress and supports normal differentiation."
+
+**CONTEXT:** The role of thyroid hormone is reiterated. The question is about its protective and differentiating functions.
+
+**RAY PEAT:** "Short and medium-chain saturated fatty acids provide a safe source of energy, as well as having hormone-like and adaptogenic effects. The short-chain saturated fatty acids are important in regulating bowel flora. Mechnikov’s idea of altering the flora with cultured milk was on the right track, but much more needs to be done on bacterial nutrition and toxin formation."
+
+**CONTEXT:** The benefits of saturated fatty acids are discussed, particularly their energy provision and hormonal effects, as well as their role in gut health. The question is about their overall impact and a brief mention of Mechnikov's work on gut flora.

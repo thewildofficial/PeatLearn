@@ -1,0 +1,137 @@
+
+
+**RAY PEAT:** Breathing pure oxygen lowers the oxygen content of tissues; breathing rarefied air, or air with carbon dioxide, oxygenates and energizes the tissues; if this seems upside down, it's because medical physiology has been taught upside down. And respiratory physiology holds the key to the special functions of all the organs, and to many of their basic pathological changes. Stress, shock, inflammation, aging, and organ failure are, in important ways, respiratory problems.
+
+**CONTEXT:** What is the fundamental principle governing respiration and its connection to overall health?
+
+**RAY PEAT:** The Haldane effect: Oxygen displaces carbon dioxide from hemoglobin, in proportion to its partial (specific) pressure. The Bohr effect: Carbon dioxide (or acidity) displaces oxygen from hemoglobin. Lactic acidemia: The presence of lactic acid in the blood. Alkalosis: A pH of the blood above 7.4. Acidosis: A blood pH below 7.4. Lactate paradox: The reduced production of lactic acid at a given work rate at high altitude. Muscle work efficiency may be 50% greater at high altitude. ATP wastage is decreased.
+
+**CONTEXT:** What are the key physiological effects related to oxygen and carbon dioxide exchange?
+
+**RAY PEAT:** There are some popular medical ideas that obstruct clear thinking about respiration. One is that high altitude deprives you of oxygen, and is likely to be bad for people with heart disease and cancer. Another is that breathing pure oxygen helps sick people to oxygenate their tissues while exerting less effort in breathing. These are both exactly wrong, and the errors have been explored in quite a few publications, but the ideas persist in the culture to such a degree that our perceptions and intuitions have been misled, making closely related things seem to be unrelated. In this culture, it is hard to see that heart disease, cancer, and cataracts all involve a crucial respiratory defect, with the production of too much lactic acid and too little carbon dioxide, which leads to a “swelling pathology”: A pathological retention of water. The swollen heart beats poorly, the swollen lens turns milky, other cells divide rapidly as a result of swelling.
+
+**CONTEXT:** What are common misconceptions about altitude and oxygen therapy, and how do they relate to degenerative diseases?
+
+**RAY PEAT:** People who live at very high altitudes live significantly longer; they have a lower incidence of cancer (Weinberg, et al., 1987) and heart disease (Mortimer, et al., 1977), and other degenerative conditions, than people who live near sea level. As I have written earlier, I think the lower energy transfer from cosmic radiation is likely to be a factor in their longevity, but several kinds of evidence indicate that it is the lower oxygen pressure itself that makes the biggest contribution to their longevity.
+
+**CONTEXT:** What is the observed health benefit of living at high altitudes?
+
+**RAY PEAT:** “Mountain sickness” is a potentially deadly condition that develops in some people when they ascend too rapidly to a high altitude. Edema of the lungs and brain can develop rapidly, leading to convulsions and death. The standard drug for preventing it is acetazolamide, which inhibits carbonic anhydrase and causes carbon dioxide to be retained, creating a slight tendency toward acidosis. This treatment probably mimics the retention of carbon dioxide that occurs naturally in altitude adapted people. The reasons for mountain sickness, and the reasons for the low incidence of heart disease, cancer, cataracts, etc., at high altitude, offer clues to the prevention of death and deterioration from many other causes.
+
+**CONTEXT:** How does the treatment for mountain sickness relate to altitude adaptation?
+
+**RAY PEAT:** When the weather in a particular place is cool, sunny and dry (which in itself is very good for the health) the atmospheric pressure usually is higher than average. Although sunny dry weather is healthful, periods of higher pressure correspond to an increased incidence of death from heart disease and strokes.
+
+**CONTEXT:** How does atmospheric pressure relate to health outcomes?
+
+**RAY PEAT:** The Haldane-Bohr effect describes the fact that oxygen and carbon dioxide destabilize each other’s binding to hemoglobin. When oxygen pressure is high, the blood releases its carbon dioxide more easily. In stormy weather, or at high altitude, the lower oxygen pressure allows the body to retain more carbon dioxide. Carbon dioxide, produced in the cells, releases oxygen into the tissues, relaxes blood vessels, prevents edema, eliminates ammonia, and increases the efficiency of oxidative metabolism.
+
+**CONTEXT:** How do the Haldane and Bohr effects influence gas exchange and tissue function?
+
+**RAY PEAT:** Hyperventilation, breathing excessively and causing too much carbon dioxide to be lost, is similar to being in the presence of too much oxygen; it’s similar to being at low altitude with high atmospheric pressure, only worse. Therefore, the physiological events produced by hyperventilation can give us an insight into what happens when the atmospheric pressure is low, by looking at the events in reverse. Likewise, breathing 100% oxygen has known harmful consequences, which are very similar to those produced by hyperventilation.
+
+**CONTEXT:** How does hyperventilation relate to the effects of breathing pure oxygen?
+
+**RAY PEAT:** Hyperventilation is defined as breathing enough to produce respiratory alkalosis from the loss of carbon dioxide. Lactic acid is produced in response to the alkalosis of hyperventilation.
+
+**CONTEXT:** What is the metabolic consequence of hyperventilation?
+
+**RAY PEAT:** Breathing too much oxygen displaces too much carbon dioxide, provoking an increase in lactic acid; too much lactate displaces both oxygen and carbon dioxide. Lactate itself tends to suppress respiration.
+
+**CONTEXT:** How does excessive oxygen intake lead to increased lactic acid?
+
+**RAY PEAT:** Oxygen toxicity and hyperventilation create a systemic deficiency of carbon dioxide. It is this carbon dioxide deficiency that makes breathing more difficult in pure oxygen, that impairs the heart’s ability to work, and that increases the resistance of blood vessels, impairing circulation and oxygen delivery to tissues. In conditions that permit greater carbon dioxide retention, circulation is improved and the heart works more effectively. Carbon dioxide inhibits the production of lactic acid, and lactic acid lowers carbon dioxide's concentration in a variety of ways.
+
+**CONTEXT:** What are the systemic effects of carbon dioxide deficiency caused by oxygen toxicity or hyperventilation?
+
+**RAY PEAT:** When carbon dioxide production is low, because of hypothyroidism, there will usually be some lactate entering the blood even at rest, because adrenalin and noradrenalin are produced in large amounts to compensate for hypothyroidism, and the adrenergic stimulation, besides mobilizing glucose from the glycogen stores, stimulates the production of lactate. The excess production of lactate displaces carbon dioxide from the blood, partly as a compensation for acidity. The increased impulse to breath (“ventilatory drive”) produced by adrenalin makes the problem worse, and lactate can promote the adrenergic response, in a vicious circle.
+
+**CONTEXT:** How does hypothyroidism contribute to lactate production and respiratory issues?
+
+**RAY PEAT:** Since the 1920s when A. V. Hill proposed that the prolonged increase in oxygen consumption after a short period of intense work, the “oxygen debt,” was equivalent to the amount of lactic acid that had entered the circulation from the muscles’ anaerobic work, and that it had to be disposed of by oxidative processes, physiology textbooks have given the impression that lactic acid accumulation was exactly the same as the oxygen debt. In reality, several things are involved, especially the elevation of temperature produced by the intense work. Increased temperature raises oxygen consumption independently of lactic acid, and lower temperature decreases oxygen consumption, even when lactic acid is present.
+
+**CONTEXT:** What is the historical understanding of "oxygen debt" and its relationship to lactic acid?
+
+**RAY PEAT:** The idea of the “oxygen debt” produced by exercise or stress as being equivalent to the accumulation of lactic acid is far from accurate, but it’s true that activity increases the need for oxygen, and also increases the tendency to accumulate lactic acid, which can then be disposed of over an extended time, with the consumption of oxygen. This relationship between work and lactic acidemia and oxygen deficit led to the term “lactate paradox” to describe the lower production of lactic acid during maximal work at high altitude when people are adapted to the altitude. Carbon dioxide, retained through the Haldane effect, accounts for the lactate paradox, by inhibiting cellular excitation and sustaining oxidative metabolism to consume lactate efficiently.
+
+**CONTEXT:** How does the "lactate paradox" at high altitude relate to carbon dioxide retention?
+
+**RAY PEAT:** The loss of carbon dioxide from the lungs in the presence of high oxygen pressure, the shift toward alkalosis, by the Bohr-Haldane effect increases the blood’s affinity for oxygen, and restricts its delivery to the tissues, but because of the abundance of oxygen in the lungs, the blood is almost completely saturated with oxygen.
+
+**CONTEXT:** How does CO2 loss at high oxygen pressure affect oxygen delivery?
+
+**RAY PEAT:** At high altitude, the slight tendency toward carbon dioxide-retention acidosis decreases the blood’s affinity for oxygen, making it more available to the tissues. It happens that lactic acid also affects the blood’s oxygen affinity, though not as strongly as carbon dioxide. However, lactic acid doesn’t vaporize as the blood passes through the lungs, so its effect on the lungs’ ability to oxygenate the blood is the opposite of the easily exchangeable carbon dioxide’s. Besides dissociating oxygen from hemoglobin, lactate also displaces carbon dioxide from its (carbamino) binding sites on hemoglobin. If it does this in hemoglobin, it probably does it in many other places in the body.
+
+**CONTEXT:** How does lactic acid, unlike carbon dioxide, affect oxygen affinity and lung function?
+
+**RAY PEAT:** According to Meerson, ascending more than 200 feet per day produces measurable stress. People seldom notice the effects of ascending a few thousand feet in a day, but it has been found that a large proportion of people have bleeding into the retina when they ascend to 10,000 feet without adequate adaptation. Presumably, similar symptomless bleeding occurs in other organs, but the retina can be easily inspected.
+
+**CONTEXT:** What are the physiological stresses associated with rapid altitude ascent?
+
+**RAY PEAT:** If hypothyroid people, with increased adrenalin and lactate, are hyperventilating even at rest and at sea level, when they go to a high altitude where less oxygen is available, and their absorption of oxygen is impaired by lactic acidemia, their “oxygen debt,” conceived as circulating lactic acid, is easily increased, intensifying their already excessive “ventilatory drive,” and in proportion to the lactic acid oxygen debt, oxygen absorption is further inhibited.
+
+**CONTEXT:** How do pre-existing hypothyroid conditions exacerbate altitude sickness?
+
+**RAY PEAT:** The lactic acid has to be disposed of, but their ability to extract oxygen is reduced. The poor oxygenation, and the increased lactic acid and free fatty acids cause blood vessels to become leaky, producing edema in the lungs and brain. This is very similar to the “multiple organ failure” that occurs in inflammatory conditions, bacteremia, congestive heart failure, cancer, and trauma.
+
+**CONTEXT:** What are the consequences of impaired oxygen extraction and increased lactic acid/free fatty acids?
+
+**RAY PEAT:** Otto Warburg established that lactic acid production even in the presence of oxygen is a fundamental property of cancer. It is, to a great degree, the lactic acid which triggers the defensive reactions of the organism, leading to tissue wasting from excessive glucocorticoid hormone. The cancer’s production of lactic acid creates the same kind of internal imbalance produced by hyperventilation, and if we look at the physiology of hyperventilation in the light of Warburg’s description of cancer, hyperventilation imitates cancer metabolism, by producing lactic acid “even in the presence of oxygen.” Lactate, a supposedly benign metabolite of the cancer cells, which appears in all the other degenerative conditions, including obesity, diabetes, Alzheimer’s disease, multiple sclerosis, is itself a central factor in the degenerative process.
+
+**CONTEXT:** How does lactic acid production relate to cancer and other degenerative diseases?
+
+**RAY PEAT:** Working out the mechanisms involved in susceptibility to altitude sickness will clarify the issues involved in the things that cause most people to die. At first, all of these changes occur in the regulatory systems, and so can be corrected.
+
+**CONTEXT:** What is the broader implication of understanding altitude sickness mechanisms?
+
+**RAY PEAT:** The vitality of the mitochondria, their capacity for oxidative energy production, is influenced by nutrition and hormones. In healthy people, mitochondria work efficiently at almost any altitude, but people with damaged or poorly regulated mitochondria are extremely susceptible to stress and hyperventilation. Progesterone, testosterone, and thyroid (T3 and T2) are protective of normal mitochondrial function, by both local and systemic effects.
+
+**CONTEXT:** What factors influence mitochondrial function and susceptibility to stress?
+
+**RAY PEAT:** The changes that occur in malnutrition and hypothyroidism affect the mitochondria in a multitude of ways, besides the local effects of the thyroid and progesterone deficiency.
+
+**CONTEXT:** How do malnutrition and hypothyroidism impact mitochondria?
+
+**RAY PEAT:** Increased estrogen, nitric oxide, excitatory amino acids, cortisol, lactate, free unsaturated fatty acids, prolactin, growth hormone, histamine, serotonin, tumor necrosis factor and other pro-inflammatory cytokines and kinins, and a variety of prostaglandins and eicosanoids, have been identified as anti-mitochondrial, anti-respiratory agents. Edema itself can be counted among these agents. (Carbon dioxide itself directly reduces tissue edema, as can be seen in studies of the cornea.) Thyroid, progesterone, magnesium, glucose, and saturated fatty acids are among the central protective elements.
+
+**CONTEXT:** What substances are detrimental to mitochondrial function, and what are the key protective elements?
+
+**RAY PEAT:** The similarity of the changes occurring under the influence of estrogen excess, oxygen deprivation, aging, and ionizing radiation are remarkable. People who think that radiation’s biological effects are mainly on the DNA, and that estrogen acts through “estrogen receptors,” aren’t interested in the parallels, but the idea of a common respiratory defect, activating common pathways, suggests that there is something useful in the perception that irradiation, hypoxia, and aging have estrogenic effects.
+
+**CONTEXT:** What commonalities exist between estrogen excess, oxygen deprivation, aging, and ionizing radiation?
+
+**RAY PEAT:** Irradiation by ultraviolet, gamma, or x-rays, and even by blue light, is damaging to mitochondrial respiration. All of the ionizing radiations produce immediate and lingering edema, which continues to damage metabolism in a more or less permanent way, apart from any detectable mutagenic actions. The amount of water taken up following irradiation can be 20% to 30% of the normal weight, which is similar to the amount of swelling that intense work produces in a muscle, and to the weight increase under hormonal imbalances. The energy changes produced by irradiation in, for example, the heart, appear to accelerate the changes produced by aging. Since unsaturated fats accumulate in the respiratory system with aging, and are targets for radiation damage, the involvement of these fats in all sorts of antirespiratory degenerative processes deserves more attention. Darkness, like irradiation, excess lactate, and unsaturated fats, has the diabetes-like effect of greatly reducing the ability of muscle to absorb sugar, while light stimulates respiration.
+
+**CONTEXT:** How does irradiation affect mitochondrial respiration and metabolism, and what is its relationship to aging and unsaturated fats?
+
+**RAY PEAT:** When the ideas of “stress,” “respiratory defect,” and “hyperventilation” are considered together, they seem practically interchangeable.
+
+**CONTEXT:** How are stress, respiratory defect, and hyperventilation interconnected?
+
+**RAY PEAT:** The presence of lactic acid, which indicates stress or defective respiration, interferes with energy metabolism in ways that tend to be self-promoting. Harry Rubin’s experiments demonstrated that cells become cancerous before genetic changes appear. The mere presence of lactic acid can make cells more susceptible to the transformation into cancer cells. (Mothersill, et al., 1983.) The implications of this for the increased susceptibility to cancer during stress, and for the increased resistance to cancer at high altitude, are obvious.
+
+**CONTEXT:** How does lactic acid promote cancer development and susceptibility to stress?
+
+**RAY PEAT:** Blocking the production of lactic acid can make cells more resistant (Seymour and Mothersill, 1988); if lactic acid were merely a useful fuel, it’s hard to see how poisoning its formation could improve cell survival. But it happens to be an energy-disruptive fuel, interfering with carbon dioxide metabolism, among other things.
+
+**CONTEXT:** What is the significance of blocking lactic acid production for cell resistance?
+
+**RAY PEAT:** Hyperventilation is present in hypothyroidism, and is driven by adrenalin, lactate, and free fatty acids. Free fatty acids and lactate impair glucose use, and promote edema, especially in the lungs. Edema in the lungs limits oxygen absorption. Swelling of the brain, resulting from increased vascular permeability and the entry of free fatty acids, reduces its circulation and oxygenation; lactic acidemia causes swelling of glial cells. Swelling of the endothelium increases vascular resistance by making the channel narrower, eventually affecting all organs. Cells of the immune system release tumor necrosis factor and other inflammatory cytokines, and the bowel becomes more permeable, allowing endotoxin and even bacteria to enter the blood. Endotoxin impairs mitochondria, increases estrogen levels, causes Kupffer cells in the liver to produce more tumor necrosis factor, etc. Despite its name, tumor necrosis factor stimulates the growth and metastasis of some types of cancer. Dilution of the body fluids, which occurs in hypothyroidism, hyperestrogenism, etc., stimulates tumor growth.
+
+**CONTEXT:** How do hyperventilation, free fatty acids, and lactate contribute to edema and systemic dysfunction?
+
+**RAY PEAT:** The inflammatory factors that can promote cell growth can, with just slight variation, deplete cellular energy to the extent that the cells die from the energetic cost of the repair process, or mutate from defective repairs. Niacinamide can have an “antiinflammatory” function, preventing death from multiple organ failure, by interrupting the reactions to nitric oxide and peroxynitrile (Cuzzocrea, et al., 1999). The cells’ type, environment, and history determine the different outcomes.
+
+**CONTEXT:** How do inflammatory factors and niacinamide influence cellular fate?
+
+**RAY PEAT:** Cataracts, cancer, congestive heart failure, seemingly such different degenerative problems, have the same sort of metabolic problem, leading to the abnormal absorption of water by cells, disrupting their normal functions.
+
+**CONTEXT:** What is the common metabolic issue underlying cataracts, cancer, and heart failure?
+
+**RAY PEAT:** The same simple metabolic therapies, such as thyroid, progesterone, magnesium, and carbon dioxide, are appropriate for a great range of seemingly different diseases. Other biochemicals, such as adenosine and niacinamide, have more specific protective effects, farther downstream in the "cascade" effects of stress.
+
+**CONTEXT:** What are the key metabolic therapies for a wide range of diseases?
+
+**RAY PEAT:** There are many little cliches in the medical culture that prevent serious thought about integral therapy: “Progesterone is the pregnancy hormone,” “thyroid makes your heart work too hard,” “thyroid uncouples mitochondrial phosphorylation,” “magnesium has nothing to do with thyroid or progesterone,” “lactate provides energy,” etc. But many of these minor cliches are held in place by deep theoretical errors about the nature of cells and organisms. Once those have been corrected, there should be progress toward more powerful integral therapies.
+
+**CONTEXT:** What are common medical misconceptions that hinder effective therapy, and what is the path forward?

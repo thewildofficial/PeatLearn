@@ -1,0 +1,728 @@
+Ray Peat's Newsletter
+
+“To change something, build a new model that makes the existing model obsolete.” --R. Buckminster Fuller
+
+Copyright 2013
+
+Raymond Peat P.O. Box 5764 Eugene OR 97405
+
+March 2013
+
+Not for renublication without written permission.
+
+Hormones, energy, aging, and
+endogenous carbon monoxide
+
+Our tissues produce carbon monoxide as
+a normal part of cell breakdown. All kinds of
+stress that damage tissues imcrease its
+formation.
+
+Carbon monoxide increases with aging,
+and increases stress hormones.
+
+The enzyme which produces carbon
+monoxide is induced by carbon monoxide.
+
+Carbon monoxide can inhibit the oxida-
+tive production of energy, and can increase
+the rate of non-oxidative, growth supporting
+energy production.
+
+Carbon monoxide can either stimulate
+tissue growth or cause atrophy, and can
+either inhibit or exacerbate inflammation,
+depending on the surrounding conditions.
+
+Inhibiting its production or accelerating
+its removal can have therapeutic effects.
+
+In the 1970s, the idea that senescence was a
+genetically "programmed" function was very
+popular--a newer form of the doctrine of the
+essential corruptibility of matter, of Freud's death
+instinct, and of Hayflick's numerical limit of cells’
+ability to replicate.
+
+W.D. Denckla's version of programmed aging
+proposed that the pituitary gland was the agent of
+this programmed aging. He based his idea on the
+observation that when animals were kept on a
+semi-starvation diet, starting before puberty, their
+puberty was delayed and they lived longer than
+normal, and on later studies that showed that when
+animals' pituitary glands were removed before
+puberty, they lived much longer than normal, and
+
+all of their tissues and systems aged at a much
+slower rate. The implication was that if the gland
+is present and causes aging, its evolutionary
+purpose is to cause aging, as well as the other
+processes such as reproduction.
+
+The particular function that Denckla focused
+on as ari index of aging was oxygen consumption,
+which decreases by more than 70% between
+puberty and old age. He showed that the decrease
+of oxygen consumption was much less when the
+pituitary gland was removed, if the animal was
+given the amount of thyroid hormone that it
+would normally produce. He found some fairly
+specific pituitary extracts that decreased oxygen
+consumption, inhibiting the effects of the thyroid
+hormone, but he never identified a particular
+pituitary hormone as the antirespiratory aging
+hormone, or the mechanisms responsible for the
+extract's effects.
+
+The pituitary's functions are largely directed
+toward activating glandular tissues, and in doing
+that it stimulates cell division in the various
+glands. It's accepted that dividing cells revert to
+the non-oxidative metabolism, but the mechanism
+by which the pituitary hormones stimulate cell
+division isn't generally recognized.
+
+The pituitary hormones, ACTH, FSH, LH,
+TSH, prolactin, growth hormone, POMC and
+MSH (melanocyte stimulating hormone) stimulate
+the production of carbon monoxide in the cells
+that they stimulate, by activating the enzyme
+heme oxygenase. This enzyme degrades the heme
+molecule, which is released from hemoglobin and
+other proteins in injured tissues, and which in the
+free state is toxic (Kumar and Bandyopadhyay,
+2005). In degrading heme, this enzyme releases
+free iron atoms and biliverdin, as well as carbon
+monoxide. Although free iron atoms can cause
+harmful oxidation, biliverdin, and the bilirubin
+
+__|
+
+that's produced from it, can have beneficial
+antioxidant effects. :
+
+Cells get their energy from the "flow" of
+electrons from molecules such as sugar and fat,
+which function as chemical reductants, ultimately
+to oxygen, which is reduced by them; reduction is
+the opposite of oxidation, so that's just another
+way of saying that the fuel molecules are oxidized
+by oxygen. During cellular stress, such as the
+release of free heme or free iron, the reducing
+energy can be misdirected in harmful ways,
+leading to the cell's death, unless there are
+molecules, "antioxidants," which can interrupt
+those processes. Sulfur-containing molecules, in
+solution (glutathione and other sulfhydryls and
+disulfides) and sulfur amino acids in the cell's
+protein structure, are energetically in balance with
+the flow of energy, from fuel to oxygen, and they
+act as a buffer or stabilizer of the degree of
+reduction-oxidation, the redox state. If the sulfur
+system becomes either too oxidized or too
+reduced, the cell dies.
+
+Molecules such as vitamin E and vitamin C
+and bilirubin function as protective antioxidants,
+but they don't interfere with the oxidations of the
+crucial respiratory enzyme, cytochrome oxidase.
+Carbon monoxide has the ability, in certain situa-
+tions, to function as a protective antioxidant, even
+while it may be inhibiting the respiratory function,
+but those situations are very limited. For example,
+in an atmosphere of 100% oxygen, carbon monox-
+ide protects the lungs from oxygen's otherwise
+lethal effects, while the high concentration of
+oxygen protects the respiratory enzyme from
+complete inhibition’ by the carbon monoxide. In
+situations of cell excitation, it can shift the cell's
+balance toward reduction, by limiting oxidation,
+creating functional hypoxia
+
+Hypoxia stimulates many cellular reactions,
+including cell division, in which the cell's struc-
+tural proteins shift toward a more reduced state of
+their sulfur atoms. I think it's likely that the
+antioxidative, antirespiratory, effect of carbon
+monoxide produced by the enzyme, heme oxyge-
+nase, which is activated by the pituitary hormones,
+is responsible for the activation of cell division in
+the various glands and other tissues activated by
+
+the pituitary.
+
+$$,
+
+From the 1930s until the early 1960s, there
+was considerable interest in the factors that
+activated or inhibited cell division by shifting the
+redox balance of the cell toward a more reduced
+state, for example by using cyanide or pure carbon
+dioxide to inhibit the respiratory enzyme, or by
+treating the tissue with glutathione (GSH) or other
+reduced sulfur compounds. Blocking the respira-
+tory enzyme allows the energy of glycolysis to
+increase the ratio of NADH to NAD, and the
+NADH can increase the ratio of reduced
+glutathione, GSH, to the oxidized disulfide,
+GSSG.
+
+In the 1950s, Daniel Mazia and Katsuma Dan
+demonstrated that as cells prepare to divide, with
+the formation of the mitotic spindle, there is a
+sudden increase in the reduced sulfur (sulfhydryl,
+SH) in the cell, and that cell division could be
+stopped by interfering with the reduction of the
+sulfur group. Albert Szent-Gyorgyi and Francis
+Knock believed that the regulation of the sulfur
+system was a reasonable approach to controlling
+cancer. Warburg and Szent-Gyorgyi viewed
+growth and cell division as the basic condition of
+life, and that cancer was simply a loss of the
+ability to redirect energy from growth to organiza-
+tion, for which a more oxidized state of the cell
+was necessary. By the 1970s, it was widely recog-
+nized that cancer had a very effective antioxidant
+protection against destruction by oxidizing agents.
+
+However, in the 1960s, increased interest in
+the membrane doctrine and DNA research
+suddenly displaced more traditional types of cell
+biology and biochemistry. For the membrane
+doctrine, the material between the | genetic
+substance in the nucleus and the external
+membrane was a solution of molecules dissolved
+in water, in which things happened by random
+diffusion. Learning the Michaelis-Menten
+equation that describes enzyme actions in a test-
+tube had the psychological effect of making
+people assume that random diffusion also
+governed processes in cells. The coherent chemis-
+try and function of the proteins of the cell, such as
+could be seen in the mitotic spindle, presented a
+very different model of the cell. In 1971 the War
+on Cancer reinforced the molecular genetics
+approach to understanding cell biology. For the
+
+ee
+rest of the century, interactions of the environment
+with cellular metabolism were of little interest
+except when they affected the genes and the
+membranes.
+
+In the last few years there has been a surge of
+interest in endogenously produced carbon monox-
+ide, probably motivated by the idea that if it's an
+endogenous substance, it presents opportunities
+for the pharmaceutical industry. In certain circum-
+stances, its antimetabolic or anti-inflammatory
+effects can seem protective in ways that could be
+therapeutically useful, but even those limited
+benefits have been disputed (Nutter, et al., 1994);
+the biliverdin and bilirubin produced along with
+carbon monoxide by heme oxygenase probably
+account for most of the potentially useful anti-
+inflammatory effects that have been described. In
+situations of deadly stress, the ability of increased
+levels of carbon monoxide to prevent cell death is
+what makes its involvement in cancer so interest-
+ing. The complexity of the balance influenced by
+carbon monoxide (Wagener, et al., 2003) seems to
+be routinely ignored.
+
+The phosphorylation system gets most of the
+attention in studying cell regulatory systems, but
+some systems that are regulated by phosphoryla-
+tion are also regulated by the cell's redox state.
+(Other regulatory systems include pH, the hydra-
+tion potential, osmolarity, ionic strength, and
+electrical fields.) An important factor in the
+regulation of cell functions is a complex of
+proteins called NF-kappaB, which activates
+processes of immunity, inflammation, and cell
+survival. Sulfhydryl reduction is involved in its
+
+activation. Ethyl alcohol, which tends to shift the °
+
+redox balance toward increased NADH and GSH,
+activates NF-kappaB, and this can be protective
+for cells in some situations (Ward, et al., 1996),
+but it's this activation that makes alcohol harmful
+to the liver, contributing to inflammation, fibrosis
+and cancer.
+
+Alcohol's liver toxicity is associated with an
+increased reductive state, higher NADH/NAD,
+and its toxicity is prevented by agents such as
+fructose, which protectively lower the
+NADH/NAD ratio (Khan and O'Brien, 1995,
+Niknahad, et al., 1995). The reductive activation
+of iron is an important factor in the toxicity in this
+
+case (Khan and O'Brien, 1995). The fact that
+fructose can protect against cyanide toxicity
+(Niknahad, et al., 1994), seems likely to be
+another illustration of the importance of the redox
+balance.
+
+Increased estrogen can exacerbate liver
+damage caused by alcohol, by increasing NFkap-
+paB; testosterone has a protective effect, by
+decreasing NFkappaB (Lee, et al., 2012).
+
+Carbon monoxide activates NF-kappaB, and
+this is closely related to the ability of cancer cells
+to avoid the normal dissolution of greatly stressed
+cells, i.e., to their "immortalization." Cancer's
+unique antioxidant capacity and its reluctance to
+undergo the normal apoptotic dissolution when
+it's unable to participate constructively in normal
+tissues could be explained by its increased expres-
+sion of heme oxygenase and its production of
+carbon monoxide.
+
+Several things in the medical culture divert
+attention from these associations. First, antioxi-
+dants tend to be considered as necessarily benign,
+including the endogenous antioxidants that are
+produced in response to stress. Second, estrogen
+has a special status in the medical culture, and
+estrogen can not only induce NFkappaB and heme
+oxygenase, but those can also increase the forma-
+tion of carbon monoxide. There is a historical
+reluctance to consider that "antioxidants" and
+estrogen could be intrinsically involved in degen-
+erative processes, including cancer.
+
+Carbon monoxide has the properties ascribed
+to Denckla's "death hormone," being increased
+directly by pituitary hormones (and also by the
+hormones stimulated by the pituitary), and being
+able to decrease oxygen consumption. It also
+seems to cause exactly the changes that Warburg
+investigated in cancer cells, and attributed to a
+"respiratory defect." Cancer cells might originate
+among old cells with a very low metabolic and
+respiratory rate, but as they develop the properties
+of cancer they may begin to metabolize at a very
+high rate (though not necessarily). Their "respira-
+tory defect" is that oxygen is no longer able to
+inhibit glycolysis, allowing them to consume
+glucose and amino acids at a continuously high
+rate. Warburg believed that cancerization was an
+adaptive survival strategy of cells to escape the
+
+factors interfering with respiration and leading
+toward atrophy and death.
+
+An enzyme that activates glycolysis, PFKFB4,
+is normally increased by oxygen deprivation and
+the hypoxia inducible factor (HIF), but it is also
+increased by heme oxygenase (Li, et al., 2012).
+Gluconeogenesis is normally inhibited by heme,
+which is removed by heme oxygenase. Lactic acid
+produced by glycolysis activates an enzyme
+(thioredoxin) that increases cellular sulfhydryl
+reduction, and increases HIF and also stimulates
+the formation of new blood vessels by inducing
+VEGF (Milovanova, et al., 2008), the permeability
+and growth factor which is essential for the
+growth of cancer, and which is induced by heme
+oxygenase. While interfering with the functions of
+mitochondria, heme oxygenase also stimulates the
+growth of new mitochondria, along with new
+blood vessels.
+
+Besides slowing the decrease of oxygen
+consumption, removing the pituitary gland has
+also been shown to have beneficial effects on the
+extracellular material. The presence of the pitui-
+tary gland accelerates the aging (thickening,
+hardening, crosslinking) of collagen in the extra-
+cellular matrix, and several factors, including
+lactic acid and estrogen, contribute to that. Very
+little effort has been made to investigate the
+factors involved in extracellular aging, relative to
+its importance for understanding the aging process
+and the degenerative diseases. Since oxygen and
+nutrients reach cells by diffusing through the
+extracellular matrix, a thickened matrix can
+contribute to the tissue atrophy from which some
+cells emerge as cancer cells. Recent studies. have
+confirmed the role of collagen crosslinking in
+promoting cancer growth and invasiveness (Baker,
+et al., 2013).
+
+Stresses activate adaptive hormones,
+especially cortisol, by acting on the hypothalamus
+to increase CRH, corticotropin release hormone,
+to activate the pituitary to release ACTH, which
+activates the adrenals. Carbon monoxide is one of
+the factors, produced by stress, which activates the
+secretion of CRH (Navarra, et al., 2001)
+
+Intense exercise increases the production of
+carbon monoxide temporarily, but regular activity,
+like calorie restriction (Morgan, et al., 1999;
+
+Usuki, et al., 2004; Kang, et al., 2005; Mahlke, et
+al., 2011), seems to limit its increase with aging.
+
+The level of heme oxygenase increases with
+aging (Iijima, et al., 1999; Usuki, et al., 2004;
+Kang, et al., 2005; Hirose, et al., 2003;), reducing
+the amount of heme available for necessary
+enzyme functions (Bitar and Shapiro, 1987). The
+heme synthetic pathway is an energy drain on
+cells (Atamna, 2004); in breast cancer, for
+example, which has a high heme oxygenase activ-
+ity, the heme pathway is 20 times more active
+than normal (Navone, et al., 1990). Carbon
+monoxide activates the heme synthetic pathway
+(by way of erythropoietin), in another potential
+vicious circle (Cronje, et al., 2004).
+
+The overproduction of heme oxygenase and
+carbon monoxide in cancer (Al-Owais, et al.,
+2012) might be dismissed as an effect, rather than
+a cause, of cancer, except for its role in making
+cancer cells resistant to natural cell dissolution,
+apoptosis (Liu, et al., 2004; Banerjee, 2012),
+chemotherapy (Miyake, et al., 2010), and radia-
+tion (Zhang, et al., 2011), and the fact that inhibit-
+ing heme oxygenase inhibits cancer growth (Fang,
+et al., 2012).
+
+Heme oxygenase is induced by all kinds of
+cancer promoters--viruses (Marinissen, et al.,
+2006; Martin, et al., 2007), radiation, heavy
+metals, prostaglandins, estrogen, PUFA, and
+reactive fragments of fatty acids such as acrolein
+(a toxic 3-carbon fragment) and HNE (a toxic
+9-carbon fragment).
+
+Increasing the activity of heme oxygenase can
+produce harmful effects, and inhibiting its produc-
+tion can, according to animal. studies, produce
+beneficial effects, for example stopping the
+growth of cancer, or alleviating seizures (Parfe-
+nova, et al., 2004) and symptoms related to liver
+cirrhosis (Carter, et al., 2002; Tieppo, et al.,
+2009).
+
+The products of heme oxygenase can cause
+DNA damage, meeting the conventional require-
+ment for being considered a carcinogen (Ishikawa,
+2010), but more plausible metabolic routes to
+cancer have been suggested (Polo, et al., 1992).
+
+Many experiments with cells and tissues have
+demonstrated clearly that light causes carbon
+monoxide to be released from the respiratory
+
+pigment, but there has been little application of
+this principle to humans. Most of the signs of
+stress reach their peak in the early morning,
+following the same diurnal curve as cortisol. In
+prolonged darkness, great changes in mitochon-
+drial shape and function have been demonstrated.
+It's likely that at least part of this is caused by
+carbon monoxide, since its peak formation is in
+the early morning, and its lowest rate of formation
+is in the early evening (Levitt, et al., 1994). Blue
+light and ultraviolet light increase its formation,
+but orange and red light, which penetrate most
+deeply into the tissues, can release it from the
+respiratory pigment.
+
+Several things associated with aging involve
+some specific effects of heme oxygenase, such as
+incontinence of the anal and urethral sphincters,
+malfunction of the esophageal sphincter, loss of
+tone of the bladder (detrusor) muscle, when the
+enzyme is increased in those muscles, and reduced
+curiosity, when the enzyme is increased in the
+brain. Alzheimer's disease, Parkinson's disease,
+and schizophrenia all involve increased heme
+oxygenase in the brain, and in Alzheimer's disease
+the enzyme is associated with amyloid plaques.
+These conditions involve some degree of edema in
+the brain, and the inhibition of heme oxygenase
+has been found to reduce edema following brain
+injury (Sharma, et al., 2003). Heme oxygenase
+increases the leakiness of capillaries (by increas-
+ing VEGF), and the presence of heme increases
+the local production of heme oxygenase. Multiple
+sclerosis is known to involve disturbance of the
+capillaries in the brain, and increased heme oxyge-
+nase. The - frequency of microhemorrhages
+throughout the body increases with age, along
+with VEGF and heme oxygenase (Cullen, et al.,
+2005, 2006). It has been suggested that amyloid is
+produced as a sealant for the brain's capillaries,
+compensating for the increased leakiness
+(Atwood, et al., 2003). The amyloid-beta induces
+a proteolytic enzyme that degrades the extracellu-
+lar matrix, increasing the risk of larger hemor-
+rhages (Lee, et al., 2003).
+
+Caffeine, vitamin E, and niacinamide are
+known to reduce the activity of heme oxygenase.
+Sodium bicarbonate taken before strenuous
+exercise reduces the expression of heme
+
+oxygenase (Kirk, et al., 2012) and improves
+endurance. A severe deficiency of vitamin Bl
+increases the expression of heme oxygenase.
+Testosterone can restore a youthful balance
+between heme and heme oxygenase, increasing
+heme, decreasing heme oxygenase (Bitar and
+Weiner, 1983). In newborn animals,
+D-penicillamine (an amino acid that is fairly safe
+to use as a heavy metal chelator) has lowered
+heme oxygenase (Oroszlan, et al., 1983).
+Apigenin, a chemical in guavas and oranges, with
+anti-inflammatory effects, inhibits heme oxyge-
+nase (Abate, et al., 2005). Avoiding exposure to
+toxic heavy metals, minimizing dietary polyun-
+saturated fats, and being in brightly lighted
+environments as much as possible, will help to
+avoid unnecessary carbon monoxide formation.
+
+REFERENCES
+
+Free Radic Biol Med. 2005 Sep 15;39(6):711-8. Apigenin decreases
+hemin-mediated heme oxygenase-1 induction. Abate A, Yang G, Wong
+RJ, Schroder H, Stevenson DK, Dennery PA.
+J Biol Chem. 2012 Jul 13;287(29):24754-64, Carbon monoxide mediates
+the anti-apoptotic effects of heme oxygenase-1 in medulloblastoma
+DAOY cells via K+ channel inhibition. Al-Owais MM, Scragg JL, Dallas
+ML, Boycott HE, Warburton P, Chakrabarty A, BoyleJP, Peers C.
+
+Gastroenterology. 2005 Feb;128(2):328-33. Carboxyhemoglobin levels
+in cirrhotic patients with and without hepatopulmonary syndrome.
+Arguedas MR, Drake BB, Kapoor A, Fallon MB.
+Brain Res Brain Res Rev. 2003 Sep;43(1):164-78. Cerebrovascular
+requirement for sealant, anti-coagulant and remodeling molecules
+that allow for the maintenance of vascular integrity and blood supply.
+Atwood CS, Bowen RL, Smith MA, Perry G.
+J Biol Chem. 2012 Sep 14;287(38):32113-23. Heme oxygenase-1
+promotes survival of renal cancer cells through modulation of apopto-
+sis- and autophagy-regulating molecules. Banerjee P, Basu A, Wegiel B,
+Otterbein LE, Mizumura K, Gasser M, Waaga-Gasser AM, Choi AM, Pal
+S.
+Mech Ageing Dev. 1987 Apr;38(2):189-97. Aberration of heme and
+hemoprotein in aged female rats. Bitar MS, Shapiro BH.
+Mech Ageing Dev. 1983 Nov-Dec;23(3-4):285-96. Modification of
+age-induced changes in heme and hemoproteins by testosterone in
+male rats. Bitar M, Weiner M.
+AJP - Lung Physiol August 1, 2002 vol. 283 no. 2 L346-L353. Regulation
+of heme oxygenase-1 by nitric oxide during hepatopulmonary
+syndrome. Carter EP, Hartsfield CL, Miyazono M., Jakkula M., Morris
+MG Jr., McMurtry IF.
+Free Radic Biol Med. 2004 Dec 1;37(11):1802-12. Carbon monoxide
+actuates O(2)-limited heme degradation in the rat brain. Cronje FJ,
+Carraway MS, Freiberger JJ, Suliman HB, Piantadosi CA.
+Neurobiol Aging. 2006 Dec;27(12):1786-96. Microvascular pathology in
+the aging human brain: evidence that senile plaques are sites of micro-
+haemorrhages. Cullen KM, Kocsi Z, Stone J.
+J Cereb Blood Flow Metab. 2005 Dec;25(12):1656-67. Pericapillary
+haem-rich deposits: evidence for microhaemorrhages in aging human
+cerebral cortex. Cullen KM, Kocsi Z, Stone J.
+
+Am J Respir Crit Care Med. 2012 Oct 1;186(7):648-56.Carbon monoxide
+induces cardiac arrhythmia via induction of the late Na+ current.
+Dallas ML, Yang Z, Boyle JP, Boycott HE, Scragg JL, Milligan CJ, Elies
+J, Duke A, Thireau J, Reboul C, Richard S, Bernus O, Steele DS, Peers C.
+J Appl Physiol. 1974 Jan;36(1):49-51. Cyclic variation of rate of carbon
+monoxide production in normal women. Delivoria-Papadopoulos M,
+Coburn RF, Forster RE.
+
+|
+
+Arthritis Rheum. 2005 Oct;52(10):3230-8. Influence of heme oxygenase
+1 modulation on the progression of murine collagen-induced arthritis.
+Devesa I, Ferrandiz ML, Terencio MC, Joosten LA, van den Berg WB,
+Alcaraz MJ. "... treatment with SnPP, which inhibits HO-1, exerts
+prophylactic and therapeutic effects."
+
+Oral Dis. 2011 Apr;17(3):252-7. The heme oxygenase system and oral
+diseases. Fan W, Huang F, Zhu X, Li D, Fu S, He H.
+
+Eur J Cancer Prev. 1998 Feb;7(1):69-76. Hepatic enzymatic metabolism
+alterations and oxidative stress during the onset of carcinogenesis:
+protective role of alpha-tocopherol. Gerez E, Caballero F, Vazquez E,
+Polo C, Batlle AM.
+
+Leg Med (Tokyo). 2003 Mar;5 Supp! 1:S360-6. Age-associated increases
+in heme oxygenase-1 and ferritin immunoreactivity in the autopsied
+brain. Hirose W, Ikematsu K, Tsuda R.
+
+Neurosci Lett. 1999 Aug 20;271(2):113-6. Expanded expression of heme
+oxygenase-1 (HO-1) in the hypothalamic median eminence of aged as
+compared with young rats: an immunocytochemical study. lijima N,
+Tamada Y, Hayashi S, Tanaka M, Ishihara A, Hasegawa M, Ibata Y.
+
+Mol Nutr Food Res. 2010 Aug;54(8):1182-91. Heme induces DNA
+damage and hyperproliferation of colonic epithelial cells via hydrogen
+peroxide produced by heme oxygenase: a possible mechanism of heme-
+induced colon cancer. Ishikawa S, Tamaki S, Ohata M, Arihara K, Itoh
+M.
+
+Curr Neurovasc Res. 2005 Apr;2(2):133-9. Increased pulmonary heme
+oxygenase-1 and delta-aminolevulinate synthase expression in
+monocrotaline-induced pulmonary hypertension. Iwasaki T, Takahashi
+T, Shimizu H, Ohmori E, Morimoto T, Kajiya M, Takeuchi M, Morita K,
+Akagi R, Kajiya F.
+
+Biogerontology. 2005;6(1):27-37. The effect of age and calorie restric-
+tion on HIF-1-responsive genes in aged liver. Kang MJ, Kim HJ, Kim
+HK, Lee JY, Kim DH, Jung KJ, Kim KW, Baik HS, Yoo MA, Yu BP,
+Chung HY.
+
+Amino Acids. 2012 Oct 23. The influence of exogenous carbohydrate
+provision and pre-exercise alkalosis on the heat shock protein response
+to prolonged interval cycling. Peart DJ, Kirk RJ, Madden LA, Siegler JC,
+Vince RV.
+
+Toxicol Lett. 2005 Jul 4;157(3):175-88. Free heme toxicity and its
+detoxification systems in human. Kumar S, Bandyopadhyay U.
+
+Mech Ageing Dev. 2000 Feb 22;114(1):49-60. Age-dependent increase
+of heme oxygenase-1 gene expression in the liver mediated by NFkap-
+paB. Lavrovsky Y, Song CS, Chatterjee B, Roy AK.
+
+Ann Neurol. 2003 Sep;54(3):379-82. Matrix metalloproteinase-9 and
+spontaneous hemorrhage in an animal model of cerebral amyloid
+angiopathy. Lee JM, Yin KJ, Hsin I, Chen 8, Fryer JD, Holtzman DM,
+Hsu CY, Xu J.
+
+Inflamm Res. 2012 Oct;61(10):1053-61. Estrogen suppresses heptatic
+IkB expression during short-term alcohol exposure. Lee EG, Mickle-
+Kawar BM, Reinke LA, Gallucci RM.
+
+J Lab Clin Med. 1994 Sep;124(3):427-31. Diurnal rhythm of heme
+turnover assessed by breath carbon monoxide concentrationmeasure-
+ments. Levitt MD, Ellis C, Levitt DG.77.
+
+Tohoku J. Exp Med. 2012:228(1):27-41. Coordinated expression of
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 4 and heme oxyge-
+nase 2: evidence for a regulatory link between glycolysis and heme catabo-
+lism. Li B, Takeda K, Ishikawa K, Yoshizawa M, Sato M, Shibahara S,
+Furuyama K.* ,
+
+Pathobiol Aging Age Relat Dis. 2011;1. The anti-tumor effects of calorie
+restriction are correlated with reduced oxidative stress in
+ENU-induced gliomas. Mahlke MA, Cortez LA, Ortiz MA, Rodriguez M,
+Uchida K, Shigenaga MK, Lee S, Zhang Y, Tominaga K, Hubbard GB,
+Ikeno Y.
+
+J Biol Chem. 2006 Apr 21;281(16):11332-46. Inhibition of heme
+oxygenase-1 interferes with the transforming activity of the Kaposi
+sarcoma herpesvirus-encoded G protein-coupled receptor. Marinissen
+MJ, Tanos T, Bolés M, de Sagarra MR, Coso OA, Cuadrado A.
+
+J Biol Chem. 2007 Nov 23;282(47):34510-24. The Galpha12/13 family
+of heterotrimeric G proteins and the small GTPase RhoA link the
+Kaposi sarcoma-associated herpes virus G protein-coupled receptor to
+heme oxygenase-1 expression and tumorigenesis. Martin MJ, Tanos T,
+Garcia AB, Martin D, Gutkind JS, Coso OA, Marinissen MJ.
+
+Cancer Sci. 2010 Jun;101(6):1409-16. Expression of heme oxygenase-1
+in human leukemic cells and its regulation by transcriptional
+
+repressor Bach1. Miyazaki T, Kirino Y, Takeno M, Samukawa S, Hama
+M, Tanaka M, Yamaji S, Ueda A, Tomita N, Fujita H, Ishigatsubo Y.
+Neuroscience. 1999 Mar;89(3):687-99. The mosaic of brain glial hyper-
+activity during normal ageing and its attenuation by food restriction.
+Morgan TE, Xie Z, Goldsmith S, Yoshida T, Lanzrein AS, Stone D,
+Rozovsky I, Perry G, Smith MA, Finch CE.
+
+J Clin Endocrinol Metab. 2001 Jan;86(1):317-23. Evidence for a
+functional link between the heme oxygenase-carbon monoxide
+pathway and corticotropin-releasing hormone release from primary
+cultures of human trophoblast cells. Navarra P, Miceli F, Tringali G,
+Minici F, Pardo MG, Lanzone A, Mancuso S, Apa R.
+
+Int J Biochem. 1990;22(12):1407-11. Heme biosynthesis in human
+breast cancer—mimetic "in vitro" studies and some heme enzymic
+activity levels. Navone NM, Polo CF, Frisardi AL, Andrade NE, Battle
+AM.
+
+BMC Cancer. 2008 Jul 11;8:197.Zine protoporphyrin IX, a heme
+oxygenase-1 inhibitor, demonstrates potent antitumor effects but is
+unable to potentiate antitumor effects of chemotherapeutics in mice.
+Nowis D, Bugajski M, Winiarska M, Bil J, Szokalska A, Salwa P, Issat T,
+Was H, Jozkowicz A, Dulak J, Stoklosa T, Golab J.
+
+J Lab Clin Med. 1994 Apr;123(4):506-14. Heme oxygenase does not
+protect human cells against oxidant stress.Nutter LM, Sierra EE, Ngo
+EQ.
+
+Experientia. 1983 Aug 15;39(8):888-9. Heme oxygenase activity is
+decreased by D-penicillamine in neonates. Oroszlan G, Lakatos L, Szab6
+L, Matkovics B, Karmazsin L.
+
+Brain Res. 2004 Jul 16;1014(1-2):87-96. Heme oxygenase inhibition
+reduces neuronal activation evoked by bicuculline in newborn pigs.
+Parfenova H, Daley ML, Carratu P, Leffler CW.
+
+Comp Biochem Physiol B. 1992 Sep;103(1):251-6. Heme biosynthesis
+pathway regulation in a model of hepatocarcinogenesis pre-initiation.
+Polo CF, Vazquez ES, Caballero F, Gerez E, Battle AM.
+
+Mol Vis. 2009 Sep 21;15:1929-38. The influence of sublethal blue light
+exposure on human RPE cells. Roehlecke C, Schaller A, Knels L, Funk
+RH.
+
+Acta Neurochir Suppl. 2003;86:313-9. Antioxidant compounds
+EGB-761 and BN-52021 attenuate brain edema formation and
+hemeoxygenase expression following hyperthermic brain injury in the
+rat. Sharma HS, Drieu K, Westman J.
+
+Am J Pathol. 1994 Jul;145(1):42-7. Heme oxygenase-1 is associated with
+the neurofibrillary pathology of Alzheimer's disease.
+
+Smith MA, Kutty RK, Richey PL, Yan SD, Stern D, Chader GJ, Wiggert
+B, Petersen RB, Perry G.
+
+J Mol Cell Cardiol. 2004 Jun;36(6):821-30. Transient glucose depriva-
+tion causes upregulation of heme oxygenase-1 and cyclooxygenase-2
+expression in cardiac fibroblasts.
+
+Takeda K, Lin J, Okubo S, Akazawa-Kudoh S, Kajinami K, Kanemitsu S,
+Tsugawa H, Kanda T, Matsui S, Takekoshi N.
+
+Am J Respir Crit Care Med. 2005 Jun 1;171(11):1318. "Therapeutic"
+carbon monoxide may be toxic. Thom SR, Weaver LK, Hampson NB.
+Nutr. July 2009 vol. 139 no. 7 1339-1346. Quercetin Administration
+Ameliorates Pulmonary Complications of Cirrhosis in Rats. Tieppo J,
+Cuevas MJ, Vercelino R, Tufion MJ, Marroni NP, Gonzalez-Gallego J.
+Cell Biol Toxicol. 1998 Feb;14(1):47-54. Carbon monoxide induces
+murine thymocyte apoptosis by a free radical-mediated mechanism.
+Turcanu V, Dhouib M, Gendrault JL, Poindron P.
+
+Acta Neuropathol. 2004 Jul;108(1):1-9.
+
+Beneficial effects of mild lifelong dietary restriction on skeletal
+muscle: prevention of age-related mitochondrial damage, morphologi-
+cal changes, and vulnerability to a chemical toxin.
+
+Usuki F, Yasutake A, Umehara F, Higuchi L.
+
+Cancer Biochem Biophys. 1999 Jul;17(1-2):25-34. Drug metabolizing
+enzyme system and heme pathway in hepatocarcinogenesis. Vazquez
+E, Gerez E, Caballero F, Polo C, Batlle A.
+
+Pharmacol Rev. 2003 Sep;55(3):551-71. Different faces of the heme-
+heme oxygenase system in inflammation. Wagener FA, Volk HD, Willis
+D, Abraham NG, Soares MP, Adema GJ, Figdor CG.
+
+Neurology. 2011 Jul 5;77(1):48-54. Cerebral microhemorrhage and
+brain f-amyloid in aging and Alzheimer disease. Yates PA, Sirisriro R,
+Villemagne VL, Farquharson S, Masters CL, Rowe CC.
+
+J Lab Clin Med. 1980 Nov;96(5):770-82. Cancer cell inhibition of
+erythropoiesis. Zucker S, Lysik RM, DiStefano JF.
+

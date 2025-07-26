@@ -1,0 +1,213 @@
+
+
+**RAY PEAT:** In 1929 George and Mildred Burr published a paper claiming that unsaturated fats, and specifically linoleic acid, were essential to prevent a particular disease involving dandruff, dermatitis, slowed growth, sterility, and fatal kidney degeneration.
+
+**CONTEXT:** What was the initial claim regarding the essentiality of unsaturated fatty acids?
+
+**RAY PEAT:** In 1929, most of the B vitamins and essential trace minerals were unknown to nutritionists. The symptoms the Burrs saw are easily produced by deficiencies of the vitamins and minerals that they didn't know about.
+
+**CONTEXT:** What was the prevailing understanding of nutrition at the time of the Burr's study, and how might this have influenced their findings?
+
+**RAY PEAT:** What really happens to animals when the "essential fatty acids" are lacking, in an otherwise adequate diet? Their metabolic rate is very high. Their nutritional needs are increased. They are very resistant to many of the common causes of sickness and death. They are resistant to the biochemical and cellular changes seen in aging, dementia, autoimmunity, and the main types of inflammation.
+
+**CONTEXT:** What are the observed effects on animals when polyunsaturated fatty acids (PUFAs) are absent from an otherwise adequate diet?
+
+**RAY PEAT:** The amount of polyunsaturated fatty acids often said to be essential (Holman, 1981) is approximately the amount required to significantly increase the incidence of cancer, and very careful food selection is needed for a diet that provides a lower amount.
+
+**CONTEXT:** What is the relationship between the commonly cited "essential" amounts of PUFAs and cancer incidence?
+
+**RAY PEAT:** When I was studying the age pigment, lipofuscin, and its formation from polyunsaturated fatty acids, I saw the 1927 study in which a fat free diet practically eliminated the development of spontaneous cancers in rats (Bernstein and Elias). I have always wondered whether George and Mildred Burr were aware of that study in 1929, when they published their claim that polyunsaturated fats are nutritionally essential. The German study was abstracted in Biological Abstracts, and the Burrs later cited several studies from German journals, and dismissively mentioned two U.S. studies* that claimed animals could live on fat-free diets, so their neglect of such an important claim is hard to understand. (*Their bibliography cited, without further comment, Osborne and Mendel, 1920, and Drummond and Coward, 1921.)
+
+**CONTEXT:** What historical research on fat-free diets and cancer incidence was contemporaneous with the Burr's work, and why is its omission by the Burrs significant?
+
+**RAY PEAT:** Since 1927, others have demonstrated that the polyunsaturated fats are essential for the development of cancer (and some other degenerative diseases), but the Burrs' failed to even mention the issue at any time during their careers. How could they, studying fat-free diets, have missed an important contemporary publication, if I, 40 years later, saw it? There were very few publications on dietary fats in those years, so it was hardly possible to miss it.
+
+**CONTEXT:** What is the continued implication of PUFAs in cancer development, and what is the critique of the Burrs' oversight?
+
+**RAY PEAT:** When researchers at the Clayton Foundation Biochemical Institute at the University of Texas demonstrated that "Burr's disease" was actually a vitamin B6 deficiency, rather than a fatty acid deficiency, the issue was settled. Later studies failed to confirm the existence of the Burr disease caused by a deficiency of fatty acids, though many similar conditions were produced by a variety of other dietary defects. In 1938, a group in Burr's own laboratory (Brown, et al.) failed to produce dermatitis in a man during a six month experiment. Neither of the other major features of the Burr disease, male sterility and kidney degeneration, has been subsequently confirmed. The claim that polyunsaturated fatty acid deficiency caused sterility of male animals ("A new and uniform cause of sterility is shown") was quickly dropped, probably because an *excess* of polyunsaturated fats was discovered to be an important cause of testicular degeneration and sterility.
+
+**CONTEXT:** What was the eventual scientific consensus on the cause of "Burr's disease," and what happened to the claims of PUFA deficiency causing sterility?
+
+**RAY PEAT:** One of the features of the Burrs' rats on the fat-free diet was that they ate more calories and drank much more water than the rats that received polyunsaturated fatty acids in their diet. They believed that the animals were unable to synthesize fat without linoleic acid, although in another context they cited a study in which the fat of rats on a fat-free diet was similar in composition to lard: "McAmis, Anderson, and Mendel [37] fed rats a high sucrose, fat-free diet and rendered the fat of the entire animal. This fat had an iodine number of 64 to 71, a fairly normal value for lard."
+
+**CONTEXT:** What were the observed metabolic differences in rats on fat-free diets, and what was the Burrs' interpretation versus other findings?
+
+**RAY PEAT:** The "wasteful" food consumption, and the leanness of animals that weren't fed polyunsaturated fats became fairly common knowledge by the late 1940s, but no one repeated the Burrs' claim that the absence of those fatty acids led quickly to the animals' death. Meanwhile, "crazy chick disease" caused by feeding an excess of polyunsaturated fats, and a little later, "yellow fat disease," caused by too much fish fat, were being recognized by farmers. In the 1950s, the seed oil industry created the anti-cholesterol diet culture, and a few decades later, without any new "Burr-like" publications, the omega minus 3 oils, especially fish oils, were coming to be represented as the overlooked essential fatty acids, which were capable of preventing the toxic effects of the original "essential" linoleic acid.
+
+**CONTEXT:** How did the understanding of PUFA effects evolve, and what industry influence shaped dietary recommendations?
+
+**RAY PEAT:** Although the 1929 Burr paper is still often cited as proof of the essentiality of PUFA, Burr's younger colleague (at the University of Minnesota Hormel Institute), Ralph Holman, has cited an infant (1970), and a 78 year old woman (in 1969), who developed dermatitis while receiving fat-free intravenous feedings. Dermatitis, with dandruff, similar to Burr's disease, has been produced by various nutritional deficiencies besides vitamin B6, including a trace mineral deficiency and a biotin deficiency, so there is no valid reason to associate dermatitis with a fat deficiency. The cases of "EFA deficiency" produced by intravenous feedings that have been widely cited were probably the result of a deficiency of zinc or other trace mineral, since so-called "Total Parenteral Nutrition" was in use for many years before the trace minerals were added to the "total" formula. In 1975, I learned that our local hospital was putting all premature babies on what they called total intravenous feeding, without trace minerals, for weeks, or months. There is still more emphasis on polyunsaturated fat in intravenous feeding than on the essential trace nutrients.
+
+**CONTEXT:** What is the critique of evidence for EFA deficiency from intravenous feeding, and what other deficiencies could explain the symptoms?
+
+**RAY PEAT:** Holman and the Hormel Institute have been extremely influential in promoting the doctrine of the essentiality of PUFA, including fish oils and the omega -3 oils, but their best evidence, the Burr experiment, doesn't make their case. Far worse than that is the effect it has had in distracting attention from the profoundly toxic effects of the so-called essential fatty acids. Long after he should have known better, Holman was arguing that butter was a nutritionally inferior fat.
+
+**CONTEXT:** What is the critique of Holman's influence and the focus on PUFA essentiality?
+
+**RAY PEAT:** When the Burrs were doing their study, Raymond Pearl was one of the most famous biologists in the country, and his "rate of living" theory of aging was very widely known. According to that theory, an organism has an intrinsic potential to produce a certain total amount of energy during its lifetime, and if it metabolizes at a higher than normal rate, its life span will be proportionately shorter than normal.
+
+**CONTEXT:** What was Raymond Pearl's "rate of living" theory, and how did it relate to the Burrs' observations?
+
+**RAY PEAT:** There is general agreement that animals on a fat free diet have a very high metabolic rate, but the people who believe the "rate of living" theory will be inclined to see the increased rate of metabolism as something harmful in itself. It is clear that this is what the Burrs thought. They didn't attempt to provide a diet that provided increased amounts of all vitamins and minerals, in proportion to the increased metabolic rate.
+
+**CONTEXT:** How did the "rate of living" theory influence the interpretation of high metabolic rates in fat-free diets?
+
+**RAY PEAT:** Pearl did an experiment, sprouting cantaloupe seeds in a dish with water. The sprouts that grew rapidly died sooner than those that grew more slowly. They died as soon as the nutrients stored in the endosperm had been consumed. Naturally, when nutrients are depleted, growth and metabolism must stop. If food and air and water are rationed, then slow metabolizers are going to live longer. But when nutritional needs are met, the organisms with the highest metabolic rate generally are healthier and live longer. In a study of nurses, those who habitually consumed the most calories lived longer than those who consumed the least. Even while Pearl was promoting his theory, other famous biologists, for example John Northrup in Jacques Loeb's lab at the Rockefeller Institute, were making observations that contradicted the rate of living theory. For example, around 1916, Northrup observed that fruit flies that metabolized at the highest rate lived the longest. Northrup was doing biology, Pearl was doing propaganda, following Weismannism.
+
+**CONTEXT:** What was the outcome of Pearl's seed sprouting experiment, and how did it contrast with observations by other biologists like John Northrup regarding metabolic rate and lifespan?
+
+**RAY PEAT:** The idea of extending life span by slowing metabolism and growth was a logical implication of the "rate of living" theory of aging, and it's an idea that is still popular. Many people have supposed that eating less would slow metabolism. Caloric restriction does extend the life span of many species, but it generally preserves the high metabolic rate of youth, so that at a given age the calorie-restricted animal has a higher rate of oxygen consumption per gram of body weight than the unrestricted eaters.
+
+**CONTEXT:** How has the concept of slowing metabolism to extend lifespan persisted, and what is the effect of caloric restriction on metabolic rate?
+
+**RAY PEAT:** Roy Walford, a gerontologist who wrote about extending the human life span to 120 years by caloric restriction, spent 30 years limiting his diet to about 1600 calories, with little animal protein, almost no saturated fat--fish once or twice per week, poultry or beef about once, and a fat free milkshake for breakfast--and after about 15 years, began developing a degenerative brain disease, ALS, one of the nerve diseases involving lipid peroxidation and excitotoxicity. When he died from the disease, he had lived a year longer than the normal life expectancy.
+
+**CONTEXT:** What was the experience of Roy Walford, a proponent of caloric restriction, and its potential link to PUFA-related neurodegeneration?
+
+**RAY PEAT:** V. Stefannson, one of the early polar explorers, spent a winter living entirely on caribou meat, and felt that it had prevented the scurvy that had killed so many of the other explorers, who had counted on fruit and vegetables to prevent it. But he believed that meat was a metabolic stimulant that made people age prematurely, as Pearl's rate of living theory predicted. Stefannson said that Eskimo women were getting old in their twenties, and that at the age of 60 they looked as old as Europeans did at 80. He was a well informed anthropologist, and his observations were probably accurate. The Eskimos he observed ate large amounts of fish, and other unsaturated fats, and sometimes ate highly decayed fish. An accelerated rate of aging would be expected from such a diet, because of the toxic lipid peroxides.
+
+**CONTEXT:** What were V. Stefansson's observations about meat-based diets and aging, and how might the Eskimo diet, rich in fish and unsaturated fats, relate to accelerated aging?
+
+**RAY PEAT:** Calorie-restricted animals (on a diet of normal composition) have a lower degree of fat unsaturation in their mitochondria as they age, preserving the relatively more saturated fats of youth.
+
+**CONTEXT:** How does caloric restriction affect mitochondrial fat composition with aging?
+
+**RAY PEAT:** Birds' mitochondrial fats are much less polyunsaturated than those of mammals, and birds' metabolic rates are much higher, and they live much longer than mammals of a similar size.
+
+**CONTEXT:** What is the difference in mitochondrial fat composition between birds and mammals, and how does it correlate with metabolic rate and lifespan?
+
+**RAY PEAT:** With aging, the highly peroxidizable fatty acids, arachidonic and docosahexaenoic acid, increase greatly in a variety of tissues, and lipid peroxidation increases with aging. Peroxidation slows mitochondrial respiration, lowering the metabolic rate. Caloric restriction slows the accumulation of the highly unsaturated fatty acids in mitochondria, and reduces peroxidation.
+
+**CONTEXT:** How do PUFAs like arachidonic and docosahexaenoic acid contribute to aging and reduced metabolic rate, and how does caloric restriction counteract this?
+
+**RAY PEAT:** Over the years, it has become evident that the polyunsaturated fats are not very compatible with a high rate of metabolism, though they are necessary for organisms that live at low temperatures and metabolize slowly, such as fish and vegetables. The saturated fats solidify at low temperature; beef fat is very stiff at refrigerator temperature, and in a fat fish, such stiffness would be lethal.
+
+**CONTEXT:** What is the incompatibility between PUFAs and high metabolic rates, and why are saturated fats problematic in cold environments?
+
+**RAY PEAT:** Even some hibernating rodents can stay alive with their body tissues close to the freezing point, and their stored fats have to be unsaturated. When their diet doesn't allow them to store enough polyunsaturated fat, they fail to go into hibernation. This is probably a clue to some of the general biological effects of the PUFA.
+
+**CONTEXT:** What is the role of unsaturated fats in the survival of hibernating rodents, and what does this suggest about PUFA's general biological effects?
+
+**RAY PEAT:** A series of studies about 20 years ago showed that the functions of the thyroid hormone are all inhibited by unsaturated fats, with the inhibition increasing in proportion to the number of unsaturations (double bonds) in the fat molecule.
+
+**CONTEXT:** How do unsaturated fats, particularly their degree of unsaturation, affect thyroid hormone function?
+
+**RAY PEAT:** When the tissues are saturated with those antithyroid fats, metabolism slows, especially when any stress, such as cold or hunger, increases the concentration of free fatty acids in the blood stream. Stress and hypothyroidism increase the formation of serotonin, which is an important factor in producing the torpor of hibernation, and lowering the body temperature. The polyunsaturated fatty acids themselves directly contribute to the formation of serotonin, for example by increasing the ability of tryptophan to enter the brain. In a certain cold climate, the PUFA are essential for hibernation, but under other conditions, the rodent would be able to continue gathering food and eating, instead of hibernating.
+
+**CONTEXT:** How do PUFAs, through their antithyroid effects and interaction with stress, influence metabolism and serotonin formation, and what is the implication for hibernation?
+
+**RAY PEAT:** The direct effects of the PUFA on the endocrine and nervous systems, as illustrated by the hibernating squirrel, interact with their effects on intercellular communication (including the formation of prostaglandins and related substances), and the effects of their oxidative breakdown products, such as acrolein. But the people who claim that they are absolutely, rather than conditionally, essential, base their argument on the idea that they are needed for the formation of prostaglandins and cell membranes. The fact that cells can replicate in fat free conditions shows that the argument from membranes is unfounded. The argument from prostaglandins is more complex, but has no firmer foundation.
+
+**CONTEXT:** How do PUFAs impact endocrine and nervous systems, and what is the critique of arguments for their absolute essentiality based on prostaglandins and cell membranes?
+
+**RAY PEAT:** When a dose of PUFA is administered to a lizard, which isn't a hibernator, the lizard's body temperature is lowered by several degrees. There are probably many ways in which the PUFA produce that effect, besides increasing serotonin and decreasing thyroid. The PUFA are increased by estrogen, and they increase estrogen, and have some directly estrogen-like effects. Estrogen itself tends to lower body temperature and shift metabolism away from oxidative energy production. Aging, like estrogen, increases the body's content of the PUFA: Linoleic, linolenic, dihomo-gamma-linolenic, docosahexaenoic and docosapentaenoic acids are increased by age, and the longer chain acids increase more rapidly in women than in men (Bolton-Smith, et al., 1997). (Women are apparently relatively protected by progesterone, which inhibits lipolysis and prostaglandin formation, and protects the brain, thymus, and other tissues from lipid peroxidation and other effects of the PUFA.)
+
+**CONTEXT:** What are the effects of PUFAs on body temperature in non-hibernators, and how do they interact with estrogen and aging?
+
+**RAY PEAT:** Aging involves a decreasing metabolic rate, an increased tendency toward inflammation, and a decreased ability to synthesize proteins. Inflammation contributes to the decreasing ability to use oxygen, and the slowed renewal of proteins combined with lower ability to produce energy impair the organism's ability to control peroxidative damage and inflammation.
+
+**CONTEXT:** What are the metabolic and cellular changes associated with aging, and how do inflammation and impaired protein synthesis contribute to them?
+
+**RAY PEAT:** The fragments of deteriorating PUFA combine with proteins and other cell materials, producing immunogenic substances. The so-called "advanced glycation end products," that have been blamed on glucose excess, are mostly derived from the peroxidation of the "essential fatty acids." The name, “glycation,” indicates the addition of sugar groups to proteins, such as occurs in diabetes and old age, but when tested in a controlled experiment, *lipid peroxidation of polyunsaturated fatty acids produces the protein damage about 23 times faster than the simple sugars do* (Fu, et al., 1996).
+
+**CONTEXT:** How do deteriorating PUFAs contribute to protein damage and the formation of advanced glycation end products (AGEs), and how does this compare to glucose-induced glycation?
+
+**RAY PEAT:** Several autoimmune disease models in animals (involving the eye, kidney, and pancreas) have been prevented by a deficiency of the EFA (Schreiner, et al., 1989, Bazan, et al., 1990, Benhamou, et al., 1995).
+
+**CONTEXT:** What is the role of EFA deficiency in preventing autoimmune diseases in animal models?
+
+**RAY PEAT:** Besides causing a general slowing of metabolism, aging and toxic PUFA have specific actions on the detoxifying system. The enzymes that help to detoxify PUFA and estrogen and serotonin are inhibited by both PUFA and estrogen. All systems, including blood vessels and the intestine, are made leaky by estrogen and the PUFA and their products. A reduced ability to regulate the excitatory amino acids, resulting from PUFA toxins, tends to produce excitotoxicity, damaging nerves (Ou, et al., 2002).
+
+**CONTEXT:** How do PUFAs and estrogen affect the body's detoxifying systems, vascular and intestinal permeability, and neurotransmitter regulation, leading to excitotoxicity?
+
+**RAY PEAT:** Although the interplay of the various types of nerve is very complex, a variety of experiments suggest that the PUFA are acting directly on serotonergic nerves, rather than just increasing the conversion of tryptophan to serotonin.
+
+**CONTEXT:** What is the proposed mechanism by which PUFAs affect serotonergic nerves?
+
+**RAY PEAT:** For example, a deficiency of the so-called essential fatty acids, EFA, makes animals more sensitive to some anesthetics, and more resistant to others. It makes them resistant to the anesthetics that act by promoting the actions of serotonin, but it prolongs the effects of those that don't act through serotonin, and these are the anesthetics such as xenon and nitrous oxide, that apparently act by stabilizing the structure of water, as described by Linus Pauling. Progesterone and the saturated fats seem to act partly through the stabilizing of cell water, and estrogen and the PUFA have opposing effects, creating cellular excitation while interfering with the stable cellular water structure.
+
+**CONTEXT:** How does EFA deficiency alter an animal's response to different types of anesthetics, and what is the proposed mechanism involving water structure and cellular excitation?
+
+**RAY PEAT:** Serotonin interferes with slow wave sleep, and promotes cortisol, both of which can be harmful to brain cells. (Hypothyroidism is one of the causes of a decrease in slow wave sleep.) Babies whose mothers' serum contained more DHA were more wakeful on their second day of life, than the babies of low-DHA mothers. The amide of oleic acid is a sleep promoter, with apparent antiserotonin activity (Yang, et al., 2003), and since oleic acid tends to be displaced by diets high in PUFA, this suggests another way in which the highly unsaturated fatty acids could promote serotonin's effects.
+
+**CONTEXT:** How does serotonin impact sleep and cortisol, and how might DHA and the displacement of oleic acid by PUFAs influence these processes and infant wakefulness?
+
+**RAY PEAT:** People who don't have a normal amount of slow wave sleep are likely to have slow reaction times when they are awake, and quickness of reactions is a good indicator of general intelligence.
+
+**CONTEXT:** What is the relationship between slow wave sleep, reaction time, and general intelligence?
+
+**RAY PEAT:** Manufacturers of baby formulas are claiming that the highly unsaturated fatty acids accelerate brain development, but they neglect to mention studies that show either no effect, or retardation of development. In some of the tests that are used to measure infant development, a generalized state of arousal or anxiety could be interpreted as "more mature."
+
+**CONTEXT:** What is the discrepancy between claims made by baby formula manufacturers regarding PUFAs and brain development, and what might explain seemingly positive results in developmental tests?
+
+**RAY PEAT:** In one experiment, animals that received less than 0.32% of their calories as EFA grew slightly less than rats on a standard diet, but their brains were as large as those of normal rats (Bruckner, et al., 1984). That is, their brain to body ratio was a little larger than normal, which is a typical feature of individuals with a higher metabolic rate. That result is very different from the claims of the baby food industry, that the brain is the organ most easily damaged by a PUFA deficiency.
+
+**CONTEXT:** What were the findings of an experiment on EFA-deficient rats regarding brain size and body weight, and how do these findings contradict industry claims?
+
+**RAY PEAT:** One of the standard signs of toxicity is the enlargement of the spleen and liver, and that effect is produced by larger amounts of the EFA. The weight of the thymus is reduced by PUFA in the diet (Guimarães, et al., 1990). Thymus cells tend to be easily killed by a combination of stress and EFA, and bone marrow cells, though less sensitive than thymic cells, are damaged by lipid peroxidation of the PUFA. The effects of PUFA on the thymus were compared to those of radiation by Soviet researchers. Immunodeficiency, produced largely by damage to thymic cells, increases when larger amounts of PUFA are eaten for a prolonged time.
+
+**CONTEXT:** What are the toxic effects of EFA on the spleen, liver, and thymus, and how do PUFAs contribute to immunodeficiency?
+
+**RAY PEAT:** The growth and metastasis of a variety of tumors are inhibited by saturated fatty acids, and increased by fish oil--as much as 10 times in number of metastases, 1000 times in size (Griffini, et al., 1998).
+
+**CONTEXT:** How do saturated fatty acids and fish oil affect tumor growth and metastasis?
+
+**RAY PEAT:** Mothers whose breast milk contains more long-chain n-3 fatty acids are more likely to have allergic children (Stoney, et al., 2004). (And children whose mothers are allergic have higher levels of DHA and EPA in their tissues.) These associations aren't mentioned by the manufacturers who speak of those fats as essential.
+
+**CONTEXT:** What is the association between maternal breast milk n-3 fatty acid content and the risk of allergies in infants?
+
+**RAY PEAT:** When animals have been "deprived" of the EFA during gestation and nursing, and then given a standard diet, they develop larger bones, with a thicker cortex and more trabecular bone, both of which would suggest a lower level of stress. Many types of inflammation and stress are significantly reduced in "EFA deficient" animals. Inflammation caused by the injection of carrageenan is decreased, partly because of the absence of prostaglandins in these animals. The absence of the EFA protects against colitis and nephritis ( ). The kidneys are more effective in several ways in the deficient animals.
+
+**CONTEXT:** What are the long-term effects of perinatal EFA deprivation on bone structure and stress response, and how does EFA deficiency impact inflammation, colitis, nephritis, and kidney function?
+
+**RAY PEAT:** Shock, caused by the injection of endotoxin, which is 100% lethal to normally fed animals, is only 24% lethal to the deficient animals.
+
+**CONTEXT:** How does EFA deficiency affect survival rates in endotoxin-induced shock?
+
+**RAY PEAT:** Poisons are much less harmful to deficient animals, for example, a cobra venom factor causes less tissue damage to their lungs.
+
+**CONTEXT:** How does EFA deficiency influence the body's susceptibility to poisons, such as cobra venom factor?
+
+**RAY PEAT:** Concussive trauma and burns cause much less damage to deficient animals.
+
+**CONTEXT:** How does EFA deficiency affect the severity of damage from concussive trauma and burns?
+
+**RAY PEAT:** The endothelial lining of blood vessels is protected by saturated fats and oleic acid, damaged by polyunsaturated, and their barrier function is improved by the absence of PUFA.
+
+**CONTEXT:** What is the effect of saturated fats, oleic acid, and PUFAs on the endothelial lining of blood vessels and their barrier function?
+
+**RAY PEAT:** Alzheimer's disease, retinal degeneration, cataracts, and liver cirrhosis all involve reactions of oxidized PUFA with proteins. Saturated fats help to heal alcoholic liver cirrhosis.
+
+**CONTEXT:** What is the role of oxidized PUFAs in degenerative diseases, and how do saturated fats contribute to liver health?
+
+**RAY PEAT:** The lesions of atherosclerosis and cataracts contain some of the same oxidized lipids as the age pigment itself. When large deposits of age pigment become visible, it's probably because the general reduction of metabolism and protein synthesis has interfered with the normal processes for removing debris. The age pigment contributes to degeneration by wasting energy and oxygen, weakening the antioxidation, antiglycation, and other defensive systems.
+
+**CONTEXT:** What is the connection between oxidized lipids, age pigment, atherosclerosis, cataracts, and the decline of metabolic and defensive systems?
+
+**RAY PEAT:** The EFA amplify nearly all kinds of injury and stress, and the results of many recent publications make it look as though serotonin interacts harmfully with the EFA in most of these situations. The specific balance of polyunsaturated fatty acids, and their various breakdown products, from carbon monoxide, glyoxal, and acrolein, to the larger aldehydes and radicals, and the stress-induced substances such as serotonin, histamine, estrogens, can produce an immense variety of biological problems.
+
+**CONTEXT:** How do EFA, serotonin, and PUFA breakdown products contribute to injury, stress, and a wide range of biological problems?
+
+**RAY PEAT:** When the various claims of an EFA "deficiency disease" or syndrome or symptom are examined, their inconsistency over the years makes skepticism seem increasingly justified. The Burrs' publications were typical of others, in failing to describe and account for the evidence that contradicted their claims. Claiming that certain fatty acids are essential, a scientific approach would require showing what was wrong with the experiments that showed that they were not essential, and especially, those that showed that they were positively harmful.
+
+**CONTEXT:** What is the historical inconsistency of EFA deficiency claims, and what is required for a scientifically valid claim of essentiality?
+
+**RAY PEAT:** In this culture that repeatedly makes such claims of essentiality, the growing number of reports of biological superiority of "deficient" animals suggests that nutritional research may be near the point at which it can resume the line of study begun by Northrup, Osborne, Mendel, Drummond, Bernstein, Elias, and others, that was interrupted for 60 years by industrial interests that promoted antiscientific opinions.
+
+**CONTEXT:** What does the biological superiority of "EFA deficient" animals suggest about the direction of nutritional research, and what historical factors have hindered it?
+
+**RAY PEAT:** For example, in 1914 F.P. Rous showed that limiting food intake reduced the incidence of cancer, and then in 1915 and 1917, Osborne and Mendel showed that food restriction extended the fertility and longevity of female rats. The association between estrogen and cancer had become known during this time, and vitamin E, which was originally known as the fertility vitamin, was soon recognized to have antiestrogenic properties, as well as to prevent the deadly effects of excessive polyunsaturated fats in the diet. My endocrinology professor, A.S. Soderwall, who had found that excess estrogen prevented (or interrupted) pregnancy, demonstrated that increased vitamin E extended fertility in aging female rodents.
+
+**CONTEXT:** What early research linked food restriction, estrogen, cancer, and vitamin E, and what were the observed effects of vitamin E on fertility and PUFA toxicity?
+
+**RAY PEAT:** By the time I began my research, it seemed clear that it had been the reduction of PUFA in the diet which, like the addition of vitamin E, had prevented sterility in the calorie restriction experiments, and that those treatments had limited the effects of estrogen in the aging organisms.
+
+**CONTEXT:** What was the perceived role of PUFA reduction and vitamin E in preventing sterility in calorie restriction experiments and mitigating estrogen's effects in aging organisms?
+
+**RAY PEAT:** Estrogen, by activating phospholipase A2, acts to amplify the toxic effects of PUFA in the tissues, and these effects increase with age, and with decreased amounts of thyroid and progesterone.
+
+**CONTEXT:** How does estrogen, through phospholipase A2 activation, exacerbate the toxic effects of PUFAs, and how do age, thyroid, and progesterone influence this process?
+
+**RAY PEAT:** Antioxidants can slightly retard the cumulative degenerative effects of the fats interacting with estrogen, serotonin, and other mediators of inflammation, but real elimination of the degenerative diseases will require an exploration of the effects of the entire series of lipid signalling substances derived from the saturated and omega minus 9 fatty acids.
+
+**CONTEXT:** What is the role of antioxidants in mitigating degenerative effects, and what is needed for the true elimination of degenerative diseases?

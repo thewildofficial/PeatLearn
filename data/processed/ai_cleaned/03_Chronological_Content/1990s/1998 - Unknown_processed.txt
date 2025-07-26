@@ -1,0 +1,149 @@
+
+
+**RAY PEAT:** The "telomeric clock" is not a valid theory of aging.
+
+**CONTEXT:** What is the prevailing scientific theory regarding aging that you dispute?
+
+**RAY PEAT:** Neither of these groups has even tried to dispose of the facts that have accumulated over several decades suggesting that there is no independent biological clock at all, but rather an ability of cells and organisms to perceive rhythmic environmental conditions. Frank A. Brown, Jr. (Univ. of Indiana) and Alexandre Rothen (Rockefeller Univ.) devised many experiments that clearly demonstrated that biochemical metabolic and physiological rhythms are responsive to cues other than light and darkness. The geomagnetic field is one type of cue that has demonstrable biological effects.
+
+**CONTEXT:** What is your alternative explanation for biological rhythms and aging, as opposed to the "biological clock" theories?
+
+**RAY PEAT:** The doctrine of a genetic clock causing aging denies the role of environmental factors in the aging process. Cigarette companies argued that "we don't know the cause of cancer, so go ahead and smoke." The genetic clock people claim to know the cause of aging, and that it is not environmental factors.
+
+**CONTEXT:** How does the "genetic clock" theory of aging compare to the arguments used by cigarette companies regarding cancer?
+
+**RAY PEAT:** The stem cell system is defined as that cell in a tissue which, under normal circumstances, maintains its own population, undiminished in function and size, and furnishes daughters to provide new functional cells of that tissue. The daughters may, or may not, have to undergo further differentiation and/or maturation in order to achieve their functional stage. The fundamental characteristic of a stem cell, therefore, is self-renewal. Evidence is presented which implicates the microenvironment as a major component of the stem cell system, without which stem cells cannot be maintained. Furthermore, it is suggested that stem cell properties do not reside in one specific cell type in the population but, when necessary, cells other than those normally playing the stem cell role, can have stem cell function imposed upon them by the appropriate microenvironment. The "stem cell niche" hypothesis is presented to explain the dependence of stem cells upon their microenvironment. The postulate is offered that there are no cells which are intrinsically stem cells but that a range of cells in a tissue possess stem cell potential to a greater or lesser extent. "The stem cell system," R. Schofield, Bionics Pharmacother, 1983, 37:8, 375-80.
+
+**CONTEXT:** Can you elaborate on the concept of stem cells and their dependence on their environment?
+
+**RAY PEAT:** The Hayflick limit is contradicted by the fact that cells taken from older animals can live much longer than the animal they came from, and that the age of the donor doesn’t determine the survival of the transplant. Studies of the rate of cell division in the lining of the intestine and of the bone marrow cells that continuously produce red blood cells throughout the life-span also have shown gross violations of the “Hayflick limit.” Dandruff, the result of the steady division of cells in the epidermis, and the growth of nails and hair, are easily visible demonstrations that Hayflick’s observations were just the result of the special conditions he created in his cell culture bottles.
+
+**CONTEXT:** What evidence contradicts the "Hayflick limit" theory of cellular aging?
+
+**RAY PEAT:** The gradual accumulation of support for the principles Carrel outlined includes evidence that cell-to-cell interactions (R. Auerbach, 1972), adequacy of glucose supply, oxygen and carbon dioxide, appropriate pH, osmolarity, hormones, extracellular matrix (Gospodarowicz), hormones, and many regulatory substances including proteins and fats, can fundamentally change the ability of cells to divide in culture vessels. For example, Gospodarowicz, et al. (1983) found that growing cells on "extracellular matrix," and with some natural substances from serum, rather than on plastic, made the difference between an in vitro longevity of 15 or 24 divisions, and “at least 88” cell divisions.
+
+**CONTEXT:** What factors, beyond the "Hayflick limit," have been shown to influence cellular longevity in culture?
+
+**RAY PEAT:** If the “intrinsic cell aging" people want to talk in terms of “programming,” then we would have to say that cells are constantly open to "reprogramming," which is to say that they are perceptive and responsive to their environment.
+
+**CONTEXT:** How does the concept of cellular "programming" relate to environmental responsiveness?
+
+**RAY PEAT:** Hayflick’s method began with tissue that could be kept, either at room temperature or at 5 degrees, "for at least 5 days" (and “up to 3 weeks”) without apparent loss of viability. Although lactic acid production is a sign of stress, it seems that Hayflick took it as an indication of life: "Once the cultures have become confluent cell sheets, the cells are very active metabolically, as shown by the fact that the GM [growth medium] becomes acid faster than in cultures of heteroploid cell lines inoculated with the same number of cells." "Although mitotic activity eventually ceases in the culture, acid production continues; and as dictated by drops in the pH, cultures can be fed for a few months until all acid production ceases and the culture is observed to have completely degenerated". Among the most antiphysiological conditions used in Hayflick’s experiments was the addition of high concentrations of penicillin and streptomycin, or aureomycin, to the growth medium. (See Pershadang, et al., 1982.) He refers to Carrel's techniques as "primitive," and says “In any event, Carrel's experiment has never been confirmed." (Carrel's experiment continued for 35 years, so it will be a while before anyone repeats it.) Carrel's "primitive" method involved frequent addition of chick embryo extract rather than Hayflick's commercial solutions of salts, buffers, and antibiotics, with the addition of very small amounts of calf or horse serum. Using fluids from the same species, from an embryo rather than from an adult, and avoiding harmful additives, might be more properly called a sophisticated technique, rather than primitive incompetence. (Smith, et al., 1985, showed that DNA "repair capacity was always found to be greatest in medium supplemented with autologous plasma.")
+
+**CONTEXT:** Can you describe the experimental conditions used by Hayflick and contrast them with Alexis Carrel's methods?
+
+**RAY PEAT:** The essence of the telomeric clock doctrine is that the telomere shortens with aging, making cell division impossible, and causing the organism to suffer the symptoms of aging, while the "immortal germ cells and cancer cells" have active telomerase that allows them to maintain long telomeres. Besides the "inappropriate" telomere length that has been seen in some individuals of different ages, there are so many exceptions to the rule that it is inaccurate to speak of a rule. Mice, with a very short life-span, have active telomerase in their body tissues, while people normally don't. Telomerase isn't needed to form or maintain telomeres. Some cancers have long telomeres, some don't. Telomere length varies between organs in the same animal, and even between chromosomes in the same cell. To say that the theory of the telomeric-mitotic clock is complete junk is not to question the importance of the telomere itself--like any part of the cell, it is complex, important, and interesting.
+
+**CONTEXT:** What are the flaws in the telomeric clock theory of aging?
+
+**RAY PEAT:** If Hayflick and Carrel have anything in common, it is the observation that aging is closely associated with the slowing of cell division. Carrel's observation that the rate of healing is slower in old individuals has been repeated in different systems, for example (Lambert, et al., 1979) showing that DNA repair synthesis is retarded in cells from old people. Estrogen also slows DNA repair (O'Brien, 1993), as well as causing increased DNA breakage.
+
+**CONTEXT:** What is the connection between aging, cell division, DNA repair, and estrogen?
+
+**RAY PEAT:** Estrogen's identity as a shock-hormone gives an insight into the context-dependent aging of cells and carcinogenesis. The pro-respiratory progesterone is involved as estrogen's antagonist at the deepest molecular levels. Fifty years ago, estrogen was shown to imitate all of the physiological features of the shock phase of the stress reaction, and later it was found that histamine and estrogen (and now, nitric oxide) have parallel shock-promoting actions. More recently, cells (all kinds of cell, including bacteria) have been found to have a system of proteins, called heat shock proteins, that are produced in response to any stress or shock, and estrogen turns out to have a very close association with these stress-induced proteins. Estrogen induces the heat shock proteins, and the heat shock proteins activate or stabilize the estrogen receptor, so that injury in general facilitates the action of estrogen on the cell. Progesterone and its receptor have an opposite and antagonistic effect on the heat shock proteins.
+
+**CONTEXT:** How does estrogen function as a "shock-hormone," and what is progesterone's role in relation to it?
+
+**RAY PEAT:** In 1970, my proposal that the estrogenic state and the senescent state were very closely related seemed strange to people who had heard estrogen treatment promoted as the way to prolong youth and to stay "forever feminine," but a few years after I had finished my dissertation, Terry Parkening, who had worked in Professor Soderwall's lab at the same time I had, began publishing observations of elevated estrogen levels in a variety of aging animals. Estrogen is now known to increase with athletic stress, trauma, sickness, endotoxin poisoning, etc., and to be an essential factor in prostate cancer, as well as in essentially all other cancers, so it doesn't seem to be such a big step to go from “stress hormone" to "age hormone." Estrogen is beginning to lose its false identity as the “female hormone," which was always just a promotional concept of the pharmaceutical industry. Hundreds of false claims have been made about estrogen's “youth promoting" effects, but they always turn out to be the opposite of what is claimed. For example, "estrogen increases the collagen content of skin," but in fact collagen accumulation is characteristic of aging, radiation injury, and many other types of damage. "Estrogen makes the skin plumper," but it is by causing water retention; bloating might stretch wrinkly skin until it is smooth, or even tight, but a swollen old face is, if anything, biologically older than a lean and creased face. (I have discussed many other such advertising ploys in my books, e.g., From PMS to Menopause: Hormones in Context.)
+
+**CONTEXT:** What is your perspective on the historical understanding and marketing of estrogen, and how does it relate to aging and stress?
+
+**RAY PEAT:** The types of adaptation to stress that are known to occur both in vitro and in normal aging of the animal, include the various defensive systems such as the heat shock proteins, which are induced by stresses that interfere with the cell's energy supply. During the last 35 years there have been many demonstrations that cells in culture do not get an optimal amount of oxygen. (Wolffe, et al., 1984; for example.) Kondo et al. (1997) have recently shown that cells grown at the interface where the culture medium meets the air are more like normal cells: They “possess highly differentiated functions and structures compared with the cells cultured under immersion." Previously, as Warburg pointed out, it was found that the cells that grow in a sheet on the bottom of the vessel were much more oxygen-deprived than the cells which are immersed, but suspended, and receive oxygen and nutrients from all sides.
+
+**CONTEXT:** How do heat shock proteins relate to stress and energy supply in cells, and what is the significance of oxygen availability in cell culture?
+
+**RAY PEAT:** Suffocation and x-ray injury produce an estrogen-like response in animals. The oxygen deprivation in tissue culture, which Warburg showed created the characteristic cancer metabolism, produces the pro-estrogenic heat shock proteins, as well as other stress substances. The antagonism of progesterone to the actions of this heat stress system gives us further insight into how to redirect cells away from the stress pathway.
+
+**CONTEXT:** What is the connection between oxygen deprivation, estrogenic response, and the role of progesterone?
+
+**RAY PEAT:** During oxidative stress, a variety of stress proteins are produced, besides the heat shock system. Heme oxygenase, which produces carbon monoxide, is one of these stress proteins, and I have previously discussed how this stress-induced production of carbon monoxide could stabilize the cells’ dedifferentiated tumor-producing state, since carbon monoxide produces what Warburg has characterized as the "cancer metabolism," aerobic glycolysis, in which cells produce lactic acid even in the presence of oxygen. In Hayflick's original article (Hayflick and Moorhead, 1961), the production of lactic acid by the cells doesn't seem to be of interest to the authors. I have also introduced the idea that the stress-proteins could have far reaching effects through an effect on the structure of water. But apart from those points, it is now well established that the heat shock proteins stabilize and reinforce the effects of estrogen. Estrogen tends to shift cells away from differentiated functioning and toward simple cell division, a sort of dedifferentiation. This cell division is important for reproduction, and it is also part of a basic process of tissue regeneration. During stress or injury, as well as in normal growth, cells have to make the basic decision of whether to grow or to die in the non-inflammatory process called apoptosis, or to differentiate and contribute to the functional systems of the organism. The heat shock/estrogen system protects cells against “altruistic cell death," but ordinarily the organism rescues the cells from that dedifferentiated state by providing energy, oxygen, and signals to restore them to an appropriate functional state.
+
+**CONTEXT:** How do stress proteins like heme oxygenase and the heat shock system contribute to cellular changes, and what is the role of estrogen in this process?
+
+**RAY PEAT:** The stress pathway at first stimulates cell division, directing cells to differentiate down a pathway that is useful in tissue repair, but this stress-response is not useful in the culture dish, and the absence of the rest of the organism means that nothing will come from their growth decision, other than persisting under the damaging, stressful conditions. In Hayflick's cell culture, the cells were clearly under sufficient stress to activate their estrogenic cell division process, but in the absence of either adequate energy or appropriate signals, they were on a dead-end path. The specific substances in the culture medium could be investigated if we needed to know the detailed cellular physiology of that dead-end path, but giving serious scientific consideration to Hayflick's doctrine is itself a dead-end path. The editors of Experimental Cell Research, who devoted 36 pages to the 1961 article, and 22 pages to the 1965 article, bear a portion of responsibility for publishing ridiculous, illogical, unfounded, and simply false statements; it would be hard to identify any standard of quality that was followed in accepting those articles for publication. The mass media can't be blamed too much in this case, because the scientific media themselves have been manipulated.
+
+**CONTEXT:** How does the stress pathway manifest in cell culture, and what is your critique of the scientific and media reception of Hayflick's work?
+
+**RAY PEAT:** To talk about "reversing aging" by adding telomerase to cells reminds me of the advertisements for an apparatus that allowed you to recline with your head lower than your feet, except that when you age upside down, by lying around on that device, there is a silly grain of truth in the claim that you have “reversed” the aging process. The fact that cells are always open to "reprogramming," which simply means responding appropriately to their environment, is an important thing to keep in mind. Alexis Carrel's experiments are still the best demonstration that biological aging is essentially a response to something in the cells' environment. Carrel's emphasis on fats as an important aspect of aging is massively supported by research in nutrition, organ transplantation, and tissue culture.
+
+**CONTEXT:** What is your analogy for the concept of reversing aging with telomerase, and what is the significance of Alexis Carrel's work in understanding aging?
+
+**RAY PEAT:** It is now clear that estrogen is intimately related to the universal stress-reaction system, the heat shock proteins. Progesterone, the most direct and general antagonist to estrogen, is now seen to be involved in this fundamental system—it opposes the actions of the stress proteins, and the stress proteins mediate the factors which cause a progesterone deficiency. Progesterone, thyroid, saturated fats, and light are primary antistress factors which have already been shown to protect against some of the effects of aging (such as autoimmune reactions), and against the stresses which contribute to aging, and in many cases to reverse age-associated changes that have already occurred (such as regenerating the thymus). To fully reverse aging we need to know all of the factors that cause it. Dolly is proof that adult cells are not, in themselves, "old," and is confirmation that Carrel was on the right track.
+
+**CONTEXT:** How do estrogen, progesterone, thyroid, saturated fats, and light function as antistress factors, and what is their role in reversing aging?
+
+**RAY PEAT:** Thyroid hormones (TH) play a role in cell reliability improvement by inhibiting reactive oxygen species (ROS) attack and aiding genetic structure repair from injuries. TH inhibit ROS by blocking neutrophil stimulation at the receptor-ligand level and have a greater antioxidative effect than potent antioxidants. T4 acts as a reparogen in rat liver cells under X-ray irradiation, with its reparogenic effect persisting for at least 2 months. TH potential can manifest itself within the range of physiologic concentrations, suggesting their importance in correcting conditions caused by errors in energy- and Ca(2+)-dependent DNA repair under extensive ROS attack. TH may also contribute to improving antitumor radiotherapy efficacy. (Antipenko AYe, Antipenko YN, Adv Enzyme Regul 1994;34:173-198.)
+
+**CONTEXT:** What is the role of thyroid hormones in cell reliability and DNA repair, citing relevant research?
+
+**RAY PEAT:** Individual and group differences exist in the capacity of rat peripheral blood lymphocytes to repair DNA in response to irradiation. The survival rate of rats irradiated with a dose inducing 50% death was related to the DNA repair capacity of their blood lymphocytes prior to irradiation. (Baraboi VA, Nikiforova NA, Moskalenko IP, Radiobiologiia 1990 May;30(3):305-307.)
+
+**CONTEXT:** How does DNA repair capacity in lymphocytes relate to survival after irradiation?
+
+**RAY PEAT:** A significant decline in state III respiration rates with age has been documented in humans and experimental animals in various tissues. Focal areas of cytochrome oxidase negativity, similar to those in skeletal muscle fibers of patients with chronic progressive external ophthalmoplegia, appear in old age. The mitochondrial genome is susceptible to mutation due to high turnover, ineffective DNA repair, and a hostile free radical environment. Mitochondrial failure may be central to the senescent process. (Byrne E, Dennett X, Trounce I, Rev Neurol (Paris) 1991;147(6-7):532-535.)
+
+**CONTEXT:** What is the proposed link between mitochondrial failure and cellular senescence?
+
+**RAY PEAT:** In the aging mammalian hypothalamus, a subpopulation of glial cells accumulates peroxidase-positive cytoplasmic inclusions. This senescence-dependent glial granulation is accelerated by estradiol valerate administration in adult rodents. Estrogen elicits a heat shock response and subsequent granulation in astrocytes in estradiol receptor-rich brain regions, suggesting estrogen mediates senescent changes through oxidative mechanisms. (Mydlarski MB, Liberman A, Schipper HM, Neurobiol Aging 1995 16(6):977-981.)
+
+**CONTEXT:** How does estrogen influence glial cells and contribute to hypothalamic aging?
+
+**RAY PEAT:** Human prostate cancer may have a direct role for estrogens. (Castagnetta LA, Carruba G, Ciba Found Symp 1995;191:269-286.)
+
+**CONTEXT:** What is the proposed role of estrogens in human prostate cancer?
+
+**RAY PEAT:** Low-density vascular smooth muscle cell cultures maintained on extracellular matrix (ECM)-coated dishes and plated with plasma or serum proliferate actively when switched to a synthetic medium supplemented with high-density lipoprotein (HDL), insulin or somatomedin C, and fibroblast growth factor (FGF) or epidermal growth factor (EGF). The omission of any of these factors reduces growth rate and final cell density. Cultures on plastic with 5% bovine serum underwent 15 generations, while those on ECM-coated dishes with serum lasted at least 88 generations. ECM substrate promotes cell growth and increases culture longevity. (Gospodarowicz D; Hirabayashi K; Giguere L; Tauber JP, J Cell Biol, 1981 Jun, 89:3, 568-78.)
+
+**CONTEXT:** What factors influence the proliferative rate and lifespan of vascular smooth muscle cells in culture, citing relevant research?
+
+**RAY PEAT:** Steroid receptors and heat-shock proteins have been observed in patients with primary biliary cirrhosis. (Jorge AD, Stat AO, Roig LV, Ponce G, Jorge OA, Ciocca DR, Hepatology. 1993 Nov; 18(5): 1108-1114.)
+
+**CONTEXT:** What is the observed relationship between steroid receptors, heat-shock proteins, and primary biliary cirrhosis?
+
+**RAY PEAT:** Physiological and pharmacological inhibitors of luteinizing hormone-dependent steroidogenesis induce heat shock protein-70 in rat luteal cells. (Khanna A, Aten RF, Behrman HR, Endocrinology 1995 136(4):1775-1781.)
+
+**CONTEXT:** What is the effect of inhibitors of luteinizing hormone-dependent steroidogenesis on heat shock protein expression?
+
+**RAY PEAT:** Air-liquid interface (AI) culture of cow tracheal epithelial cells promotes oxidative metabolism and differentiation compared to immersion cultures. AI cells exhibit higher basal O2 consumption and ATP content, with less lactate production. This suggests adequate oxygenation at the air-liquid interface promotes oxidative metabolism and differentiation. (Kondo M, Tamaoki J, Sakai A, Kameyama S, Kanoh S, Konno K., Am J Respir Cell Mol Biol 1997 16(1):62-68.)
+
+**CONTEXT:** How does air-liquid interface culture affect the oxidative metabolism and differentiation of tracheal epithelial cells?
+
+**RAY PEAT:** The capacity for ultraviolet light-induced DNA repair synthesis in peripheral leukocytes from healthy subjects decreases with age. This age-related decrease in repair capacity may increase cellular susceptibility to DNA-damaging agents like carcinogens and certain cytostatic drugs. (Lambert B, Ringborg U, Skoog L, Cancer Res 1979 39(7 Pt 1):2792-2795.)
+
+**CONTEXT:** How does age affect DNA repair synthesis in human leukocytes, and what are the implications?
+
+**RAY PEAT:** High plasma cortisol concentrations inhibit DNA repair in human peripheral lymphocytes, an effect that can be abrogated by a cortisol antagonist. Females on therapeutic estrogen exhibit significantly elevated plasma cortisol and suppressed DNA repair capacity. (O'Brien SN, Larcom LL, Baxley EG, Horm Res 1993; 39(5-6):241-246.)
+
+**CONTEXT:** What is the relationship between plasma cortisol, estrogen use, and DNA repair capacity in human lymphocytes?
+
+**RAY PEAT:** Chlortetracycline (CTC) depolarizes the membrane potential of energized rat liver mitochondria and decreases respiratory control. These inhibitory effects are mediated by a membrane-associated calcium-CTC complex and suggest CTC can alter mitochondrial energy metabolism during transmembrane calcium cycling. (Pershadsingh HA, Martin AP, Vorbeck ML, Long JW Jr, Stubbs EB, Jr, J Biol Chem 1982 257(21):12481-12484.)
+
+**CONTEXT:** How does chlortetracycline affect mitochondrial membrane potential and energy metabolism?
+
+**RAY PEAT:** Freshly isolated human lymphocytes exhibit the greatest DNA repair capacity in medium supplemented with autologous plasma. Autologous serum factors are important for accurately representing in vivo responses in cellular studies, particularly when correlating DNA repair capacity with age or susceptibility to carcinogenesis. (Smith ME, Larcom LL, Freeman SE, Chem Biol Interact 1985 Aug;54(3):325-335.)
+
+**CONTEXT:** What is the optimal serum supplement for DNA repair studies in human lymphocytes, and why?
+
+**RAY PEAT:** Bovine arterial endothelial cells stably transfected with human wild-type HSP27 exhibit accelerated growth and senescence compared to cells transfected with a mutant form or vector control. Estradiol treatment increases growth rate in vector-transfected cells, an effect blocked by the mutant HSP27 expression, indicating an estrogen-responsive role for HSP27 in controlling endothelial cell growth. (Piotrowicz RS, Weber LA, Hickey E, Levin EG., FASEB J 1995 Aug;9(11):1079-1084.)
+
+**CONTEXT:** How does the small molecular weight heat-shock protein HSP27 influence the growth and senescence of arterial endothelial cells, and what is its relationship with estrogen?
+
+**RAY PEAT:** The suprachiasmatic nucleus of ground squirrels and rats exhibits temperature sensitivity in vitro. (Ruby, NF, Heller, HC., J Biol Rhythms 11(2):126-136, 1996.)
+
+**CONTEXT:** What is known about the temperature sensitivity of the suprachiasmatic nucleus in certain animal species?
+
+**RAY PEAT:** HSP 70a and HSP 90 alpha expression are stimulated by estradiol in human endometrium and steroid-responsive cell lines. Progesterone generally depresses HSP 90 alpha expression, and simultaneous addition of both estradiol and progesterone is antagonistic to HSP 90 alpha expression. (Tang PZ, Gannon MJ, Andrew A, Miller D, Eur J Endocrinol 1995 133(5):598-605.)
+
+**CONTEXT:** How do estradiol and progesterone affect heat shock protein expression in human endometrium and cell lines?
+
+**RAY PEAT:** The isolation of Xenopus liver, lung, and testis cells is characterized by the preferential synthesis of heat-shock-like proteins. The synthesis of these proteins declines in primary cultures, correlating with a loss of differentiated functions. Freshly isolated hepatocytes are refractory to estrogen induction of vitellogenin gene transcription but reacquire this response during culture, suggesting a role for heat-shock-like proteins in regulating differentiated functions. (Wolffe AP, Glover JF, Tata JR, Exp Cell Res 1984 Oct;154(2):581-590.)
+
+**CONTEXT:** How does the process of establishing primary cell cultures affect heat shock protein synthesis and cellular differentiation in Xenopus?
+
+**RAY PEAT:** Dramatic tissue-specific increases in Hsp90 and -70 mRNA are observed in the myometrium and endometrium of ewes during labor. Estradiol increases Hsp90 and -70 mRNA, while progesterone inhibits this estradiol-stimulated increase. These findings suggest that increased abundance of Hsp90 and -70 at term may inhibit uterine progesterone receptor and stimulate estrogen receptor function in uterine tissues. (Wu WX, Derks JB, Zhang Q, Nathanielsz PW, Endocrinology 1996 137(12):5685-5693.)
+
+**CONTEXT:** How do heat shock proteins (Hsp90 and -70) and steroid hormones (estradiol and progesterone) change in ovine uterine tissues in relation to parturition?
+
+**RAY PEAT:** Hypoxia induction in Chinese hamster ovary cells differs between glass and Permanox petri dishes. Permanox dishes yield radiobiological hypoxia, but glass dishes are superior for the hypoxia-selective cytotoxicity of SR 4233, a bioreductive drug. This suggests that the petri dish material significantly influences the hypoxic conditions and drug efficacy in cell culture studies. (Zeman EM, Pearson Cl, Brown JM, Radiat Res 1990; 122(1):72-76.)
+
+**CONTEXT:** How does the type of petri dish material affect hypoxia induction and the efficacy of bioreductive drugs in cell culture?

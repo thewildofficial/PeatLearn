@@ -1,0 +1,49 @@
+
+
+**RAY PEAT:** From ancient times until the 1940s, young adulthood was the healthiest phase of life, with an insignificant rate of death from disease. Septicemia, bacterial infection in the blood, had been associated with the natural immune deficiency of old age. By the 1960s septicemia was killing many young adults, in spite of the susceptibility of the germs to antibiotics. The use of antibiotics did save enough immune deficient people from septicemia to allow an increasing incidence of other diseases, including Pneumocystis carinii pneumonia, to become apparent. Acquired immune deficiency (AIDS) was a recognized syndrome for many years, and it was known to be increasing long before the 1980s.
+
+**CONTEXT:** The editor's introduction discusses the historical shift in disease patterns and the rise of immune deficiency.
+
+**RAY PEAT:** Most of the present AIDS epidemic can be explained by the various known causes other than the HIV virus. I think that is mostly right, but I don't exclude the possibility that the virus in itself could be a significant cause of the disease. My judgment would be that the virus is a "co-factor" in the disease, and by this I mean that we have been exposed to an increasing burden of immunosuppressive factors, which are causing an exponentially rising curve of immunodeficiency diseases, and that, arriving at a certain point on that curve, the HIV virus would help to push the rate of increase upward.
+
+**CONTEXT:** The editor is discussing the role of HIV in AIDS and referencing the work of P.H. Duesberg.
+
+**RAY PEAT:** Besides the generally increasing industrialization and pollution, in the 1950s there were sudden increases in our exposure to several powerfully immunosuppressive factors. Radioactive fallout (especially strontium 90, which concentrated its damage near the bone marrow), medical X-rays, dioxins and other chlorinated carbon compounds, insecticides and herbicides, the increased promotion of the use of liquid vegetable oils as food, and the use of lead as a gasoline additive, had all become important immunosuppressive factors by 1960. The relative importance of these varied with the person’s age, vocation, customary diet, social class, etc. For example, rich people were more likely to have prenatal X-rays, and poor people were more likely to have lindane applied to their skin to kill lice.
+
+**CONTEXT:** The editor is detailing specific environmental and lifestyle factors that emerged in the mid-20th century and contributed to immune suppression.
+
+**RAY PEAT:** A low level of the hormone DHEA is associated with premature death from various causes, including cancer, heart disease, and AIDS. DHEA is one of the youth-associated, energy-promoting, anesthetic steroids which I have described as essential to our natural resistance. (For example, in “Natural Immunity and Viral Infections,” Ray Peat’s Newsletter #49, July, 1986, I said “Pregnenolone, progesterone, DHEA, and pregnanediol are all good candidates as anti-viral drugs, but etiocholanolone - which also produces fever - is the most interesting of the group.”) In general, the things that lower vitality and immunity interfere with our ability to produce the protective steroids.
+
+**CONTEXT:** The editor is discussing the role of hormones, specifically DHEA, in immunity and linking low levels to various diseases.
+
+**RAY PEAT:** Those hormones are made from cholesterol, and both low and high concentrations of blood cholesterol are associated with immune defects. Most of the people I have talked to who have multiple serious allergies have very low cholesterol levels, and hypothyroid people who are very susceptible to infections usually have high cholesterol, and in both situations there isn't adequate production of hormones from cholesterol.
+
+**CONTEXT:** The editor is elaborating on the connection between cholesterol, hormone production, and immune function, citing observations from individuals with allergies and hypothyroidism.
+
+**RAY PEAT:** Often, the idea of “auto-immune disease” serves as an excuse for the use of immunosuppressive treatments, such as glucocorticoids or methotrexate, so I usually avoid the word and the concept. Antibodies against specific tissues are probably part of a normal process to take care of damaged cells. For example, simply twisting a piece of cartilage makes it antigenic. After talking to many people who had anti-thyroid antibodies which disappeared soon after their thyroids became normal from physiological therapies, I decided that “auto-immune” antibodies were useful to indicate which organ was under stress, but shouldn't be taken as a sign of an “immunological disease.” Still, the immune system, like any system, can become ineffective or sick, and it is possible that a sick immune system could make some problems worse. (I have previously used the analogy of an “allergy” to discuss this view of AIDS.)
+
+**CONTEXT:** The editor is critiquing the concept of "auto-immune disease" and offering an alternative perspective on antibodies as indicators of cellular stress rather than inherent disease.
+
+**RAY PEAT:** Morphine has been known to be immunosuppressive for several decades, though this fact has been ignored in prescribing it for cancer patients. (Intravenous ethanol has a protective effect on the immune system, and is as effective as morphine in controlling the pain of cancer.) Morphine's directly suppressive effect on immunity isn’t understood, but there is some suspicion that it relates to the stress-induced immunosuppression (loss of natural killer cell function, for example), acting in place of stress-induced endorphins. White blood cells, like nerve cells, have surface "receptors" for morphine, which normally would be acted on by the endorphins. As an abnormal material bound to the cell surface, it probably constitutes a “hapten,” something sensed by other white blood cells as foreign. It would be healthy to eliminate such abnormally modified cells, and even possibly to eliminate the cells that contain the natural endorphin molecule. But in a weakened organism, the formation of new cells might lag behind the elimination of modified cells.
+
+**CONTEXT:** The editor is discussing the immunosuppressive effects of morphine and its potential mechanism of action, contrasting it with the immune-protective effects of ethanol.
+
+**RAY PEAT:** Duesberg has said that it seems illogical that a person should get sick, just as he is beginning to produce large numbers of antibodies to the HIV virus, but it wouldn't be illogical if the antibodies were eliminating cells faster than they could be replaced. His point, that only one cell in 100 carrying the virus isn't enough to cause failure of the immune system, is true, other things being normal. But an allergy can be triggered by very small quantities of allergen. In a failing immune system, a few molecules of morphine or a few viral antigens could be enough to trigger a kind of autoimmune/allergic response, which could cause a massive suppression or disorganization of immune function.
+
+**CONTEXT:** The editor is responding to Duesberg's arguments about HIV and antibody production, suggesting that in a compromised immune system, even small triggers can lead to significant immune dysfunction.
+
+**RAY PEAT:** But even if such a thing is involved in AIDS - even if the HIV virus is a true cause of AIDS - Duesberg is right in emphasizing that we have to think of immune deficiency in a broader context, of eliminating all the immunosuppressive factors, and understanding the real nature of the immune system.
+
+**CONTEXT:** The editor is reiterating the importance of a holistic approach to immune deficiency, regardless of the specific cause.
+
+**RAY PEAT:** If antibodies turn out to be part of the problem, we shouldn't think of searching for additional immunosuppressive drugs, because we already know of situations in which antibody production increases while immunity is being impaired, as if in compensation for a weakness in cell-mediated immunity. Increasing the production of the cells that are deficient, and improving their functioning, should be the focus of attention. The increased incidence of septicemia among young adults suggests that phagocytosis was deficient. Since Metchnikoff's time there hasn't been much interest in the phagocytes, but I think that is beginning to change.
+
+**CONTEXT:** The editor is advocating for strategies that enhance immune cell function rather than suppress it, particularly focusing on phagocytes.
+
+**RAY PEAT:** Folic acid is so important for proliferation and differentiation that I think it's worthwhile to take about 5 mg. daily for a week or two. Vitamin A is important for resistance, but carotene can interfere with retinol. Carotenemia suggests a lack of vitamin B12 or thyroid, and interferes with thyroid and steroid production.
+
+**CONTEXT:** The editor is providing specific nutritional recommendations for immune support, highlighting folic acid and vitamin A.
+
+**RAY PEAT:** Another thought: if you ate vegetables, whole grains and legumes in the 1960s, your bones are rich in strontium 90. Vigorous osteoclasts are working to get rid of it, by phagocytosis. Warm bones are young bones.
+
+**CONTEXT:** The editor is offering a perspective on the long-term effects of radioactive fallout and its interaction with bone metabolism.

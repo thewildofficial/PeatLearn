@@ -1,0 +1,93 @@
+
+
+**RAY PEAT:** Women and other mammals that are deficient in progesterone, and/or that have an excess of estrogen, have a higher than average incidence of cancer. Animal experiments have shown that administering progesterone could prevent cancer. Cells in the most cancer-susceptible tissues proliferate in proportion to the ratio of estrogen to progesterone. When the estrogen dominance persists for a long time without interruption, there are progressive distortions in the structure of the responsive organs--the uterus, breast, pituitary, lung, liver, kidney, brain, and other organs--and those structural distortions tend to progress gradually from fibroses to cancer.
+
+**CONTEXT:** What is the relationship between progesterone deficiency, estrogen excess, and cancer?
+
+**RAY PEAT:** As a result of the early studies in both humans and animals, progesterone was used by many physicians to treat the types of cancer that were clearly caused by estrogen, especially uterine, breast, and kidney cancers. But by the 1950s, the drug industry had created the myth that their patented synthetic analogs of progesterone were medically more effective than progesterone itself, and the result has been that medroxyprogesterone acetate and other synthetics have been widely used to treat women's cancers, including breast cancer.
+
+Unfortunately, those synthetic compounds have a variety of functions unlike progesterone, including some estrogenic and/or androgenic and/or glucocorticoid and/or antiprogesterone functions, besides other special, idiosyncratic side effects. The rationale for their use was that they were "like progesterone, only better." The unpleasant and unwanted truth is that, as a group, they are seriously carcinogenic, besides being toxic in a variety of other ways. Thousands of researchers have drawn conclusions about the effects of progesterone on the basis of their experiments with a synthetic progestin.
+
+**CONTEXT:** What was the historical use of progesterone in cancer treatment, and how did synthetic progestins alter this understanding?
+
+**RAY PEAT:** As the estrogen industry began losing billions of dollars a year following the 2002 report from the Women's Health Initiative regarding estrogen's toxicity, and as it was noticed that progesterone sales had increased more than 100-fold, it was clear what had to be done--the toxic effects of estrogen had to be transferred to progesterone. For more than 50 years, progesterone was recognized to be antimitotic and anti-inflammatory and anticarcinogenic, but suddenly it has become a mitogenic pro-inflammatory carcinogen.
+
+**CONTEXT:** How has the perception of progesterone's role in cancer shifted, and what might be the motivations behind this shift?
+
+**RAY PEAT:** The "antiprogesterone" molecule, RU486, besides having some progesterone-like and antiestrogenic properties, also has (according to Hackenberg, et al., 1996) some androgenic, antiandrogenic, and antiglucocorticoid properties. Experiments in which it is used might have pharmaceutical meaning, but they so far have very little clear biological meaning.
+
+**CONTEXT:** What are the complex properties of RU486, and how do they complicate its interpretation in biological studies?
+
+**RAY PEAT:** The importance of the solvent was seen by an experimenter studying the effect of vitamin E on age pigment in nerves. It occurred to that experimenter to test the ethyl alcohol alone, and he found that it produced almost the same effect as that produced by the solution of alcohol and vitamin E. Workers with hormones often just assume that a little alcohol wouldn't affect their system. But when the effects of alcohol by itself have been studied, many of the effects produced by very low concentrations happen to be the same effects that have been ascribed to hormones, such as progesterone.
+
+In some cases, the solvent allows the hormone to crystallize, especially if the solvent is water-miscible, and fails to distribute it evenly through the medium and cells as the experimenter assumed would happen, and so the experimenter reports that the hormone is not effective in that kind of cell, even though the hormone didn't reach the cells in the amount intended.
+
+These are four of the common sources of error about progesterone: (1) Saying that progesterone has produced an effect which was produced by a different substance. (2) Saying that progesterone is the cause of a certain effect, if an "anti-progesterone" chemical prevents that effect. (3) Saying that progesterone caused something, when in fact the solvent caused it. And (4) saying that progesterone fails to do something, when progesterone hasn't been delivered to the system being studied.
+
+**CONTEXT:** What are common sources of error in studies involving progesterone, particularly concerning solvents and delivery?
+
+**RAY PEAT:** Estrogen's name, derived from the gadfly, accurately suggests its role as an excitant, getting things started. Progesterone's name, relating to pregnancy, is compatible with thinking of it as an agent of calming and fulfillment. But these properties show up in every aspect of physiology, and the special cases of female estrus and pregnancy can be properly understood only in the larger context, in which, for example, progesterone is a brain hormone in both sexes and at all ages, and estrogen is an essential male hormone involved in the sperm cell's function and male libido.
+
+Progesterone can, without estrogen, create the uterine conditions for implantation of an embryo (Piccini, 2005, progesterone induces LIF; Sherwin, et al., 2004, LIF can substitute for estrogen), and it has many other features that can be considered apart from estrogen, such as its regulation of salts, energy metabolism, protein metabolism, immunity, stress, and inflammation, but without understanding its opposition to estrogen, there will be no coherent understanding of progesterone's biological meaning.
+
+**CONTEXT:** How should the fundamental roles of estrogen and progesterone be understood in a broader physiological context beyond their "female" or "pregnancy" associations?
+
+**RAY PEAT:** Both estrogen and progesterone are hydrophobic molecules (progesterone much more so than estrogen) which bind with some affinity to many components of cells. Certain proteins that strongly bind the hormones are called their receptors.
+
+Cells respond to stimulation by estrogen by producing a variety of molecules, including the "progesterone receptor" protein. When progesterone enters the cell, binding to these proteins, the estrogenic stimulation is halted, by a series of reactions in which the estrogen receptors disintegrate, and in which estrogen is made water soluble by the activation of enzymes that attach sulfate or a sugar acid, causing it leave the cell and move into the bloodstream, and by reactions that prevent its reentry into the cell by inactivating another type of enzyme, and that suppress its *de novo* formation in the cell, and that oxidize it into a less active form. Progesterone terminates estrogen's cellular functions with extreme thoroughness.
+
+**CONTEXT:** Describe the cellular mechanisms by which progesterone counteracts estrogen's effects.
+
+**RAY PEAT:** One of the functions of the BRCA gene product is to repair genetic damage, and another function is to (like progesterone) suppress the estrogen receptor and its functions. Estrogen, and some environmental carcinogens, can suppress the BRCA gene product. Estrogen can also turn off the tumor suppressor protein, p53. So it is interesting that a group of experimenters chose to produce a mouse that lacked both the normal BRCA and p53 genes. They had a mouse that was designed to unleash estrogen's effects, and that modeled some of the features of estrogen toxicity and progesterone deficiency.
+
+This mouse, lacking an essential gene that would allow progesterone to function normally, probably affecting progesterone's ability to eliminate the estrogen receptor, also lacked the tumor suppressor gene p53, which is required for luteinization (Cherian-Shaw 2004); in its absence, progesterone synthesis is decreased, estrogen synthesis is increased.
+
+(Chen, Y, et al., 1999: BRCA represses the actions of estrogen and its receptor, and, like progesterone, activates the p21 promoter, which inhibits cell proliferation. Aspirin and vitamin D also act through p21.)
+
+The mutant BRCA gene prevents the cell, even in the presence of progesterone, from turning off estrogen's effects the way it should. The antiestrogenic RU486 (some articles below), which has some of progesterone's effects (including therapeutic actions against endometrial and breast cancer), appears to overcome some of the effects of that mutation.
+
+It might have been proper to describe the engineered mouse that lacked both the BRCA and the p53 genes as a mouse in which the effects of estrogen excess and progesterone deficiency would be especially pronounced and deadly. To speak of progesterone as contributing to the development of cancer in that specially designed mouse goes far beyond bad science. However, that study makes sense if it is seen as preparation for the promotion of a new drug similar in effect to RU486, to prevent breast cancer.
+
+**CONTEXT:** How does the BRCA gene product relate to progesterone's function, and what are the implications of its absence in cancer models?
+
+**RAY PEAT:** The study's lead author, Eva Lee, quoted by a university publicist, said "We found that progesterone plays a role in the development of breast cancer by encouraging the proliferation of mammary cells that carry a breast cancer gene." But they didn't measure the amount of progesterone present in the animals. They didn't "find" anything at all about progesterone. The "anti-progesterone" drug they used has been used for many years to treat uterine, ovarian, and breast cancers, in some cases *with* progesterone, to intensify its effects, and its protective effects are very likely the result of its antiestrogenic and anti-cortisol effects, both of which are well established, and relevant. In some cases, it acts like progesterone, only more strongly.
+
+"Other more specific progesterone blockers are under development," Lee notes. And the article in *Science* magazine looks like nothing more than the first advertisement for one that her husband, Wen-Hwa Lee, has designed.
+
+**CONTEXT:** What are the criticisms of the research claiming progesterone causes breast cancer, particularly regarding methodology and potential conflicts of interest?
+
+**RAY PEAT:** By organizing their claims around the idea that RU486 is acting as an antiprogesterone, rather than as a progesterone synergist in opposing estrogen, Eva Lee's team has misused words to argue that it is progesterone, rather than estrogen, that causes breast cancer. Of the many relevant issues that their publication ignores, the absence of measurements of the actual estrogen and progesterone in the animals' serum most strongly suggests that the project was not designed for proper scientific purposes.
+
+They chose to use techniques that are perfectly inappropriate for showing what they claim to show.
+
+**CONTEXT:** How does the interpretation of RU486's action in the Lee study misrepresent progesterone's role, and what methodological flaws undermine their conclusions?
+
+**RAY PEAT:** All of the factors that produce cancer, including breast cancer, produce inflammation and cellular excitation. Progesterone is antiinflammatory, and reduces cellular excitation.
+
+**CONTEXT:** What is the fundamental mechanism by which progesterone combats cancer, according to this perspective?
+
+**RAY PEAT:** Cancer is a malignant (destructive, invasive) tumor that kills the organism. The main dogma regarding its nature and origin is that it differs genetically from the host, as a result of mutations. Estrogen causes mutations and other forms of genetic instability, as well as cancer itself. Progesterone doesn't harm genes or cause genetic instability.
+
+The speculative anti-progesterone school has put great emphasis on the issue of cellular proliferation, with the reasoning that proliferating cells are more likely to undergo genetic changes. And synthetic progestins often do imitate estrogen and increase cellular proliferation. People like the Lees are asserting as an established fact that progesterone increases cellular proliferation.
+
+**CONTEXT:** How does estrogen's effect on genetic stability and proliferation contrast with progesterone's, and what is the flaw in the argument that progesterone causes cancer by increasing proliferation?
+
+**RAY PEAT:** A paper by Soderqvist has been cited as proof that progesterone increases the proliferation of breast cells. He saw more mitoses in the breasts during the luteal phase of the menstrual cycle, and said the slightly increased mitotic rate was "associated with" progesterone. Of course, estrogen increased at the same time, and estrogen causes sustained proliferation of breast cells, while progesterone stimulation causes only two cell divisions, ending with the differentiation of the cell. (Groshong, et al., 1997, Owen, et al., 1998)
+
+One of the ways that progesterone stops proliferation and promotes differentiation is by keeping the retinoblastoma protein in its unphosphorylated, active protective state (Gizard, et al., 2006) The effects of estrogen and progesterone on that protein are reciprocal (Chen, et al., 2005). It's hard for me to imagine that the Lees don't know about these hormonal effects on Wen-Hwa's retinoblastoma gene product.
+
+**CONTEXT:** How does progesterone's effect on cell division and differentiation, particularly through the retinoblastoma protein, contradict the claim that it promotes proliferation?
+
+**RAY PEAT:** The idea of hormone receptors can be traced directly to the work of Elwood Jensen, who started his career working in chemical warfare, at the University of Chicago. Jensen claims that an experiment he did in the 1950s "caused the demise" of the enzymic-redox theory of estrogen's action, by showing that uterine tissue can't oxidize estradiol, and that its only action is on the genes, by way of "the estrogen receptor." But the uterus and other tissues do oxidize estradiol, and its cyclic oxidation and reduction is clearly involved in some of estrogen's toxic and excitatory effects.
+
+**CONTEXT:** What is the historical context and critique of the "hormone receptor" theory, particularly concerning estrogen's action?
+
+**RAY PEAT:** Estrogen generally activates phosphorylases, and inactivates phosphatases. Progesterone generally opposes those effects.
+
+**CONTEXT:** How do estrogen and progesterone differentially regulate cellular processes involving phosphorylation and dephosphorylation?
+
+**RAY PEAT:** Besides the early animal studies that showed experimentally that progesterone can prevent or cure a wide variety of tumors, the newer evidence showing that progesterone is a major protective factor against even breast cancer, would suggest that dishonest efforts to protect estrogen sales by preventing women from using natural progesterone will be causing more women to develop cancer.
+
+The recent report that the incidence of breast cancer in the United States fell drastically between 2002 and 2004, following the great decline in estrogen sales, shows the magnitude of the injury and death caused by the falsifications of the estrogen industry--a matter of millions of unnecessary deaths, just in the years that I have been working on the estrogen issue. The current campaign against progesterone can be expected to cause many unnecessary cancer deaths (e.g., Plu-Bureau, et al., Mauvais-Jarvis, et al.), while distracting the public from the culpability of the estrogen industry.
+
+**CONTEXT:** What is the broader implication of the suppression of natural progesterone use, and how does it relate to the estrogen industry's impact on public health?

@@ -1,0 +1,157 @@
+
+
+**RAY PEAT:** I'm not sure anything special is going on in the virus and infection world. It's definitely happening in the media and politics. It's happening in Mexico. It isn't getting excited, and they've had, I think, 16 mild cases, and the CDC for years has been reporting the annual respiratory or flu-like death rate as being in the tens of thousands of deaths per year in the United States. So, 100 or 200, the average number of deaths from respiratory disease being, say, 30 or 40,000. If you look at the historic percentage of those respiratory diseases, about a tenth, ten percent of roughly from five to fifteen percent are historically coronavirus infections and the others are things as simple as rhinovirus or respiratory syncytial virus, things that are range from mild sniffles up to serious pneumonia. But historically about 10 percent are corona type virus. And so if 30 or 40,000 people are expected to die from a flu-like respiratory disease, we would expect to have 3,000 or 4,000 deaths per year from a coronavirus respiratory infection. So, I don't see any evidence at all that anything is happening on the real biological level.
+
+**CONTEXT:** What do you think is going on right now with the COVID-19 pandemic?
+
+**RAY PEAT:** We're not approaching that by a long way so far. So a lower than average year as far as the actual figures that exist indicate, so just looking at the actual numbers, it looks like we're slightly deficient in cases and deaths of respiratory problems associated with that virus. And that's looking at the historical data.
+
+**CONTEXT:** So, in a given year, we should still see 3,000 to 4,000 deaths from coronavirus in an average year, and we're not approaching that by a long way so far?
+
+**RAY PEAT:** Yes. They haven't talked about the average for Corona. They weren't gathering that data. But they say this is just slightly more deadly than a typical influenza virus or the other things causing respiratory disease. So it is... somewhat, according to their figures, just slightly more or deadly. But the problem is Italy always has had about twice as many respiratory or flu-like deaths per year per capita as the United States. So it isn't unusual for them to be especially hard hit. But what makes the number go up is that... they have been primarily testing sick people in hospitals. And it's the same with cancer diagnosis. If you go all out to look for cancer in a population of middle age and old age in the cancer range, you'll find 100% cancers if you're really, really thorough in your diagnosis. And so the more you diagnose, the more you can find when people die at the same rate unless you treat them. If you increase your treatment for cancer, as you increase the diagnosis, the treatment is going to kill more and more. But you can make your treatments look better by diagnosing more and more cases which... are harmless. Same with the flu or the coronavirus. If you test everyone in the population, you'll get all of these people with very mild reactions. And so it'll look like in South Korea, for example, 0.6% because they tested more people.
+
+**CONTEXT:** So the dying people have become a smaller percent when you test a more representative cross-section of the population?
+
+**RAY PEAT:** Yeah. And so that is restricted to the people in the hospital on respirators. You'll find that most of them have serious viruses, probably multiple respiratory viruses. When you're very sick, various viruses that have been carried harmlessly will pop to the surface and get measured. Because your immune system is compromised.
+
+**CONTEXT:** When you're very sick, various viruses that have been carried harmlessly will pop to the surface and get measured?
+
+**RAY PEAT:** Almost all bacteria are free-living in a sense. They can generally live outside of cells if you feed them the right stuff and give them the right temperature and other conditions. They have the apparatus to reproduce their own genetic material. And the virus depends on entering a cell, either a bacterium or a higher organisms cell, and taking advantage of their machinery like ribosomes that can produce proteins from nucleic acids. And so these viruses put in their bit of nucleic acid once they can get into the cell and that is processed on our ribosomes, the endoplasmic reticulum and proteins are added to the replicated nucleic acid and then it's excreted as a finished particle by our ordinary cell excretory system, secretory system.
+
+**CONTEXT:** What is the difference between a virus and a bacteria?
+
+**RAY PEAT:** Yeah, for example, on the surface, the respiratory surface in our lungs. And the tubes leading into the air sacs. The air sacs are lined with epithelial cells that can secrete, there are cells around the air sac that secrete mucus that cover the epithelial cells. And to reduce the surface tension so that the air sac will stay open, there's a protein. It's called surfactant protein that has an oily, oil-loving lipophilic fraction, so it acts like a soap. The water-loving part of the protein dissolves in this mucus layer on the cell lining the air sac and the oily surface reduces the surface tension so that the air sac can stay open without extreme tension and that surfactant protein contains groups that will collect the sugar like surfaces of the viral proteins or other any pathogen of possibility that hits that surfactant protein will get glued down by these binding particles. So it's our first layer of defense. Then in and around the epithelial layer, we have the reactive parts of the immune system, the angiotensin converting enzyme is one of the early parts of our immune system that sets up an inflammatory reaction that will set in action a whole chain of events, if the passage gets through. And it is actually a threat, and you activate this proteolytic protein that creates angiotensin, which is like a transmitter of a panic reaction to the organism. And it happens that this coronavirus is able to bind to one of these angiotensin converting enzymes. There is one which is only pro-inflammatory and another one that backs that up, which undoes, inhibits the inflammatory damage done by the first angiotensin producing enzyme. This is called ACE2. And ACE2 happens to be attacked by this particular virus which binds to that enzyme. And that's called the receptor. It's a vulnerable point of the organism as far as this virus is concerned. And binding to that ACE2 means that it leaves the ACE first, the ACE1, which produces angiotensin. It leaves that free to act. And ACE2 is capable of inactivating angiotensin, breaking it down to the first seven amino acids. They call it angiotensin one to seven. And this is a defensive anti-inflammatory peptide. So if your ACE2 is knocked out, angiotensin has a free range to cause damage. So the virus increases the inflammatory reaction by sticking to this defensive enzyme. And that enzyme combined with the virus, then acts to enter the cell by way of the angiotensin receptor, which is called the AT1. There are two known receptors by which angiotensin can do its damage. Angiotensin 1 is strictly an inflammation-producing system. The Angiotensin 2 produces some somewhat defensive reactions, but it happens that the virus-enzyme combination enters the cell by way of Angiotensin Receptor 1, AT1. And that turns on a whole range of destructive processes, nitric oxide and serotonin for example. And so just looking at the effects, it's obvious that you could defend by anything that defends you against nitric oxide and serotonin.
+
+**CONTEXT:** So, anti-inflammatory things are the known treatment for this kind of virus?
+
+**RAY PEAT:** The Chinese for years have been using Sinanserin, which is a serotonin blocker, for other treatments and they find that it's helpful for people with the established respiratory corona infection. And Losartan, which is a high blood pressure drug, is the most well-known blocker of angiotensin-1 receptor. Candesartan, and there are several others, but Losartan is widely available. The virus just activates an inflammatory process that many other things activate. So things that would primarily activate nitric oxide production or serotonin production or histamine or prostaglandin production, any of these tend to end up in the same condition. So... I think without knowing more about the nature of the infection I think that people who are taking aspirin, for example, it has a wide range of antiviral properties. It's already known to reduce infection from the standard influenza virus, hepatitis C virus, rhinovirus. Half a dozen well-known viruses are blocked by a common aspirin. There was a study of HIV, even in which they saw beneficial effects from aspirin.
+
+**CONTEXT:** Aspirin has a wide range of antiviral properties and is known to reduce infection from several viruses?
+
+**RAY PEAT:** Vitamin D happens to have one of its effects. So, like progesterone and aspirin, all of our known protective, proimmune, but anti-inflammatory things lower the expression of angiotensin receptor 1, so they predispose us to be less inflammable.
+
+**CONTEXT:** Vitamin D, progesterone, and aspirin are all anti-inflammatory and lower the expression of angiotensin receptor 1?
+
+**RAY PEAT:** Naturally, just once we're born and start breathing, we depend on the production of this surfactant protein. So, it's everywhere normally, and our intestines have similar layers of defenses. Right at the very surface, mucus will be a barrier against infection, and then at surface layers of cells and so on. And these viruses, the coronaviruses, don't just specialize on the lungs, they can infect the mucus membranes in the nose and the intestine. So, the thing that... Some people have been saying that runny noses aren't connected as a precursor of the lung infection, but a Russian virologist says that looking at tens of thousands of patients, he saw that a runny nose was a typical precursor to the rest of the lung infection symptoms and the intestine. It's just as prone to infection as the lungs.
+
+**CONTEXT:** The intestines are just as prone to infection as the lungs?
+
+**RAY PEAT:** Yeah. If you get it in your mouth and swallow it, it could infect those as well.
+
+**CONTEXT:** It's possible to eat the virus and it could attack your intestines?
+
+**RAY PEAT:** Yeah. Not necessarily. The stomach acid doesn't break down the nucleic acid.
+
+**CONTEXT:** Even though stomach acid would take care of it?
+
+**RAY PEAT:** The surface. The cells, including the mucus, have proteins analogous to the surfactant in the lung, proteins that collect the surface groups of a pathogen and bind them together. So it's just like putting flypaper on them, sort of.
+
+**CONTEXT:** The mucus has proteins that collect and bind pathogens, similar to flypaper?
+
+**RAY PEAT:** The hydrophobic surface. It itself tends to disorganize some of the invaders. For instance, they're telling us to wash our hands all the time. And how does soap kill a virus? Taking the proteins, dissolving, making relatively insoluble things soluble because the soap has that hydrophobic fraction that sticks to hydrophobic insoluble parts of an organism and disassembles it inside out.
+
+**CONTEXT:** How does soap kill a virus?
+
+**RAY PEAT:** No, a cold can be caused by any of these, if your immune system is good. Like one study found that almost half of all of the respiratory infections, they couldn't identify a particular cause. That's what the rhinovirus was the biggest at about 30%. That's the most common cold virus that is identified, but there are lots of unknown things that cause those symptoms. And then the coronavirus is in the range of somewhere between five and 15% of those respiratory infections.
+
+**CONTEXT:** Is it true that a cold is also a coronavirus?
+
+**RAY PEAT:** Unless it was their purpose to create international chaos, for example, to try to finish off Iran by cutting off their medical supplies while they're having a pandemic.
+
+**CONTEXT:** Is the reaction of the government to this pandemic over-the-top?
+
+**RAY PEAT:** The Trump administration is intensifying the sanctions at this point.
+
+**CONTEXT:** The Trump administration is intensifying sanctions during this time?
+
+**RAY PEAT:** Normally they say that it takes over a year to produce a vaccine to a new respiratory infection. But they're already now within weeks saying that they have a vaccine ready to test. The purpose of CDC patenting the coronavirus 17 years ago was deliberately to create... experimentally to enable them to anticipate a pathogen so that they could have a vaccine ready. So their intention was to have a vaccine ready by creating a pathogen, but now they're saying they couldn't possibly have created this, because they do happen to have a vaccine almost ready to use. So by their own declarations, it sounds very suspicious.
+
+**CONTEXT:** The CDC patented the coronavirus 17 years ago to have a vaccine ready, but now claims they couldn't have created it?
+
+**RAY PEAT:** People working there who have close connections to the vaccine industry. I think Robert Kennedy Jr.'s website has information about the conflicts of interest.
+
+**CONTEXT:** Can you explain the conflict of interest at the World Health Organization?
+
+**RAY PEAT:** Well, so that they can license a vaccine, I suppose. That gives them the right, sole right, to licensing a vaccine that would treat that.
+
+**CONTEXT:** Why would the CDC patent the coronavirus?
+
+**RAY PEAT:** No, no, that's what they've been saying. Virologists in general say it takes time to develop it and to do. I think that's a very optimistic idea, because if they really had to test it, it would take a generation. Because they test it on animals. And the way they have tested the safety of it, for example, is to, in the control group, to use the same adjuvant, aluminum adjuvant, for example, which is the most dangerous component. So they're using fraudulent safety tests. You can't have a test without a control group.
+
+**CONTEXT:** Is it true that it would take a generation to test a vaccine, and that current safety tests are fraudulent?
+
+**RAY PEAT:** It creates a derangement of, in this case, the muscle is where they inject it, and anything that you inject into the muscle is going to damage it and start an immune corrective process, but they found that just pathogens, particles, weren't enough to really tear up the tissue to produce a violent immune reaction so they found that aluminum oxide particles created a terrific immunological storm that would sometimes create a little tumor or abscess at the site. It was such an intense damage but that extreme inflammation at the point of injection activates the... a better more systemic immune reaction it turns your whole body into an inflammatory system and so people very very often have a fever for a couple of days after getting a shot.
+
+**CONTEXT:** Explain what an adjuvant is.
+
+**RAY PEAT:** Yeah, it's the same thing it's a systemic inflammatory reaction, which is the whole purpose of the adjuvant. It wouldn't be an adjuvant if it didn't damage your whole inflammatory system.
+
+**CONTEXT:** So when people get a flu shot and feel like they have a mild flu, it's the adjuvant causing a systemic inflammatory reaction?
+
+**RAY PEAT:** Yeah, in many of the studies, that isn't a universal situation, but several of them are very important. The studies were completely fraudulent by not having a control group.
+
+**CONTEXT:** So, in many vaccine studies, there isn't a control group that doesn't receive the adjuvant?
+
+**RAY PEAT:** I haven't heard any more than what you said. But do you know about the movie Vaxxed? Yes, I do. There's information in that about the Gulf War Syndrome and the Anthrax vaccine. The people were getting the Gulf War Syndrome without leaving the U.S. following their Anthrax vaccination. That's right. I think there were a lot of complaints by veterans about those vaccines and also the nurses who were giving them who felt terrible about administrating them. There were a lot of complaints.
+
+**CONTEXT:** Have you heard about the theory that the Spanish flu in 1918 might have been caused by a vaccine tested on soldiers?
+
+**RAY PEAT:** Oh, definitely, yeah, but the CDC counts pretty much that would fall into the unknown category of severe respiratory syndromes. to get their annual 40 or 50,000 deaths that they can scare people saying that's flu, get your flu shot. It obviously isn't the flu, it's pneumonia from partly unknown causes and partly a variety of viruses that have nothing to do with the flu shot.
+
+**CONTEXT:** The CDC counts pneumonia deaths as flu deaths to encourage flu shots?
+
+**RAY PEAT:** Stress itself is the cause of epidemics, shortage of food will increase the incidence of infectious diseases.
+
+**CONTEXT:** Is stress a cause of epidemics and infectious diseases?
+
+**RAY PEAT:** Yeah, if anything unusual is happening in the disease world, I think you can blame sanctions as one of the big causes. Dislocating the world economy and if you cause unemployment, you're going to increase infectious diseases. I mean, poverty causes infectious diseases. Causes ill health.
+
+**CONTEXT:** Can sanctions and economic disruption contribute to the spread of infectious diseases?
+
+**RAY PEAT:** Yeah, I saw a good tape, an hour-long lecture by Deborah Davis, who... She did a good book on cancer, the phony war on cancer, but this is a very good analysis of the electromagnetic damage that mostly they're claiming that it's safe on the basis of absolutely no research, but the animal research that exists shows that there is a real danger. That there is a degradation of the immune system from, like cell phones, for instance?
+
+**CONTEXT:** Could 5G deployment contribute to a declining immune system?
+
+**RAY PEAT:** Yeah, for example, some studies, just the mild field from sitting at an electric sewing machine, they found that people who had worked on an electric sewing machine for 20 years had a very high rate of dementia. And anything that affects your nervous system is affecting you. Your immune system, right? So another reason to go back to a treadle sewing machine and a bicycle.
+
+**CONTEXT:** Does electromagnetic exposure, like from electric sewing machines, affect the immune system and nervous system?
+
+**RAY PEAT:** Endotoxin is a fatty acid with carbohydrate attached to it. It's called lipopolysaccharide, but it's just part of the coating of a bacterium, and so it's being produced in the living process of the bacteria, and normally our intestine filters out most of it, but when you're under stress, more of it reaches your liver, and your liver is always doing a fairly good job of detoxifying it, but some of it's always circulating and activating the immune system a little bit, but when you're under stress your liver gets overwhelmed with this bacterial material, and lets it produce inflammation and stress, interfering with oxidative metabolism everywhere in your body, and it's activating because it interferes with mitochondrial energy production. It's overlapping with what the angiotensin system is doing anyway, but it activates the angiotensin system, so the viral infection and anything stressing your intestine enough to make it permeable to bacterial materials will end up the same place, making you have inflammatory symptoms, sometimes with bowel-centered symptoms, other times lung and head-centered symptoms.
+
+**CONTEXT:** What is endotoxin, and how does it relate to viral infections and the immune system?
+
+**RAY PEAT:** Yeah, it's partly chemical leaking through and partly inflammatory substances like serotonin and histamine produced by the intestine itself getting into the bloodstream. A tremendous flood of serotonin shows up and circulates in the platelets. The nerves directly can transmit signals such as secretion of mucus and production of histamine and serotonin and nitric oxide right up in your nose membranes and throat membranes. You can treat the symptoms at the source by swallowing these things so that's why I recommend raw carrot because carrot being indigestible will help to wash out some of the bacteria that are producing the endotoxin but if you take anti-inflammatory things with it such as olive or coconut oil or aspirin or an antihistamine or antibiotic, the carrot will deliver that down all the way through your intestine offering protection and inflammatory effect. An early U.S. 20th century gastroenterologist demonstrated that canine distemper which was thought of as a lung and respiratory disease, he found that before any bacteria or any virus occurred in any of these respiratory membranes, there was already a well-established infection in the intestine, and they would start drooling and sniffling because of a nervous or chemical signal from an inflamed intestine. So no pathogen was present in these inflamed respiratory membranes. It was all coming from the intestine. I think that's very generally neglected in people treating respiratory sicknesses. They let them go on eating things that are known to favor bacterial growth in the small intestine, for example.
+
+**CONTEXT:** How can raw carrot and anti-inflammatories help with endotoxin and intestinal issues?
+
+**RAY PEAT:** Yeah, that was something I noticed. About 60 some years ago when I worked in the woods, I would come in to eat supper in a restaurant, and I noticed day after day, I would see someone eating paella mode or a milkshake and by the time they got to the cash register, they would be sniffling. Just the thought of it. No, I think it was loosening up mucus, producing a sort of a therapeutic cleansing reaction when they got their blood sugar up. The first stage of inflammation increases circulation, but it can dry up the membranes and the mucus that they secrete becomes gummy and hardened and produces a dry cough, but when you get your blood sugar up, the process can complete itself, seems to need enough energy to produce a good flow of blood and mucus production so that it can wash away the histamine.
+
+**CONTEXT:** Why does eating sometimes cause a runny nose?
+
+**RAY PEAT:** We are loaded with potential viruses. Several percent of our genome, some people have identified as potential viruses or retroviruses. Thank you very much. These are DNA that has been built into our system by an exposure to the environment. There's a lab in Germany that shows that you can identify beef DNA after you eat beef in the bloodstream and then you can find it integrated into our genome. Whatever we eat that has DNA in it is likely to be able to enter cells and be integrated as a potential resource. But when we're put under stress, it's something that Barbara McClintock was very unpopular for in the 1940s and 50s when she talked about the jumping genes. But she showed that stress causes genes to come out of the chromosomes and move around to a different place. And since we have these retroviruses, I think it's very almost certain that under stress we will express retroviruses that have been in us for generations. If you look for them, it will look like you have caught a viral infection from the outside. That's what Peter Duesberg has been saying now for 40 years.
+
+**CONTEXT:** What is the theory that viruses are simply phages or somatids from bacteria, and that viral infections are caused by occult intracellular bacteria?
+
+**RAY PEAT:** Yeah, when the people with the tests for the HIV virus have looked at blood stored from Army recruits. In the 1960s and 70s, every year that the stored blood showed roughly a one-half percent HIV infection. Every year the same, and current more recent tests have been in the same range of a general population. If you look at sick people, you'll find a higher percentage, so it looks like an epidemic. You've got Africa where people are under stress. And exposed to many infectious diseases, you'll find a very high infectious rate, so called, of HIV virus. But the standard healthy population historically has been one half percent. And if you stir up the organism and cause rearrangement of the genes, as McClintock showed that the stress induces the expression of what we can call viruses, retroviruses.
+
+**CONTEXT:** What is the historical prevalence of HIV infection in the general population compared to sick people?
+
+**RAY PEAT:** No, not at all. But one thing that is known is that after this kind of a severe respiratory infection, there is a great increase in the risk of pulmonary fibrosis just because inflammation leads to fibrosis and reduced lung function. So apart from any future risk, I think the real thing to worry about is to stop the progression of that angiotensin-related inflammatory production of tissue fibrosis and stiffness.
+
+**CONTEXT:** What is the opinion on acquired immunity to coronaviruses, and what are the risks after a severe respiratory infection?
+
+**RAY PEAT:** Yeah. The Chinese are recommending a variety of things. They're including some virus-killing chemicals, but I think they're their main recommendations are Losartan and Sinanserin, the anti-serotonin things being very broad-spectrum protective anti-inflammatory. So I think ciproheptadine is a good, safe, broad anti-inflammatory, and a lot of people are recommending the old approach to viruses, the idea of killing the virus, and in the 70s and 80s antivirals based on the idea of nucleoside analogs to mutate the DNA of the virus, acyclovir and ribavirin for example, and at that time a lot of people were saying if you mutate the DNA or RNA of a virus, aren't you likely to be mutating the human DNA? And the FDA approved studies that said absolutely no, they're absolutely not going to mutate your gonadal DNA. But in recent years, 40-some years later, there's been a the studies are saying yes, definitely they injure the gonads and mutate human DNA. So people are now recommending widespread use, protectively, of nucleoside analog antivirals. But I think widespread use of that is going to create genetic damage to the reproducing population.
+
+**CONTEXT:** What are the Chinese recommendations for treating corona infections, and what are the risks of nucleoside analog antivirals?
+
+**RAY PEAT:** My first recommendation was to eat well and make sure your vitamin D level is up to around 50 to 60 nanograms per milliliter on a blood test, which often takes 5,000 units a day, and to use a very safe antiviral such as aspirin. If there's a sign of an infection, then I think Losartan and the anti-serotonin things would be appropriate to limit the degree of inflammation and not to worry about killing the virus or becoming immune to some future variant because your immune system is a lot better than the vaccines, but still the immune system doesn't necessarily keep up with the mutating virus.
+
+**CONTEXT:** What is the best course of action for people to protect themselves from infection?
+
+**RAY PEAT:** I think so. The Chinese recommend sinanserin. Oh, that's right. I don't know if it might be better than ciproheptadine.
+
+**CONTEXT:** Are Losartan and ciproheptadine good alternatives if aspirin isn't working?
+
+**RAY PEAT:** If you're in someplace where it's sunny enough. That's the best thing.
+
+**CONTEXT:** Can you get vitamin D from sunlight?

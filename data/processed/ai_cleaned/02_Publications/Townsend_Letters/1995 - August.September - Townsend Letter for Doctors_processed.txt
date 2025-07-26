@@ -1,0 +1,109 @@
+
+
+**RAY PEAT:** The theory that menopause is the result of the disappearance of eggs from the ovary is fundamentally flawed. This simplistic view is often presented in three untrue sentences: (1) the ovary runs out of eggs; (2) ovulation produces hormones, so when ovulation stops, hormone production ceases; and (3) menstruation stops because ovulation has stopped. These are often accompanied by corollaries like "estrogen is the female hormone," "estrogen deficiency accelerates aging," "treatment with estrogen makes you more feminine," and "progesterone deficiency is the result of anovulatory cycles."
+
+**CONTEXT:** What is the prevailing, yet incorrect, understanding of menopause and ovarian function?
+
+**RAY PEAT:** Many experimenters have demonstrated that old animals that have become infertile continue to produce eggs. For instance, R. R. Maurer and R. H. Foote (1971) removed eggs from the ovaries of old rabbits and transplanted fertilized eggs into young animals, where they implanted and developed normally. My own research found that old animals had insufficient oxygen in their uterus to sustain the embryo at the time of implantation. Administering estrogen to young animals induced a similar uterine oxygen deficiency, preventing implantation. Old animals remained fertile when supplemented with vitamin E and progesterone.
+
+**CONTEXT:** What evidence contradicts the idea that ovaries "run out of eggs" and what factors are actually crucial for fertility in aging animals?
+
+**RAY PEAT:** It is now established that aging animals, at the time they become infertile, are deficient in progesterone but still produce estrogen. Even in young individuals, stress around ovulation can interfere with progesterone production, preventing implantation. If progesterone becomes deficient after implantation, miscarriage occurs. Estrogen, when acting alone or with insufficient progesterone, causes spasms in the spiral arteries supplying the endometrium, which appears to be the basis for menstruation and a factor in miscarriage.
+
+**CONTEXT:** How does the hormonal balance, particularly progesterone, influence uterine health and pregnancy outcomes?
+
+**RAY PEAT:** Approximately 30 years ago, researchers began to understand that reproductive aging was not caused by a lack of eggs, and that the aged uterus could support pregnancy with adequate hormonal support. Interest shifted to the brain cells in the hypothalamus that regulate the pituitary. G. H. Zeilmaker (1969) was among the first to suggest that ovarian hormones could cause the brain to age. More recently, P.M. Wise has clearly demonstrated that estrogen exhausts the cells that inhibit pituitary gonadotropins, leading to abnormally high estrogen levels that are unable to suppress pituitary secretion of ovarian-driving hormones. Estrogen itself can impair the ovary's progesterone production, and continuously high gonadotropin secretion disrupts the ovary, adrenals, and uterus.
+
+**CONTEXT:** What is the role of the brain and hormonal regulation in reproductive aging, and how does estrogen impact this system?
+
+**RAY PEAT:** Stress, especially when amplified by estrogen, leads to injury, exhaustion, and aging. While the uterus and ovaries participate in the stress response, the brain is more directly involved in menopause than the ovaries or uterus, as shown by Zeilmaker and Wise. Coordination is crucial for complex processes like ovulation, fertilization, and implantation. The destruction of nerve cells regulating the pituitary renders this coordination impossible.
+
+**CONTEXT:** How does stress, in conjunction with estrogen, contribute to aging, and what is the brain's role in this process?
+
+**RAY PEAT:** The notion of "running out of eggs" can be disproven by demonstrating viable eggs in the ovary at the end of reproductive ability. In the 1940s, menopause was incorrectly attributed to estrogen deficiency, and now "egg deficiency" is added, compounding the confusion. The context from which these ideas emerge is important. Researchers like Edgar Allen and Herbert M. Evans observed that the ovarian germinal epithelium might undergo a cycle of cell proliferation, producing new oocytes during each menstrual cycle. New egg cells have been observed in adult prosimian primates and in cats and pigs at puberty, with reports in other species. However, the dominant view holds that egg cell numbers decline from birth with no new formation.
+
+**CONTEXT:** What is the historical and scientific basis for the "running out of eggs" theory, and what evidence challenges it?
+
+**RAY PEAT:** During gestation and infancy, gonadotropins are very high, declining during childhood as egg cell numbers visibly decrease. While the reason for high infant gonadotropins is unclear, it's reasonable to assume a role in ovarian development, as gonadotropins have a demonstrated developmental function in the ovaries and testes of older animals. Brain cell numbers peak before birth, coinciding with the peak in egg cells. This has led some to incorrectly argue that adult brain cells cannot divide, despite evidence to the contrary. Similarly, adult heart cells can also divide.
+
+**CONTEXT:** What is the relationship between gonadotropin levels, ovarian development, and cell division in the brain and ovaries?
+
+**RAY PEAT:** In various tissues, mature cells can inhibit the division of other cells. If an adequate number of egg cells are present, this principle suggests no need for new production. A treatment for polycystic ovaries, "wedge resection," can reduce masculinizing hormone production. By analogy with other tissues, removing a mass of malfunctioning tissue likely promotes the growth and development of new, functional cells, akin to a new ovary. Regeneration appears to be a capacity of all tissues given the right environment. It's plausible that "new eggs" would be found in ovaries studied after such treatment. However, even in seemingly simple processes like wound healing, there's disagreement about the contribution of local cell division versus invasion by cells from elsewhere. Cell appearance can be misleading, and histology often involves educated guesses.
+
+**CONTEXT:** How does the principle of cell inhibition and regeneration apply to ovarian function and the potential for new egg cell formation?
+
+**RAY PEAT:** The question of whether all a woman's eggs exist at or before birth is often linked to the concept of a "germ line" distinct from "somatic cells." Eggs are considered "germ line," while the rest of the body, including much of the ovary, is different. The germ line is traditionally viewed as immortal and isolated, while the body is mortal and adaptable to the environment. This ideology, originating from August Weismann at the turn of the century, aimed to counter the idea of inheriting acquired characteristics. Weismann argued that hereditary substance (germ plasm) derived solely from pre-existing germ plasm, was unmodifiable by the environment, and created the perishable body. The germ line was seen as the immortal creative substance, isolated from the body and environment.
+
+**CONTEXT:** What is the historical and ideological basis for the concept of the "germ line" and its separation from somatic cells?
+
+**RAY PEAT:** Weismann's theoretical germ line became identified with chromosomes and genes. However, his theory was factually incorrect, as all cell types in the body contain a full complement of chromosomes and genetic information. Despite this, his ideology became deeply embedded in genetics. To maintain the idea of an isolated germ line, especially after chromosomes were found to be identical in all body cells, required special effort. Weismann's core point was the absolute distinction between the body and hereditary substance. If his ideology, designed to deny the inheritance of acquired characteristics, was to be preserved, the isolated germ line had to be located elsewhere than in the chromosomes.
+
+**CONTEXT:** How did Weismann's ideology influence the understanding of genetics, and what challenges arose with the discovery of chromosomal uniformity?
+
+**RAY PEAT:** The concept of "germ line determinants" then emerged, believed to be located in a specific spot in the egg. As the egg divided, cells originating from this area were thought to represent the germ line. During embryonic development, the region traceable to this initial spot was considered the germ line. As the gonad developed, cells from this region were thought to migrate and invade it, multiplying but remaining an isolated strain of germ cells with a separate history traceable to the egg's determinants. During early embryonic development, these immigrant cells resembled their neighbors, which were somatic cell sprouts from the embryonic kidney region.
+
+**CONTEXT:** How did the concept of "germ line determinants" shape the understanding of germ cell development and migration?
+
+**RAY PEAT:** If not for the ideology of absolute isolation of hereditary substance, embryologists might have suggested that cells or material from one part of the embryo induced a specialized, differentiated state in suitably located cells. If these cells derived from a specific part of the egg did not carry unique genetic material—which they didn't—then what they carried was an incipient state of differentiation. The emphasis on this particular differentiation history stemmed from Weismann's ideology, which posited that only the "gene" was the creative source, and the body (somatic cells) was a passive product whose adaptations were ultimately meaningless. This became the "central dogma" of genetics, stating information flows only from gene to cell, not vice versa. This ideology led geneticists to deny the existence of RNA viruses, including retroviruses like HIV, and continues to hinder research on prions. Many respected biologists acted foolishly due to blind adherence to this false ideology.
+
+**CONTEXT:** How did the ideology of germ line isolation influence embryological interpretation, and what are the implications of the "central dogma" of genetics?
+
+**RAY PEAT:** Horticulturists, who routinely grafted vegetative parts of plants to produce flowers and fruits, found Weismann's doctrine of the germ line problematic, as the "germ" was often a product of the "body." Luther Burbank's work, which demonstrated the possibility of achieving such results, was ridiculed by academic biologists who deemed his achievements impossible or fraudulent. Much of Burbank's work has since been supported by recent evidence, but it couldn't be accepted by those whose ideology of the germ line/somatic distinction was contradicted by his findings.
+
+**CONTEXT:** How did horticultural practices, like grafting, challenge the prevailing biological ideology of the germ line?
+
+**RAY PEAT:** Another issue with the germ line doctrine arose when embryologists separated early-stage embryos into two groups of cells, finding that each group could develop into a complete animal. The germ line theory would predict that one twin could become reproductive while the other remained sterile. However, some significant ideas can persist even after being disproven.
+
+**CONTEXT:** What experimental findings challenged the germ line doctrine, and how do some ideas persist despite contradictory evidence?
+
+**RAY PEAT:** This same academic ideology, prioritizing the germ line, is responsible for blaming the complex process of reproductive aging on the mechanical idea of an "ovary running out of eggs." The ovary does not run out of eggs, and even if it did, it would have no major consequences because the primary events in ovulation are produced by cells other than the eggs. However, the ideology dictates that the "germ line" controls everything, and since eggs are the germ line, genes control the organism, and eggs control the woman.
+
+**CONTEXT:** How does the germ line ideology contribute to the misconception about ovarian aging and the role of eggs?
+
+**RAY PEAT:** It is instructive to consider the three steroid-secreting glands—ovaries, testes, and adrenals—to identify commonalities. In the testes, pituitary gonadotropins are generally believed to regulate steroid synthesis and gametogenesis. Similarly, in the ovaries, gonadotropins regulate steroid production and, to some extent, egg production. In the adrenal gland, ACTH governs the production of cortisol and sex steroids, as well as the transformation of glomerulosa cells into other types that secrete these hormones.
+
+**CONTEXT:** What are the common regulatory mechanisms for steroid-secreting glands like the ovaries, testes, and adrenals?
+
+**RAY PEAT:** The outer layer of adrenal cells can form the other two cell types. Since stress and ACTH convert them to these types, new ones must be formed. If the inner layers are removed, the entire adrenal cortex can regenerate from the outer layer. This indicates that stress causes cells to multiply and differentiate, implying cells are disappearing from the inner layers.
+
+**CONTEXT:** How does the adrenal cortex demonstrate cellular regeneration in response to stress?
+
+**RAY PEAT:** During my graduate studies, immunologists observed that new cells were continuously appearing in the thymus gland, yet the gland did not enlarge, and there was no visible trace of dying cells. This was a significant puzzle at the time, but it gradually became understood as a special type of cell dissolution called apoptosis, which accounted for the missing cells.
+
+**CONTEXT:** What was the early understanding of cell dynamics in the thymus gland, and how was the apparent loss of cells explained?
+
+**RAY PEAT:** Apoptosis, or cell dissolution, is constantly occurring in the testes, even as sperm cells are produced and leave the organ. In the ovary, "waves" of egg cell degeneration are also constantly taking place in young women. Radioactive labeling, used to argue against egg cell replacement, actually shows continual cell division in all other ovarian cells. Interestingly, the researchers conducting these studies did not seem interested in this apparent regeneration of other ovarian parts.
+
+**CONTEXT:** How does apoptosis manifest in the testes and ovaries, and what is the significance of cell division in other ovarian tissues?
+
+**RAY PEAT:** Apoptosis consistently appears to be part of a shaping process within the organ where it occurs. Regeneration provides new cells, while apoptosis recycles the substance of a fraction of the tissue's cells. We are only beginning to recognize that various hormones can inhibit or promote apoptosis, thereby participating in the "shaping" of the organism. In many systems, the need for a specific cell type or function seems to call it into existence, while idleness makes a cell susceptible to dissolution.
+
+**CONTEXT:** What is the functional role of apoptosis and regeneration in tissue shaping, and how do hormones influence these processes?
+
+**RAY PEAT:** I have deliberately avoided referring to "pituitary gonadotropins" as LH (luteinizing hormone) and FSH (follicle-stimulating hormone) because their names reflect a theory of their function. For example, textbook descriptions of testicular function claim LH produces testosterone and that testosterone's negative feedback suppresses LH, while FSH governs sperm formation. This description is entirely worthless and likely derived by analogy with their supposedly distinct functions in the ovary, as indicated by their names. These gonadotropins are involved in the development, maintenance, and functioning of the ovaries. Their effects depend on timing, balance with each other and with ovarian steroids, and are modified by numerous factors, including ovarian, nervous, pituitary, uterine, and immunological influences. During youth, the system functions coordinately, resulting in ovulation. During aging, the crucial changes appear to be a decreased ability of the ovary and brain to produce progesterone. Thyroid hormone, cholesterol, vitamin A, and efficient cellular respiration are essential for progesterone synthesis. Accumulated iron, unopposed estrogen, and impaired utilization of cholesterol and oxygen are known contributors to widespread and variable damage to this coordination system.
+
+**CONTEXT:** Why is it important to avoid specific names like LH and FSH when discussing gonadotropins, and what factors are crucial for ovarian function and its decline with age?
+
+**RAY PEAT:** The pituitary can secrete excessive amounts of gonadotropins due to either a deficiency in steroids or damage to the steroid-sensing nerves that regulate the pituitary. When an ovary is transplanted into the spleen, its hormones are destroyed before reaching the brain, leading to hypersecretion of gonadotropic hormone and tumor development in the ovary. This interpretation, that hypersecretion causes tumors, is supported by other observations, such as the increased risk of cancer in the remaining ovary after removal of one ovary, and the elevated risk of ovarian cancer after menopause with prolonged estrogen use (which creates conditions for later gonadotropin hypersecretion).
+
+**CONTEXT:** What are the causes of excessive gonadotropin secretion, and what evidence links hypersecretion to ovarian tumors and cancer?
+
+**RAY PEAT:** Psychologists have observed that naming an object based on a specific function can limit how people perceive and use it, and this applies to science as well. If we know one function of a substance and name it accordingly, it becomes harder to consider its other roles. Hans Selye argued that steroids, for instance, should be named by their origin rather than a single functional aspect. This principle extends to the terms "male hormone" and "female hormone"; it's better to consider them by origin and not rely on them to promote specific sex characteristics.
+
+**CONTEXT:** How does the naming of substances based on function, like "male" and "female" hormones, limit scientific understanding?
+
+**RAY PEAT:** In the absence of testicular or "male" hormones, animals differentiate as females. Progesterone acts as an anti-androgen and blocks testosterone's effects. When testosterone is administered to newborn or very young rats, it establishes a male hormonal pattern, but this is prevented if progesterone is given concurrently. Progesterone prevents differentiation away from the basic female path towards male specialization. Later in life, a progesterone deficiency in women can lead to masculinization of features like musculature and facial or body hair. Conversely, high doses of progesterone in men inhibit typically male processes, such as whisker growth. In the brain, progesterone provides a protective function in both sexes.
+
+**CONTEXT:** What is the role of progesterone in sex differentiation and in preventing masculinization?
+
+**RAY PEAT:** Estrogen promotes cell division and is involved in virtually all tissues in both males and females. If it's to be called a "female hormone," it should also be considered a "male hormone." Estrogen is necessary for breast development, though it's only one of many factors. In this context, it contributes to feminization. In other instances, it appears to contribute to virilization. At menopause, estrogen excess, in the absence of progesterone, can promote androgen production, leading to defeminization. This is often a result of stress or hypothyroidism. In such situations, estrogen is not a feminizing hormone; it cannot neutralize the male hormones the body produces in response to estrogen excess.
+
+**CONTEXT:** How does estrogen function in both sexes, and what are the consequences of estrogen excess at menopause?
+
+**RAY PEAT:** Since the 1930s, estrogen's toxic potential has become evident. However, the estrogen industry actively discourages the understanding that estrogen is a shock hormone with pro-aging effects. Histamine mimics estrogen's effects on the uterus, and antihistamines block them (Szego, 1965; Szego and Davis, 1967). Estrogen mimics the shock reaction, with stress, exercise, and toxins causing a rapid increase in estrogen. Males often have as much estrogen as females, particularly when fatigued or ill. Estrogen increases the brain's susceptibility to epileptic seizures, and recent research indicates that it, along with cortisol, enhances the effects of "excitotoxins," which are increasingly implicated in degenerative brain diseases.
+
+**CONTEXT:** What are the toxic effects of estrogen, and how does it relate to stress, aging, and neurological conditions?
+
+**RAY PEAT:** Current estrogen marketing emphasizes appearance and the danger of osteoporosis. However, evidence occasionally emerges implicating estrogen in skin and bone thinning. For example, Bauer et al. (1991) found no evidence that estrogen preserves skin thickness; in fact, estrogen use was associated with thinner skin, and skin thickness was related to bone mass but could not predict it.
+
+**CONTEXT:** What are the potential negative effects of estrogen on skin and bone health, contrary to marketing claims?

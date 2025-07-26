@@ -1,0 +1,253 @@
+
+
+**RAY PEAT:** Radiation and growth: Incoherent imprinting from inappropriate irradiation.
+
+**CONTEXT:** The document begins with a statement about radiation and growth.
+
+**RAY PEAT:** The US government conducted a series of 250 experiments in which large amounts of radioactive material were released into the atmosphere, to study the effects of radioactive isotopes on people, as part of a program to develop weapons that would kill or sterilize populations.
+
+**CONTEXT:** The document details historical US government experiments involving radioactive materials.
+
+**RAY PEAT:** When hydrogen bombs were produced in the 1950s, the US public was told that these weapons would make nuclear war safe, because they were “clean,” since fusion didn’t produce the toxic isotopes produced by fission bombs. However, immense quantities of natural uranium 238 were included in those bombs, with the result that they produced extremely radioactive fallout. This was kept secret from Americans, but the Soviets were able to determine the composition of the bombs by sampling the air that circled the world.
+
+**CONTEXT:** The document discusses the public perception versus the reality of hydrogen bomb technology.
+
+**RAY PEAT:** The US Atomic Energy Commission collected information on the radioactive isotopes in human, animal, and plant tissues from around the world, in the secret project called “Project Sunshine,” for the purpose of learning how many bombs could be exploded without killing the entire world’s population.
+
+**CONTEXT:** The document describes a secret government project to assess the global impact of nuclear testing.
+
+**RAY PEAT:** Thomas Edison, who had begun working with x-ray machines in 1895, became an opponent of their use after 1903, when one of his employees died of cancer that began in his hands and arms. By the 1930s, many people outside the medical profession were warning that diagnostic x-rays could cause accelerated aging, heart and circulatory disease, and birth defects, as well as causing cancer and leukemia. This public awareness of the danger of ionizing radiation was the reason that the government felt obliged to lie about the nature of the bombs and their effects on people and the environment. Many people, even in the US, were asking the government to stop the bomb tests, and to discuss nuclear disarmament. Two members of the US Congress (Senator Morse and Congressman Porter, both of Oregon) introduced bills in 1957 to stop the tests, but most congressmen, and President Eisenhower, believed that the US would be able to achieve a degree of technical advantage that would permit them to eliminate the Soviet Union in a first strike. This plan was closely involved with the need to study the effects of radioactive fallout on people and crops. The highest military officials were still pressing for a first strike in the 1960s (Douglas, 2008).
+
+**CONTEXT:** The document highlights early concerns about X-ray safety and the government's response to public awareness of radiation dangers.
+
+**RAY PEAT:** Science professors, including Linus Pauling, and some high school teachers tried to educate the public about the biological effects of radiation, but the US government mobilized effectively against them, for example by sending FBI agents to make inquiries that implied that they were “disloyal citizens.” Linus Pauling’s passport was revoked because of his efforts to inform the public. At the same time, the Atomic Energy Agency and other branches of government, and the corporations that were involved in manufacturing bombs and nuclear power reactors, were employing experts to assure the public that ionizing radiation was absolutely harmless, below a certain level of intensity, the threshold at which harm would suddenly begin, and that below that dose, it could even be biologically beneficial.
+
+**CONTEXT:** The document details the suppression of scientific dissent regarding radiation safety.
+
+**RAY PEAT:** John Gofman was one of the most visible of those government employees who argued that there was no basis for suspending atmospheric bomb tests. As the co-discoverer of protactinium-232, uranium-232, protactinium-233, and uranium-233, who later became a medical doctor, he was a favorite of the nuclear agencies for convincing the public that ionizing radiation was nothing to be feared.
+
+**CONTEXT:** The document introduces John Gofman and his initial stance on radiation safety.
+
+**RAY PEAT:** In an interview several years ago, Gofman said "I was stupid in those days. In 1955, '56, people like Linus Pauling were saying that the bomb fallout would cause all this trouble. I thought, 'We're not sure. If you're not sure, don't stand in the way of progress.' I could not have thought anything more stupid in my life."
+
+**CONTEXT:** Gofman's retrospective view on his earlier position.
+
+**RAY PEAT:** "The big moment in my life happened while I was giving a health lecture to nuclear engineers. In the middle of my talk it hit me! What the hell am I saying? If you don't know whether low doses are safe or not, going ahead is exactly wrong. At that moment, I changed my position entirely."
+
+**CONTEXT:** Gofman describes his pivotal moment of realization.
+
+**RAY PEAT:** "There is no way I can justify my failure to help sound an alarm over these activities many years sooner than I did. I feel that at least several hundred scientists trained in the biomedical aspect of atomic energy--myself definitely included--are candidates for Nuremberg-type trials for crimes against humanity for our gross negligence and irresponsibility. Now that we know the hazard of low-dose radiation, the crime is not experimentation--it's murder."
+
+**CONTEXT:** Gofman's strong condemnation of his past actions and those of his colleagues.
+
+**RAY PEAT:** Many ordinary people were making exactly that argument in the 1950s, but government censorship kept the most incriminating evidence from the public. The climate of intimidation spread throughout the culture, with large numbers of dissenters, especially between 1950 and 1965, losing their jobs in government, schools, universities, and industry. Now, the increasing numbers of people who don’t want x-rays are still treated as crackpots.
+
+**CONTEXT:** The document discusses the suppression of public dissent and the continued marginalization of those who question medical radiation.
+
+**RAY PEAT:** Probably because of this continuing political-cultural situation, Gofman’s recommendations in recent years have been very mild--simply for doctors to use good technology and to know what they are doing, which could lead to a ten-fold or even hundred-fold dose reduction in diagnostic x-rays. Even with such mild restraint in the use of diagnostic x-rays, Gofman’s well founded estimate is that 250,000 deaths caused by radiation could be prevented annually. I believe many more deaths would be prevented if ultrasound and MRI were used consistently instead of x-rays. Using Gofman’s estimate, I think we can blame at least ten million deaths on just the medical x-rays that have been used inappropriately because of the policies of the U.S. government in the last half century. That wouldn’t include the deaths caused by radioactive fallout from bomb tests and leaks from nuclear power plants, or the vast numbers of people mentally impaired by all sorts of toxic radiation.
+
+**CONTEXT:** Gofman's current recommendations and the scale of potential harm from medical X-rays.
+
+**RAY PEAT:** In the 1950s, many people believed that Gofman was just another government whore, like the other prominent scientists who supported atmospheric tests and argued against the “linear, no threshold” model of radiation damage. His description of a sudden recognition of the irrationality of his position is a powerful illustration of the way an authoritarian culture can affect the thought processes, but as far as I know Gofman never tried to explain his bizarre subservience to the social-political-economic power structure of US society. Most of his contemporaries failed to reconsider their actions and policies.
+
+**CONTEXT:** The document discusses the societal pressures and lack of accountability for scientists involved in radiation policy.
+
+**RAY PEAT:** Some of the survivors from that period are continuing to pollute the discussion of the biological effects of radiation. Hired by the nuclear industry to present lectures to their staff, as well as to the public, they publish articles in books and magazines sponsored by the nuclear industry, and appear in advertisements for the industry.
+
+**CONTEXT:** The document points to ongoing industry influence on the discourse surrounding radiation.
+
+**RAY PEAT:** For more than 50 years, the arguments of the pro-radiation factions have centered on a few situations, illustrations, and anecdotes that they know are effective propaganda, because each one consists of little more than a single image. These situations are predictably used to convince people that radiation exposure is harmless: A trip in an airliner, or living in Denver, exposes a person to hundreds of times more radiation than living near a nuclear reactor does; a sheet of ordinary paper stops a beam of radiation; living in homes with high radon levels prevents lung cancer; living in radioactive apartments in Taiwan prevented 96.5% of cancers; workers in the nuclear industry have a lower incidence of cancer than other workers.
+
+**CONTEXT:** The document outlines common propaganda tactics used to downplay radiation risks.
+
+**RAY PEAT:** These perennial arguments are now being used to sell radioactive rocks to cure cancer. The idea of “radiation hormesis,” that a small amount of radiation is positively good for the health, is even being popularized by internet sites such as Dr. Mercola’s.
+
+**CONTEXT:** The document notes the resurgence of "radiation hormesis" claims, even for therapeutic purposes.
+
+**RAY PEAT:** To counter those propaganda images, the people who want to urge caution with ionizing radiation have discussed the processes that are known to occur when a certain type of radiation interacts with a certain type of substance, and have pointed out that, despite the large amount of knowledge that exists, the specificity of these interactions and the complexity of the living substance mean that science has only begun to understand the biological effects of radiation. While emphasizing the fragmentary nature of the science, a few of these people have spent years collecting the best information available on the health effects of radiation in a few well defined situations.
+
+**CONTEXT:** The document contrasts industry propaganda with the scientific understanding of radiation's complex effects.
+
+**RAY PEAT:** Ernest Sternglass is occasionally mentioned by the nuclear apologists, as a complete quack who hasn’t done anything of value, and that he contradicts the authoritative conclusions of T. D. Luckey. Anyone who actually reads some of Sternglass’s books and articles, and then examines Luckey’s work, will understand the situation. Sternglass presents a large amount of very meaningful data, and he also describes the actions of government and industry officials who have made great efforts to hide dangerous information. Luckey repeatedly cites a few propaganda pieces as if they contained valid data, which they don’t. And Luckey is apparently the best that the industry can offer.
+
+**CONTEXT:** The document critiques the dismissal of Ernest Sternglass's work and contrasts it with T.D. Luckey's reliance on industry-friendly data.
+
+**RAY PEAT:** When a physicist compares the radiation received from cosmic rays in Denver to the radiation from military or industrial nuclear fission products, implying that the “smaller dose” from artificial sources is less harmful “because it’s much smaller,” he is lying. A radioactive particle that decays in the body delivers most of its energy to the tissues, but external radiation of very high energy, such as cosmic rays, gamma rays, or very high voltage x-rays, delivers a smaller proportion of its energy to the tissues.
+
+**CONTEXT:** The document explains why comparing different types of radiation exposure based solely on dose is misleading.
+
+**RAY PEAT:** The person who demonstrates that a beam of “radiation” (which consists of alpha particles) can be stopped by a sheet of paper is illustrating the sort of thing that happens when fission occurs within the body. If an alpha particle is released inside the body, its energy will be absorbed in a very short distance, causing very great damage in a small region (Hei, et al., 1997).
+
+**CONTEXT:** The document explains the localized, high-damage potential of alpha particles emitted internally.
+
+**RAY PEAT:** People whose houses are chronically contaminated with increased levels of radon gas don’t have an abnormally high incidence of lung cancer. But why would radon be expected to cause lung cancer? It’s fat soluble, and it concentrates in fat tissues, bone marrow, and the brain and other nerves. Its concentration is about 10 times higher than normal in the brains of Alzheimer’s and Parkinson’s disease patients (Momcilovic & Lykken, 2007), and maps of the incidence of Alzheimer’s disease in the US coincide with maps of radon emissions. People who talk about the negative association of lung cancer with radon exposure clearly aren’t interested in learning the harmful effects of radon exposure.
+
+**CONTEXT:** The document challenges the narrative linking radon to lung cancer and suggests its neurotoxic effects.
+
+**RAY PEAT:** The original article about the radioactive apartments in Taiwan, whose occupants had only 3.5% as many cases as would be expected from the rate in the general population, was written by W. L. Chen and 13 co-authors. Chen and at least 12 of his co-authors were closely associated with the nuclear industry or the military. The article gives no definite information about the distribution of the radiation within the apartments, about the general health and mortality rate of the residents, or about the ages of the tenants. The article was published in the Journal of the Association of American Physicians and Surgeons. {This magazine was formerly named Medical Sentinel.) The New York Times described AAPS as an "“ultra-right-wing ... political-economic rather than a medical group," and most of the articles are advocating extreme economic and political action. Yet most of the people who argue that Chen’s article is evidence of the harmlessness, or beneficial effects, of radiation, including T. D. Luckey, list it in their references, as if it were a scientific report.
+
+**CONTEXT:** The document scrutinizes a frequently cited study on radioactive apartments in Taiwan, highlighting potential industry bias and methodological flaws.
+
+**RAY PEAT:** Even the mainstream professional journals haven’t had a good record for objectivity. R. E. Alexander, a former chairman of the Health Physics Society’s public relations committee, told the society's board of directors that Ernest Sternglass’s work had led to publicity that was damaging to the nuclear industry. He said that the “basic publicity objective” of the Society was “to let the public know that due to a frankly acknowledged need, we have a new technology, health physics, which will permit them to enjoy the benefits of nuclear energy safely.” Facts about the harmful effects of radiation were harmful to the Society, but "while we try to avoid publicizing papers that do not contribute to our basic objective, there is no way to prevent such publicity absolutely."
+
+**CONTEXT:** The document reveals the Health Physics Society's explicit goal of managing public perception of nuclear energy.
+
+**RAY PEAT:** From my own experience, I think that kind of deference to economic interests is common in the major science journals in all fields.
+
+**CONTEXT:** The author's personal observation on the influence of economic interests in scientific publishing.
+
+**RAY PEAT:** Another journal that serves the industry is Radiation Protection Management.
+
+**CONTEXT:** Identification of another journal aligned with industry interests.
+
+**RAY PEAT:** One of the current authors in RPM is Mark Hart, who mentions how he tries to prevent his audience from thinking “this guy must work for the government.” He arranges to have himself introduced as a person who is displaying his personal collection of antiques (radioactive antiques), and that he has taken his vacation time to present the lecture.
+
+**CONTEXT:** The document describes a tactic used to present industry-aligned information as independent.
+
+**RAY PEAT:** “This demonstrated that I was not being paid by the Laboratory [Lawrence National Radiation Lab] to give the talk.” “I make a point of separating the contents of my presentation from whatever the stance of my employer may be on this subject. I point out that the information that I will present is not my perspective nor the result of any research that I have conducted: I am only presenting a ‘book report,’ a very elaborate book report with examples on display that are integrated into the talk. I am presenting the very same information that the audience can read for themselves. To this end the presentation encompasses the range of authors from Gofman (linear hypothesis) to Luckey (hormesis) and ties historical experience to the common understanding of radiation and radioactivity.” “We must also remember that credibility is lost if the audience is taken too far, too fast.” “For instance, tell an audience that more people have died in the United States from airbags than died at the Chernobyl accident.”
+
+**CONTEXT:** Mark Hart's explanation of his presentation strategy, including a comparison to airbag safety.
+
+**RAY PEAT:** Hart’s comment on the linear hypothesis: “This conservative approach was adopted assuming any amount of radiation would put a person at a quantifiable risk. There is little direct evidence of this, and there is disagreement about its veracity, even among radiation professionals.” His use of the word “veracity” in relation to evidence implies that some professionals are lying about the evidence, but his context makes it clear that he is referring to people like Gofman.
+
+**CONTEXT:** Hart's critique of the linear no-threshold model for radiation risk.
+
+**RAY PEAT:** In 1959, I suggested that my students, reading about the effects of radiation, should notice who the authors worked for. It was immediately obvious to them that government employees never mentioned that radiation could be harmful.
+
+**CONTEXT:** The author's early observation about the bias in government-funded research on radiation.
+
+**RAY PEAT:** The people in the various professions who insist that “small” amounts of radiation are perfectly safe, or beneficial, seldom say much about the mechanisms involved in the harm or benefit of radiation. They suggest that the ionizing radiation stimulates mechanisms that repair damaged genes, when it damages them, or that it “stimulates the immune system.” The very old idea, developed more than 80 years ago, that radiation’s biological effect is produced exclusively by causing genetic damage, continues to be central to their thinking. This view dominates the thinking of dentists and physicians, as well as those in the business of “protecting public health.”
+
+**CONTEXT:** The document criticizes the simplistic explanations for radiation effects, focusing on a flawed "genetic damage" model.
+
+**RAY PEAT:** At the beginning of the 20th century (e.g., H.J. Muller, 1910, 1921) when nothing was known about the physical or chemical nature of “the gene,” many biologists committed themselves to the belief that “the gene is the basis of life.” (Ann Rev of Genetics vol. 2:1-10, 1968, G. Pontecorvo, Hermann Joseph Muller; page 1). When it was discovered that x-rays produced mutations it seemed obvious that it was because they changed the “genes,” and later when genes came to be identified with DNA, it was believed that radiation had its biological effects because of its effects on DNA, which continued to be thought of as “the basis of life.”
+
+**CONTEXT:** The historical development of the "gene as the basis of life" concept and its influence on radiation biology.
+
+**RAY PEAT:** The idea is that at the moment radiation is absorbed by a tissue, a DNA-gene is damaged, or not. Studies of DNA in isolation have contributed to some mistaken ideas about radiation safety; at one time the mere size of the DNA molecule was thought to determine an organism’s sensitivity to radiation. In living cells, according to the older explanation, if the amount of DNA damage isn’t too great, it will be repaired, and the radiation will have had no effect at all. A greater amount of DNA damage might be incorrectly repaired, producing a mutation, that could produce cancer, or, if the gonads were exposed to radiation, an inherited defect could be produced. Any damage would be instantaneous and local, and the repair would take place within minutes or hours, so by analyzing the DNA (usually just looking for structural changes in chromosomes), the degree of damage could be determined soon after the exposure.
+
+**CONTEXT:** The document details the reductionist view of radiation damage focusing on DNA and its repair.
+
+**RAY PEAT:** This localized, “genetic” explanation for the harmful effects of radiation was the predominant ideology of Anglo-American biology. William Bateson, who promoted the genetic doctrine of Gregor Mendel, and his followers such as Charles Davenport, wanted to deny absolutely the possibility that environmental influences could influence traits such as intelligence; each trait was determined by a gene. At the same time, 1902-1914, Theodor Boveri was explaining the formation of cancer by radiation or chemical carcinogens in terms of an induced imbalance of chromosomes, produced by changes in the process of cell division. The sorting of chromosomes during cell division became unstable under the influence of various harmful factors. Boveri saw that disturbing the chromosomes of an embryo could cause cells to stray out of their normal developmental path, and reasoned that this is similar to what happens in cancer--a disorganization of cellular interactions. But William Bateson didn’t acknowledge that chromosomes carried genetic information until 1922, and his influence greatly retarded Anglo-American study of the biology of chromosomes, and of cancer.
+
+**CONTEXT:** The document contrasts the genetic determinism of Bateson with Boveri's understanding of chromosomal instability in cancer.
+
+**RAY PEAT:** This old idea (Boveri’s) of genomic or chromosomal instability has become central to understanding the real effects of radiation on organisms. The fact that bacteria and other single-cell organisms contain DNA isn’t enough to allow them to be considered as models for understanding the biological effects of radiation, because the existence of more complex organisms depends on the coordination of cells, based on signals and perception of wholes. The nature and the quality of our development depends on the degree of our cells’ vigor and sensitivity in responding to, maintaining, and creating our long-range coherence. The sorting of chromosomes is one of the processes affected by the cells’ basic vitality.
+
+**CONTEXT:** The document emphasizes the importance of chromosomal instability and cellular coordination in complex organisms, moving beyond simple DNA damage models.
+
+**RAY PEAT:** On the intracellular level, organization and sensitivity depend first on the interactions of water, electrons, and proteins, supported by the modifying effects of carbon dioxide, sugars, fats, nucleic acids, salts, and other substances. The crucial regulatory processes occur within a narrow range of energy changes. Interacting cells communicate their needs by excitatory signals that mobilize other parts of the system to make adaptations. Excitatory signals imposed arbitrarily from the outside on the adapting organism can create a state of arousal without a defined purpose, meaning that in the absence of a goal that can be achieved, the excited state may expend resources that could have been used productively in other ways.
+
+**CONTEXT:** The document describes the fundamental intracellular processes and the disruptive nature of arbitrary external signals.
+
+**RAY PEAT:** Ionizing radiation is one source of such misleading excitatory signals, and even apart from its ionizing effects, it is likely to transmit enough extraneous excitation to the delicately balanced living state to change its organization and sensitivity.
+
+**CONTEXT:** Ionizing radiation is identified as a source of disruptive excitatory signals.
+
+**RAY PEAT:** When a man receives ionizing radiation to the head (Tamminga, et al., 2008), his sperms are destabilized in such a way that they are able to carry the instability with them into the fertilized ovum and the developing offspring, increasing the risk of developing leukemia.
+
+**CONTEXT:** The document highlights the transgenerational impact of radiation exposure on sperm.
+
+**RAY PEAT:** Leonel Strong, who had studied genetics with T.H. Morgan and began breeding a strain of cancer-prone mice in 1921 for use in cancer and genetic research, gradually began thinking in terms of environmentally induced genetic instability. Excessive estrogen, and changes in the metabolism of the liver were the two factors that he focused on. He found that if a pregnant cancer-prone mouse received injections of a liver extract, several generations of the descendants would be free of cancer. The genetic instability that caused them to reliably develop mammary cancer was an inherited metabolic condition which could be corrected by a metabolic treatment.
+
+**CONTEXT:** The document discusses Leonel Strong's work on environmentally induced genetic instability and metabolic correction of cancer predisposition.
+
+**RAY PEAT:** It had been known for several decades that both estrogen and ionizing radiation produced cancer, when in 1971 Segaloff and Maxfield showed that they are synergistic. Irradiation produced cancer much more quickly when the rats had been treated with estrogen. In 1973, Segaloff treated 3 groups of rats, (1) with estrogen and radiation (800 R of X-rays to half of the body), or (2) with estrogen, radiation and progesterone, or (3) with just radiation and progesterone. As in the earlier experiment, many tumors quickly appeared on the side of the body that received the radiation in most of the animals of group 1, but in group 2 only one eighth as many tumors appeared in the animals that received progesterone. In the third group, no tumors appeared in the irradiated animals that received progesterone.
+
+**CONTEXT:** The document details experiments showing the synergistic effect of estrogen and radiation on cancer development and the protective role of progesterone.
+
+**RAY PEAT:** This protective action of progesterone against radiation implies that X-rays have “estrogenic” effects on the body. This had previously been demonstrated very literally, when it was found that irradiating any part of the body of a female animal caused it to go into estrus, behaviorally as well as physiologically and biochemically.
+
+**CONTEXT:** The document explains that X-rays can mimic estrogenic effects, inducing estrus in female animals.
+
+**RAY PEAT:** Toxic heavy metals can also sensitize animals to radiation (and some metals, such as cadmium, have estrogenic effects). Stress of any sort tends to increase the formation of estrogen, and estrogen activates many mediators of inflammation.
+
+**CONTEXT:** The document links heavy metals and stress to increased estrogen and inflammation, sensitizing to radiation.
+
+**RAY PEAT:** Forty years ago, all carcinogens were dogmatically considered to be mutagens, but gradually the idea of “non-genotoxic carcinogenesis” has been recognized, along with the idea of genetic instability. Estrogen is typical of this type of carcinogen. Heat exposure, “serum starvation,” and the tumor microenvironment are examples of non-genotoxic factors that can induce the instability (Li, et al., 2001). If the local environment of the tumor is carcinogenic, the tumor could grow by “induction” of defects in normal cells, rather than just by multiplication of its own cells. (I have proposed that carbon monoxide produced by a tumor could be a factor in the enlargement of the tumor, by induction of stress in surrounding cells.)
+
+**CONTEXT:** The document discusses the shift from a purely mutagenic view of carcinogens to recognizing non-genotoxic mechanisms and genetic instability, with estrogen as an example.
+
+**RAY PEAT:** When destabilizing factors are transmitted from cells that were damaged, for example by irradiation, to other cells that weren’t exposed to the radiation, but which then undergo changes similar to those of the exposed cells, these changes are called “bystander effects.” Besides being transmitted from one part of the body to another, for example from the head to the reproductive organs, these effects can even be transmitted from one animal to another, for example from fish exposed to radiation to other fish which enter water after the exposed fish have been in it (Mothersill, et al., 2007). Serotonin has been identified as one of the substances transmitting the effect (Poon, et al., 2007). In some situations, the transmitted factors include nitric oxide and “persistent” free radicals (Harada, et al. 2008).
+
+**CONTEXT:** The document explains the concept of "bystander effects" in radiation damage, where damaged cells transmit harmful signals to undamaged cells.
+
+**RAY PEAT:** Besides transmitting the destabilizing effects through space, the effects can also be transmitted through time. Between 1988 and 1992, people who survived the atomic bomb in Hiroshima in 1945 were tested for signs of inflammation, and their leukocyte counts, erythrocyte sedimentation rate, alpha-1 globulin, alpha-2 globulin, and sialic acid levels were increased in proportion to the amount of radiation they had been exposed to (Neriishi, et al., 2001). Twenty years after people were exposed to radiation by working at the reactor site after the accident at Chernobyl, their blood serum was compared to that of people who weren’t exposed. Serum from the exposed workers caused chromosome damage and loss of viability in test cells (Marozik, et al., 2007).
+
+**CONTEXT:** The document provides evidence of long-term and transgenerational effects of radiation exposure, citing studies on atomic bomb survivors and Chernobyl workers.
+
+**RAY PEAT:** G. Csaba’s idea of hormonal imprinting is that a pattern is formed in the cytoplasm in response to the environment, and that this pattern can be passed from generation to generation if it is useful (Csaba, 1986). The persistent bystander and even transgenerational effects of radiation can be thought of as a kind of negative imprinting, a disruption of useful cytoplasmic patterning. The outcome of any cellular destabilization can be influenced by many things, even years or generations later. Even seemingly normal identical twins and cloned animals have recognizable differences, resulting from slight instabilities in the imprintable factors that regulate development (Dolinoy, et al., 2007; Weidman, et al., 2007; de Montera, et al., 2010; Wong, et al., 2010; Zwijnenburg, et al., 2010).
+
+**CONTEXT:** The document connects radiation's effects to the concept of "hormonal imprinting," suggesting a disruption of developmental patterns.
+
+**RAY PEAT:** Prenatal or neonatal exposure to extremely small amounts of the estrogenic substances used in plastics, nonylphenol and bisphenol-A, have been found to greatly increase adult sensitivity to estrogen (Wadia, et al., 2007; Soto, et al., 2008). The synergy of estrogen and ionizing radiation suggests that early exposure to either could increase adult sensitivity to both.
+
+**CONTEXT:** The document highlights the synergistic effect of early exposure to estrogenic chemicals and radiation on adult sensitivity.
+
+**RAY PEAT:** The bystander effects include alterations in energy metabolism (Nugent, et al., 2010), movement, mitosis, and cellular orientation or perspective. Cells have different degrees of mobility, from muscle and bone cells to leukocytes, and the integrity of the organism depends on the appropriateness of their movements. Cells have to know where they are, and when, to coordinate their activities in space and time, knowing not only when to divide, but exactly how to orient the direction in which the division will occur.
+
+**CONTEXT:** The document details how bystander effects can disrupt cellular functions, including energy metabolism, movement, and division orientation.
+
+**RAY PEAT:** Although I consider every cell to be a potential stem cell, it’s helpful to consider the nature of the “stem cell function” in a general sense. The cells in the basal layer of the skin or intestine, for example, are well known stem cells. With each division, one daughter cell stays in place as a stem cell, while the other migrates toward the surface, as a differentiating and functioning replacement cell. (In the brain, cells migrate from a zone around the ventricles into the brain.) This is an asymmetric division, which must be oriented exactly, so that the basal layer continues to contain stem cells, rather than differentiated cells. The extracellular matrix surrounding the “stem” cells participates in the orientation of the asymmetrical division. Without proper orientation of the cell and its matrix, tissue renewal would fail.
+
+**CONTEXT:** The document explains the concept of stem cell function and the critical role of cell orientation in tissue renewal.
+
+**RAY PEAT:** In the 1920s and 1930s, when the idea of developmental fields guided many areas of research, numerous biologists considered that electrical and electromagnetic fields interacted with chemical processes, permitting cells to sensitively regulate their size, shape, orientation, and interactions with their surroundings. W.F. Koch, Alexander Gurvich, Albert Szent-Gyorgyi, and G.W. Crile did many experiments demonstrating the biological effects of electrons and photons, but in the spirit of reductionism corporate science bitterly rejected their work for several decades. A few groups have been bringing their ideas up to date, in ways that help to understand bystander effects, lingering inflammatory effects, imprinting, transgenerational effects, and that suggest new types of therapy.
+
+**CONTEXT:** The document discusses early research on the biological effects of electrical and electromagnetic fields, which was largely suppressed by reductionist science.
+
+**RAY PEAT:** Gurvich, and more recently many others including F.A. Popp, have demonstrated that normal cells emit weak photons in the visible and ultraviolet spectrum. Popp’s laboratory has demonstrated that DNA can “store photons,” by forming stable excited electronic states between nucleotide bases. Excited states in proteins can be transmitted to other proteins (Lardinois, et al., 2003), and the water close to proteins can maintain the excited states of electrons produced by oxygen over long periods of time (Marchettini, et al., 2010; Voeikov, 2001, 2002, 2007; Voeikov & Malenkov, 1971, Voeikov, et al., 2003).
+
+**CONTEXT:** The document highlights research on biophotons and the role of DNA, proteins, and water in storing and transmitting electronic excitation.
+
+**RAY PEAT:** Enzymic reactions in normal metabolism can create a variety of excited electronic states which contribute to the store of photons and electrical fields. In plants, light creates an excited electronic state in chlorophyll, which is used metabolically, generating cellular fields similar to those in animals. The random processes of free radical oxidations in unstable lipids can also create excited states and photons, but they are distinct from those produced in normal metabolism. Deeply penetrating ionizing radiation is a unique source of random excitation of electrons, contributing to the burden of random stimulation.
+
+**CONTEXT:** The document explains how normal metabolism generates ordered electronic states, contrasting it with the random excitation caused by radiation and lipid peroxidation.
+
+**RAY PEAT:** In the normal metabolic oxidation and reduction, orderly electrical fields are generated, and the polarity of these fields is closely related to the alignment of the parts of the cell that regulate movement and cell division. When an external electrical field is applied experimentally, the centrosome, Golgi body, microtubules and other parts of the cell align themselves with the field, the cytoplasm streams, and the cells migrate toward the external cathode.
+
+**CONTEXT:** The document describes how ordered electrical fields in metabolism influence cellular organization and movement.
+
+**RAY PEAT:** Injured cells behave like cathodes, producing the strongly negative “injury potential.” Intensely stimulated cells produce a similar field, and it has been known for many years that brain cells will migrate toward an area of excitation. But disoriented cells don’t migrate appropriately.
+
+**CONTEXT:** The document explains that injured or intensely stimulated cells generate negative electrical fields that influence cell migration.
+
+**RAY PEAT:** Since the normally oriented fields are maintained by metabolically excited electrons, and govern the quality of tissue renewal, the random electronic and light activity produced by lipid peroxidation and other toxic processes threaten the basic organization of the animal or plant. Vitamin C and the intrinsic “antioxidants” protect against these electronic disturbances, and can reverse some of the bystander effects produced by radiation and other stresses.
+
+**CONTEXT:** The document emphasizes that metabolic processes maintain cellular organization, and that lipid peroxidation and toxins disrupt this, while Vitamin C and antioxidants offer protection.
+
+**RAY PEAT:** Even ultraviolet light can produce electronic excitation and bystander effects that destabilize cells, but, unlike gamma rays and x-rays, ultraviolet light doesn’t penetrate deeply into the body. In visible light, it is only the red component that can pass deeply into the tissue, and it happens that red light is able to “quench” many excited electrons, restoring them to their normal resting or ground state. In a solid material, such as a seed or hair or bone, excited electrons will persist for a long time (hours in the seed and hair, years in bone), but with a brief exposure to red light, they will return to their normal state.
+
+**CONTEXT:** The document discusses the effects of UV and red light, noting red light's ability to "quench" excited electrons and restore normal states.
+
+**RAY PEAT:** This beneficial effect of the red component of sunlight helps to keep plants from being sunburned. If the red light is removed from sunlight, even the blue light by itself is quickly toxic to their mitochondria. During the night, animals’ respiratory enzymes lose some of their effectiveness, possibly from the effects of random lipid peroxidation, and red light restores their activity.
+
+**CONTEXT:** The document highlights the protective role of red light for plants and its restorative effect on animal respiratory enzymes.
+
+**RAY PEAT:** Heat stress and increased pH contribute to the generation of random electronic excitation, and light is protective in plants, partly by allowing carbon dioxide to be produced. In all cells, CO2 helps to control the general electronic state, lowering the pH and protecting the essential molecules from random excitations, oxidations, and reductions.
+
+**CONTEXT:** The document links heat stress and increased pH to random electronic excitation, and notes the protective role of light and carbon dioxide in stabilizing cellular electronic states.
+
+**RAY PEAT:** Under natural conditions, cosmic rays are an important source of random electrical excitations. At high altitude, their high energy causes them to have a low “linear energy transfer,” LET, affecting tissues only slightly as they pass through, and at sea level the secondary and tertiary rays produced from the collisions of primary cosmic rays with the atmosphere have a higher LET, which is probably responsible for the lower mortality from cancer and heart disease at high altitude. But the lower oxygen pressure at high altitude, and greater retention of carbon dioxide in the tissues, would also reduce the tissue damage from radiation.
+
+**CONTEXT:** The document discusses cosmic rays as a source of excitation and suggests that lower mortality from cancer and heart disease at high altitudes may be due to lower LET cosmic rays, lower oxygen pressure, and increased CO2 retention.
+
+**RAY PEAT:** There are two species of bacteria that can withstand extremely large doses of ionizing radiation, and carbon dioxide seems to be the crucial factor in the ability of their proteins to function, even when their DNA has been fragmented by intense ionizing radiation.
+
+**CONTEXT:** The document highlights the role of carbon dioxide in protecting bacterial proteins from radiation damage.
+
+**RAY PEAT:** The recognition of the coherence of the organism on the molecular and electronic level makes it clear why there can be no threshold of safety for ionizing radiation, but it also suggests new approaches to preventing and treating the developmental and degenerative diseases.
+
+**CONTEXT:** The document concludes that understanding cellular coherence explains the lack of a safety threshold for ionizing radiation and points to new therapeutic avenues.
+
+**RAY PEAT:** Meanwhile, people in the US are being offered CAT scans to “detect early signs of heart disease” in a test that “takes only 20 to 30 minutes,” and for other trivial reasons, with the approval of state radiation regulators, and without interference from the FDA. Hundreds of people recently experienced loss of hair in a stripe around their head after having x-ray scans, when their doctors intentionally used high doses to get clearer images. Paralysis and dementia are likely to follow in a few years, but few doctors recognized their bizarre hair loss as an indication of radiation poisoning. Many hospitals use low voltage x-rays for mammograms, with high LET and increased carcinogenicity, to get better images.
+
+**CONTEXT:** The document criticizes the widespread use of medical imaging like CAT scans and mammograms, highlighting the risks of high-dose X-rays and the lack of recognition of radiation poisoning symptoms.
+
+**RAY PEAT:** In California, where hundreds of the destructive head scans were done, tort reform law means that noneconomic damages for medical malpractice are limited to $250,000, from which a successful litigant would have to pay the lawyer. Premature death or dementia would be likely to precede any legal victory.
+
+**CONTEXT:** The document points out the legal and financial barriers to seeking recourse for medical radiation harm.
+
+**RAY PEAT:** The culture that has made these bizarre medical radiation exposures possible is being sustained and expanded every time your dentist or physician explains the safety of “digital x-rays,” or “dual photon bone scans,” or mammograms.
+
+**CONTEXT:** The document concludes by stating that the continued acceptance of medical radiation procedures is perpetuated by healthcare professionals' assurances of safety.

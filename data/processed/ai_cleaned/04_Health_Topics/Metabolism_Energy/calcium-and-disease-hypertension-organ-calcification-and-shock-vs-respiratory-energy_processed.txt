@@ -1,0 +1,109 @@
+
+
+**RAY PEAT:** "In biology and biochemistry, calcium is the substance most often studied, so it is significant that researchers still speak of a calcium paradox. There are several such paradoxes: As bones lose calcium, the soft tissues calcify; when less calcium is eaten, blood calcium may increase, along with calcium in many organs and tissues; if an organ such as the heart is deprived of calcium for a short time, its cells lose their ability to respond normally to calcium, and instead they take up a large, toxic amount of calcium. Magnesium deficiency and calcium deficiency have some similar symptoms (such as cramping), but magnesium is antagonistic to calcium in many systems. It is the basic protective calcium blocker. Inflammation leads to excessive uptake of calcium by cells, and is a factor in obesity, depression, and the degenerative diseases. Protein deficiency is an important cause of deranged calcium metabolism. Vitamins K, E, and A are important in regulating calcium metabolism, and preventing osteoporosis. Aspirin (with antiestrogenic and vitamin E-like actions) is protective against bone resorption and hypercalcemia."
+
+**CONTEXT:** The article begins by introducing the concept of the "calcium paradox" and its implications for health.
+
+**RAY PEAT:** "It is extremely important to realize that calcium deposits in soft tissues become worse when the diet is *low in calcium*. Persons suffering from arthritis, bursitis, scleroderma, hardening of the arteries and any abnormality where calcium deposits or spurs may cause pain are often afraid to eat foods rich in calcium. Actually they can never improve until their calcium and magnesium intakes are adequate. Not infrequently physicians tell individuals with kidney stones to avoid all milk, thereby causing stones to form even more rapidly. Such calcium deposits can also occur when vitamin E is undersupplied. After open-heart surgery, when both magnesium and vitamin E are drastically needed and could easily be given, the calcification of heart muscles often becomes so severe that it can cause death within a few days."
+
+**CONTEXT:** The article emphasizes the counterintuitive relationship between dietary calcium intake and soft tissue calcification.
+
+**RAY PEAT:** "Almost all biologists think of the organism as a machine, regulated by information according to innate programs. When it comes down to the details, their explanations sometimes make Rube Goldbergs imaginary contraptions seem elegant. At their best, they usually rely on some mysterious things called ionic pumps, that perform active transport, powered by little motors, under instructions from molecules that act on their specific receptors. When things get unmanageable, the biologists speak of paradoxes. Ionized atoms and molecules behave in orderly ways, in relation to their size and their electrical charge. Organic material, even when its dead, selectively binds certain metal ions, and excludes others. The living organism produces a stream of metabolic products, such as carbon dioxide or lactic acid, which interact specifically with each other and with the metal ions, modifying their concentrations inside cells and in the body fluids. This movement of ions can be called active transport, without invoking the mysterious machinery of membrane pumps. Chemical changes produced inside cells, for example by respiration, create different electrical charges in different compartments (inside and outside of capillaries, for example) which affect the movements of water and ions, by simple physical processes, not by molecular pumps. The result of these passive and active processes is that each kind of ion has a characteristic concentration in each compartment, according to the metabolic energy state of the organism."
+
+**CONTEXT:** The author critiques the prevailing mechanistic view of cellular ion transport, proposing an alternative based on metabolic energy and chemical interactions.
+
+**RAY PEAT:** "Magnesium and potassium are mainly intracellular ions, sodium and calcium are mainly extracellular ions. When cells are excited, stressed, or de-energized, they lose magnesium and potassium, and take up sodium and calcium. The mitochondria can bind a certain amount of calcium during stress, but accumulating calcium can reach a point at which it inactivates the mitochondria, forcing cells to increase their inefficient glycolytic energy production, producing an excess of lactic acid. Abnormal calcification begins in the mitochondria. When cells are stressed or dying, they take up calcium, which tends to excite the cells at the same time that it inhibits their energy production, intensifying their stress. A cramp or a seizure is an example of uncontrolled cellular excitation. Prolonged excitation and stress contribute to tissue inflammation and fibrosis. Gross calcification generally follows the fibrosis that is produced by inflammation."
+
+**CONTEXT:** This section details the cellular mechanisms of calcium and magnesium distribution and their role in cellular stress and dysfunction.
+
+**RAY PEAT:** "Arteries, kidneys, and other organs calcify during aging. At the age of 90, the amount of calcium in the elastic layer of an artery is about 35 times greater than at the age of 20. Nearly every type of tissue, including the brain, is susceptible to the inflammatory process that leads through fibrosis to calcification. The exception is the skeleton, which loses its calcium as the soft tissues absorb calcium. These observations lead to some simplifying ideas about the nature of aging and disease."
+
+**CONTEXT:** The text highlights the age-related increase in soft tissue calcification and its link to inflammation.
+
+**RAY PEAT:** "Some people who know about the involvement of calcium in aging, stress, and degeneration suggest eating a low calcium diet, but since we all have skeletons, dietary calcium restriction cant protect our cells, and in fact, it usually intensifies the process of calcification of the soft tissues. Statistics from several countries have clearly shown that the mortality rate (especially from arteriosclerotic heart disease, but also from some other diseases, including cancer) is lower than average in regions that have hard water, which often contains a very large amount of either calcium or magnesium. Many studies have shown that dietary calcium (or vitamin D, which increases calcium absorption) can have very important antiinflammatory effects."
+
+**CONTEXT:** The author reiterates the importance of adequate dietary calcium and its anti-inflammatory properties, contrasting it with the detrimental effects of restriction.
+
+**RAY PEAT:** "About 25 years ago, David McCarron noticed that the governments data on diet and hypertension showed that the people who ate the most salt had the lowest blood pressure, and those who ate the least salt had the highest pressure. He showed that a calcium deficiency, rather than a sodium excess, was the most likely nutritional explanation for hypertension."
+
+**CONTEXT:** This introduces the work of David McCarron, linking calcium deficiency to hypertension.
+
+**RAY PEAT:** "Hans Selye found that some steroids contribute to inflammation and calcification. Animals could be sensitized to develop calciphylaxis, an intense, localized interaction of inflammation and calcification. In the 1970s, Constance Martin pointed out that, up to that time, estrogen was known to increase soft tissue calcium, but hadnt been shown to improve bone calcification and strength. Oxygen deprivation, cyanide poisoning, x-irradiation, and all other sorts of injury also increase the calcium content of soft tissues."
+
+**CONTEXT:** The text mentions other factors contributing to inflammation and calcification, including steroids, estrogen, and various forms of cellular injury.
+
+**RAY PEAT:** "One of Selyes colleagues, G. Jasmin, showed that magnesium deficiency causes inflammation. A deficiency of either calcium or magnesium can stimulate the parathyroid glands to produce more hormone (parathyroid hormone, PTH), which increases calcium absorption, but also removes calcium from the bones. This hormone, responding to a dietary calcium or magnesium deficiency, is an important factor in causing cells to take up too much calcium, and its excess is associated with many inflammatory and degenerative diseases."
+
+**CONTEXT:** The role of magnesium deficiency and its impact on parathyroid hormone (PTH) secretion is explained.
+
+**RAY PEAT:** "Interleukin-6 (IL-6), an inflammatory cytokine which increases with aging, is commonly considered to have an important role in the multiple processes of atrophy in old age. One of the things which can increase the production of IL-6 is the parathyroid hormone (PTH), which increases the amount of calcium circulating in the blood, partly by causing it to be removed from the bones; IL-6 stimulates the process of calcium removal from bones."
+
+**CONTEXT:** The connection between IL-6, PTH, and bone calcium loss is detailed.
+
+**RAY PEAT:** "Some of the interactions of hormones and other regulatory chemicals are interesting, even though they are normally treated as if they were parts of a machine that operates according to a hidden program written in the genes. Prolactin, which is increased under the influence of estrogen or serotonin, causes the body to lose calcium (drawing it from the bones), and it stimulates the secretion of PTH, which compensates for the calcium loss by increasing its mobilization from bones. Prolactins action on bone is at least partly by increasing IL-6 formation; IL-6 stimulates the release of prolactin. Serotonin and IL-6 stimulate each others secretion, and PTH and serotonin each stimulate the others release."
+
+**CONTEXT:** The complex interplay between prolactin, estrogen, serotonin, IL-6, and PTH is described.
+
+**RAY PEAT:** "PTH (like estrogen and serotonin) inhibits cellular respiration and activates glycolysis, lowering the ATP level and shifting the cells metabolism toward the production of lactic acid rather than carbon dioxide. PTH also causes bicarbonate to be lost in the urine. Since the formation of carbon dioxide lowers the intracellular pH, and the formation of lactic acid raises it (through the reaction of NADH with pyruvate), the proteins in the cell become more strongly negatively charged under the influence of oxygen deprivation, or under the influence of these hormones. In the cell with high pH and increased negative electrical charge, the positively charged calcium ion is absorbed into the cytoplasm. The calcium can enter from the relatively concentrated external fluid, but it can also be released from acidic intracellular stores, the way serotonin is released by a disturbance of pH. There are several other pro-inflammatory substances, such as the cytokines, that have a similar effect on cellular energy systems."
+
+**CONTEXT:** The metabolic effects of PTH, estrogen, and serotonin are explained, focusing on their impact on cellular respiration, pH, and calcium uptake.
+
+**RAY PEAT:** "The antimetabolic actions of PTH mimic those seen in aging and diabetes, and surgical removal of the parathyroid glands has been known to eliminate diabetes. PTH can cause diuresis, leading to loss of blood volume and dehydration, hypertension, paralysis, increased rate of cell division, and growth of cartilage, bone, and other tissues."
+
+**CONTEXT:** The broad range of negative effects associated with excess PTH is outlined.
+
+**RAY PEAT:** "Simply eating an adequate amount of calcium and magnesium can alleviate many problems related to stress and aging that are considered serious, such as heart arrhythmia, pancreatitis, and tissue calcification. The antiinflammatory, anti-allergy actions of calcium and magnesium are well established, and there is clear evidence that obesity and various emotional disturbances can result from their deficiency. Chronically high PTH can produce anemia, by a variety of mechanisms."
+
+**CONTEXT:** Practical recommendations for calcium and magnesium intake are provided, highlighting their benefits for stress, aging, and various health conditions.
+
+**RAY PEAT:** "Since a very low sodium diet increases the loss of magnesium, by increasing aldosterone synthesis, simply increasing the amount of sodium in the diet can help some people to balance their minerals and minimize stress. During fasting and other intense stress, the kidneys destroy a large amount of protein to form ammonia to maintain their ability to excrete acids, so using a large amount of the alkaline minerals can reduce the protein catabolism."
+
+**CONTEXT:** The role of sodium intake in magnesium balance and the impact of stress on protein metabolism are discussed.
+
+**RAY PEAT:** "A diet of milk and fruit, or milk and meat, provides a nutritional balance with generous amounts of calcium and magnesium. Leafy vegetables are a very rich source of magnesium, but they are also a potential source of large amounts of lead and other toxins. In 1960, many people, including the U.S. government, were advocating the use of a largely vegetarian diet for children, because of the amount of radioactive strontium in milk. I compared the amount of strontium in a diet of vegetables that would provide the necessary quantity of calcium and protein, and it was clear that vegetables were the worst source of radioactive strontium, because their ratio of strontium to calcium was much higher than the ratio in milk. The cows were concentrating calcium and protein from the contaminated plant foods, eliminating much of the strontium. This principle still applies to the toxins that are currently found in the U.S. food supply. Milk has many protective effects besides providing calcium."
+
+**CONTEXT:** The article advocates for diets rich in milk and meat for their calcium and magnesium content, while cautioning against relying solely on vegetables due to potential toxin exposure.
+
+**RAY PEAT:** "Many babies are being given milk substitutes (health food drinks) made from soy or rice, with terrible consequences. The same products used by adults have less disastrous effects in the short term, but are still likely to contribute to degeneration and dementia."
+
+**CONTEXT:** The author expresses concern about the widespread use of soy and rice-based milk substitutes, particularly for infants.
+
+**RAY PEAT:** "Much of the intracellular magnesium is complexed with ATP, and helps to stabilize that molecule. If cellular energy production is low, as in hypothyroidism, cells tend to lose their magnesium very easily, shifting the balance toward the lower energy molecule, ADP, with the release of phosphate. ADP complexes with calcium, rather than magnesium, increasing the cells calcium content."
+
+**CONTEXT:** The relationship between magnesium, ATP, and cellular energy production, particularly in the context of hypothyroidism, is explained.
+
+**RAY PEAT:** "Increased intracellular calcium, in association with excess nitric oxide and excitatory amino acids, is involved in several neurodegenerative diseases, including ALS, Alzheimers disease, Parkinsons disease, Huntingtons chorea, and epilepsy. Magnesium, nicotine, progesterone, and many other substances are known to protect against excitotoxic calcium overload, but there is no coherent effort in the health professions to make rational use of the available knowledge."
+
+**CONTEXT:** The role of intracellular calcium overload in neurodegenerative diseases is highlighted, along with potential protective agents.
+
+**RAY PEAT:** "Respiration and carbon dioxide are the basic antagonists of the PTH. At birth, a baby has practically no PTH, probably because of the high intrauterine concentration of carbon dioxide, but within a few days the PTH rises. Increased carbon dioxide favors bone formation, and decreased bicarbonate favors the loss of calcium from bone (Canzanello, et al., 1995; Bushinsky, et al, 2001). The use of sodium bicarbonate can stimulate bone formation."
+
+**CONTEXT:** The antagonistic relationship between respiration, carbon dioxide, and PTH is discussed, along with the bone-protective effects of carbon dioxide and bicarbonate.
+
+**RAY PEAT:** "A low protein diet, similar to that eaten by a large proportion of women (0.8 g/kg of body weight) increases PTH, and so probably contributes to the development of osteoporosis and the diseases of calcification. In an extreme protein deficiency, there is a shift towards inflammation, serotonin excess, and excessive clotting, which might be related to the effect of the milder, more common protein deficiency. Many people advocate a low protein diet, specifically to prevent or treat osteoporosis, but the cultures that traditionally have had extremely high protein diets, such as the Masai, are very healthy. Recent studies (see Bell and Whiting, 2002) are emphasizing the importance of animal protein in preventing osteoporosis."
+
+**CONTEXT:** The detrimental effects of low protein intake on PTH levels and bone health are explained, contrasting it with the benefits of high protein diets.
+
+**RAY PEAT:** "Traditional meat-eating cultures efficiently use the whole animal, including blood, skin, bones, and the various organs, rather than just the muscles. That diet is favorable for calcium regulation, because it provides more vitamin A, D, E, and K, calcium, and gelatin, and less of the pro-inflammatory amino acids, tryptophan and cysteine."
+
+**CONTEXT:** The nutritional advantages of traditional whole-animal diets for calcium regulation are discussed.
+
+**RAY PEAT:** "Most loss of calcium from bones occurs during the night. PTH tends to cycle with prolactin, which increases during the night, along with cortisol and the other stress hormones. These nocturnal hormones probably account for the morning stiffness seen in many rheumatic conditions, connective tissue diseases, and in aging."
+
+**CONTEXT:** The nocturnal hormonal fluctuations and their potential contribution to morning stiffness and aging-related conditions are explained.
+
+**RAY PEAT:** "Progesterone, which increases the carbon dioxide content of the tissues, is remarkably able to inhibit the actions of most of the inflammatory and catabolic mediators, and to protect against degenerative calcification and osteoporosis. It also protects against abnormal clotting. PTH increases platelet calcium concentration, and under some conditions can produce inappropriate coagulation."
+
+**CONTEXT:** The protective effects of progesterone against inflammation, calcification, and clotting are highlighted.
+
+**RAY PEAT:** "Aspirin inhibits the actions of PTH, helping to prevent the calcification of inflamed tissues, and it inhibits the loss of calcium from bones. Aspirin decreases the release of IL-6."
+
+**CONTEXT:** The anti-inflammatory and bone-protective properties of aspirin are mentioned.
+
+**RAY PEAT:** "A protein called the PTH-related protein (PTHrP) has the same functions as PTH, but can be produced in any tissue. It is responsible for the hypercalcemia of cancer, and is apparently involved in the frequent metastasis of breast cancer to the bones."
+
+**CONTEXT:** The role of PTH-related protein (PTHrP) in cancer and bone metastasis is described.
+
+**RAY PEAT:** "With only a small change in the theory of the nature of a living organism, recognizing the importance of the interactions of metabolites and structural substances, controlled by energetic metabolism, real progress could be made in understanding disease and health. The most important calcium paradox is that medical journals (e.g., *International J. of Cardiology*, Dec., 2002) are still promoting the idea that eating too much calcium causes hardening of the arteries and other diseases of calcification."
+
+**CONTEXT:** The author concludes by emphasizing the need for a shift in understanding biological processes and criticizes the persistent misconception about dietary calcium and arterial calcification.

@@ -1,0 +1,21 @@
+
+
+**RAY PEAT:** "The use of sulfiting agents as food and drug additives has recently been found to be responsible for adverse reactions which may result in life-threatening asthma and anaphylaxis. The generation of SO2 by the reaction of sulfites with water can provoke bronchospasm in some patients. Paradoxical bronchospasm can occur following the administration of aqueous inhalant solutions containing the metabisulfite preservative."
+
+**CONTEXT:** A letter to JAMA regarding the potential for metabisulfite in asthma medication to cause adverse reactions.
+
+**RAY PEAT:** "Koepke et al. observed experimentally that a significant amount of SO2 was released during standard nebulization of four commercially used bronchodilators, vis-à-vis Isoproterenol, metaproterenol, isoetharine, and racemic epinephrine. The SO2 concentrations varied from 0.1 to 6.0 ppm which can induce broncho-constriction in asthmatic patients. It was observed that metaproterenol solutions were associated with the lowest SO2 levels with the least lot-to-lot variation."
+
+**CONTEXT:** Further explanation of the mechanism by which bronchodilators containing sulfites can harm asthmatics, citing experimental data.
+
+**RAY PEAT:** "In asthmatics, bronchospasm can be produced by as little as 5 mg of oral sulfite or by inhalation of 1 ppm SO2 over 10 to 30 minutes. In nonasthmatics, bronchospasm can be caused by inhalation of SO2 in a concentration of 6 ppm."
+
+**CONTEXT:** Quantifying the sensitivity of asthmatics to sulfites compared to non-asthmatics.
+
+**RAY PEAT:** "The incidence of metabisulfite sensitivity in a random asthmatic population has been found to be 8.2%: five of 61 asthmatics without history of metabisulfite sensitivity who received oral challenges developed bronchospasm. Hypersensitivity reactions to sulfites are unpredictable and the severity will vary with the degree of airway irritability and the sulfite concentrations in foods or drugs. There are insufficient data to indicate which doses are most likely to evoke reactions in sulfite-sensitive individuals. However, it has been found that sensitive asthmatics may develop bronchospasm during exercise from inhaling as little as 0.1 ppm of SO2."
+
+**CONTEXT:** Providing statistics on sulfite sensitivity in asthmatics and the unpredictable nature of these reactions.
+
+**RAY PEAT:** "ALUPENT® 0.6% Inhalant Solution Unit Dose Vials do not contain sodium metabisulfite. In the near future, subject to FDA approval, we plan to market a reformulated ALUPENT® 5% Inhalant Solution in which sodium metabisulfite is replaced by a different preservative."
+
+**CONTEXT:** Information from Boehringer Ingelheim regarding their product Alupent and plans to remove the problematic preservative.

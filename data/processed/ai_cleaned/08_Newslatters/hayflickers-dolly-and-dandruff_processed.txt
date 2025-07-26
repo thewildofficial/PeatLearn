@@ -1,0 +1,69 @@
+
+
+**RAY PEAT:** The "telomeric clock" is not a valid theory of aging.
+
+**CONTEXT:** What is the prevailing scientific theory regarding aging that you dispute?
+
+**RAY PEAT:** Neither of these groups has even tried to dispose of the facts that have accumulated over several decades suggesting that there is no independent biological clock at all, but rather an ability of cells and organisms to perceive rhythmic environmental conditions. Frank A. Brown, Jr. (Univ. of Indiana) and Alexandre Rothen (Rockefeller Univ.) devised many experiments that clearly demonstrated that biochemical metabolic and physiological rhythms are responsive to cues other than light and darkness. The geomagnetic field is one type of cue that has demonstrable biological effects.
+
+**CONTEXT:** What is your alternative explanation for biological rhythms and aging, as opposed to the "biological clock" theories?
+
+**RAY PEAT:** The doctrine of a genetic clock causing aging denies the role of environmental factors in the aging process. Cigarette companies argued that "we don't know the cause of cancer, so go ahead and smoke." The genetic clock people claim to know the cause of aging, and that it is not environmental factors.
+
+**CONTEXT:** How does the "genetic clock" theory of aging compare to the arguments used by cigarette companies regarding cancer?
+
+**RAY PEAT:** The stem cell system is defined as that cell in a tissue which, under normal circumstances, maintains its own population, undiminished in function and size, and furnishes daughters to provide new functional cells of that tissue. The daughters may, or may not, have to undergo further differentiation and/or maturation in order to achieve their functional stage. The fundamental characteristic of a stem cell, therefore, is self-renewal. Evidence is presented which implicates the microenvironment as a major component of the stem cell system, without which stem cells cannot be maintained. Furthermore, it is suggested that stem cell properties do not reside in one specific cell type in the population but, when necessary, cells other than those normally playing the stem cell role, can have stem cell function imposed upon them by the appropriate microenvironment. The "stem cell niche" hypothesis is presented to explain the dependence of stem cells upon their microenvironment. The postulate is offered that there are no cells which are intrinsically stem cells but that a range of cells in a tissue possess stem cell potential to a greater or lesser extent. "The stem cell system," R. Schofield, Bionics Pharmacother, 1983, 37:8, 375-80.
+
+**CONTEXT:** Can you elaborate on the concept of stem cells and their dependence on their environment?
+
+**RAY PEAT:** The Hayflick limit is not a valid concept because cells in vivo, such as those in the lining of the intestine and bone marrow, continuously divide throughout an animal's lifespan. Dandruff, hair, and nail growth are visible examples of this continuous cell division. Hayflick's observations were likely a result of the specific, suboptimal conditions in his cell culture experiments.
+
+**CONTEXT:** What is your critique of the "Hayflick limit" in relation to cell division and aging?
+
+**RAY PEAT:** The principles Carrel outlined, which suggest that cell-to-cell interactions, adequate glucose supply, oxygen, carbon dioxide, appropriate pH, osmolarity, hormones, extracellular matrix, and regulatory substances can influence cell division in culture, are supported by research. For instance, Gospodarowicz et al. (1983) demonstrated that growing cells on extracellular matrix with natural substances from serum, rather than on plastic, significantly increased their longevity in vitro. If "intrinsic cell aging" is discussed in terms of "programming," it implies that cells are constantly open to "reprogramming," meaning they are perceptive and responsive to their environment.
+
+**CONTEXT:** How do the findings of Carrel and Gospodarowicz et al. challenge the idea of intrinsic cellular aging, and what does this imply about cellular responsiveness?
+
+**RAY PEAT:** Hayflick's method involved keeping tissue at room temperature or 5 degrees Celsius for extended periods, and he seemed to interpret lactic acid production, a sign of stress, as an indication of life. His cultures were maintained in conditions that included high concentrations of antibiotics, which are antiphysiological. He dismissed Carrel's techniques as "primitive," despite Carrel's experiment, which lasted 35 years, demonstrating the longevity of cells under more natural conditions. Carrel's method involved frequent addition of chick embryo extract, while Hayflick used commercial solutions with antibiotics and minimal serum. Using fluids from the same species, from an embryo, and avoiding harmful additives, is a more sophisticated approach. Smith et al. (1985) showed that DNA repair capacity is greatest in medium supplemented with autologous plasma.
+
+**CONTEXT:** Can you detail the methodological differences between Hayflick's and Carrel's cell culture experiments and your assessment of their validity?
+
+**RAY PEAT:** The essence of the telomeric clock doctrine is that telomere shortening with aging makes cell division impossible, leading to aging symptoms. However, there are many exceptions to this rule, making it inaccurate. For example, mice with short lifespans have active telomerase in their body tissues, while humans normally do not. Telomerase is not essential for telomere formation or maintenance. Some cancers have long telomeres, while others do not, and telomere length varies even within the same animal and between chromosomes in the same cell. Therefore, the telomeric-mitotic clock theory is fundamentally flawed, although telomeres themselves are complex and important cellular components.
+
+**CONTEXT:** What are the key flaws you identify in the telomeric clock theory of aging?
+
+**RAY PEAT:** If Hayflick and Carrel have anything in common, it is the observation that aging is closely associated with the slowing of cell division. Carrel's observation that healing is slower in older individuals has been replicated in other systems, such as Lambert et al. (1979), who showed that DNA repair synthesis is retarded in cells from older people. Estrogen also slows DNA repair (O'Brien, 1993) and increases DNA breakage.
+
+**CONTEXT:** What is the connection you draw between aging, cell division, and DNA repair, and how does estrogen fit into this picture?
+
+**RAY PEAT:** Estrogen's identity as a shock-hormone provides insight into the context-dependent aging of cells and carcinogenesis. Progesterone, which supports respiration, acts as estrogen's antagonist at the molecular level. Fifty years ago, estrogen was shown to mimic the physiological features of the shock phase of the stress reaction. Later, histamine, estrogen, and nitric oxide were found to have parallel shock-promoting actions. Cells produce heat shock proteins in response to stress, and estrogen is closely associated with these proteins, inducing them and stabilizing the estrogen receptor. Injury in general facilitates estrogen's action. Progesterone and its receptor have an opposite, antagonistic effect on heat shock proteins.
+
+**CONTEXT:** How does estrogen's role as a "shock-hormone" relate to cellular aging and carcinogenesis, and what is progesterone's counteracting role?
+
+**RAY PEAT:** My proposal 50 years ago that the estrogenic state and the senescent state were closely related was met with skepticism, as estrogen was promoted for its "youth-promoting" effects. However, subsequent research has shown elevated estrogen levels in aging animals. Estrogen increases with athletic stress, trauma, sickness, and endotoxin poisoning, and is a factor in prostate and other cancers. This supports the idea of estrogen as an "age hormone" rather than just a "female hormone," a concept promoted by the pharmaceutical industry. Many claims about estrogen's "youth-promoting" effects are false; for example, while it's claimed to increase collagen in skin, collagen accumulation is actually characteristic of aging and damage. Estrogen causes water retention, which can temporarily smooth wrinkles, but a swollen face is biologically older than a lean, creased one.
+
+**CONTEXT:** What is your historical perspective on the understanding of estrogen's role in aging, and how does it contrast with common perceptions?
+
+**RAY PEAT:** Adaptations to stress, both in vitro and in normal aging, include defensive systems like heat shock proteins, which are induced when cellular energy supply is compromised. For the past 35 years, studies have shown that cells in culture often do not receive optimal oxygen. Kondo et al. (1997) found that cells cultured at the air-liquid interface, where they receive more oxygen, exhibit more differentiated functions and structures compared to cells cultured submerged in medium. Warburg previously noted that cells in a sheet at the bottom of a vessel are more oxygen-deprived than suspended cells.
+
+**CONTEXT:** How does oxygen availability in cell culture relate to cellular function and differentiation, and what are the implications of Warburg's and Kondo et al.'s findings?
+
+**RAY PEAT:** Suffocation and X-ray injury induce an estrogen-like response in animals. Oxygen deprivation in tissue culture, which Warburg linked to cancer metabolism, produces pro-estrogenic heat shock proteins and other stress substances. Progesterone's antagonism to this heat stress system offers insight into redirecting cells away from the stress pathway. During oxidative stress, various stress proteins are produced, including heme oxygenase, which generates carbon monoxide. Carbon monoxide can stabilize the dedifferentiated, tumor-producing state by promoting aerobic glycolysis, or "cancer metabolism," where cells produce lactic acid even with oxygen present. Hayflick and Moorhead (1961) did not seem interested in lactic acid production in their work. I have also proposed that stress proteins can affect water structure.
+
+**CONTEXT:** How do oxygen deprivation, stress responses, and hormonal interactions contribute to cellular changes, and what is the role of carbon monoxide and lactic acid in this context?
+
+**RAY PEAT:** Heat shock proteins stabilize and reinforce estrogen's effects, shifting cells away from differentiated function towards simple cell division, a form of dedifferentiation. This process is important for reproduction and tissue regeneration. During stress or injury, cells must decide whether to grow, undergo apoptosis (programmed cell death), or differentiate. The heat shock/estrogen system protects cells from "altruistic cell death." Normally, the organism supports cells by providing energy, oxygen, and signals to restore their functional state. The stress pathway initially stimulates cell division for tissue repair, but in a culture dish, without the organism's support, this growth decision leads to a dead-end path under damaging conditions.
+
+**CONTEXT:** Explain the role of heat shock proteins and estrogen in cellular division and differentiation, and how this process differs in a culture dish versus the whole organism.
+
+**RAY PEAT:** In Hayflick's cell culture, the cells were clearly under sufficient stress to activate their estrogenic cell division process. However, without adequate energy or appropriate signals, they were on a dead-end path. While the specific substances in the culture medium could be analyzed for detailed cellular physiology, giving serious scientific consideration to Hayflick's doctrine is itself a dead-end path. The editors of Experimental Cell Research bear responsibility for publishing illogical and false statements in their extensive coverage of Hayflick's articles, indicating a lack of quality control.
+
+**CONTEXT:** What is your assessment of Hayflick's cell culture experiments and the scientific publications that supported them?
+
+**RAY PEAT:** The idea of "reversing aging" by adding telomerase to cells is akin to advertisements for devices that claim to reverse aging by lying upside down; there's a superficial grain of truth, but it misses the fundamental issue. The fact that cells are always open to "reprogramming," meaning responding appropriately to their environment, is crucial. Alexis Carrel's experiments remain the best demonstration that biological aging is a response to the cellular environment. Carrel's emphasis on fats as an important factor in aging is strongly supported by research in nutrition, organ transplantation, and tissue culture.
+
+**CONTEXT:** How do you view attempts to reverse aging with telomerase, and what is the significance of Carrel's work in understanding aging?
+
+**RAY PEAT:** It is now clear that estrogen is intimately linked to the universal stress-reaction system, including heat shock proteins. Progesterone, the primary antagonist to estrogen, is involved in this system by opposing the actions of stress proteins, which mediate factors causing progesterone deficiency. Progesterone, thyroid hormone, saturated fats, and light are key antistress factors that protect against aging effects like autoimmune reactions and stresses contributing to aging. They can also reverse age-associated changes, such as thymus regeneration. To fully reverse aging, we need to understand all its contributing factors. Dolly the sheep is proof that adult cells are not inherently "old," confirming Carrel's foundational insights.
+
+**CONTEXT:** How do estrogen, progesterone, thyroid, saturated fats, and light interact in the context of stress and aging, and what is the significance of Dolly the sheep in this discussion?

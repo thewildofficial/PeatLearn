@@ -1,0 +1,25 @@
+
+
+**RAY PEAT:** Since many synthetic progestins are known to be luteolytic, while progesterone itself exerts a positive feedback influence on steroidogenic tissue, it is clear that it would be useful to have an effective way to administer progesterone orally.
+
+It is well known that fat soluble substances are absorbed primarily by way of the lymphatic system, entering the general circulation directly rather than passing first through the liver. Progesterone is extremely insoluble in water, but it is soluble in lipids. If the solution is stable, it seems clear that the progesterone will be preferentially absorbed by the lymphatic route.
+
+I have investigated the oral use of progesterone in tocopherol, a non-toxic stable solvent, in cycling women with a luteal phase deficiency, and in post-menopausal women.
+
+In younger women who are still producing large amounts of estrogen, a therapeutically effective oral dose of 50 mg. to 200 mg. daily (during the luteal phase of their cycle), was found to prevent the symptoms associated with the premenstrual decrease in serum progesterone which had been observed in previous cycles. In some women the effective dose caused the blood levels to rise somewhat above the levels usually considered normal for the luteal phase.
+
+Post-menopausal women, who have much lower average levels of estrogen and who produce little progesterone, show much more clearly the effects of administered progesterone. Seven women who had gone through “natural” menopause at least two years previously and whose serum progesterone was either below the sensitivity limit of the competitive protein binding technique, or in the typically low post-menopausal range of measurement by radioimmunoassay, were given oral doses of 50 mg. or 100 mg. of progesterone in tocopherol.
+
+The earliest any blood was drawn, after an oral dose of progesterone, was 20 minutes; in this case, the progesterone had risen from 0.2 ng/ml before, to 0.7 ng/ml with a dose of 100 mg. When blood was drawn from 4 to 8 hours after an oral dose of 50 mg. to 100 mg., the blood levels were between 6 and 16 ng/ml. No attempt was made to assure that the progesterone was taken on an empty stomach, and meals were eaten as usual while waiting for blood to be drawn. The progesterone was administered by their regular physicians, and the measurement was done by commercial medical laboratories.
+
+In two cases in which blood was drawn 24 hours after a single dose of 100 mg, the progesterone level was still in the normal luteal phase range.
+
+Since the observations were made over a period of several years, with progesterone measurements made at several different laboratories and by different techniques, the numbers aren't strictly comparable. We recently got a clearer picture of the rate of absorption in a fasting person. A middle-aged man, with a fasting level of 0.2, took 100 mg. At the first hour the level was already 7.0 ng/ml; the concentration rose each hour to a peak at the sixth hour of 14.0 ng/ml, and the last observation, at the seventh hour, was 7.0 ng/ml. On average, men’s livers are quicker to remove substances from the blood, and the fact that no food was taken during the test very likely caused the rate of increase and the rate of decrease to be greater than in a non-fasting person.
+
+**CONTEXT:** What is the rationale for seeking an effective oral method of progesterone administration?
+**CONTEXT:** How is progesterone absorbed orally, and what is the role of its lipid solubility?
+**CONTEXT:** What were the findings regarding oral progesterone dosage in cycling women with luteal phase deficiency?
+**CONTEXT:** What were the findings regarding oral progesterone dosage in post-menopausal women?
+**CONTEXT:** What were the observed blood progesterone levels after oral administration in post-menopausal women, and under what conditions were these measurements taken?
+**CONTEXT:** What was the duration of elevated progesterone levels after a single oral dose?
+**CONTEXT:** How does fasting affect the absorption and elimination of oral progesterone, as demonstrated in a specific case?

@@ -1,0 +1,53 @@
+
+
+**RAY PEAT:** Steroids are the most common carbon compounds in the universe, made by single-celled organisms. All foods contain steroids and sterols, some beneficial, some toxic or allergenic.
+
+**CONTEXT:** What are steroids and their prevalence?
+
+**RAY PEAT:** Progesterone, when dissolved in vitamin E, can be absorbed through the skin or taken orally. Taken orally, it enters the general circulation as chylomicrons, bypassing the liver's preparatory process for excretion, making it fully and quickly available to all tissues. This form is approximately 20 times more potent than other preparations, so physiological quantities are crucial. Ten to 20 mg is often effective, though individuals with low thyroid or high estrogen may use 50 to 100 mg per day. One drop of a 10% solution contains about 3 mg of progesterone, and 1 ml (1/4 tsp) contains 100 mg. The initial dose should not exceed 15 mg.
+
+**CONTEXT:** How should progesterone be administered for optimal absorption and effectiveness?
+
+**RAY PEAT:** Pregnenolone, when taken orally, has no noticeable effect on healthy individuals. However, it can normalize elevated stress-related hormones. The brain has significantly higher concentrations of pregnenolone, DHEA, and progesterone than other organs or the blood, and these levels decline with age. Older individuals are more likely to experience the effects of pregnenolone than younger ones. A reasonable initial dose is one-tenth of a gram, though some may require up to 1 gram per day.
+
+**CONTEXT:** What is the effect of pregnenolone and who is most likely to benefit from it?
+
+**RAY PEAT:** Measuring thyroid hormone levels in the blood is not a reliable indicator of thyroid function adequacy, as tissue response can be suppressed, for instance, by unsaturated fats. In the 1930s, accurate diagnosis relied on a variety of indicators, including basal oxygen consumption, serum cholesterol levels, pulse rate, temperature, carotenemia, bowel function, and the quality of hair and skin. A good estimate can be made using only temperature and pulse rate.
+
+**CONTEXT:** What are the limitations of blood tests for evaluating thyroid function, and what historical methods were used for diagnosis?
+
+**RAY PEAT:** Morning oral or armpit temperature, before getting out of bed, should be around 98°F and rise to 98.6°F by mid-morning. This measurement is invalid if sleeping under an electric blanket or in hot, humid weather. Hypothyroid individuals produce heat at a low rate but don't lose it normally due to reduced sweating and cooler skin. Many hypothyroid individuals compensate with high adrenaline production (sometimes 40 times normal), which can keep the skin cool, particularly on the extremities and nose. This high adrenaline is a consequence of low blood glucose; therefore, consuming carbohydrates, like a glass of orange juice, can sometimes lower the pulse rate. Healthy populations typically have an average resting pulse rate of about 85 beats per minute. In hot weather, it's important to consider both temperature and pulse rate.
+
+**CONTEXT:** What are the key indicators for assessing thyroid function, and how do factors like adrenaline and carbohydrate intake influence them?
+
+**RAY PEAT:** The Achilles tendon reflex is a quick method to estimate thyroid function. This reflex is used because the toes have insignificant weight relative to the gastrocnemius muscle's contraction. The T wave repolarization on an electrocardiogram is a similar indicator of energy production rate. Tapping the Achilles tendon causes the muscle to contract, and it cannot relax until sufficient energy is produced to restore the threshold for a new contraction.
+
+**CONTEXT:** How does the Achilles tendon reflex relate to thyroid function and energy production?
+
+**RAY PEAT:** If energy production is efficient, muscle relaxation is faster than the passive return motion of the foot, allowing it to swing freely and slightly overshoot its original position. In hypothyroidism, the foot returns slowly and precisely, as if controlled by a pneumatic door closer, sometimes with a hesitant, intermittent motion. This slow energy replenishment and relaxation can lead to muscle cramps. Aching leg muscles in children after an active day can be a sign of hypothyroidism, and in severe cases, the gastrocnemius muscle may become swollen and hypertrophied. This slow energy regeneration can also cause heart rhythm disturbances, insomnia, and restless sleep.
+
+**CONTEXT:** What are the observable signs of hypothyroidism related to muscle function and sleep?
+
+**RAY PEAT:** The thyroid gland secretes approximately three parts thyroxine (T4) to one part triiodothyronine (T3). This ratio allows the liver to regulate thyroid function by converting more T4 to the active T3 when energy is abundant. Glucose is essential for this conversion; therefore, during fasting, metabolic rate sharply decreases. In experiments, adding 200-300 calories of carbohydrates to the diet does not lead to fat storage.
+
+**CONTEXT:** What is the role of the thyroid gland in hormone secretion, and how does glucose availability affect metabolic rate?
+
+**RAY PEAT:** If the liver is the primary cause of hypothyroidism, body temperature (especially of the nose, hands, and feet) will drop when hungry and rise after consuming carbohydrates. A hypothyroid individual with a very slow pulse and lethargy may have little adrenaline. In such cases, consuming carbohydrates is likely to increase both pulse rate and temperature, as the liver is then able to form the active T3 hormone.
+
+**CONTEXT:** How does liver function influence thyroid hormone conversion and body temperature, particularly in relation to hunger and carbohydrate intake?
+
+**RAY PEAT:** Women often have above-average thyroxine levels but exhibit symptoms of hypothyroidism, likely because it is not being converted to the active T3 form. Before using a Cytomel (T3) supplement, dietary adjustments might resolve the issue. Consuming a piece of fruit, a glass of juice, or milk between meals, along with adequate animal or potato protein, can sometimes enable the liver to produce the hormone. If Cytomel is used, it's efficient to mimic the physiological rate of T3 formation by taking small doses (10 or 25 mcg) throughout the day. Taking a large dose at once can lead the liver to convert much of it to the inactive reverse-T3 form as a normal defensive response.
+
+**CONTEXT:** Why do women often experience hypothyroidism despite high thyroxine levels, and what are the recommended approaches for managing it?
+
+**RAY PEAT:** Women generally have less active livers than men. Estrogen can directly harm the liver, but the primary reason for this difference is likely that temperature and thyroid function, which are generally lower in women, strongly influence liver activity. Estrogen inhibits the thyroid gland's secretion of hormones, possibly by hindering the proteolytic enzyme that dissolves colloid. Progesterone, conversely, promotes hormone release from the gland. During puberty, pregnancy, and menopause, the thyroid gland often enlarges, likely due to estrogen dominance.
+
+**CONTEXT:** What are the physiological differences in liver activity between men and women concerning thyroid function and estrogen?
+
+**RAY PEAT:** Thyroid function stimulates the liver to inactivate estrogen for secretion. Therefore, estrogen dominance can create a self-perpetuating cycle where excess estrogen (or deficient progesterone) suppresses thyroid secretion, leading to higher estrogen accumulation. Progesterone, even a single dose in some cases, can break this cycle. However, if the thyroid gland is significantly enlarged, individuals may experience a few months of hyperthyroidism as it returns to normal. It is preferable to allow the enlarged gland to shrink more slowly by using a thyroid supplement. If an enlarged gland begins to secrete excessive thyroid hormone, it can be managed with propylthiouracil tablets, raw cabbage or cabbage juice, and cysteine-rich meats like liver.
+
+**CONTEXT:** How does estrogen dominance interact with thyroid function and progesterone, and what are the implications for thyroid gland health?
+
+**RAY PEAT:** Besides fasting or chronic protein deficiency, common causes of hypothyroidism include excessive stress, "aerobic" (which is actually anaerobic) exercise, and diets high in beans, lentils, nuts, unsaturated fats (including carotene), and undercooked broccoli, cauliflower, cabbage, or mustard greens. Many health-conscious individuals develop hypothyroidism through a combination of undercooked vegetables, legumes instead of animal protein, oils instead of butter, carotene instead of vitamin A, and strenuous exercise instead of a stimulating lifestyle.
+
+**CONTEXT:** What are the common dietary and lifestyle factors that contribute to hypothyroidism?

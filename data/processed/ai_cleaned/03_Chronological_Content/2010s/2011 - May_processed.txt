@@ -1,0 +1,119 @@
+
+
+**RAY PEAT:** Increasingly, intestinal serotonin is being recognized as a factor in osteoporosis, migraine, irritable bowel syndrome, appendicitis, and cancer. From ancient times until about 100 years ago, the bowel had a very important place in medical practice, with purgatives and enemas being recommended for headaches, persistent coughs, seizures, and many chronic diseases. Pavlov studied the digestive system as a way to understand the mind, because it's where we interact most closely with the environment.
+
+**CONTEXT:** What was the historical understanding of the bowel's role in health and disease?
+
+**RAY PEAT:** Up to Pavlov's time, traditional medicine thought in terms of achieving balance in the organism, using metaphors such as the four humors (phlegm, blood, yellow bile and black bile) and the four personality types—phlegmatic, sanguine, choleric, and melancholic.
+
+**CONTEXT:** How did medical understanding shift regarding the causes of disease?
+
+**RAY PEAT:** In western Europe and the US during the 19th century, divisions in medical doctrine began to appear between traditional, "empirical" practitioners and advocates of a new "rational," reductionist allopathic doctrine who were coming to believe that disease had its origin in cells and their defects of form or function. These "scientific physicians" began a major propaganda campaign to ridicule blood-letting and purging as examples of the unscientific practices of their competitors. The idea of internal toxins itself was ridiculed. A gastroenterology professor (Walter C. Alvarez) used his newspaper column to argue against the old ideas, for example that toxins absorbed from the intestine caused headaches. He described putting wads of cotton into the rectums of his medical students, and a considerable number of them developed headaches while the cotton was in place. That, he asserted, disproved the idea that absorbed toxins were the cause of headaches. It didn't really disprove anything, but it contributed to the culture that was discouraging the use of laxatives. Russian researchers, who were still working in Pavlov's holistic tradition, found that inflating a balloon in an animal's intestine didn't have any observable effect in a normal animal, but when the animal's blood sugar was lowered, the stretching of the intestine would produce a wide range of symptoms, from asthma to seizures. It is likely that some of Alvarez's students had low blood glucose, and were more susceptible than others to the abnormal stretching of the rectum.
+
+**CONTEXT:** What did Hans Selye's research reveal about intestinal issues and stress?
+
+**RAY PEAT:** Hans Selye had noticed that intestinal bleeding was a standard feature of being sick, and it became a defining feature of his concept of stress. Old people sometimes get ulcers in their colon or rectum, adjacent to lumps of hardened fecal material. Selye devised animal experiments, in which he showed that an interference with blood circulation that normally didn't produce serious harm, would cause similar (stercoral) ulcers, and also paralysis of the hind legs, if he injected serotonin into the animal. If the anti-serotonin drug, cyproheptadine, was given to the animal before the serotonin, they were protected. The ulcers required the combination of restricted blood circulation, excess serotonin, and the presence of feces in the lower intestine. Without the serotonin, the other two factors failed to produce the ulcers (1966). In a previous experiment, he had demonstrated that the combination of impaired circulation with serotonin would cause severe muscular dystrophy (1965). Selye’s research group showed how closely the digestive system and the nervous system interact, but they didn't go very far in exploring the effects of diet on the nervous system.
+
+**CONTEXT:** How does intestinal irritation or stress lead to the absorption of harmful materials?
+
+**RAY PEAT:** Just friction, or scratching or stretching the intestine is enough to cause it to release serotonin into the bloodstream. Serotonin increases the permeability of the intestine and blood vessels, and so is likely to be a major cause of the absorption of endotoxin (and other harmful material) during intestinal irritation or stress. The biological meaning of serotonin might be very different without endotoxin, but that hasn't been investigated.
+
+**CONTEXT:** What is the relationship between bacterial endotoxin, serotonin, and inflammation?
+
+**RAY PEAT:** Bacterial endotoxin increases serotonin release from the intestine, and increases its synthesis in the brain (Nolan, et al., 2000) and liver (Endo, 1983). It also stimulates its release from platelets, and reduces the lungs' ability to destroy it. The formation of serotonin in the intestine is also stimulated by the lactate, propionate and butyrate that are formed by bacteria fermenting fiber and starch, but these bacteria also produce endotoxin. The inflammation-producing effects of lactate, serotonin, and endotoxin are overlapping, additive, and sometimes synergistic, along with histamine, nitric oxide, bradykinin, and the cytokines.
+
+**CONTEXT:** What are the behavioral effects of gut fermentation?
+
+**RAY PEAT:** There have been some studies showing that bacterial fermentation in the intestine can cause many symptoms, including behavioral changes. For example, a diet of soy protein increases aggression in monkeys (Simon, et al., 2004) and chickens (McKeegan, et al., 2001). When various fermentable carbohydrates were fed to rats, they became anxious and aggressive, and these changes in behavior corresponded to the fermentation of these materials by bacteria in the lower intestine, with the production of lactic acid (Hanstock, et al., 2003, 2004).
+
+**CONTEXT:** What are the potential negative effects of dietary fiber?
+
+**RAY PEAT:** Dietary fiber has been promoted for a long time, and for many reasons—John Harvey Kellogg argued that it prevented dirty thoughts, the cholesterol people argued that it would lower cholesterol, Denis Burkitt, in the 1970s, suggested that it could prevent colon cancer. When Burkitt visited the US and saw that oat bran was being recommended, he commented that the main fiber in the African diet he had studied was potato. By the 1980s, studies in animals were showing that some kinds of fiber, including oat bran, pectin, corn bran, metamucil, undegraded carrageenan, agar, psyllium, guar gum, and alfalfa, were carcinogenic, increasing the incidence of colon cancer, and possibly ovarian and breast cancer (Toth, 1984; Jacobs, 1986; Goodman, et al., 2002).
+
+**CONTEXT:** What is the role of butyric acid and lactic acid in the gut?
+
+**RAY PEAT:** Many advocates of increasing dietary fiber argue that butyric acid is a protective factor produced by bacterial decomposition of starch and fiber, and it does (at least in vitro) sometimes cause cancer cells to differentiate into normal cells. However, it accelerates the growth of intestinal cells, and when that is combined with toxins it might act as a tumor promoter. The lactic acid produced by bacteria and by the inflamed intestine itself is now recognized as an important factor in the development of cancer.
+
+**CONTEXT:** What is the "contaminated small-bowel syndrome" and how does it relate to digestion and bacteria?
+
+**RAY PEAT:** The upper part of the small intestine is sterile in healthy people. In the last 40 years, there has been increasing interest in the "contaminated small-bowel syndrome," or the "small intestine bacterial overgrowth syndrome." When peristalsis is reduced, for example by hypothyroidism, along with reduced secretion of digestive fluids, bacteria are able to thrive in the upper part of the intestine. Sugars are very quickly absorbed in the upper intestine, so starches and fibers normally provide most of the nourishment for bowel bacteria.
+
+**CONTEXT:** What dietary factors can protect against the toxic effects of bacterial degradation products?
+
+**RAY PEAT:** Besides avoiding gums and other "soluble fiber," and starches that aren't quickly digested, there are several things that can protect against the toxic effects of bacterial degradation products. Beans are famous for their gas-producing polysaccharides, but all grains and vegetables and firm under-ripe fruits contain starches that resist our digestive enzymes, but that can provide food for bacteria. Undercooked starch, and starches combined with enzyme inhibitors (including polyunsaturated fats), tend to be fermented by bacteria. New technology in the orange juice industry has converted normal pulp to soluble fiber that supports bacterial fermentation.
+
+**CONTEXT:** How does calcium and fat intake influence gut bacteria and health?
+
+**RAY PEAT:** A high ratio of calcium to phosphorus reduces the breakdown of fibers, and this probably contributes to some of the protective effects of a large amount of calcium in the diet, for example reduction in the incidence of bowel and ovarian cancer. Fats, especially saturated fatty acids, have antiseptic properties, and when they are combined with starches and fibers they help to suppress bacterial growth. Their effects can be seen in various ways, including protection against the anxiety caused by fermentation (Prasad and Prasad, 1996).
+
+**CONTEXT:** How do thyroid and progesterone affect digestion and nutrient absorption?
+
+**RAY PEAT:** Thyroid hormone increases digestive activity, including stomach acid and peristalsis, and both thyroid and progesterone increase the ability of the intestine to absorb sugars quickly; their deficiency can permit bacteria to live on sugars as well as starches.
+
+**CONTEXT:** How does the brain's interpretation of a situation influence physiological responses?
+
+**RAY PEAT:** Pavlov's and Anokhin's understanding of the organism in terms of its integration of perceptions of the actual situation, including its needs, and its projection of the possibility of satisfying those needs, gives us a way to understand some of the ways that our digestive system interacts with our physical health and our moods and emotions. Anokhin, in analyzing Pavlov's Reflex of Purpose and Exploratory Reflex, described the way that the cortex of the brain creates a model of the world, including information about the present state of the organism. Anokhin called this model of the situation the Acceptor of Action, because it was the framework for evaluating behavior. A properly functioning organism is always projecting or imagining future possible situations, and projecting or imagining its actions in those situations, evaluating the possibilities.
+
+**CONTEXT:** How does the perception of potential outcomes affect the body's adaptive capabilities?
+
+**RAY PEAT:** Any particular external situation can create stress or not, depending on what it means to the individual. The perception of a possibly good outcome mobilizes the creative adaptive abilities, in a functional system that includes an external goal and relevant physiological processes; the failure to see possibility in the situation—anticipating failure rather than success—demobilizes the systems of adaptation, and the excitation caused by unsatisfied needs produces generalized catabolic processes.
+
+**CONTEXT:** How do hormones regulate the body's response to stress and adaptation?
+
+**RAY PEAT:** As the organism prepares to enact these imagined possible futures, it mobilizes the appropriate resources, activating some systems and inactivating other systems, constructing, consuming and redistributing its own substance, while assimilating substances from the environment. The anabolic hormones, such as thyroid, and the tissue-catabolic hormones such as cortisol, act both locally and systemically, according to various regulatory processes, mainly nervous processes. A functional system is created for achieving the goal. As the organism achieves its purposes or adapts, the catabolic hormones will subside.
+
+**CONTEXT:** How do the intestines and the brain interact during stressful situations?
+
+**RAY PEAT:** Sensory nerves in the intestine contribute to the organism's assessment of the situation—the Acceptor of Action—and motor nerves adjust the state of the intestine and other organs. The interplay between the state of the intestine and the assessed state of the stressful situation determines whether the individual will withdraw (often with incontinence of the bowel and bladder) or persist and struggle to adapt.
+
+**CONTEXT:** What is the role of defensive aggression in stress response, and what factors can prevent negative consequences?
+
+**RAY PEAT:** Defensive aggression is probably a response intermediate between fearful giving up and confident achievement. When a rat is restrained, held down on its back, it quickly develops ulcers, but if it has a stick to bite, it is very resistant to the formation of the ulcers. The ability to do something with a defensive meaning prevents the excessive production of serotonin and its consequences, such as increased production of cortisol and other stress hormones, and disturbance of circulation and energy production: Endotoxin and prostaglandins activate these same systems, and progesterone and aspirin are among the protective factors that can oppose those effects.
+
+**CONTEXT:** How do the sympathetic and parasympathetic nervous systems influence energy production and gut function during stress?
+
+**RAY PEAT:** When physical and mental activity are intensified to meet an adaptive crisis, the adrenergic sympathetic nervous system optimizes muscular energy production, but inhibits the digestive system. In the state of anxious-helpless withdrawal, the parasympathetic and serotonergic systems demobilize the active neuro-skeletomuscular systems, and activate the bladder, intestine and stomach, tending to empty the contents by causing diarrhea, vomiting, and urination. Serotonin reduces energy production in muscles; this is probably related to the muscular dystrophy it produced in Selye's experiments, and the myopathy produced by tryptophan (Castot, et al., 1991). Antiserotonin drugs are used for controlling diarrhea and vomiting, and some of them are protective against ulcers (Ramesh, et al., 2009).
+
+**CONTEXT:** What is the relationship between cortisol, depression, and inflammation?
+
+**RAY PEAT:** Chronically elevated cortisol is commonly seen in depressed people, but giving a supplement of cortisol is effective in relieving depression. Both cortisol and the pituitary corticotropic hormone that stimulates its production, ACTH, have some antidepressant effects, and they inhibit the hypothalamic corticotropin release hormone, CRH. CRH is more directly associated with depression than cortisol is, and it by itself activates many inflammatory processes, including the release of histamine, cytokines, and nitric oxide. CRH is promoted in the hypothalamus (and in many other tissues) by inflammation, endotoxin, serotonin, interleukins, and prostaglandins, but also by the perception of unavoidable difficulties.
+
+**CONTEXT:** What internal factors can decrease CRH activity, and what increases it?
+
+**RAY PEAT:** Besides cortisol, progesterone and androgens are internal factors that decrease the activity of CRH. Estrogen and hypothyroidism increase its activity.
+
+**CONTEXT:** How does the reductionist view of the organism fail to explain the integration of meaning and chemistry?
+
+**RAY PEAT:** The convergence, interaction, and summation of inflammatory molecules with the perceived meaning of a situation is a subject carefully avoided by those who think of the organism as a sum of its molecules and cells. They accept that transmitter molecules and receptor molecules regulate behavior, and influence perception, but they can't explain how understanding and interpretation can make the profound differences in feeling, behavior, and biochemistry that they in fact do make.
+
+**CONTEXT:** What is the limitation of the "on-off switch" model of nerves, and what is the importance of cellular complexity?
+
+**RAY PEAT:** The model of nerves as on-off switches, governed by the state of their membrane, has made the problem of integrating meaning with chemistry seem impossibly complex. In recent years it has been recognized that nerves can produce or respond to more than one kind of signal, but few people have understood nerve cells in a way that could allow individual cells to handle complex and subtle signals, and to make rational judgments based on such signals. P.K. Anokhin, G. Albrecht-Buehler and a few others have observed the importance of recognizing cellular complexity, and the ability of cells to integrate complex information. The cell physiology of Gilbert Ling and Albert Szent-Gyorgyi demonstrated the basis on which these complex integrating processes can be understood.
+
+**CONTEXT:** How do nerve and muscle cells respond to stimulation, and what happens during overstimulation or eccentric contraction?
+
+**RAY PEAT:** Nerves and muscle cells should be considered together, because they respond to many things in similar ways. The membrane people don't like to think that nerves have any contractile properties, but in fact they do twitch slightly when stimulated, showing that it is the entire cytoplasm that responds to information, not the hypothetical plasma membrane. When they are overstimulated, they swell, as muscles do when they are fatigued. When a muscle is stretched while it's trying to contract (as in running downhill; this is called "eccentric contraction") it becomes inflamed, and the structural damage can be cumulative. By exercising muscles with "concentric contractions," allowing them to shorten against resistance, the cellular damage can be repaired.
+
+**CONTEXT:** What are the effects of intense nerve stimulation and stress on nerve structure?
+
+**RAY PEAT:** Stretching a nerve causes some metabolic changes similar to the muscle in eccentric contraction, but nerves are normally protected against injuries of that sort. However, very intense stimulation of a nerve fiber can disrupt its internal structure, causing "beading," an intermittent clumping of the nerve filaments and microtubules along the axon, as if the internal structure is contracting in segments, while the overall axon doesn't contract. With intense stress, the beaded fiber can separate into individual pieces, like droplets of cytoplasm, instead of the elongated cylinder. Long before stress causes it to disintegrate in that manner, it is likely that it causes it to lose its functional coherence.
+
+**CONTEXT:** How does excessive cell stimulation affect cellular alkalinity, and what role do inflammatory mediators play?
+
+**RAY PEAT:** The excessive stimulation of a cell increases its internal alkalinity, causing it to take up more water. The mediators of inflammation, such as CRH, serotonin, and endotoxin cause cell swelling and increased alkalinity. CRH and endotoxin can increase the susceptibility to seizures, but they can also block the ability of cells to respond to normal stimulation.
+
+**CONTEXT:** How does serotonin affect cellular pH and energy production, and what is the role of carbonic anhydrase?
+
+**RAY PEAT:** Serotonin, as an alkaloid, is bound and inactivated by acidic cells. Carbon dioxide, produced by respiration, normally keeps cells slightly acidic. Hyperventilation, or the production of less carbon dioxide and more lactic acid, causes serotonin to be released from platelets and other cells where it has been inactive, allowing it to enter other cells where it has its characteristic effects, increasing lactate, decreasing ATP (Assouline-Cohen, et al. 1998, Koren-Schwartzer, et al., 1994), increasing pH, and stimulating contraction or mitosis. One of the very neglected mechanisms of serotonin's action is its ability to activate carbonic anhydrase, a class of enzymes that convert carbon dioxide to bicarbonate, and tend to increase the alkalinity of cells. Inhibitors of carbonic anhydrase are currently being investigated for their ability to stop the growth of cancer cells and to permit their recovery of normal functions. One of the carbonic anhydrase inhibitors, acetazolamide, has been used for many years to treat epilepsy, glaucoma, migraine, sleep apnea, mountain sickness—and even psychosis (Inoue, et al., 1984).
+
+**CONTEXT:** What is the proposed mechanism of serotonin's action, and how does it relate to cellular structure and disease?
+
+**RAY PEAT:** Serotonin's effects appear to be the result of its action on the microtubules or other elements of the cell skeleton (Bianchi, et al., 2003, Grass, et al., 2004), which are the main integrating elements of the cell. Chronic disturbance of the microtubules and neurofilaments, with inflammation and impaired energy production, is characteristic of Alzheimer's disease.
+
+**CONTEXT:** How can an organism's resistance to stress be increased?
+
+**RAY PEAT:** If the internal and external causes of stress converge, additively, on the cell's internal communication and integration system, then the basic resistance of the organism to stress can be increased by any of the factors which oppose the signals of stress.
+
+**CONTEXT:** What dietary and hormonal factors can help shift the balance away from stress-related pathways?
+
+**RAY PEAT:** Carbon dioxide, progesterone, and thyroid act on many of the factors that interfere with our ability to handle stress constructively. A diet that reduces fermentation and endotoxin, with an abundance of calcium—fruit, milk, and cheese, for example—can help to shift the balance away from lactic acid, estrogen, and serotonin, toward carbon dioxide, progesterone, and thyroid.

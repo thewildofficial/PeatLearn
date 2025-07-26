@@ -68,16 +68,13 @@ ipython_config.py
 *.pickle
 
 # Processed data (keep structure, ignore content)
-data/processed/*
 !data/processed/.gitkeep
 
 # Analysis results
 data/analysis/*
 !data/analysis/.gitkeep
 
-# Cleaned corpus output
-cleaned_corpus/
-preprocessing/cleaned_corpus/
+
 
 # Embedding and vector stores
 embedding/vectorstore/*
@@ -281,7 +278,6 @@ quality_assessments/
 analysis_output/
 
 # Large corpus files (keep directory structure)
-data/raw/raw_data/*
 !data/raw/raw_data/.gitkeep
 
 # Embedding evaluation results

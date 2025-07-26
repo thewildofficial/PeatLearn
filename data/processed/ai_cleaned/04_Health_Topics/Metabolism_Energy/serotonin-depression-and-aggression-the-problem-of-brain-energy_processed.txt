@@ -1,0 +1,109 @@
+
+
+**RAY PEAT:** Serotonin and estrogen have many systematically interrelated functions, and women are much more likely to suffer from depression than men are. Serotonin and histamine are increased by estrogen, and their activation mimics the effects of estrogen. Serotonin is closely involved in mood disorders, but also in a great variety of other problems that affect women much more frequently than men. These are probably primarily energy disorders, relating to cellular respiration and thyroid function. Liver disease and brain disease, e.g., Alzheimer’s disease, are both much more common in women than in men, and serotonin and estrogen strongly affect the energetic processes in these organs. Liver disease can increase the brain’s exposure to serotonin, ammonia, and histamine. It isn’t just a coincidence that these three amines occur together and are neurotoxic; they are all stress-related substances, with natural roles in signaling and regulation.
+
+**CONTEXT:** What is the broader biological context for understanding serotonin's role, particularly in relation to conditions more prevalent in women?
+
+**RAY PEAT:** There are good reasons for thinking that serotonin contributes to the nerve damage seen in multiple sclerosis and Alzheimer’s disease. The high incidence of multiple sclerosis in women, and its onset during their reproductive years, is well known. The number of brain lesions is associated with the ratio of estrogen to progesterone. Estrogen activates mast cells to release histamine and serotonin, and activated mast cells can produce brain edema and demyelination. Blood clots have been microscopically associated with brain lesions like those in multiple sclerosis, and the platelets in clots release neurotoxic serotonin.
+
+**CONTEXT:** How does serotonin relate to neurodegenerative diseases like multiple sclerosis and Alzheimer's, and what is the role of estrogen and mast cells in this process?
+
+**RAY PEAT:** In Parkinson’s disease, the benefits seen from increasing the concentration of dopamine could result from dopamine’s antagonism to serotonin; anti-serotonin drugs can alleviate the symptoms, and 5-hydroxytryptophan can worsen the symptoms (Chase, et al., 1976). Other movement disorders, including akathisia and chorea, can be produced by serotonin. In autism, repetitive motions are a common symptom, and serotonin is high in the blood serum and platelets of autistic children and their relatives. Irritable bowel syndrome, another kind of “movement disorder,” can be treated effectively with anti-serotonin agents. This syndrome is very common in women, with premenstrual exacerbations, when estrogen is highest. One of the side effects of oral contraceptives is chorea, uncontrollable dancing movements. Some research has found increased serotonin in people with Huntington’s chorea (Kish, et al., 1987), and positive results with bromocriptine have been reported (Agnoli, et al., 1977).
+
+**CONTEXT:** What is the relationship between serotonin and movement disorders like Parkinson's, autism, and irritable bowel syndrome, and how do estrogen and certain medications like bromocriptine fit into this picture?
+
+**RAY PEAT:** The neurosteroid, allopregnanolone, for which progesterone is the precursor, facilitates the inhibitory action of GABA, which is known to be deficient in some disorders of mood and movement. This suggests that progesterone will be therapeutic in the movement disorders, as it is in various mood problems. Progesterone has some specific antiserotonin actions (e.g., Wu, et al., 2000).
+
+**CONTEXT:** How does progesterone, through its precursor allopregnanolone, relate to GABA and movement disorders, and what are its specific antiserotonin actions?
+
+**RAY PEAT:** The “serotonin reuptake inhibitors” “are presumed” to have the same effect on the brain that they have on blood platelets. They inhibit the ability of platelets to retain and concentrate serotonin, allowing it to stay in the plasma. This uptake-inhibited condition is a model of the platelet behavior seen in multiple sclerosis and Alzheimer’s disease.
+
+**CONTEXT:** What is the proposed mechanism of action for serotonin reuptake inhibitors (SSRIs) and how does it relate to platelet behavior observed in certain neurological conditions?
+
+**RAY PEAT:** Serotonin and its derivative, melatonin, are both involved in the biology of torpor and hibernation. Serotonin inhibits mitochondrial respiration. Excitotoxic death of nerve cells involves both the limitation of energy production, and increased cellular activation. Serotonin has both of these actions.
+
+**CONTEXT:** How do serotonin and melatonin influence mitochondrial respiration and cellular energy production, and what is their role in excitotoxic cell death?
+
+**RAY PEAT:** In hibernating animals, the stress of a declining food supply causes increased serotonin production. In humans and animals that don’t hibernate, the stress of winter causes very similar changes. Serotonin lowers temperature by decreasing the metabolic rate. Tryptophan and melatonin are also hypothermic. In the winter, more thyroid is needed to maintain a normal rate of metabolism.
+
+**CONTEXT:** What is the relationship between stress, serotonin production, body temperature regulation, and metabolic rate, particularly in the context of seasonal changes and hibernation?
+
+**RAY PEAT:** Increased serotonin interferes with the consolidation of learning. Hypothermia has a similar effect. Since estrogen increases serotonergia, and decreases body temperature, these effects help to explain the long-observed interference of estrogen with learning.
+
+**CONTEXT:** How does increased serotonin and estrogen impact learning and memory consolidation, and what is the role of body temperature in this process?
+
+**RAY PEAT:** Although ammonia, produced by fatigue or liver inefficiency, creates torpor, it can also cause convulsions. It synergizes with serotonin, and both of these promote excitotoxicity.
+
+**CONTEXT:** What is the synergistic effect of ammonia and serotonin on the nervous system, and how do they contribute to excitotoxicity?
+
+**RAY PEAT:** Serotonin’s other names include thrombotonin, thrombocytin, enteramine, and 5-HT, its chemical name (5-hydroxytryptamine). These historical names derive from its role in the intestine and in blood vessels. In 1951, it was discovered that enteramine and thrombotonin were a single substance, and its involvement in circulatory disease, especially hypertension and vascular spasms, was the focus of research. (The increase in the number of “cardiovascular events” recently seen in the study of women using estrogen is what might be expected from something which increases serotonin dominance.) It causes vasoconstriction and vasospasm, and promotes clotting, when it’s released from platelets. Especially when it is released from mast cells, it is considered to be an inflammatory mediator, along with histamine. Edema, bronchoconstriction, immunosuppression, and joint swelling are produced by the release of serotonin from platelets or other cells. As inflammatory mediators, serotonin and histamine are directly involved in asthma, hives, gastrointestinal damage from alcohol, nerve cell damage, edema, and shock.
+
+**CONTEXT:** What are the historical names and physiological roles of serotonin, particularly in the circulatory system and as an inflammatory mediator, and how does estrogen influence these functions?
+
+**RAY PEAT:** The broadly protective effects of antihistamine drugs have been energetically exploited by the drug industry for fifty years. Why haven’t antiserotonin drugs been similarly emphasized?
+
+**CONTEXT:** Why has the drug industry focused on antihistamines rather than antiserotonin drugs, given the broad protective effects of the latter?
+
+**RAY PEAT:** Research on LSD and its derivatives led to drugs such as bromocriptine, which oppose the effects of histamine and estrogen. Some of bromocriptine’s effects are clearly antagonistic to serotonin, though bromocriptine is usually called a “dopamine agonist”; dopamine is pretty generally a serotonin antagonist. Methysergide, a related drug with antiserotonin activity, is effective in protecting the brain from the effects of strokes. But there is a general disinclination to understand the broad biological meaning of these effects.
+
+**CONTEXT:** How do drugs like bromocriptine and methysergide, related to LSD research, act as serotonin antagonists, and why is there a reluctance to explore their broader biological implications?
+
+**RAY PEAT:** I think the corrupt campaign against LSD played a large role in this: If the therapeutic value of LSD and related drugs (e.g., methysergide) with expired patents, used as antiserotonin agents, became widely known, the existing system of power and profit would be threatened. The war on drugs has always had its ulterior motives, including justifying domestic and foreign interventions in issues that have nothing to do with drugs. And in the case of the serotonin/antiserotonin mythology, this “war” has been rewarding to the drug industry--Lilly makes over $2 billion annually on Prozac. Each suicide caused by Prozac would appear to be balanced by several hundred thousand dollars earned by the corporation. If the war on drugs were serious, this would be a good place to start. And in weighing what corporate punishments might be appropriate, this corporation’s financial support for universal capital punishment should be taken into account. Many experiments have shown that estrogen is very important for aggressive behavior in animals, and estrogen promotes serotonin’s actions. Some research shows that increased serotonin is associated with certain types of increased aggressiveness, and antiserotonin agents decrease aggressiveness (Ieni, et al., 1985; McMillen, et al., 1987) but the clearest research has to do with the crucial role of serotonin in learned helplessness. Learned helplessness is a biological condition that is created by inescapable stress. In this state, animals that would normally swim for hours will stop swimming after a few minutes and allow themselves to drown. They simply don’t have enough mental or physical energy to overcome challenges.
+
+**CONTEXT:** What is the connection between the campaign against LSD, the drug industry's profits from serotonin-based drugs like Prozac, and the suppression of information about antiserotonin agents? How does estrogen influence aggressive behavior, and what is the role of serotonin in learned helplessness?
+
+**RAY PEAT:** In learned helplessness, the level of serotonin is high, and an excess of serotonin helps to create the state of learned helplessness.
+
+**CONTEXT:** What is the specific role of elevated serotonin levels in the development of learned helplessness?
+
+**RAY PEAT:** Serotonin activates glycolysis, forming lactic acid. Excess lactic acid tends to decrease efficient energy production by interfering with mitochondrial respiration.
+
+**CONTEXT:** How does serotonin's activation of glycolysis and subsequent lactic acid production negatively impact cellular energy production and mitochondrial respiration?
+
+**RAY PEAT:** Heart failure, hypertension, muscle hyperalgesia (Babenko, et al., 2000), some panic reactions, and other maladaptive biological events associated with problems of energy metabolism, are promoted by excessive serotonin.
+
+**CONTEXT:** What are some of the physiological conditions and maladaptive biological events that are exacerbated by excessive serotonin, particularly those related to energy metabolism?
+
+**RAY PEAT:** Autistic children and their relatives have high concentrations of serotonin in their serum and platelets. Members of a family tend to eat the same foods and to share other environmental conditions. Prenatal hypothyroidism and various kinds of imprinting, including hyperestrogenism, could account for this. Some studies have reported that thyroid supplements help autistic children, and anti-serotonin drugs have caused improvement in both children and adults.
+
+**CONTEXT:** What is the observed link between high serotonin levels in autistic individuals and their families, and what potential contributing factors like hypothyroidism and hyperestrogenism are suggested? What is the therapeutic potential of thyroid supplements and anti-serotonin drugs in autism?
+
+**RAY PEAT:** Serotonin tends to cause hypoglycemia, and hypoglycemia inhibits the conversion of thyroxine into the active T3 hormone. Hypoglycemia and hypothyroidism increase noradrenaline, and autistic people have been found to have more noradrenaline than normal. These changes, along with the general hypometabolism caused by excess serotonin, seem to justify the use of a thyroid supplement in autism and other serotonin-excess syndromes.
+
+**CONTEXT:** How does serotonin contribute to hypoglycemia, and how does this, in turn, affect thyroid hormone conversion and noradrenaline levels, particularly in the context of autism and other serotonin-excess syndromes?
+
+**RAY PEAT:** Overdose with the serotonin reuptake inhibitors, or with 5-hydroxytryptophan, which has effects similar to serotonin, can cause the sometimes fatal "serotonin syndrome." Symptoms can include tremors, altered consciousness, poor coordination, cardiovascular disturbances, and seizures. Treatment with anti-serotonin drugs can alleviate the symptoms and usually can prevent death.
+
+**CONTEXT:** What are the symptoms and dangers of serotonin syndrome, and what is the role of anti-serotonin drugs in its treatment?
+
+**RAY PEAT:** The serotonin syndrome has been reported in users of St. John’s wort as an antidepressant. Since the other large neutral amino acids compete with tryptophan for entry into cells, the branched chain amino acids have some anti-serotonin activity, and this could be a justification for their use by athletes, since tryptophan and serotonin decrease glycogen stores and reduce endurance.
+
+**CONTEXT:** How does St. John's wort relate to serotonin syndrome, and what is the potential benefit of branched-chain amino acids in mitigating serotonin's effects, particularly for athletes?
+
+**RAY PEAT:** The only amino acid that has ever been found to be carcinogenic is tryptophan. Its ability to mimic estrogen in promoting the release of prolactin is probably responsible.
+
+**CONTEXT:** What is the potential carcinogenic risk associated with tryptophan, and how might its estrogen-mimicking properties and prolactin release be involved?
+
+**RAY PEAT:** A large carbohydrate meal increases the ratio of tryptophan to the competing amino acids, and it has been proposed that this can shift the body’s balance toward increased serotonin. In an animal study, bromocriptine, which shifts the balance away from serotonin, reduced obesity and insulin and free fatty acids, and improved glucose tolerance.
+
+**CONTEXT:** How does carbohydrate intake influence the tryptophan-serotonin balance, and what are the metabolic benefits of bromocriptine in shifting this balance away from serotonin?
+
+**RAY PEAT:** All of these observations are easiest to understand in terms of the suppression of cellular energy. Serotonin, like estrogen, lowers cellular ATP and interferes with oxidative metabolism.
+
+**CONTEXT:** What is the unifying principle that explains the various negative effects of serotonin and estrogen, and how do they both suppress cellular energy and oxidative metabolism?
+
+**RAY PEAT:** Serotonin, like histamine, has its proper physiological functions, but it is a mediator of stress that has to be systematically balanced by the systems that support high energy respiratory metabolism. The use of supplements of tryptophan, hydroxytryptophan, or of the serotonin promoting antidepressant drugs, seems to be biologically inappropriate.
+
+**CONTEXT:** What is the proper physiological role of serotonin and histamine, and why are supplements like tryptophan and hydroxytryptophan, as well as serotonin-promoting antidepressants, considered biologically inappropriate?
+
+**RAY PEAT:** Many of the symptoms produced by excess serotonin are also the symptoms of hypothyroidism. Thyroid, progesterone, and high quality protein nutrition are central to protection against the serotonin syndromes. (Progesterone, like LSD, can inhibit the firing of serotonergic nerves, but an overdose, unlike LSD, never produces hallucinations.)
+
+**CONTEXT:** What are the overlapping symptoms of excess serotonin and hypothyroidism, and what nutritional and hormonal factors are crucial for protection against serotonin syndromes?
+
+**RAY PEAT:** One of the many actions of the "SSRI" (such as fluoxetine, Prozac), which aren’t related to their effect on serotonin, is to increase the concentration of allopregnanolone in the brain, imitating the action of increased progesterone. Following this discovery, Lilly got Prozac approved as a treatment for premenstrual syndrome. Since the production of allopregnanolone and progesterone depends on the availability of pregnenolone and cholesterol, a low cholesterol level would be one of the factors making this an inappropriate way to treat PMS.
+
+**CONTEXT:** Beyond their effect on serotonin, what other actions do SSRIs like Prozac have, particularly regarding allopregnanolone and progesterone, and why might low cholesterol levels make them an inappropriate treatment for PMS?
+
+**RAY PEAT:** If we think biologically, starting with the role of serotonin as a damage-induced inflammatory mediator, we can speculate that an infinite number of irritating substances will be “serotonin reuptake inhibitors.” The particular history of the “third generation antidepressants” is one that should disturb our tranquility.
+
+**CONTEXT:** Considering serotonin's role as a damage-induced inflammatory mediator, what are the implications for understanding "serotonin reuptake inhibitors" and the history of third-generation antidepressants?

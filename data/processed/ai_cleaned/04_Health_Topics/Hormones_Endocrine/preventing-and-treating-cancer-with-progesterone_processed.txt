@@ -1,0 +1,183 @@
+
+
+**RAY PEAT:** The energy of the mind is the essence of life.
+
+**CONTEXT:** The document begins with a quote about the essence of life.
+
+**RAY PEAT:** All through the last century, as more and more resources were devoted to solving "the cancer problem," the death rate from cancer increased every year. Something was clearly wrong with the way the problem was being approached.
+
+**RAY PEAT:** If you grind up a computer and dissolve it in acid, you can find out exactly what substances it was made of, but you won't learn from that information how the computer worked. Twentieth century biologists became fond of emulsifying cells and studying the soluble parts. By the end of the century, they had identified so many parts that the government was financing projects to use supercomputers to try to understand how the parts interacted.
+
+**RAY PEAT:** If some essential information was lost in studying the parts, supercomputation isn't the way to find it. Even with infinite computing capacity, a description of the electrons on carbon and hydrogen atoms on amino acids in protein molecules won't lead to the reality of how those atoms would have functioned in the living state.
+
+**RAY PEAT:** The image of a cell as a watery solution contained in an elastic membrane bag is still having a radically stupefying effect on biology and medicine. The idea that a cell can be understood by using a computer to model a network of interactions between genes and gene products is nothing more than a technologizing of the primitive understanding of life that was promulgated by the Weismann-Mendel-Morganist school. It was the dogmatic insistence of that genetic determinist school that cancer originated with a genetic mutation.
+
+**RAY PEAT:** By the middle of the 20th century, that dogma had excluded the most important parts of biology from the schools and the journals. Ideas of a developmental field, cellular coherence, and holistic cooperativity were denounced as unscientific vitalism. Returning to the idea of a "cancer field" is an essential first step in thinking realistically about preventing and treating cancer, but that idea has hardly progressed since the 1930s.
+
+**RAY PEAT:** In the last few years, interest in cloning and stem cells and tissue regeneration has revived interest in studying the factors that contribute to the spatial and temporal ordering of cell growth.
+
+**RAY PEAT:** The idea of a developmental field was a fundamental part of embryology in the first half of the 20th century. It was an empirical idea, supported most commonly by evidence that diffusing substances and secreted materials governed the differentiation of cells and tissues, but the form-generating effects of bioelectric fields were also often demonstrated, and there was some evidence that tissue radiations played a role. The extracellular matrix secreted by cells served to transmit information between cells, but its form was regulated by cells, and its structure was a factor governing the cells' differentiation.
+
+**RAY PEAT:** Experiments in amphibians showed that regeneration of organs had a reciprocal relationship with the development of cancer--a tumor could be turned into a tail, for example, if it was grafted onto the stump following amputation of the tail, but factors that weakened regeneration could cause a tumor to develop. In these experiments, the normal organism's morphogenetic or epimorphic field overrode the disordered developmental field of the tumor.
+
+**RAY PEAT:** In the absence of overriding external influences, the disordered system of the tumor, in which cells emitted many products of their disordered metabolism, could interfere with the normal functions of the organism. All of the products of the injured cells, including their altered extracellular matrix, constituted the cancer field.
+
+**RAY PEAT:** The recent recognition of the "bystander effect" of radiation exposure, in which cells that haven't been irradiated undergo genetic changes or death when they are exposed to irradiated cells, has provided an opportunity to return to the "field" idea in cancer, because the stress-induced factors emitted by irradiated cells are the same toxic factors emitted by cells undergoing carcinogenesis from other causes, such as over-exposure to estrogen.
+
+**RAY PEAT:** H. J. Muller, one of T. H. Morgan's students and colleagues, studied the mutagenic effects of x-rays, and the genetic determinists argued that the random changes produced in the genetic material by ionizing radiation provided a model of the evolutionary process. Randomly altered genes and natural selection would explain everything, including cancer. Every time cells divide, their genes supposedly become more susceptible to random changes, so increased replication of cells would increase the risk of producing genetic changes leading to cancer. This idea is so simple and so widely believed that many people focus only on the rate of proliferation, and the random mutations that supposedly occur during proliferation, when they try to explain carcinogenesis. They feel that it's reasonable to discuss cancer without bothering to understand the physiology of the cell or the organism.
+
+**RAY PEAT:** The organism can only be understood in its environments, and a cell can't be understood without reference to the tissue and organism in which it lives. Although the geneticists were at first hostile to the idea that nutrition and geography could have anything to do with cancer, they soon tried to dominate those fields, insisting that mutagens and ethnicity would explain everything. But the evidence now makes it very clear that environment and nutrition affect the risk of cancer in ways that are not primarily genetic.
+
+**RAY PEAT:** Every tumor, like every person, has a uniqueness, but valid and practical empirical generalizations can be made, if we understand some of their properties and the conditions that govern their development and survival.
+
+**RAY PEAT:** Percival Potts' observation of scrotal cancer in chimney sweeps eventually led to the study of soot carcinogenesis, and then to the study of the properties of the polycyclic aromatic hydrocarbons in soot. The similarities of those properties to estrogen's soon became apparent.
+
+**RAY PEAT:** Over the decades, many studies have confirmed that prolonged, continuous exposure to estrogen is carcinogenic, and that progesterone offsets those effects.
+
+**RAY PEAT:** Following the animal studies that showed that carcinogenesis by estrogen could be prevented or reversed by progesterone, studies of the endogenous hormones in women showed that those with a natural excess of estrogen, and/or deficiency of progesterone, were the most likely to develop uterine or breast cancers.
+
+**RAY PEAT:** The Morganist school of genetic determinism moved into endocrinology with a doctrine that hormones act only through hormone receptors, proteins which activate certain genes.
+
+**RAY PEAT:** Many researchers -- physical chemists, biochemists, cytologists, embryologists, reproductive and developmental biologists, gerontologists, physiologists, neurologists, endocrinologists -- were investigating estrogen's properties and actions, and had made great progress by the 1950s, despite the medical frauds being perpetrated by the estrogen industry (Rothenberg, 2005).
+
+**RAY PEAT:** All of this complex and subtle work was of no interest to a small group of people who wanted to impose their genetic views onto biology.
+
+**RAY PEAT:** The inventor of the estrogen receptor, Elwood Jensen, has written that the results of certain of his experiments "caused the demise of the transhydrogenation hypothesis and convinced all but the most diehard enzymologists that estradiol binds to a characteristic component of target cells to exert its physiological effect without itself being chemically altered." The hypothesis he referred to was just part of a large fairly systematic international effort.
+
+**RAY PEAT:** How he did away with the opposition, who were studying the complex metabolic actions of estrogen, was by synthesizing isotope-labeled estradiol and estrone, and claiming to observe that they weren't metabolically altered, as they produced their hormonal effect. Since the experiment was extremely expensive, and required the cooperation of the Atomic Energy Commission, it wasn't easily repeated. However, many experiments have subsequently demonstrated that practically every tissue in the body (and plants and bacteria) metabolize the estrogens, causing estradiol to change into estrone, and estrone, into estradiol. Jensen's decisive and historically crucial experiment was false.
+
+**RAY PEAT:** But it served its purpose, and (with help from the pharmaceutical industry and government granting agencies) marginalized the work of those "enzymologists" and everyone else who persisted in studying the complex actions of estrogen.
+
+**RAY PEAT:** The enzyme that converts the weaker estrone into the stronger estradiol is an important factor in determining estrogen's effects on a particular tissue. Progesterone is able to regulate the cell's metabolism, so that the oxidative pathway, forming estrone from estradiol, predominates. Estrogen-dominated tissues are likely to have a balance in the direction of reduction rather than oxidation, increasing the amount of the active estradiol.
+
+**RAY PEAT:** The immediate effects of estrogen and progesterone on cells, that occur long before genes can be activated, were simply ignored or denied by the promoters of the estrogen receptor doctrine. Some of these excitatory or antiexcitatory effects are probably structural changes, that involve the mobilization of calcium inside cells, and the activation or inhibition of reactions involving phosphoric acid. Although they have been known for many years, they are always referred to as "novel" or "non-classical" effects, and are called "membrane effects," because that's the only way the reductionists are able to identify changes that happen immediately throughout the cell.
+
+**RAY PEAT:** Cellular excitation involves an increase of intracellular calcium and the activation of phosphorylating enzymes in cells. Some experiments suggest (Improta-Brears, et al., 1999) that the estrogen receptor mediates estrogen's ability to mobilize calcium (leading to the activation of cell division, mitosis). Whether or not it does, the recognition that estrogen activates calcium, leading to activation of the phosphorylation system, should "cause the demise of" the "classical estrogen receptor" doctrine, because the phosphorylation system alters the expression of genes, much as the estrogen receptor was supposed to do by its direct actions. **But before it alters the expression of genes, it alters the activities of enzymes.** When estrogen activates calcium and phosphorylation independently of the estrogen receptor, the situation is even worse for the Jensen dogma.
+
+**RAY PEAT:** Progesterone's opposition to those early excitatory effects of estrogen are so basic, that there shouldn't be any difficulty in thinking of it as an antiestrogen, that stops cell division primarily by opposing the excitatory effects of estrogen and other mitogens. Progesterone's opposition to the calcium-activating and phosphorylating effects of estrogen affects everything in the cell, according to the cell's specific nature.
+
+**RAY PEAT:** But the reductionists don't like "nongenomic" explanations of anything, even when they are triggered by the estrogen receptor rather than by a membrane-event. So, to argue that progesterone's opposition to estrogen is general, it's necessary to examine each of estrogen's actions, where those actions are clearly known, and to evaluate progesterone's effects on the same events.
+
+**RAY PEAT:** When a cell is stimulated or slightly stressed, homeostatic mechanisms are activated that help it to return to its normal resting state. The mobilization of calcium and the phosphorylation system is followed by increased synthesis of cholesterol and the formation of glucose from glycogen. Cholesterol itself is protective, and in some cells it is massively converted into progesterone, which is even more effective in restoring homeostasis.
+
+**RAY PEAT:** In the ovary, the enzymes that synthesize cholesterol, along with the production of progesterone, are activated by the pituitary hormone, FSH, but also by estrogen. In the liver and uterus and vascular endothelium, which aren't specialized for the production of progesterone, stimulation by estrogen activates the enzymes to increase the formation of cholesterol.
+
+**RAY PEAT:** When cells are injured or seriously stressed, instead of being able to directly recover their normal quiescence, they may instead mobilize their systems for growing and replicating, to replace damaged or destroyed cells.
+
+**RAY PEAT:** Prolonged exposure to estrogen, that can't be offset by the homeostatic factors, such as progesterone, typically causes cells to enter a growth phase. (But so do other excitatory processes, such as ionizing radiation.)
+
+**RAY PEAT:** One of the basic reactions to injury is to shift the cell away from oxidative metabolism to glycolytic metabolism, which is inefficient, but can support cell division. Chemical stains show that during cell division cells are in a reduced state, with abundant sulfhydryl groups including reduced glutathione and protein sulfhydryls. This shift in itself increases the formation of active estradiol from estrone.
+
+**RAY PEAT:** In the inflamed or estrogen dominated cell, enzymes such as the cyclooxidases (COX), that convert arachidonic acid into prostaglandins, are activated. Beta-glucuronidase and sulfatases are activated, and these cause intracellular estrogen to increase, by removing the water soluble sulfate and glucuronate portions from estrogens that had been inactivated. The detoxifying enzymes that attach those molecules to estrogen are inactivated in the estrogen dominated cell. The prostaglandin formed from arachidonic acid stimulates the formation of the enzyme aromatase or estrogen synthetase, that converts androgens into estrogen.
+
+**RAY PEAT:** Those processes, initiated by excitation or injury, increase the amount of estrogen in the cell, which intensifies the excitation.
+
+**RAY PEAT:** Progesterone opposes all of those processes, decreasing the amount of estrogen in the cell by modifying the activities of those five types of enzyme.
+
+**RAY PEAT:** Although many kinds of protein (including enzymes) bind estrogen, the protein that Jensen called "the estrogen receptor" is largely responsible for the ability of the uterus and breasts to retain high concentrations of estrogen. Various kinds of stimulation or stress (including heat and oxygen deprivation) cause its appearance, and estrogen itself increases the amount of the estrogen receptor in a cell. The estrogen receptor doesn't just "activate genes," as the Jensen dogma claimed. For example, the estrogen receptor directly binds and inactivates the "tumor suppressor" p53 protein, which otherwise would restrain the replication of damaged cells.
+
+**RAY PEAT:** Progesterone causes the estrogen receptor to be eliminated. (Batra; Boling and Blandau; Resko, et al.)
+
+**RAY PEAT:** Among the cell activating factors, other than estrogen, are proteins that are considered to be "oncogenes," because of their involvement in cancer. Several of these proteins are activated by estrogen, inhibited by progesterone. The term "oncogene" refers to any gene that contributes to the development of cancer, but it is so burdened by ideology that it shouldn't be used as if it had a simple clear meaning.
+
+**RAY PEAT:** A variety of proteins promote cell activity and replication, under the influence of estrogen. The "composite transcription factor activating protein 1," AP-1 which integrates the effects of other transcription factors, is important in a variety of cell types, and its activity is increased by estrogen and decreased by progesterone.
+
+**RAY PEAT:** When the "progesterone receptor" **lacks progesterone,** it has the opposite effect of progesterone, and this feature has been used propagandistically, by infecting cells with a virus carrying the progesterone receptor protein, and then suggesting that the disturbed functions of the cell reflect a potential effect of progesterone. The receptor, lacking progesterone, tells the cell that it has a progesterone deficiency, but too many molecular endocrinologists are trying to say that the receptor protein is the same as the progesterone.
+
+**RAY PEAT:** The generality of the process of excitation/activation can be clearly seen in the effects of the nerve-inhibiting GABA and the nerve-exciting glutamate or NMDA. In cultured breast cancer cells, GABA inhibits growth, NMDA increases growth. As in the brain, progesterone supports the actions of GABA, and opposes those of NMDA or the excitatory amino acids, while estrogen in general promotes the effects of the excitatory amino acids, and opposes those of GABA.
+
+**RAY PEAT:** Both the excitatory amino acids and a peptide that promotes inflammation, tumor necrosis factor (TNF), activate the enzyme which makes estrogen, aromatase. Estrogen, by activating NF kappaB, increases the formation of TNF, which in itself can promote the growth and metastasis of cancer. Various antiinflammatory agents, including aspirin, progesterone, testosterone, saturated fats, and glycine, can inhibit the production of NF kappaB.
+
+**RAY PEAT:** An enzyme that has been thought of mainly in relation to the brain is catechol-O-methyl transferase, which is inhibited by estrogen (producing effects similar to cocaine), leading to brain excitation. The enzyme detoxifies catecholestrogen (Creveling, 2003), protecting cells from DNA damage (Lavigne, et al., 2001). When the activity of this enzyme is low, there is increased risk of breast cancer (Matsui, et al., 2000). Progesterone increases its activity (Inoue and Creveling, 1991, 1995).
+
+**RAY PEAT:** Another enzyme system that affects the body's reactions to stress and modifies processes of inflammation and growth, the monoamino-oxidases, is affected oppositely by estrogen and progesterone. Estrogen's effects are partly mediated by increased formation of serotonin, progesterone's, by decreasing it. Histamine is another promoter of inflammation that is increased by estrogen, decreased by progesterone.
+
+**RAY PEAT:** Estrogen's effects in the nervous system go beyond the production of cocaine-like hypomania, or chorea, or epilepsy, and include the activation of the basic stress hormones, increasing the formation in the hypothalamus of pro-opiomelanocortin (POMC), which is a precursor of ACTH to activate the adrenals, and endorphins ("endogenous opiates"), which stimulate growth processes. Both endorphins and ACTH can be found in tumors such as breast cancer. The ACTH stimulates the production of cortisol, that protects against some of the immediate causes of inflammation and growth, but that contributes to the loss of resistance, and increases estrogen synthesis.
+
+**RAY PEAT:** A protein called the sigma receptor, known for its role in cocaine's action, binds progesterone, and can inhibit the growth of cancer. Some anesthetics have similar effects on tumors, acting through this protein. The sigma receptor, in association with progesterone or pregnenolone, is protective against the excitatory amino acids.
+
+**RAY PEAT:** The extracellular medium changes during the development of a tumor. Irritated hypoxic cells, and estrogen-stimulated cells, increase their production of collagen, and the increase of collagen interferes with normal cell functions. Progesterone reduces the formation of collagen, and probably contributes to its removal.
+
+**RAY PEAT:** Naloxone or naltrexone, which blocks the actions of the endorphins and morphine, is being used to inhibit the growth of various kinds of cancer, including breast cancer and prostate cancer. Leptin (which is promoted by estrogen) is a hormone produced by fat cells, and it, like estrogen, activates the POMC-related endorphin stress system. The endorphins activate histamine, another promoter of inflammation and cell division.
+
+**RAY PEAT:** Progesterone opposes those various biochemical effects of estrogen in multiple ways, for example by inhibiting the ACTH stress response, by restraining cortisol's harmful actions, and by inhibiting leptin.
+
+**RAY PEAT:** Mediators of the radiation bystander effect include NO, TNF, COX, and prostaglandins. These are produced by other things that cause inflammation and injury, including estrogen.
+
+**RAY PEAT:** Cell division, when it is part of the body's continuous renewal and adaptation, isn't a source of mutations or degeneration, but when it is induced by the mediators of inflammation produced in response to injury, it leads to inherited changes, loss of differentiated function, and eventually to genetic instability.
+
+**RAY PEAT:** When cell division is so disturbed that the number of chromosomes becomes abnormal, the instability of these cells decreases their ability to survive, but when the causes of the inflammation persist, they will continue to be replaced by other abnormal cells. The toxic products of dying cells can reach a point at which the debris can't be removed, adding to the injury and inflammation. The damaged bystander cells spread their influence through a cancer field, injuring more cells.
+
+**RAY PEAT:** One of the "field" effects of cancer is the stimulation of new blood vessel development, angiogenesis. Lactic acid stimulates the formation of new blood vessels, the secretion of collagen, and tumor growth. Low oxygen, nitric oxide, carbon monoxide, prostaglandins and other products of tissue stress can stimulate the growth of new blood vessels, at the same time that they stimulate tumor growth and impair oxidative metabolism. Several of these agents promote each other's activity.
+
+**RAY PEAT:** Therapeutic thinking has been influenced by the doctrine of the mutant cell as the initiator of cancer, leading to the idea that only things which kill the cancer cells can cure cancer. But when the body stops activating the processes of inflammation and growth, normal processes of tissue repair have an opportunity to eliminate the tumor. Even the fibroblasts which normally secrete collagen can participate in its removal (Simoes, et al., 1984). Something as simple as eliminating lactate can change their functions.
+
+**RAY PEAT:** Although the angiogenic action of lactate has been known for several decades, some researchers believed that a specific anti-angiogenic peptide could be found which would stop the growth of cancer cells. The interest in angiogenesis tacitly acknowledges that there is a cancer field, but the faith that cancer could be cured only by killing the mutant cells seems to have guided the search for a single antiangiogenic substance. Such a substance would be toxic to normal tissues, since blood vessels are constantly being renewed.
+
+**RAY PEAT:** The more advanced a tumor is, the more numerous the growth-promoting factors are likely to be, and the weaker the body's ability becomes to control them.
+
+**RAY PEAT:** The search for toxic factors to kill the cancer cells is unlikely to lead to a generally effective treatment. Even immunological approaches that think in terms of destroying a tumor might be misconceiving the nature of the problem. For example, the protein called "tumor necrosis factor" (TNF) or cachectin was discovered as a result of Lawrence Burton's work in the 1960s. He extracted proteins from the blood that could shrink some tumors in mice with amazing speed. In the right setting, TNF is involved in the destruction of tumors, but when other factors are missing, it can make them worse. Burton was focussing on factors in the immune system that could destroy cancer, but he ignored the basic problem of tissue degeneration that produces tumors which are complex and changing.
+
+**RAY PEAT:** If the cancer-productive field is taken into account, all of the factors that promote and sustain that field should be considered during therapy.
+
+**RAY PEAT:** Two ubiquitous carcinogenic factors that can be manipulated without toxins are the polyunsaturated fatty acids (PUFA) and estrogen. These closely interact with each other, and there are many ways in which they can be modulated.
+
+**RAY PEAT:** For example, keeping cells in a well oxygenated state with thyroid hormone and carbon dioxide will shift the balance from estradiol toward the weaker estrone. The thyroid stimulation will cause the liver to excrete estrogen more quickly, and will help to prevent the formation of aromatase in the tissues. Low temperature is one of the factors that increases the formation of estrogen. Lactic acid, serotonin, nitric oxide, prostaglandins, and the endorphins will be decreased by the shift toward efficient oxidative metabolism.
+
+**RAY PEAT:** Progesterone synthesis will be increased by the higher metabolic rate, and will tend to keep the temperature higher.
+
+**RAY PEAT:** Thyroid hormone, by causing a shift away from estrogen and serotonin, lowers prolactin, which is involved in the promotion of several kinds of cancer.
+
+**RAY PEAT:** Vitamin D and vitamin K have some antiestrogenic effects. Vitamin D and calcium lower the inflammation-promoting parathyroid hormone (PTH).
+
+**RAY PEAT:** Eliminating polyunsaturated fats from the diet is essential if the bystander effect is eventually to be restrained. Aspirin and salicylic acid can block many of the carcinogenic effects of the PUFA. Saturated fats have a variety of antiinflammatory and anticancer actions. Some of those effects are direct, others are the result of blocking the toxic effects of the PUFA. Keeping the stored unsaturated fats from circulating in the blood is helpful, since it takes years to eliminate them from the tissues after the diet has changed. Niacinamide inhibits lipolysis. Avoiding over-production of lipolytic adrenaline requires adequate thyroid hormone, and the adjustment of the diet to minimize fluctuations of blood sugar.
+
+**RAY PEAT:** The endorphins are antagonistic to progesterone, and when they are minimized, progesterone tends to increase, and to be more effective. The drugs naloxone and naltrexone, which block the effects of the endorphins, have several remarkable effects that resemble progesterone's. Naltrexone has been successfully used to treat prostate and breast cancer.
+
+**RAY PEAT:** Opiates are still commonly used for pain relief in cancer patients, despite the evidence that has accumulated for several decades indicating that they promote inflammation and cancer growth, while suppressing immunity and causing tissue catabolism, exacerbating the wasting that commonly occurs with cancer. Their use, rather than alternatives such as procaine, aspirin, and progesterone, is nothing but a medical fetish.
+
+**RAY PEAT:** Stress and estrogen tend to produce alkalosis, while thyroid, carbon dioxide, and adequate protein in the diet help to prevent alkalosis.
+
+**RAY PEAT:** Antihistamines and some of the antiserotonin drugs (including "dopaminergic" lisuride and bromocriptine) are sometimes useful in cancer treatment, but the safe way to lower serotonin is to reduce the consumption of tryptophan, and to avoid excessive cortisol production (which mobilizes tryptophan from the muscles). Pregnenolone and sucrose tend to prevent over-production of cortisol.
+
+**RAY PEAT:** In the breast, COX-2 converts arachidonic acid into prostaglandins, which activate the enzyme aromatase, that forms estrogen from androgens. Until the tissues are free of PUFA, aspirin and salicylic acid can be used to stop prostaglandin synthesis.
+
+**RAY PEAT:** Thyroid is needed to keep the cell in an oxidative, rather than reductive state, and progesterone (which is produced elsewhere only when cells are in a rapidly oxidizing state) activates the processes that remove estrogen from the cell, and inactivates the processes that would form new estrogen in the cell.
+
+**RAY PEAT:** Thyroid, and the carbon dioxide it produces, prevent the formation of the toxic lactic acid. When there is enough carbon dioxide in the tissues, the cell is kept in an oxidative state, and the formation of toxic free radicals is suppressed. Carbon dioxide therapy is extremely safe.
+
+**RAY PEAT:** In the 1930s, primates as well as rodents had been used in experiments to show the carcinogenic effects of estrogen, and the protective effects of progesterone.
+
+**RAY PEAT:** By 1950, the results of animal studies of progesterone's anticancer effects were so clear that the National Cancer Institute got involved. But the estrogen industry had already been conducting its campaign against progesterone, and had convinced most doctors that it was inactive when taken orally, and so was inferior to their proprietary drugs that they called "progestins." The result was that it was usually given by injection, dissolved in vegetable oil or synthetic solvents such as benzyl benzoate or benzyl alcohol, which are very toxic and inflammation-producing.
+
+**RAY PEAT:** The NCI researchers (Hertz, et al., 1951) treated 17 women with visible cancers of the uterine cervix that had been confirmed by biopsies. They were given daily intramuscular injections of 250 mg of progesterone in vegetable oil. Although they described the treatment as "massive dosage with progesterone," it didn't prevent menstruation in any of the women who had been menstruating before the treatment began. During a healthy pregnancy, a woman produces more progesterone than that.
+
+**RAY PEAT:** Their article includes some photographs of cervical tumors before treatment, and after 31 days, 50 days, and 65 days of progesterone treatment. The improvement is clear. The examining physicians described softening of the tumor, and stopping of bleeding and pain.
+
+**RAY PEAT:** "In eleven of the 17 treated patients visible and palpable evidence of regressive alteration of the tumor mass could be demonstrated. This consisted of (a) distinct reduction in size of the visible portion of the cancer as well as reduction of the palpable extent of the mass, (b) reduction in vascularity and friability of the visible lesion with a clearly demonstrable epithelization of previously raw surfaces and (c) markedly increased pliability of the previously rigid and infiltrated parametria."
+
+**RAY PEAT:** "In 10 cases there was associated with this type of gross change a reduction in, or complete cessation of vaginal bleeding and discharge."
+
+**RAY PEAT:** "Only one of the 17 patients showed active progression of the carcinomatous process while under the progesterone administration. The six patients whose lesions failed to show clearly demonstrable regressive changes showed minor alterations in size and vascularity of insufficient degree to be convincing to all clinical observers concerned. Nevertheless, none of the lesions under study appeared to be accelerated by progesterone."
+
+**RAY PEAT:** Observing very similar patients under similar conditions while they were waiting for surgery, but were not receiving progesterone, they saw no such regressions of tumors.
+
+**RAY PEAT:** The photographs and descriptions of the changes in the tumors were remarkable for any cancer study, but to have been produced by a treatment that didn't even alter the patients' menstrual cycle, the reader might expect the authors to discuss their plans for further studies of such a successful method.
+
+**RAY PEAT:** But instead, they concluded "We do not consider the regressive changes observed to be sufficient to indicate the use of progesterone as a therapeutic agent in carcinoma of the cervix."
+
+**RAY PEAT:** (Their research was supported by a grant from the American Cancer Society.)
+
+**RAY PEAT:** If the researchers had bothered to test progesterone on themselves or on animals, they would have discovered that it is fully active when taken orally, dissolved in oil, and that nontoxic saturated fats could have been used. Progesterone anesthesia was very well known at that time, so it would have been reasonable to use doses that were at least equivalent to the concentrations present during pregnancy, even if they didn't want to use doses that would approach the anesthetic level. The total daily doses could have been about ten times higher, if they had been given orally as divided doses.
+
+**RAY PEAT:** The solvent issue continues to impede research in the use of progesterone for treating cancer, but the main problem is the continuing belief that "the cancer cell" is the problem, rather than the cancer field. Substances are tested for their ability to kill cancer cells *in vitro*, because of the basic belief that mutated genes are the cause of the disease. When progesterone is tested on cancer cells *in vitro*, the experimenter often sees nothing but the effects of the solvent, and doesn't realize that nearly all of the progesterone has precipitated in the medium, before reaching the cancer cells.
+
+**RAY PEAT:** The cancer industry began a few years ago to combine chemicals for chemotherapy, for example adding caffeine to paclitaxel or platinum (cisplatin), or histamine to doxorubicin, but they do it simply to increase the toxicity of the chemical to the tumor, or to decrease its toxicity to the patient. Doctors sometimes refer to combined chemotherapy as a "shotgun approach," meaning that it lacks the acumen of their ideal silver bullet approach. If cancers were werewolves, the cancer industry's search for more refined killing technologies might be going in the right direction. But the genetic doctrine of cancer's origin is just as mythical as werewolves and vampires.
+
+**RAY PEAT:** A safe physiological approach to cancer, based on the opposition of progesterone to estrogen, would be applicable to every type of cancer promoted by estrogen, or by factors which produce the same effects as estrogen, and that would include all of the known types of cancer. Estrogen acts even on cells that have no "estrogen receptors," but estrogen receptors can be found in every organ.
+
+**RAY PEAT:** As estrogen's non-feminizing actions are increasingly being recognized to include contributions to other kinds of disease, including Alzheimer's disease, heart disease, and rheumatoid arthritis, the idea of the bystander effect, and the field of cellular degeneration, will eventually clear the way for a rational use of the therapeutic tools that already exist.
+
+**RAY PEAT:** There are several types of drug---carbonic anhydrase inhibitors, to increase carbon dioxide in the tissues, lysergic acid derivatives, to block serotonin and suppress prolactin, anti-opiates, antiexcitotoxic and GABAergic agents, anesthetics, antihistamines, anticholinergics, salicylic acid derivatives---that could probably be useful in a comprehensive therapy for cancer, but their combinations won't be explored as long as treatments are designed only to kill.
+
+**RAY PEAT:** Preventing or correcting disturbances in the morphogenetic field should be the focus of attention.

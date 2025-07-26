@@ -1,0 +1,125 @@
+
+
+**RAY PEAT:** The name "growth hormone" is misleading; stress produces somatic growth, in a process called "hormesis." Exercise produces muscle edema, to a degree similar to that produced by GH; edema stimulates growth, but GH effect isn't limited to bone and muscle.
+
+**CONTEXT:** What is the fundamental misunderstanding about growth hormone?
+
+**RAY PEAT:** Identity of GH: Molecular ambiguity, complex modifications change one substance into many; its evolution suggests a role in water regulation. Doctrine of a "specific molecule" and "specific receptor" and specific effects is a myth. The osmoregulatory problem--keeping water under control--is centrally involved in stress. In mammals, the kidneys and bowel are the main regulators of water balance.
+
+**CONTEXT:** How does growth hormone relate to water regulation and stress?
+
+**RAY PEAT:** GH is a stress hormone. Its effects can be produced osmotically, for example inducing milk production and cartilage growth, by osmotic (dilution) shock. Estrogen produces increased GH, and increases its production in stress. Nitric oxide is a pro-aging free radical induced by estrogen, releasing GH; all three produce edema. Behind edema, hypoxia, hypocarbia; free fatty acids, diabetes, vascular leakiness, degenerative kidney changes, connective tissue changes, thickened basement membrane, retinal degeneration. The same changes occur in aging: increased permeability; kidney disease, connective tissue changes. The absence of GH protects kidneys against degeneration. Osteoarthritis, a characteristic aging condition, is caused by estrogen and GH.
+
+**CONTEXT:** What are the degenerative effects associated with growth hormone?
+
+**RAY PEAT:** Some studies found that heart failure and bone repair aren't improved by GH; GH is very high during heart failure, in which edema contributes to the problem; carpal tunnel syndrome, myalgia, tumor growth, gynecomastia, and many other problems have been produced by GH treatments.
+
+**CONTEXT:** What are some adverse effects of growth hormone treatment?
+
+**RAY PEAT:** Bovine Growth Hormone is used to make cows give more milk. Human Growth Hormone is supposed to make men lean and muscular, not to increase their milk production.
+
+**CONTEXT:** How is growth hormone used in different species?
+
+**RAY PEAT:** Recently I heard Robert Sapolsky interviewed, and he was describing the changes that prepare the body for short-term stress. He said the energy-mobilizing hormones, adrenalin and cortisol, increase, while the hormones that don't contribute to meeting the immediate problem, including the sex hormones and growth hormone, are suppressed, to save energy; growth and reproductive processes can be suspended for the few minutes of acute stress, to make the body more able to meet its acute needs. He reiterated: Growth hormone is suppressed by stress. Sapolsky has done very interesting work on the suppression of testosterone by stress, and on the way in which brain cells are killed by prolonged exposure to glucocorticoids. He showed that if extra glucose is supplied, the brain cells can survive their exposure to cortisol. In the body, adrenalin and the glucocorticoids increase the availability of glucose. In the radio interview, he didn't have time for much detail, but it seemed to me that he wasn't talking about the same growth hormone that I have been reading about, and trying to understand, for years. Since people have asked me to write about the current anti-aging uses of GH, and its use in the dairy industry, Sapolsky's statements made me decide to think about some of the issues around the hormone.
+
+**CONTEXT:** What is the common misconception about growth hormone and stress, as highlighted by Robert Sapolsky's work?
+
+**RAY PEAT:** If Sapolsky had been talking about just mice and rats, his statement would have been generally accurate. Adrenaline stimulates rat pituitary cells to secrete GH, and since both increase the amount of free circulating fatty acids, it could be that rats' GH is suppressed by a fatty acid excess.
+
+**CONTEXT:** How might Sapolsky's observations apply to rats and fatty acids?
+
+**RAY PEAT:** The "growth hormone" was named long before it was actually found, and the substance with that name turns out to be involved in many processes other than growth. It is being given to cows to make them produce more milk, and it is being given to people with the purpose of making them lean and muscular, and with the hope of building stronger bones. It isn't surprising that the Growth Hormone helps breasts develop and promotes milk production, since it is very similar to prolactin. GH and prolactin are members of a family of proteins that have diverged from each other in evolution, but they still have many overlapping effects.
+
+**CONTEXT:** What is the evolutionary relationship between growth hormone and prolactin, and their effects?
+
+**RAY PEAT:** When GH is treated as a drug, it is supposed to have a discrete identity, based on the sequence of its amino acids. But the natural hormone (disregarding the existence of a variety of closely related peptides with slightly different amino acid composition) varies with time, being chemically modified even before it is secreted. For example, its acidic amino acids may be methylated, and its lysine groups may combine with sugars or carbon dioxide. The history of the protein in the body determines its exact structure, and therefore its biological effects.
+
+**CONTEXT:** How does the natural variation in growth hormone structure affect its biological activity?
+
+**RAY PEAT:** Male animals secrete GH in pulses, but females secrete it more steadily. This pattern of secretion "masculinizes" or "feminizes" the liver (and other organs), determining the pattern of enzyme activity. It would be possible (though very difficult) to arrange a system for delivering doses in a pulsed, intermittent manner. In cows, this apparently isn't necessary, since the purpose of the growth hormone is presumably to "feminize" the milk-producing system. But the normal pattern of secretion is much more complex than simply being "pulsed" or "continuous," since it, like prolactin secretion, is responsive to changes in thyroid, estrogen, diet, stress, and many other factors.
+
+**CONTEXT:** How does the pattern of growth hormone secretion influence liver function and other organs?
+
+**RAY PEAT:** For example, hormones in this family are, as far back in evolution as they have been studied, involved in the regulation of water and minerals. It is well established that increased water (hypotonicity) stimulates prolactin, and increased sodium inhibits its secretion. Growth hormone is also closely involved with the regulation of water and salts.
+
+**CONTEXT:** What is the role of growth hormone in water and salt regulation, and how does it relate to prolactin?
+
+**RAY PEAT:** One of the best known metabolic effects of GH is that, like adrenalin, it mobilizes fatty acids from storage. GH is known to antagonize insulin, and one of the ways it does this is simply by the ability of increased free fatty acids to block the oxidation of glucose. At puberty, the increased GH creates a mild degree of diabetes-like insulin resistance, which tends to increase progressively with age.
+
+**CONTEXT:** How does growth hormone affect fatty acid metabolism and insulin sensitivity?
+
+**RAY PEAT:** In his book, Why Zebras Don't Get Ulcers, Sapolsky acknowledges some situations in which GH is increased by stress in humans, but I think he misses the real ways in which it operates in stress. One of the interesting features of cortisol, which Sapolsky showed killed brain cells by making them unable to use glucose efficiently, is that it makes cells take up unsaturated fatty acids more easily, interfering with their energy production. Since growth hormone also has this kind of "diatebetogenic" action, it might be desirable to suppress its secretion during stress, but in fact, there are several kinds of stress that clearly increase its secretion, and in animals as different as fish, frogs, cows, and people it can be seen to play roles in water and salt regulation, growth and development, stress, and starvation. Heat, hypoglycemia, running, and some types of shock are known to stimulate growth hormone secretion, sometimes to levels ten or twenty times higher than normal. (Two kinds of stress that usually don't increase GH are cold and stimulus-deprivation.) I consider the growth hormone to be, almost as much as prolactin, a stress-inducible hormone. That's why I reasoned that, if an endocrinologist as good as Sapolsky can misunderstand GH to that degree, the public is even more likely to misunderstand the nature of the material, and to believe that it somehow acts just on muscle, fat, and bones.
+
+**CONTEXT:** How does growth hormone interact with stress, cortisol, and fatty acid metabolism, and what are the implications for its role as a stress hormone?
+
+**RAY PEAT:** And the normally functioning pituitary appears to be unnecessary to grow to normal height. (Kageyama, et al., 1998.)
+
+**CONTEXT:** What is the role of the pituitary in achieving normal height?
+
+**RAY PEAT:** W. D. Denckla discovered that the pituitary hormones are in some way able to accelerate the process of aging. They block the actions of thyroid hormone, decreasing the ability to consume oxygen and produce energy. The diabetes-like state that sets in at puberty involves the relative inability to metabolize glucose, which is an oxygen-efficient energy source, and a shift to fat oxidation, in which more free radicals are produced, and in which mitochondrial function is depressed. Diabetics, even though it is supposedly an inability of their cells to absorb glucose that defines their disease, habitually waste glucose, producing lactic acid even when they aren't "stressed" or exerting themselves enough to account for this seemingly anaerobic metabolism. It was noticing phenomena of this sort, occurring in a great variety of animal species, in different phyla, that led Denckla to search for what he called DECO (decreasing consumption of oxygen) or "the death hormone." (Vladimir Dilman noticed a similar cluster of events, but he consistently interpreted everything in terms of a great genetic program, and he offered no solution beyond a mechanistic treatment of the symptoms.)
+
+**CONTEXT:** What did W. D. Denckla discover about pituitary hormones and aging, and how does this relate to glucose metabolism and energy production?
+
+**RAY PEAT:** Simply increasing the amount of free fatty acids in the blood will act like DECO or "the death hormone," but growth hormone has more specific metabolic effects than simply increasing our cells' exposure to fatty acids. The hormone creates a bias toward oxidizing of the most unsaturated fatty acids (Clejan and Schulz), in a process that appears to specifically waste energy.
+
+**CONTEXT:** How does growth hormone's effect on fatty acid oxidation contribute to its "death hormone" properties?
+
+**RAY PEAT:** Growth hormone plays an important role in puberty, influencing ovarian function, for example.
+
+**CONTEXT:** What is the role of growth hormone during puberty?
+
+**RAY PEAT:** Removing animals' pituitaries, Denckla found that their aging was drastically slowed. He tried to isolate the death hormone from pituitary extracts. He concluded that it wasn't prolactin, although prolactin had some of its properties. In the last publication of his that I know of on that subject, he reported that he was unable to isolate the death hormone, but that it was "in the prolactin fraction." Since rats have at least 14 different peptides in their prolactin family, not counting the multitude of modifications that can occur depending on the exact conditions of secretion, it isn't surprising that isolating a single factor with exactly the properties of the chronically functioning aging pituitary hasn't been successful. Denckla's experiments are reminiscent of many others that have identified changes in pituitary function as driving forces in aging and degenerative diseases.
+
+**CONTEXT:** What were Denckla's findings regarding hypophysectomy and aging, and the challenges in isolating the "death hormone"?
+
+**RAY PEAT:** Menopause, for example, is the result of overactivity of the pituitary gonatropins, resulting from the cumulatively toxic effects of estrogen in the hypothalamus.
+
+**CONTEXT:** What is the pituitary's role in menopause?
+
+**RAY PEAT:** A. V. Everitt, in his book on the hypothalamus and pituitary in aging, reported on studies in which estrogen caused connective tissues to lose their elasticity, and in which progesterone seemed to be an antiestrogenic longevity factor. Later, he did a series of experiments that were very similar to Denckla's, in which removal of the pituitary slowed the aging process. Several of his experiments strongly pointed to the prolactin-growth hormone family as the aging factors. Removal of the pituitary caused retardation of aging similar to food restriction. These pituitary hormones, especially prolactin, are very responsive to food intake, and the growth hormone is involved in the connective tissue and kidney changes that occur in diabetes and aging.
+
+**CONTEXT:** What did A. V. Everitt's research reveal about the role of the pituitary, estrogen, progesterone, and the prolactin-growth hormone family in aging and connective tissue health?
+
+**RAY PEAT:** A mutant dwarf mouse, called "little," has only 5% to 10% as much growth hormone as normal mice, and it has an abnormally long lifespan.
+
+**CONTEXT:** What is the significance of the "little" mouse in understanding growth hormone and lifespan?
+
+**RAY PEAT:** Many experiments show that prolactin and estrogen have synergistic effects in causing tissue degeneration, including cancerization, and that their effects tend to operate with fewer protective restraining influences in old age. Estrogen stimulates both prolactin and growth hormone secretion. Thirty years ago, people were warning that estrogen contraceptives might produce diabetes, because they caused chronic elevation of growth hormone and free fatty acids.
+
+**CONTEXT:** How do prolactin and estrogen interact to cause tissue degeneration, and what are the implications for diabetes and cancer?
+
+**RAY PEAT:** Since estrogen causes a slight tendency to retain water while losing sodium, producing hypotonic body fluids, and since hypotonicity is a sufficient stimulus to cause prolactin secretion, I have proposed that it is estrogen's effect on the body fluids which causes it to stimulate prolactin. In pregnancy, the fetus is exposed to fluids more hypotonic than can be accounted for by estrogen and prolactin alone; since GH lowers the salt concentration of fish when they enter the ocean from freshwater, it seems to be a candidate for this effect in pregnancy.
+
+**CONTEXT:** How does estrogen's effect on body fluids influence prolactin secretion, and what might be growth hormone's role in pregnancy-related hypotonicity?
+
+**RAY PEAT:** Growth itself is an intrinsic property of all cells, but the growth hormone does have its greatest influence on certain tissues, especially cartilage. Gigantism and acromegaly were what originally made people interested in looking for a growth hormone, and these are characterized by continued, exaggerated enlargement of bones and cartilage. In old age, cartilaginous structures such as the bones and ears keep enlarging. The fact that simply diluting the culture medium is sufficient to stimulate the growth of cartilage suggests that the growth hormone might be acting by its effects on water metabolism. In fish which enter fresh water from the ocean, pituitary hormones of this family help them to balance salts in this new environment, but in the process, they develop osteoporosis and skeletal deformity, of the sort that occur more gradually in other animals with aging.
+
+**CONTEXT:** What is the specific influence of growth hormone on cartilage and bone growth, and how might it relate to water metabolism and aging-related skeletal changes?
+
+**RAY PEAT:** Growth hormone clearly causes edema, and this is probably involved in the pathological processes that it can produce. The expansion of extracellular water has been reported, but others have concluded that the increased weight of muscles following GH treatment must be the result of "growth," "because microscopic examination didn't show edema." Statements of that sort give incompetence a bad name, because any student of biology or biochemistry has to know, before he does almost any experiment, that the way to determine the water content of a tissue is to compare the wet weight to the weight after thorough drying. Looking for water under a microscope is the sort of thing they do at drug companies to pretend that they have done something.
+
+**CONTEXT:** How does growth hormone cause edema, and what is the flawed methodology used to deny this effect?
+
+**RAY PEAT:** Estrogen, growth hormone, and nitric oxide, which tend to work as a system, along with free fatty acids, all increase the permeability of blood vessels. The leaking of albumin into the urine, which is characteristic of diabetes, is promoted by GH. In diabetes and GH treatment, the basement membrane, the jelly-like material that forms a foundation for capillary cells, is thickened. The reason for this isn't known, but it could be a compensatory"anti-leak" response tending to reduce the leakage of proteins and fats. Besides being involved in kidney degeneration, vascular leakiness contributes to brain edema, and probably contributes to the "autoimmune" diseases.
+
+**CONTEXT:** How do estrogen, growth hormone, and nitric oxide contribute to vascular permeability, kidney degeneration, and autoimmune diseases?
+
+**RAY PEAT:** Whatever the exact mechanism may be, it is clearly established that GH contributes to kidney degeneration, and the lack of GH, even the removal of the pituitary, is protective against kidney degeneration.
+
+**CONTEXT:** What is the established role of growth hormone in kidney degeneration?
+
+**RAY PEAT:** Denckla's and Everitt's experiments can be interpreted much more clearly now that GH's essential contribution to kidney degeneration is known. Growth Hormone may not be precisely the Death Hormone that Denckla was looking for, but it is very close to it. Anti-thyroid effects have been seen, and possibly even anti-growth effects during gestation, and in kidney disease. In newborns, high GH is associated with smaller size and slower growth; in one study, this was associated with rapid breathing, presumably hyperventilation which is associated with stress. The shift to the diabetes-like fatty acid oxidation would be expected to inhibit respiration, and the chronic elevation of serum free fatty acids will have a generalized antithyroid effect. Under the influence of GH, the proportion of unsaturated fatty acids is increased, as occurs under the influence of estrogen.
+
+**CONTEXT:** How do Denckla's and Everitt's findings align with the understanding of growth hormone's role in kidney degeneration and aging, and what are its anti-thyroid and respiratory effects?
+
+**RAY PEAT:** Growth hormone blocks gonadotropin-stimulated progesterone production, and this could also affect thyroid and respiratory metabolism.
+
+**CONTEXT:** How does growth hormone impact progesterone production and its downstream effects on metabolism?
+
+**RAY PEAT:** The increase of GH during sleep might seem to be utterly incompatible with the idea that it is a stress hormone, but in fact the other stress hormones, adrenalin, cortisol, and prolactin also tend to increase during night-time sleep. Thyroid function and progesterone function decrease at night. As I have argued previously darkness is one of our major stressors. Considering GH's tendency to cause edema, tissue swelling, it could play a role in the nocturnal increase of the viscosity of blood, as the volume of blood is decreased by the leakage of fluid into the tissues. Another process with potentially deadly results that increase with aging and stress, is the passage of bacteria from the intestine into the blood stream; this process is increased under the influence of GH.
+
+**CONTEXT:** How does the nocturnal increase in growth hormone relate to other stress hormones, sleep, and potential negative health consequences like increased blood viscosity and gut permeability?
+
+**RAY PEAT:** Acute, short term studies definitely show growth hormone to be a stress hormone with some destabilizing effects. Over a lifetime, it is possible that such things as chronically increased levels of unsaturated fatty acids in the blood, and increased leakiness of the blood vessels, could cumulatively produce the effects that Denckla ascribed to the Death Hormone.
+
+**CONTEXT:** What are the long-term implications of growth hormone's role as a stress hormone and its effects on fatty acids and vascular permeability?

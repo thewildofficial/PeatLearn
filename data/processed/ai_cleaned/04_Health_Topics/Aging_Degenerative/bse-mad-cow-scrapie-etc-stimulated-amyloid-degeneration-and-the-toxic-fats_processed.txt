@@ -1,0 +1,157 @@
+
+
+**RAY PEAT:** In the high energy (rested) state, cell water behaves as if it were colder than its real temperature, and this affects the behavior of proteins and fats in the cell, allowing “oily” surfaces to remain in contact with the more orderly water. Carbon dioxide spontaneously combines with the amino groups in proteins, stabilizing the normal functional conformation. The loss of carbon dioxide affects the structure of all proteins in the body, and the loss of cellular energy affects the structure of the intracellular proteins and their associated molecules.
+
+**CONTEXT:** What is the fundamental role of carbon dioxide and cellular energy in maintaining protein and cellular structure?
+
+**RAY PEAT:** In scrapie and many other degenerative diseases (the amyloidoses), proteins condense into fibrils that tend to keep enlarging, with a variety of very harmful effects. The condensation of the “amyloid” proteins is sensitive to temperature, and a slight increase in the disorder of the water can induce functional proteins to change their conformation so that they spontaneously associate into fibrous masses. In the absence of sufficient carbon dioxide, all proteins are susceptible to structural alteration by the addition of sugars and fats and aldehydes, especially under conditions that favor lipid peroxidation.
+
+**CONTEXT:** How do degenerative diseases like amyloidoses relate to protein condensation and cellular water structure?
+
+**RAY PEAT:** The transthyretin protein which is binding small molecules resists condensation into the amyloid fibrils, but without its normal vitamin A and thyroid hormone, it can create toxic fibrils. (Raghu, et al., 2002.)
+
+**CONTEXT:** What is the role of transthyretin in amyloid formation and what factors influence its stability?
+
+**RAY PEAT:** Field’s group and others (e.g., Alpers) were clearly showing that the scrapie infection involved proteins, but not viruses with nucleic acids. In one of Field’s last publications (1978), he even suggested that the infectious process might depend on a structural rearrangement of the host’s molecules, similar to the idea which is now known as the “prion hypothesis.” Field’s suggestion was an important advance in the theory of aging, and the evidence supporting it is now voluminous, but that work has been omitted from the official histories.
+
+**CONTEXT:** What was the early understanding of scrapie infection and its relation to protein structure, predating the prion hypothesis?
+
+**RAY PEAT:** Although phenomena of “imprinting” and non-genetic inheritance had been established earlier, the dogmatism of genetics led the scientific establishment to reject everything that challenged the primacy of DNA. When I mentioned to my professors (in 1971) the evidence that scrapie was transmitted without nucleic acid, I could see from their reactions that it would be a very long time before much progress would be made in understanding the degenerative brain diseases. When the exact structure of the “infectious” protein was later worked out, and the 1997 Nobel Prize awarded (to Stanley Prusiner), I was surprised that no one from Field’s group was included. (In 1976, a Nobel Prize had been awarded to D.C. Gajdusek, for his promotion of the idea of “slow viruses” in general, and particularly for arguing that scrapie, CJD and kuru were caused by slow viruses.)
+
+**CONTEXT:** How did the scientific establishment's adherence to genetic dogma hinder the understanding of diseases like scrapie, and what was the significance of early research by Field's group?
+
+**RAY PEAT:** In my own research in 1971, I was interested in another kind of age-related “inclusion body,” which was variously called lipofuscin, age pigment, and ceroid pigment. This brown (yellow autofluorescent) pigment contained proteins and metals, as well as polyunsaturated lipids, and overlapped in many ways with the amyloid bodies. All of these inclusion bodies were known to be associated with radiation injury, aging, and hormonal-nutritional imbalances. Excess of estrogen, polyunsaturated fatty acids, and oxidative metals were major factors in the development of lipofuscin, and estrogen was also known to cause other types of “inclusion bodies” to develop in cells.
+
+**CONTEXT:** What was your early research focus regarding age-related "inclusion bodies" like lipofuscin, and what factors were identified as contributing to their development?
+
+**RAY PEAT:** Although very little was known about the composition of the inclusion bodies (they were usually thought to be organelles damaged by free radical activity, or antibodies resulting from autoimmunity), their involvement in aging and degenerative disease was clear, and it was widely known that ionizing radiation accelerated their formation. But it was just at this time that the national research priorities of the U.S. were redirected toward genetic explanations for all major diseases, with for example the “war on cancer” centering on the concepts of the “oncogene” and the cancer virus. Since the “slow virus” of cancer, or the viral oncogene, requires activation by something in the environment, its function is to distract the public’s attention from those environmental causes of disease, viz., radiation and chemical pollution.
+
+**CONTEXT:** What was the prevailing understanding of inclusion bodies, and how did the shift in research priorities towards genetics distract from environmental causes of disease?
+
+**RAY PEAT:** After the April, 1986 catastrophe at the reactor in Chernobyl, some of the food being imported into the U.S. was so highly radioactive that the FDA secretly seized it, to prevent the public from being concerned. The first cow found to have BSE in England was in November, 1986, several months after England’s pastures had been heavily contaminated by rainfall carrying radioactive material from Chernobyl, which soaked into the soil and continued to contaminate crops for years (and will continue, for centuries). The number of sick cows increased rapidly to a peak in 1992. Human deaths from the similar disease (“variant CJD”) began a few years later.
+
+**CONTEXT:** What is the potential link between the Chernobyl disaster and the emergence of BSE in cattle?
+
+**RAY PEAT:** In June, 2000, a wildfire burned across southern Washington, turning the radioactive vegetation on the Hanford Nuclear Site into radioactive smoke, contaminating a wide area, including farms, dairies, and orchards. In 2003, the first cow in the U.S. with BSE was reported, from a dairy a few miles from the Hanford Site.
+
+**CONTEXT:** What is the potential connection between the Hanford Nuclear Site and the appearance of BSE in the U.S.?
+
+**RAY PEAT:** In 1954, the first child with kuru was reported in the rainy highlands of New Guinea. Within two years, hundreds of people in that area (of the Fore tribe) were dying from kuru, with the mortality highest among the women; in some villages, the majority of the women died from the disease, but by 1957 the mortality was falling rapidly. Between 1957 and 1964, 5% of the population of the Fore tribe died of the disease, according to D.C. Gajdusek, who had been sent by the U.S. Army to investigate the disease. Although Gajdusek graduated in 1946 from Harvard medical school as a pediatrician, in his autobiography he said that when he was drafted in 1951, the army assigned him to work in virology. In 1958, Gajdusek became director of the NIH laboratories for neurological and virological research. This was a remarkable achievement for someone who had supposedly only done some scattered field-work in infectious diseases, and whose purpose in going to New Guinea had been to study ''child growth and development in primitive cultures.'' The only published reason I have found that might be a basis for making him head of neurology, was his sending a diseased Fore brain to Fort Detrick in 1957.
+
+**CONTEXT:** What were the initial observations and the background of D.C. Gajdusek's investigation into kuru?
+
+**RAY PEAT:** Gajdusek claimed to have seen the Fore people eating dead relatives, but his figures show that the disease was already in rapid decline when he arrived. He took photographs which were widely published in the US, supposedly showing cannibalism, but 30 years later, he said the photographs showed people eating pork, and that he had seen no cannibalism. (At the time Gajdusek was observing kuru in New Guinea, the influence of “cannibalism” on brain function was already in the news, because of the discovery by J.V. McConnell that the behavior of “trained” flatworms could be transmitted to other worms by chopping them up and feeding them to the naive worms.)
+
+**CONTEXT:** What are the discrepancies in Gajdusek's claims about cannibalism and kuru, and what was the contemporary scientific context regarding transmission of acquired traits?
+
+**RAY PEAT:** Harvard medical school, in association with the military program centered at Fort Detrick, Fredericksburg, Maryland, was active in biological warfare in the 1940s, and I think it’s more plausible to see Gajdusek as a trouble-shooter for the biological warfare establishment, than as a biological researcher. One of his biographers has written that the idea of associating kuru with scrapie was suggested to him by a veterinarian, and that Gajdusek had responded by claiming to have experiments in progress to test that theory, four years before the experiments were actually made. In other words, the slow virus theory for which Gajdusek was given the Nobel Prize is scientific junk, which Gajdusek has repeatedly reinterpreted retrospectively, making it seem to have been anticipatory of the prion theory. Whatever actually caused kuru, I think the army was afraid that it was the result of radioactive fallout from one of its bomb tests, and that Gajdusek’s job was to explain it away.
+
+**CONTEXT:** What is the alternative interpretation of Gajdusek's role and the scientific basis for his Nobel Prize-winning theory regarding kuru?
+
+**RAY PEAT:** I suspect that kuru was the result of an unusual combination of malnutrition (the women were vegetarian) and radiation. In the very short time that Gajdusek spent in New Guinea, he claimed to have done studies to eliminate all of the alternative causes, nutritional, toxic, anthropological, bacterial causes, studies that would normally have required several years of well organized work. I don’t think he mentioned the possibility of radiation poisoning.
+
+**CONTEXT:** What are the suspected contributing factors to kuru, and what potential causes might have been overlooked in early investigations?
+
+**RAY PEAT:** Even very low doses of ionizing radiation create an inflammatory reaction (Vickers, et al., 1991), and there is evidence that the inflammatory state can persist as long as the individual lives; in Japan, the “acute phase” proteins are still elevated in the people who were exposed to radiation from the atomic bombs. The acute phase proteins that are increased by malnutrition and radiation increase the tendency to form amyloid deposits. Strong radiation can even cause, after a delay of more than a year, the development of vacuoles, which are the most obvious feature of the “prion” brain diseases. The persistent inflammatory reaction eventually produces cellular changes, but these were originally overlooked because of the theory that radiation is harmful only when it produces immediate changes in the DNA.
+
+**CONTEXT:** How do even low doses of ionizing radiation contribute to inflammation and amyloid deposition, and what is the long-term impact of radiation on cellular structure?
+
+**RAY PEAT:** Radiation damage to the brain is most visible early in life, and in old age. In 1955, Alice Stewart showed that prenatal x-rays increase the incidence of brain cancer, leukemia, and other cancers. In 1967, a study in Japanese bomb survivors found that prenatal exposure to radiation had reduced their head size and brain size. In 1979, Sternglass and Bell showed extremely close correspondence between scores on the SAT and prenatal exposure to radiation.
+
+**CONTEXT:** What are the specific developmental impacts of prenatal radiation exposure on the brain and overall health?
+
+**RAY PEAT:** Serum amyloid A, which can increase 1000-fold under the influence of proinflammatory cytokines, resulting from irradiation, stress, trauma, or infection, is an activator of phospholipase A2 (PLA2), which releases fatty acids. Some of the neurodegenerative states, including amyloid-prion diseases, involve activated PLA2, as well as increases in the toxic breakdown products of the polyunsaturated fatty acids, such as 4-hydroxynonenal. The quantity of PUFA in the tissues strongly determines the susceptibility of the tissue to injury by radiation and other stresses. But a diet rich in PUFA will produce brain damage even without exceptional stressors, when there aren’t enough antioxidants, such as vitamin E and selenium, in the diet.
+
+**CONTEXT:** How does serum amyloid A contribute to neurodegeneration, and what is the role of polyunsaturated fatty acids (PUFA) and antioxidants in brain health?
+
+**RAY PEAT:** Amyloidosis has traditionally been thought of as a condition involving deposits mainly in blood vessels, kidneys, joints and skin and in extracellular spaces in the brain, and the fact that the “amyloid” stained in a certain way led to the idea that it was a single protein. But as more proteins--currently about 20--were identified in amyloid deposits, it was gradually realized that the deposits can be identified inside cells of many different tissues, before the larger, very visible, extracellular deposits are formed.
+
+**CONTEXT:** How has the understanding of amyloidosis evolved regarding the location and composition of amyloid deposits?
+
+**RAY PEAT:** Serum amyloid P is called “the female protein” in hamsters, because of its association with estrogen; castrated (or estrogen treated) males also produce large amounts of it, and its excess is associated with the deposition of amyloid (Coe and Ross, 1985). It can bind other amyloid proteins together, accelerating the formation of fibrils, but this function is probably just a variation of a normal function in immunity, tissue repair, and development.
+
+**CONTEXT:** What is the relationship between serum amyloid P, estrogen, and amyloid deposition?
+
+**RAY PEAT:** Estrogen increases the inflammation-associated substances such as IL-6, C-reactive protein, and amyloid, and liberates fatty acids, especially the unstable polyunsaturated fatty acids. It also increases fibrinogen and decreases albumin, increasing the leakiness of capillaries. The decrease of albumin increases the concentration of free fatty acids and tryptophan, which would normally be bound to albumin.
+
+**CONTEXT:** How does estrogen influence inflammatory markers, fatty acid metabolism, and vascular integrity?
+
+**RAY PEAT:** In the U.S. and Europe, livestock are fed large amounts of high-protein feeds, and currently these typically contain fish meal and soybeans. The estrogenic materials in soybeans increase the animals’ tendency toward inflammation (with increased serum amyloid).
+
+**CONTEXT:** What are the implications of feeding livestock high-protein feeds, particularly those containing soybeans, on their inflammatory status?
+
+**RAY PEAT:** Increased dietary polyunsaturated fatty acids (PUFA) suppress the activity of the ruminal bacteria which are responsible for the hydrogenation-detoxication of PUFA in the animal’s diet. This allows the unstable fats, 98% of which are normally destroyed, to pass into the animals’ tissues and milk.
+
+**CONTEXT:** How do increased dietary PUFAs affect ruminant metabolism and the transfer of unstable fats into animal products?
+
+**RAY PEAT:** The polyunsaturated fats in fish are very unstable, and when they get past the bacterial saturases (biohydrogenases) in the rumen that normally protect ruminants from lipid peroxidation, they are likely to cause their toxic effects more quickly than in humans, whose antioxidant systems are highly developed. The toxic effects of polyunsaturated fats involve altered (immunogenic) protein structure, decreased energy metabolism, and many inflammatory effects produced by the prostaglandin-like substances. Marine fish are now so generally polluted with dioxin, that in Japan there is a clear association between the amount of fish in a person’s diet (their body content of EPA and DHA) and the amount of dioxin in their body.
+
+**CONTEXT:** Why are polyunsaturated fats in fish particularly problematic for ruminants, and what are the broader implications of fish consumption regarding dioxin exposure?
+
+**RAY PEAT:** Radiation and many kinds of poisoning cause early peroxidation of those highly unsaturated fats, and the breakdown products accelerate the changes in the folding and chelating behavior of proteins. The accumulation of altered proteins is associated with the degenerative diseases. The role of toxic metals in brain inflammation is well established (e.g., aluminum, lead, mercury: Campbell, et al., 2004; Dave, et al., 1994; Ronnback and Hansson, 1992).
+
+**CONTEXT:** How do radiation, poisoning, and toxic metals contribute to protein damage and degenerative diseases through lipid peroxidation?
+
+**RAY PEAT:** The “prion hypothesis” has the value of weakening the fanaticism of the DNA-genetics doctrine, but it has some problems. There are now several examples in which other degenerative diseases have been transmitted by procedures similar to those used to test the scrapie agent. (e.g., Goudsmit, et al., 1980; Xing, et al., 2001; Cui, et al., 2002.) Experimental controls haven’t been adequate to distinguish between the pure prion and its associated impurities. Gajdusek burned a sample of the infective hamster brain to ash, and found that it still retained “infectivity.” He argued that there was a mineral template that transmitted the toxic conformation to normal proteins. Others have demonstrated that the active structure of the infective agent is maintained by a carbohydrate scaffolding, or that the infectivity is destroyed by the frequency of ultraviolet light that destroys the active lipid of bacterial endotoxin, lipopolysaccharide.
+
+**CONTEXT:** What are the limitations of the prion hypothesis, and what alternative explanations have been proposed for the transmission of degenerative diseases?
+
+**RAY PEAT:** But simply injuring the brain or other organ (by injecting anything) will sometimes activate a series of reactions similar to those seen in aging and the amyloidoses. When a slight trauma leads to a prolonged or expanding disturbance of structure and function, the process isn’t essentially different from transmitting a condition to another individual. The problem is being “transmitted” from the initial injury, recruiting new cells, and passing the disturbed state on to daughter cells in a disturbed form of regeneration. Keloids, hypertrophic scars, are analogous to the dementias in their overgrowth of connective tissue cells: In the aging or injured brain, the glial cells (mainly astrocytes) proliferate, in reparative processes that sometimes become exaggerated and harmful.
+
+**CONTEXT:** How can localized injury trigger systemic degenerative processes similar to aging and amyloidoses?
+
+**RAY PEAT:** When tissue phospholipids contain large amounts of polyunsaturated fatty acids, large amounts of prostaglandins are immediately formed by any injury, including low doses of ionizing radiation. The liberated free fatty acids have many other effects, including the formation of highly reactive aldehydes, which modify DNA, proteins, and other cell components.
+
+**CONTEXT:** What is the role of polyunsaturated fatty acids in tissue phospholipids and their interaction with injury and radiation?
+
+**RAY PEAT:** Animals which are “deficient” in the polyunsaturated fatty acids have a great resistance to a variety of inflammatory challenges. Their tissues appear to be poor allergens or antigens, since they can be easily grafted onto other animals without rejection. Something related to this can probably be seen in the data of human liver transplants. Women’s livers are subjected to more lipid peroxidation than men’s, because of the effects of estrogen (increasing growth hormone and free fatty acids, and selectively mobilizing the polyunsaturated fatty acids and increasing their oxidation). Liver transplants from middle-aged female donors fail much more often (40 to 45%) than livers from male donors (22 to 25%), and other organs show the same effect. The autoimmune diseases are several times as common in women as in men, suggesting that some tissues become relatively incompatible with their own body, after prolonged exposure to the unstable fatty acids. If we consider the healthy function of the immune system to be the removal or correction of injured tissue, it’s reasonable to view the random interactions of oxidized fats with proteins as exactly the sort of thing our immune system takes care of.
+
+**CONTEXT:** What are the implications of PUFA deficiency for immune response and tissue compatibility, and how do estrogen and PUFAs contribute to sex differences in autoimmune diseases and transplant outcomes?
+
+**RAY PEAT:** The serum amyloids A and P and the closely related lipoproteins are considered to be important parts of our “innate immunity,” operating in a more general way than the familiar system of specific acquired immunities.
+
+**CONTEXT:** What is the role of serum amyloids A and P, and lipoproteins, in innate immunity?
+
+**RAY PEAT:** The amyloids and lipoproteins are powerfully responsive to bacterial endotoxin, LPS, and their structural feature that binds it, the “pleated sheet” structure, appears to also be what allows the amyloids to form amorphous deposits and fibrils under some circumstances. Our innate immune system is perfectly competent for handling our normal stress-induced exposures to bacterial endotoxin, but as we accumulate the unstable fats, each exposure to endotoxin creates additional inflammatory stress by liberating stored fats. The brain has a very high concentration of complex fats, and is highly susceptible to the effects of lipid peroxidative stress, which become progressively worse as the unstable fats accumulate during aging.
+
+**CONTEXT:** How do amyloids and lipoproteins interact with bacterial endotoxin (LPS), and how does the accumulation of unstable fats exacerbate inflammatory stress?
+
+**RAY PEAT:** More than 60 years ago, a vitamin E deficiency was known to cause a brain disease, sometimes associated with sterility and muscular dystrophy. The symptoms of the brain disease were similar to those of “mad cow disease,” and the condition is now usually called “crazy chick disease.” Veterinarians are usually taught that it is caused by a selenium deficiency, but it is actually the result of an excess of PUFA in the diet, and is exacerbated by increased iron or other oxidants, and prevented by increased vitamin E, selenium, or substitution of saturated fats for the unsaturated.
+
+**CONTEXT:** What is the connection between vitamin E deficiency, PUFA excess, and neurological diseases like "crazy chick disease," and what are the preventative measures?
+
+**RAY PEAT:** Terminology, established by tradition and thoughtless memorization, obscures many of the commonalities in the various brain diseases. Brain inflammation (Betmouni and Perry, 1999; Perry, et al., 1998), myelination disorders, edema, overgrowth of the astroglia, and circulatory changes are common occurrences in most of the degenerative encephalopathies, but traditional textbook descriptions have created the impression that each disease is pathologically very distinct from the others. The current classification of “the prion diseases” is reifying a group of symptoms that aren’t specific to any specific known cause. And standard laboratory procedures for preparing brain sections for microscopic examination may cause brain cells to shrink to 5% of their original volume (Hillman and Jarman, *Atlas of the cellular structure of the human nervous system*, 1991), so the objectivity of pathological studies shouldn’t be over-estimated.
+
+**CONTEXT:** How does the traditional classification of brain diseases obscure common pathological mechanisms, and what are the limitations of standard histological preparation methods?
+
+**RAY PEAT:** By some tests, the “prion” resembles the LPS endotoxin. One of the interesting developments of the prion theory is that a particular structure that appears when the prion becomes toxic, the “beta pleated sheet,” is also a feature of most of the normal proteins that can form amyloid, and that this structure is directly related to binding and eliminating the bacterial LPS. If the prion theory is correct about the conversion of a normal protein into the pleated sheet, it isn’t necessarily correct about the incurability of the condition. The innate immune system should be able to inactivate the prion just as it does the bacterial endotoxin, if we remove the conditions that cause the innate immune reaction to amplify the inflammation beyond control.
+
+**CONTEXT:** What is the similarity between prions and LPS endotoxin, and how might the innate immune system address prion diseases?
+
+**RAY PEAT:** In the prion diseases, the severely damaged brain appears to have a “pathological overactivity” of the serotonergic systems (Fraser, et al., 2003). This is an interesting parallel to Alzheimer’s disease, since it has been known for several years that the blood platelets have an increased tendency to release serotonin in that more common form of dementia. Serotonin itself is toxic to nerves, and is part of the adaptive system that gets out of control during prolonged inflammation. Serotonin is an important activator of the phospholipases.
+
+**CONTEXT:** What is the role of serotonergic systems in prion diseases and Alzheimer's disease, and how does serotonin contribute to neurotoxicity and inflammation?
+
+**RAY PEAT:** The modification of proteins’ structure by glycosylation is involved in the development of the toxic form of the “prionic” protein, as well as in all the degenerative processes of aging. Until the ability to use sugar is impaired, cells produce enough carbon dioxide to protect proteins against random glycation, but with each exposure to free polyunsaturated fatty acids, the ability to use glucose is damaged. In the dementias, the brain has a greatly reduced ability to use glucose.
+
+**CONTEXT:** How does glycosylation contribute to protein damage in aging and prion diseases, and what is the impact of PUFAs on glucose metabolism and brain function?
+
+**RAY PEAT:** One of estrogen’s central effects is to shift metabolism away from the oxidation of glucose, decreasing carbon dioxide production. There is a much higher incidence of Alzheimer’s disease in women, and estrogen exposure exacerbates all of the changes that lead to it, such as shifts in nerve transmitters, increased vascular leakiness, and the increased production of the acute phase proteins.
+
+**CONTEXT:** How does estrogen disrupt glucose metabolism and contribute to the pathogenesis of Alzheimer's disease?
+
+**RAY PEAT:** Everything that is known about the “always fatal” prionic diseases, the diseases of disturbed protein folding, suggests that they can be avoided and even reversed by systematically reversing the processes that amplify inflammation.
+
+**CONTEXT:** Can prionic diseases, characterized by disturbed protein folding, be prevented or reversed by addressing inflammatory processes?
+
+**RAY PEAT:** People who take aspirin, drink coffee, and use tobacco, have a much lower incidence of Alzheimer’s disease than people who don’t use those things. Caffeine inhibits brain phospholipase, making it neuroprotective in a wide spectrum of conditions. In recent tests, aspirin has been found to prevent the misfolding of the prion protein, and even to reverse the misfolded beta sheet conformation, restoring it to the harmless normal conformation. Nicotine might have a similar effect, preventing deposition of amyloid fibrils and disrupting those already formed (Ono, et al., 2002). Vitamin E, aspirin, progesterone, and nicotine also inhibit phospholipase, which contributes to their antiinflammatory action. Each of the amyloid-forming proteins probably has molecules that interfere with its toxic accumulation.
+
+**CONTEXT:** What common substances like aspirin, coffee, and tobacco have shown a protective effect against Alzheimer's disease, and what are their proposed mechanisms of action, particularly regarding phospholipase inhibition and protein conformation?
+
+**RAY PEAT:** Thyroid hormone, vitamins A and E, niacinamide (to inhibit systemic lipolysis), magnesium, calcium, progesterone, sugar, saturated fats, and gelatin all contribute in basic ways to prevention of the inflammatory states that eventually lead to the amyloid diseases. The scarcity of degenerative brain disease in high altitude populations is consistent with a protective role for carbon dioxide.
+
+**CONTEXT:** What are the key nutrients and substances that contribute to the prevention of inflammatory states leading to amyloid diseases, and what is the significance of carbon dioxide in this context?
+
+**RAY PEAT:** The relatively sudden acceptability of the idea of non-genetic transmission doesn't mean that Lamarck has been rehabilitated by the scientific establishment; it could just be that it's the most politically acceptable way to explain the outbreaks of deadly disease caused by the industrialization of foods and the exposure of the population to dangerous levels of radiation.
+
+**CONTEXT:** What is the underlying reason for the recent acceptance of non-genetic transmission theories, and how does it relate to industrial food practices and radiation exposure?

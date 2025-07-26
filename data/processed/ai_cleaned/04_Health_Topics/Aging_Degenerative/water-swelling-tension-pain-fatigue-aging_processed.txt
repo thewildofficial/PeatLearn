@@ -1,0 +1,233 @@
+
+
+**RAY PEAT:** The amount of water a person needs is extremely variable, depending on things such as metabolic rate, activity, and the temperature and humidity of the air. Working hard in hot, dry weather, it's possible to drink more than two quarts per hour for more than eight hours, without forming any urine, because all of the water is lost by evaporation. But in very hot, humid weather, a person with a low metabolic rate can be endangered by the smallest amount of water.
+
+**CONTEXT:** What determines the amount of water a person needs?
+
+**RAY PEAT:** Most foods contain a considerable amount of water, usually more than 70% of their weight, and some water is produced in cells by metabolism.
+
+**CONTEXT:** Where does the body get water from, besides drinking?
+
+**RAY PEAT:** Most grade school kids have seen an osmometer made from an egg, in which the egg causes a column of water to rise, and have heard the explanation that this has something to do with the way cells work. Membrane pumps are invoked to explain the differences in solute concentrations and "osmotic pressure" inside and outside cells. The story is that invisible things on the surface of a cell (in its "membrane") force dissolved molecules to move in ways that they wouldn’t move spontaneously by diffusion, and that water passively follows the "actively transported" solutes. But the evidence shows that both water and its solutes are regulated by the bulk phase of the cell, not its surface.
+
+**CONTEXT:** How is the common understanding of cell water regulation flawed?
+
+**RAY PEAT:** Cells aren't osmometers, in the sense the textbooks say. They do control their water content, but no "membrane pumps" are needed. It's more accurate to think of the water of cells as being "dissolved in cells," somewhat the way water is contained in jello or boiled eggs. The cell controls its hydration by the processes that control its structure, its metabolism, and movements, because water is part of its deepest structures and essential functions. The cell's adjustments to changes of hydration and volume appear to be regulated by contractile proteins and energy metabolism.
+
+**CONTEXT:** What is a more accurate way to understand how cells control their water content?
+
+**RAY PEAT:** Any stress or energy deficit that disturbs cellular structure or function disturbs the interactions among water, proteins, and other components of the cell. Excitation causes a cell to take up extra water, not by osmosis resulting from an increase in the concentration of solutes in the cell, or because the membrane has become porous, but because the structural proteins of the cell have momentarily increased their affinity for water.
+
+**CONTEXT:** What happens to a cell during excitation or stress that affects its water content?
+
+**RAY PEAT:** This increased affinity is similar to the process that causes a gel to swell in the presence of alkalinity, and it is related to the process called electroosmosis, in which water moves toward a higher negative charge. Intense excitation or stress increases the cell's electrically negative charges, and causes it to become more alkaline and to swell. Swelling and alkalinity cause the cell to begin the synthesis of DNA, in preparation for cell division. Mitogens and carcinogens, including estrogen, cause cells to become alkaline and to swell, and substances that block the cell's alkalinization (such as the diuretics acetazolamide and amiloride) inhibit cell division. Prolonged alkaline stress alone can cause malignant transformation of kidney cells.
+
+**CONTEXT:** What is the relationship between cell swelling, alkalinity, and cell division?
+
+**RAY PEAT:** The general idea of "stress" is useful, because it includes processes such as fatigue, osmotic pressure changes, disturbed pH, and the enzyme changes that follow, producing substances such as lactic acid, nitric oxide, polyamines, estrogen, serotonin, and many more specific mediators. But paying attention to the physical factors involved in a stress reaction is important, if we are to see the organism integrally, rather than as a collection of "specific biological mechanisms," involving things like the pixie-powered "membrane pumps."
+
+**CONTEXT:** How can we understand stress reactions more integrally?
+
+**RAY PEAT:** When a cell shrinks under hyperosmolar conditions, its metabolism becomes catabolic, breaking down proteins and glycogen, and sometimes producing lactic acid, which results in an alkaline shift, increasing the cell's affinity for water, and causing it to return to normal size. A slight degree of hyperosmolarity increases the cell's metabolic rate.
+
+**CONTEXT:** What happens to a cell's metabolism when it shrinks under hyperosmolar conditions?
+
+**RAY PEAT:** Swelling in hypo-osmolar conditions, i.e., with an excess of water, is anabolic, leading to cellular proliferation, and inhibiting the breakdown of protein and glycogen.
+
+**CONTEXT:** What are the metabolic consequences of cell swelling in hypo-osmolar conditions?
+
+**RAY PEAT:** Respiring cells are always producing some water, by transferring hydrogen from fuel molecules to oxygen. Respiration also produces carbon dioxide, which in itself is a Lewis acid (meaning that it binds electrons, rather than releasing protons), that associates with cellular proteins, acidifying them in the process. A large amount of carbon dioxide can exist inside cells in the bound form. Acidified cytoplasm (like any other mostly acidic polymer-gel) releases water and sodium. (This process is physically analogous to the process of flushing a water softener with salt, or a demineralizer with acid, to reactivate it.)
+
+**CONTEXT:** How does cellular respiration relate to water and acid production within cells?
+
+**RAY PEAT:** Besides binding with the cytoplasm, the carbon dioxide can be changed into carbonic acid, by chemically combining with water. Carbonic acid is hydrophilic, and so it quickly leaves the cell, taking with it some of the oppositely charged ions, such as calcium and sodium. The formation of carbonic acid, which is constantly streaming out of the respiring cell, causes some water and some positively ionized metals to leave the cell, in an "active" process, that doesn't require any mysterious pumps.
+
+**CONTEXT:** How does carbon dioxide contribute to the movement of water and ions out of cells?
+
+**RAY PEAT:** As the blood passes through the lungs, carbon dioxide leaves the system, and as carbonic acid is converted to carbon dioxide, water is left behind in the blood, along with the counterions (of alkaline metals or earths), accounting for slight differences in pH and osmolarity between the bloodstream and the tissue cells. Some experiments suggest that the normal osmolarity of various tissues is 2 or 3 times higher than that of the blood, which is called "isosmolar" or isotonic.
+
+**CONTEXT:** What happens to water and ions as carbon dioxide is removed from the blood in the lungs?
+
+**RAY PEAT:** The kidneys adjust the osmolarity of the blood by allowing water and solutes to leave the bloodstream, in proportions that usually keep the body fluids in balance with cells. The kidneys are able to compensate for many of the imbalances produced by stress and inappropriate diets, for example by forming ammonia and carbon dioxide, to compensate for imbalances in the alkalis and acids that are being delivered to the blood by other organs. Because of the kidneys' great ability to regulate the flow of solutes between the blood and the forming urine, the "membrane pumps" have great importance for medical nephrologists. But the more extreme the "active transport" is, the more obvious it becomes that processes other than "membrane pumps" are responsible.
+
+**CONTEXT:** How do the kidneys regulate osmolarity, and why is this relevant to the concept of "membrane pumps"?
+
+**RAY PEAT:** Some lizards and sea birds have glands near their noses that are called salt glands, because of their ability to secrete salt. The salt gland is probably the most extreme case of active transport, but its physiology is very similar to the physiology of any other secretory gland or membrane, such as tear glands and sweat glands. The mechanism of salt excretion in these glands should really settle the issue of how active transport works, but most nephrologists, oculists, and medical researchers in general aren't interested in salt glands.
+
+**CONTEXT:** What is an example of extreme active transport, and why is it often overlooked?
+
+**RAY PEAT:** Carbon dioxide is the driving force in the salt gland. The constant formation of CO2, and its loss into the air, allows a high concentration of salt to be excreted. Blocking the interchange of CO2 and carbonic acid, with acetazolamide, or inhibiting the formation of CO2, prevents the excretion of salt.
+
+**CONTEXT:** What is the role of carbon dioxide in the function of salt glands?
+
+**RAY PEAT:** Since respiratory metabolism, governed by the thyroid hormone, is our main source of carbon dioxide, it's obvious that thyroid deficiency should impair our ability to regulate water and solutes, such as salt. An organism that illustrates this function of thyroid is the young salmon, when it leaves a freshwater river to begin its life in the ocean. As it converts its physiology to tolerate the salty environment, its thyroid hormone surges. When it's mature, and returns to the fresh water to spawn, its prolactin rises sharply. In experiments with rodents, it has been found that drinking a large amount of water increases their prolactin, but the same amount of water, with added salt, doesn't.
+
+**CONTEXT:** How does thyroid hormone relate to carbon dioxide production and the regulation of water and salt?
+
+**RAY PEAT:** Hypothyroidism is typically associated with increased prolactin secretion. Hypothyroid people typically retain water, while losing salt, so the hypothyroid state is analogous to the salmon that has returned to the river, and to the mice that drink too much salt-free water.
+
+**CONTEXT:** What are the typical fluid and electrolyte imbalances seen in hypothyroidism?
+
+**RAY PEAT:** The typical hypothyroid person loses salt rapidly in the urine (and probably in the sweat, too, though that is usually diagnosed as cystic fibrosis), and retains water, diluting the urine less than normal. The reduced production of carbon dioxide, with increased susceptibility to producing lactate and ammonium, causes the cells to be more alkaline than normal, increasing their affinity for water. The rise of estrogen that usually accompanies hypothyroidism also increases intracellular pH, loss of sodium, and over-hydration of the blood.
+
+**CONTEXT:** What are the specific physiological consequences of reduced carbon dioxide production in hypothyroidism?
+
+**RAY PEAT:** Hypothyroid muscles typically retain excess water, and fatigue easily, taking up more water than normal during exertion. In childhood, mild hypothyroidism often causes the leg muscles to swell and ache in the evenings, with what have been called "growing pains." When the problem is more extreme, all the skeletal muscles can become very large (Hoffman syndrome), because of the anabolic effect of over-hydration. Enlargement of any muscle can result from the excessive hydration produced by thyroid deficiency, but when it happens to the muscles behind the eyes, it often leads to a diagnosis of hyperthyroidism, rather than hypothyroidism.
+
+**CONTEXT:** How does hypothyroidism affect muscle tissue and lead to conditions like "growing pains" or Hoffman syndrome?
+
+**RAY PEAT:** The people who believe in membrane pumps that maintain normal solute distributions by active transport know that the pumps would require energy (far more than the cell can produce, but they don't confront that issue), and so their view requires that they assign a great part of the cell's resources just to maintaining ionic homeostasis, and the result of that is that they tend to neglect the actual energy economy of the cell, which is primarily devoted to the adaptive renewal of the cell structure and enzyme systems, not to driving the systems that don't exist.
+
+**CONTEXT:** What is the flaw in the "membrane pump" theory regarding cellular energy expenditure?
+
+**RAY PEAT:** The "anabolic" balance of the swollen cell is the result of decreased turnover of the cell's components. The higher rate of metabolism produced by adequate thyroid function maintains a high rate of renewal of the cell's systems, keeping the cell constantly adjusted to slight changes in the organism's needs. The evidence of a high rate of bone turnover is sometimes taken as evidence that thyroid can cause osteoporosis.
+
+**CONTEXT:** How does thyroid function influence cellular turnover and the "anabolic" balance of cells?
+
+**RAY PEAT:** Later, in a more mature person, chronically fatigued and painful muscles that at one time would have been diagnosed as rheumatism, may be diagnosed as fibromyalgia. Most doctors are reluctant to prescribe thyroid supplements for the problem, but the association of elevated prolactin with the muscle disorder is now generally recognized.
+
+**CONTEXT:** What is the connection between hypothyroidism, muscle pain, and fibromyalgia?
+
+**RAY PEAT:** The hypo-osmolar blood of hypothyroidism, increasing the excitability of vascular endothelium and smooth muscle, is probably a mechanism contributing to the high blood pressure of hypothyroidism. The swelling produced in vascular endothelium by hypo-osmotic plasma causes these cells to take up fats, contributing to the development of atherosclerosis. The generalized leakiness affects all cells, and can contribute to reduced blood volume, and problems such as orthostatic hypotension. The swollen endothelium is stickier, and this is suspected to support the metastasis of cancer cells. Inflammation-related proteins, including CRP, are increased by the hypothyroid hyperhydration. The heart muscle itself can swell, leading to congestive heart failure.
+
+**CONTEXT:** How does hypothyroidism-induced hypo-osmolar blood contribute to cardiovascular issues like hypertension, atherosclerosis, and heart failure?
+
+**RAY PEAT:** Some of the nerve problems associated with hypothyroidism (e.g., carpal tunnel syndrome and "foot drop") are blamed on compression of the nerves, from swelling of surrounding tissues, but the evidence is clear that hypothyroidism causes swelling in the nerve cells themselves. For example, in hypothyroidism, nerves are slow to respond to stimulation, and their conduction of the impulse is slow. These changes are the same as those produced by hyper-hydration caused by other means. Hypothyroid nerves are easily fatigued, and fatigued nerves take up a large amount of water. Swelling of the spinal cord is probably responsible for the "spinal stenosis" commonly seen in domestic animals and people; the mobility of intracellular water molecules is distinctly increased in patients with compression of the spinal cord.
+
+**CONTEXT:** What are the neurological manifestations of hypothyroidism, and how do they relate to cell swelling?
+
+**RAY PEAT:** The hyperhydration of hypothyroidism has been known to cause swelling and softening of cartilage, with deformation of joints, but somehow it has never dawned on surgeons that this process would lead to deformation of intervertebral disks.
+
+**CONTEXT:** How does hypothyroidism-induced hyperhydration affect cartilage and intervertebral discs?
+
+**RAY PEAT:** It has been known for a long time that hyperhydration can produce seizures; at one time, neurologists would test for epilepsy by having the patient drink a pint of water. Although there are many reasons to think that the hyperhydration produced by hypothyroidism is a factor in epilepsy, physicians have been very reluctant to consider the possibility, because they generally think of thyroid hormone as a stimulant, and believe that "stimulants" are necessarily inappropriate for people with epilepsy.
+
+**CONTEXT:** What is the historical and potential link between hyperhydration and seizures, and why is this connection often overlooked in the context of hypothyroidism?
+
+**RAY PEAT:** While it's true that the thyroid hormone increases sensitivity to adrenaline, its most noticeable effect is in improving the ability to relax, including the ability to sleep soundly and restfully. And it happens that increasing norepinephrine (the brain's locally produced form of adrenaline) helps to prevent seizures.
+
+**CONTEXT:** How does thyroid hormone's effect on relaxation and norepinephrine relate to seizure prevention?
+
+**RAY PEAT:** Cell swelling increases the sensitivity of nerves, and hyperosmotic shrinkage lowers their sensitivity. Increasing carbon dioxide helps to reduce the hydration of tissue (for example, the hydration and thickness of the cornea are decreased when carbon dioxide is increased), and increasing carbon dioxide is known to inhibit epileptic seizures. Another diagnostic trick of neurologists was to have the patient hyperventilate; it would often bring on a seizure. The diuretic acetazolamide, which increases the body's carbon dioxide and reduces water retention, is very effective for preventing seizures.
+
+**CONTEXT:** How do cell hydration, carbon dioxide levels, and hyperventilation relate to nerve sensitivity and epilepsy?
+
+**RAY PEAT:** The sleep-inducing effect of salty food is probably related to the anti-excitatory effects of hyperosmolarity, of adequate thyroid function, and of carbon dioxide.
+
+**CONTEXT:** What is the potential mechanism behind the sleep-inducing effect of salty food?
+
+**RAY PEAT:** Degenerative diseases, especially cancer, heart disease, and brain diseases, are less prevalent in populations that live at a high altitude. When oxygen pressure is low, the lungs lose carbon dioxide more slowly, and so the amount of carbon dioxide retained in the body is greater. If the basic problem in hypothyroidism is the deficient production of carbon dioxide causing excessive loss of salt and retention of water, resulting in hypo-osmotic body fluids, then we would expect people at high altitude to have better retention of salt, more loss of water, and more hypertonic body fluids. That has been observed in many studies. The increased rate of metabolism at altitude would be consistent with the relatively active "catabolism" of the slightly hyperosmotic condition.
+
+**CONTEXT:** How does living at high altitude, with lower oxygen pressure, relate to carbon dioxide retention and the prevalence of degenerative diseases?
+
+**RAY PEAT:** After the drug companies began, in the late 1950s, marketing some newly discovered (thiazide) diuretics, which cause sodium to be lost in the urine, their advertising campaigns created a cultish belief that salt caused hypertension. They convinced a whole generation of physicians that pregnant women should limit salt in their diet, take a diuretic preventively, and restrict calories to prevent "excessive" weight gain. Millions of women and their babies were harmed by that cult.
+
+**CONTEXT:** What was the impact of the marketing of thiazide diuretics on the understanding of salt and hypertension?
+
+**RAY PEAT:** Pre-eclampsia and pregnancy toxemia have been corrected by both increased dietary protein and increased salt, which improve circulation, lower blood pressure, and prevent seizures, while reducing vascular leakiness. The effectiveness of increased salt in pre-eclampsia led me to suggest it for women with premenstrual edema, because both conditions typically involve high estrogen, hyponatremia, and a tendency toward hypo-osmolarity. Estrogen itself causes sodium loss, reduced osmolarity, and increased capillary leakiness. Combined with a high protein diet, eating a little extra salt usually helps to correct a variety of problems involving edema, poor circulation, and high blood pressure.
+
+**CONTEXT:** How can increased dietary protein and salt help in conditions like pre-eclampsia and premenstrual edema?
+
+**RAY PEAT:** The danger of salt restriction in pregnancy has hardly been recognized by most physicians, and its danger in analogous physiological situations is much farther from their consideration.
+
+**CONTEXT:** What is the unrecognized danger of salt restriction in pregnancy and similar physiological states?
+
+**RAY PEAT:** One of the things that happen when there isn't enough sodium in the diet is that more aldosterone is synthesized. Aldosterone causes less sodium to be lost in the urine and sweat, but it achieves that at the expense of the increased loss of potassium, magnesium, and probably calcium. The loss of potassium leads to vasoconstriction, which contributes to heart and kidney failure and high blood pressure. The loss of magnesium contributes to vasoconstriction, inflammation, and bone loss. Magnesium deficiency is extremely common, but a little extra salt in the diet makes it easier to retain the magnesium in our foods.
+
+**CONTEXT:** What are the consequences of insufficient dietary sodium on aldosterone, potassium, and magnesium levels?
+
+**RAY PEAT:** Darkness and hypothyroidism both reduce the activity of cytochrome oxidase, making cells more susceptible to stress. A promoter of excitotoxicity, ouabain, or a lack of salt, can function as the equivalent of darkness, in resetting the biological rhythms.
+
+**CONTEXT:** How do darkness, hypothyroidism, and salt intake affect cellular stress susceptibility and biological rhythms?
+
+**RAY PEAT:** Bone loss occurs almost entirely during the night, and the nocturnal rise in cortisol and prolactin has strongly catabolic effects, but many other pro-inflammatory substances also rise during the night, and are probably the basic cause of the increased catabolism. Increased salt in the diet appears to improve some aspects of calcium metabolism, such as reducing parathyroid hormone and increasing ionized calcium, when the diet is deficient in calcium.
+
+**CONTEXT:** What factors contribute to nocturnal bone loss, and how can dietary salt influence calcium metabolism?
+
+**RAY PEAT:** The kidneys can produce large amounts of carbon dioxide and ammonia, in the process of preventing the loss of electrolytes, while allowing acid to be lost in the urine. The ammonia is produced by the breakdown of protein. During stress or fasting, the loss of tissue protein can be minimized by supplementing the minerals, potassium, sodium, magnesium, and calcium. Salt restriction can cause aldosterone to increase, and excess aldosterone causes potassium loss, and increases the use of protein to form ammonia.
+
+**CONTEXT:** How do the kidneys manage electrolytes and acid loss, and how does salt restriction affect protein metabolism and aldosterone?
+
+**RAY PEAT:** Aldosterone secretion increases during the night, and its rise is greater in depressed and stressed people. It inhibits energy metabolism, increases insulin resistance, and increases the formation of proinflammatory substances in fat cells. During aging, salt restriction can produce an exaggerated nocturnal rise in aldosterone.
+
+**CONTEXT:** What are the effects of increased nocturnal aldosterone secretion, and how does aging interact with salt restriction?
+
+**RAY PEAT:** During the night, there are many changes that suggest that the thyroid functions are being blocked, for example a surge in the thyroid stimulating hormone, with T4 and T3 being lowest between 11 PM and 3 AM, while temperature and energy production are at their lowest. This suggests that the problems of hypothyroidism will be most noticeable during the night.
+
+**CONTEXT:** What evidence suggests that thyroid function is impaired during the night, and how does this relate to hypothyroidism?
+
+**RAY PEAT:** Rheumatoid arthritis and asthma are two inflammatory conditions that are notoriously worse during the night. Melatonin has been reported to be higher in patients with severe asthma and rheumatoid arthritis, and to promote the secretion of a variety of other pro-inflammatory substances. The peak of melatonin secretion is followed by the peak of aldosterone, and a little later by the peak of cortisol.
+
+**CONTEXT:** What is the relationship between nocturnal worsening of inflammatory conditions like rheumatoid arthritis and asthma, and the hormones melatonin, aldosterone, and cortisol?
+
+**RAY PEAT:** The use of bright light (which suppresses melatonin) to treat depression probably helps to inhibit the production of aldosterone, which is strongly associated with depression.
+
+**CONTEXT:** How can bright light therapy, by suppressing melatonin, influence aldosterone production and depression?
+
+**RAY PEAT:** Both aldosterone and melatonin can contribute to the contraction of smooth muscle in blood vessels. Constriction of blood vessels in the kidneys helps to conserve water, which is adaptive if blood volume has been reduced because of a sodium deficiency. When blood vessels are inappropriately constricted, the blood pressure rises, while organs don't receive as much blood circulation as they need. This impaired circulation seems to be what causes the kidney damage associated with high blood pressure, which can eventually lead to heart failure and multiple organ failure.
+
+**CONTEXT:** How do aldosterone and melatonin contribute to blood vessel constriction, and what are the downstream effects on blood pressure and organ function?
+
+**RAY PEAT:** Progesterone, which helps to maintain blood volume (partly by preventing vascular leakiness, preventing excessive sodium loss and by supporting albumin synthesis) antagonizes aldosterone. Aldosterone antagonists are now being recognized as effective treatments for hypertension, water retention, congestive heart failure, arrhythmia, diabetes, kidney disease, and a great variety of inflammatory problems. (Synthetic drugs to antagonize aldosterone are most effective when they are most like natural progesterone.) Since aldosterone contributes to fibrosis of the heart and kidneys (nephrosclerosis), progesterone, the "antifibromatogenic steroid," should be helpful for those problems that have been considered irreversible. Aldosterone appears to contribute to the hyperglycemia of diabetes itself, and not just to its complications, by interfering with the interactions of insulin and cortisol.
+
+**CONTEXT:** How does progesterone antagonize aldosterone, and what are the therapeutic implications for various health conditions?
+
+**RAY PEAT:** One of progesterone's fundamental actions is to cause estrogen "receptors" to disintegrate; hypertonicity has this effect in some situations. Estrogen's effects are largely produced by increased tissue hydration.
+
+**CONTEXT:** What is a fundamental action of progesterone related to estrogen, and how does hypertonicity play a role?
+
+**RAY PEAT:** Aldosterone causes cells to take up sodium, while increasing their pH, i.e., raising their alkalinity. Intracellular sodium has long been known to be a factor, along with swelling and alkalinity, in stimulating cell division. A lack of salt stimulates the formation of serotonin, which in turn stimulates aldosterone synthesis--that is, a sodium restricted diet activates processes that cause cells to take up sodium inappropriately, in a situation reminiscent of the calcium deficient diet causing inappropriate calcification.
+
+**CONTEXT:** How does aldosterone influence intracellular sodium and pH, and what is the link to cell division and serotonin?
+
+**RAY PEAT:** Aldosterone, like stress or hypo-osmolarity, activates the enzyme (ODC) which produces the polyamines, that promote cell division, and that can probably account for some of the harmful effects of excessive aldosterone.
+
+**CONTEXT:** What is the role of aldosterone in activating the enzyme ODC and producing polyamines?
+
+**RAY PEAT:** Eating salty food around bedtime usually has a sleep-inducing effect, and it helps to maintain blood volume (which tends to decrease during the night), and to restrain the nocturnal rise of aldosterone, and other indicators of stress or inflammation. Eating gelatin, which lacks tryptophan, will reduce the formation of serotonin, and is likely to limit the formation of aldosterone.
+
+**CONTEXT:** How can dietary choices around bedtime, such as salty food and gelatin, influence sleep, blood volume, aldosterone, and serotonin?
+
+**RAY PEAT:** Pregnenolone can sometimes very quickly allow swollen tissues to release their water. This function is probably closely related to its antifibromatogenic function, since swelling and leaking set the stage for fibrosis.
+
+**CONTEXT:** What is the effect of pregnenolone on swollen tissues, and how does it relate to antifibromatogenic function?
+
+**RAY PEAT:** Hyperosmotic sodium chloride solutions (e.g., 7.5%) are being used more often for treating trauma and shock, because the concentrated solution increases blood volume by removing water from the extravascular spaces, unlike the "isotonic" saline (0.9% sodium chloride), which usually adds to the edema by leaking out of the blood vessels.
+
+**CONTEXT:** Why are hyperosmotic sodium chloride solutions more effective than isotonic saline in treating trauma and shock?
+
+**RAY PEAT:** A 5% sodium chloride solution is effective for promoting healing of damaged corneas, and solutions of 5% to 10% sodium chloride are effective for accelerating the healing of wounds and ulcers. Other hypertonic solutions, for example glucose or urea, have been used therapeutically, but sodium chloride seems to be the most effective in a variety of situations.
+
+**CONTEXT:** What are the therapeutic applications of hypertonic sodium chloride solutions?
+
+**RAY PEAT:** Thyroid hormone, by maintaining oxidative metabolism with the production of carbon dioxide, is highly protective against excessive water retention and loss of sodium and magnesium.
+
+**CONTEXT:** How does thyroid hormone protect against excessive water retention and loss of electrolytes?
+
+**RAY PEAT:** Sometimes doctors recommend that constipated people should drink extra water, "to soften the stool." The colon is where water is removed from the intestinal contents, and when it is inflamed, it removes too much water. Several decades ago, it was recognized that hypertonic saline, given intravenously, would stimulate intestinal peristalsis, and could be used to treat paralytic ileus and intestinal obstruction.
+
+**CONTEXT:** What is the rationale behind recommending extra water for constipation, and how does hypertonic saline relate to intestinal peristalsis?
+
+**RAY PEAT:** When water is taken orally, it is absorbed high in the intestine, long before it reaches the colon, so the recommendation to drink water for constipation can produce a situation that's the opposite of intravenous hypertonic saline, by diluting the blood. Using a hypertonic salt solution as an enema can have the same beneficial effect on the intestine as the intravenous treatment.
+
+**CONTEXT:** How does oral water intake for constipation differ from intravenous hypertonic saline, and what is the effect of a hypertonic enema?
+
+**RAY PEAT:** Constipation physiology is probably analogous to the physiology of congestive heart failure, in which muscles are weakened and fatigued by swelling.
+
+**CONTEXT:** What is the physiological analogy between constipation and congestive heart failure?
+
+**RAY PEAT:** In recent decades, the prevalence of congestive heart failure has increased tremendously, so that it is now often called an epidemic. Hyponatremia (too little salt, or too much water) is a recognized "risk factor" for congestive heart failure. In the failing heart, the muscle cells are swollen, causing the heart wall to stiffen, weakening its ability to pump. Osmotically shrinking the cells can restore their function.
+
+**CONTEXT:** What is the role of hyponatremia in congestive heart failure, and how can osmotic shrinking of heart muscle cells restore function?
+
+**RAY PEAT:** The swollen heart, like any muscle, loses the ability to quickly and completely relax, and so it doesn't fill adequately between contractions. Elastic tissues, such as arteries and lungs, stiffen when they are over-hydrated, losing their normal functions. In small blood vessels, swelling narrows the channel, increasing resistance to the flow of blood.
+
+**CONTEXT:** How does swelling affect the function of the heart, elastic tissues, and small blood vessels?
+
+**RAY PEAT:** When people force themselves to drink a certain amount of water every day, even when they don't feel thirsty, they are activating complex adaptive processes unnecessarily. Thirst is the best guide to the amount of fluid needed.
+
+**CONTEXT:** Why is forcing oneself to drink water when not thirsty problematic?
+
+**RAY PEAT:** When extra water consumption is combined with a low salt diet--as physicians have so often recommended--a healthy person can adapt easily, but for a hypothyroid person it can have disastrous effects.
+
+**CONTEXT:** What are the potential consequences of combining extra water consumption with a low salt diet, particularly for hypothyroid individuals?

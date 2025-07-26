@@ -1,0 +1,179 @@
+
+
+**RAY PEAT:** I don't think aging is necessary, and I think I have begun to see the organism in a context that can explain the cause of aging in a relatively simple way. In outline, this is how I see it: 1. Every cell and tissue is capable of renewal; 2. the (Hayflick) doctrine of absolutely limited cellular renewal capacity has been disproved in many ways; 3. the great variety of regenerative cascades which can be promoted by a few factors--radiation, oxygen deprivation, polyunsaturated fats, and estrogen--can serve as a guide to the nature of our basic biology; 4. the factors which weaken our natural regulatory systems contain clues to possible restorative methods.
+
+**CONTEXT:** Ray Peat outlines his fundamental perspective on aging and cellular renewal.
+
+---
+
+**RAY PEAT:** Every important issue in life is an opportunity for powerful self-interest to intervene and take control. In transportation, corporations interested in selling gasoline and cars destroyed the cities' elegant systems of electric trolleys, in energy the nuclear and petroleum interests fought the development of solar and wind power, and the timber industry lobbies against innovation in house construction. The issue of aging and death is one that has been consciously dealt with throughout human existence, and it has accumulated a most complex system of mental commitments. This investment of emotion and belief affects every aspect of theory and practice in biology and medicine. We have to keep asking “is this researcher ignoring some facts that might seem to conflict with his ideology?"
+
+**CONTEXT:** Ray Peat discusses how external interests and ingrained beliefs can obstruct scientific understanding, particularly concerning aging.
+
+---
+
+**RAY PEAT:** Hayflick limit: Leonard Hayflick found that certain animal or human cells which can be grown in a dish would die out after 50 divisions, and he announced that this limited ability to divide sets the maximum limit of the lifespan. He has said that this is governed by the principle that entropy tends to increase. Another group found that the same kind of cell continued to divide nicely after 110 divisions, and didn't begin to die out until they began to use the serum from a different calf. The cells of the skin and bowel divide thousands of times in a normal lifetime, and transplanted pieces of skin or mammary gland remained healthy through the lifetimes of ten animals in series.
+
+**CONTEXT:** Ray Peat defines the Hayflick limit and presents evidence that contradicts its absolute nature, citing studies showing cells dividing far beyond the proposed limit and the success of tissue transplants.
+
+---
+
+**RAY PEAT:** Telomere: A structure on the ends of chromosomes that gets shorter with each division in some cells. The enzyme telomerase reconstitutes the telomeres in "immortal cells," such as germ cells and cancer cells. In aging, most aspects of cell function are weakened, but this particular enzyme operates in a location close enough to "the genes" that some people think it is behind the "Hayflick limit." But many other repair systems also slow down with aging; nothing gives this structure special explanatory power.
+
+**CONTEXT:** Ray Peat explains telomeres and telomerase, noting that while they are implicated in cellular division, they do not hold exclusive explanatory power for aging, as other repair systems also decline.
+
+---
+
+**RAY PEAT:** Previously, I have talked about the doctrine that our cells are divided into the immortal cells of "the germ line," and the mortal “somatic” cells of all the rest of the body. This doctrine says "people are mortal, so their cells must be intrinsically mortal, but they can have descendants ad infinitum, so their germ cells must be different from all the rest of their cells, and immortal." Alexis Carrel was famous for demonstrating that heart cells could be immortal in the right environment, but his work is now ignored or dismissed. "Only cancer cells and the germ line are immortal," the present doctrine says; ("and maybe embryonic cells"). It seems that the immortalization of our mortal somatic cells is acceptable, as long as these cells have the function of killing us.
+
+**CONTEXT:** Ray Peat critiques the germ line/somatic cell distinction, highlighting Alexis Carrel's ignored work on the immortality of somatic cells (like heart cells) in favorable conditions, and notes the paradox of accepting immortal cancer cells while dismissing immortal somatic cells.
+
+---
+
+**RAY PEAT:** I think some of Carrel's ideas about the nature of living organization and of aging are worth quoting. (Man the Unknown, 1935.) "Isolated cells have the singular power of reproducing...the edifices characterizing each organ: If a few red corpuscles, impelled by gravity, flow from a drop of blood placed in liquid plasma and form a tiny stream, banks are soon built up. Then, these banks cover themselves with filaments of fibrin, and the stream becomes a pipe, through which the red cells glide just as in a blood vessel. Next, leucocytes come, adhere to the surface of the pipe, and surround it with their undulating membrane. The blood stream now assumes the appearance of a capillary vessel enveloped in a layer of contractile cells. Thus, isolated red and white corpuscles manage to construct a segment of circulatory apparatus, although there is neither heart, circulation, nor tissues to be irrigated." "The spontaneous tendency toward formation of the organs by their constitutive cells, like the social aptitude of the insects, is a primary datum of observation." (Page 107.)
+
+**CONTEXT:** Ray Peat quotes Alexis Carrel on the inherent organizational and self-assembling capabilities of isolated cells, demonstrating their ability to create functional structures.
+
+---
+
+**RAY PEAT:** "The simplest system, where the phenomenon of senescence is observed, consists of a group of tissue cells cultivated in a small volume of nutritive medium. In such a system, the medium is progressively modified by the products of nutrition and, in its turn, modifies the cells. Then appear senescence and death. The rhythm of physiological time depends on the relations between the tissues and their medium. It varies according to the volume, the metabolic activity, the nature of the cell colony, and the quantity and the chemical composition of the fluid and gaseous media. The technique used in the preparation of a culture accounts for the rhythm of life of such culture. For example, a fragment of heart fed with a single drop of plasma in the confined atmosphere of a hollow slide, and another one immersed in a flask containing a large volume of nutritive fluids and gases, have quite different fates. The rate of accumulation of the waste products in the medium, and the nature of these products, determine the characteristics of the duration of the tissues. When the composition of the medium is maintained constant, the cell colonies remain indefinitely in the same state of activity." "If, by an appropriate technique, their volume is prevented from increasing, they never grow old. Colonies obtained from a heart fragment removed in January, 1912, from a chick embryo, are growing as actively today as twenty-three years ago. In fact, they are immortal.” (Page 173.)
+
+**CONTEXT:** Ray Peat continues quoting Alexis Carrel, emphasizing that cellular senescence and death are not intrinsic but are influenced by the cellular environment, particularly the accumulation of waste products and the composition of the nutritive medium. Carrel's experiments showed that with proper maintenance of the medium and prevention of excessive volume increase, cell colonies remained indefinitely active and "immortal."
+
+---
+
+**RAY PEAT:** Heart cells are recognizable even in isolation, because they beat. It would be impossible to mistake them for another type of cell.
+
+**CONTEXT:** Ray Peat notes the distinct and observable characteristic of heart cells (beating) that aids in their identification in isolation.
+
+---
+
+**RAY PEAT:** Years later, Hans Selye was observing the reaction to a small glass tube inserted under a rat's skin. He noticed that the tube was soon enclosed by a capsule of fibrous tissue, and that the cells gradually grew in a strand from the ends down the channel of the tube. These cells were isolated from the fluids that normally surround cells, and Selye found that after a short time they took on the appearance of cells from a very old animal, while the cells of the surrounding capsule remained normal. Selye drained the fluid at intervals, allowing it to be replaced by fresh fluid, and found that at the end of the rat's life-span, the cells of this filament showed no signs of aging.
+
+**CONTEXT:** Ray Peat describes Hans Selye's experiment with implanted tubes, demonstrating that cells isolated from normal fluid circulation and exposed to stagnant conditions aged prematurely, while cells in a renewed fluid environment did not.
+
+---
+
+**RAY PEAT:** Carrel's work with tissue-culture led him to believe that changes in the organism's fluids were a major part of the aging process. Extracts from animal embryos have been used medically for treating old people, because of their confirmed effect on cell function. “Blood plasma alone displays, throughout the entire life-time, progressive modifications characterizing the senescence of the body as a whole. We know that it contains the secretions of all tissues and organs. Plasma and tissues being a closed system, any alteration in the tissues reacts on the plasma, and vice versa. During the course of life, this system undergoes continuous changes. Some of these changes may be detected both by chemical analysis and by physiological reactions. The plasma or the serum of an aging animal has been found to increase its restraining effect on the growth of cell colonies. The ratio of the area of a colony living in serum, to that of an identical colony living in a saline solution and acting as a control, is called the growth index. The older the animal to which the serum belongs, the smaller is this index." “During the first days of life, blood serum does not inhibit the growth of cell colonies any more than does the control solution. At this moment the value of this index approaches unity. As the animal becomes older, its serum restrains cell multiplication more effectively. And the index decreases. During the last years of life, it is generally equal to zero.” (Page 168.)
+
+**CONTEXT:** Ray Peat reiterates Carrel's findings on the role of bodily fluids in aging, noting that plasma from older animals inhibits cell growth more than plasma from younger animals, as measured by a "growth index." He also mentions the historical use of embryo extracts for treating the elderly due to their positive effects on cell function.
+
+---
+
+**RAY PEAT:** In 1921, a researcher (A. J. Lotka) looking for a job at the Rockefeller Institute visited Carrel's laboratory. "I saw a young lady making chicken hash in the most heartless but thoroughly scientific manner. I saw a little piece of chicken heart foolishly throbbing after all occasion for throbs had long ceased. I saw a thirteen year old dog rejuvenated by the infusion of younger blood. It was hardly converted into a giddy young thing, but they told me there was still marked improvement even after twelve months." (S. E. Kingsland, Modeling Nature, Univ. of Chicago Press, 1995.)
+
+**CONTEXT:** Ray Peat shares an anecdote from A. J. Lotka's visit to Carrel's lab, describing the continued vitality of isolated heart cells and a dog rejuvenated by younger blood, underscoring the potential for age reversal.
+
+---
+
+**RAY PEAT:** Carrel discussed Lecomte du Nouy's equations for describing the regenerative activity of the body at a given age. (A 21 year-old person heals twice as quickly as a 40. year-old person.) The rate of healing and the growth index of plasma, according to Carrel, "...correspond to successive states in the chemical composition of the humors. The proteins of blood serum become more abundant and their characters are modified. It is chiefly the fats which give to serum the property of acting upon certain cell types and of diminishing the rapidity of their multiplication. These fats increase in quantity and change in nature during life." (Page 174.)
+
+**CONTEXT:** Ray Peat connects Lecomte du Nouy's observations on age-related healing rates with Carrel's findings on plasma composition, suggesting that changes in serum fats contribute to the decline in regenerative capacity and cell multiplication with age.
+
+---
+
+**RAY PEAT:** Here, I want to review some of the effects of fats that I have talked about elsewhere. Polezhaev's work in regeneration has suggested that the fatty residue left from degenerating cells stimulates the formation of new cells. Linoleic acid, like phorbol esters and estrogen, activates protein kinase C, and the cell growth system.
+
+**CONTEXT:** Ray Peat introduces the role of fats in regeneration, citing Polezhaev's work suggesting that fatty residues from degenerating cells can stimulate new cell formation. He also notes that linoleic acid, similar to phorbol esters and estrogen, activates protein kinase C and the cell growth system.
+
+---
+
+**RAY PEAT:** In looking at a tissue slide that was used to diagnose "ductal carcinoma in situ," I noticed that the structures resembled cross-sections of tubercles. In the breast ducts, fatty residues from milk secretions should be able to stimulate cell division. The fats formed by the tuberculosis bacillus stimulate the cellular reaction that produces the tubercle structure. Since a tuberculous breast grossly resembles a cancerous breast, it is important that the possible structural similarity of the two diseases, under the microscope, be considered. The bacteria can disappear from the cells in a tubercle, and the "defining" presence of giant cells in the tubercular lesion isn't invariable.
+
+**CONTEXT:** Ray Peat draws a parallel between the microscopic appearance of "ductal carcinoma in situ" and tubercles, suggesting that fatty residues in breast ducts, similar to those produced by tuberculosis bacilli, might stimulate cell division. He notes the visual similarity between tuberculous and cancerous breasts and the potential for bacteria to disappear from tubercles.
+
+---
+
+**RAY PEAT:** It has been suggested that the tubercle develops and persists because the body's proteolytic enzymes are inhibited by the unsaturated fats. (Even older ideas of "fatty degeneration," going back to the very beginnings of biochemistry, were based on the fact that proteins are deposited from solution at an interface, such as that formed by a drop of oil, forming a sort of proteinaceous skin around fat droplets.) Whether the process is simply the result of inactivating proteolytic enzymes, or the result of a more specific disordering of cell control systems, it is a well established experimental fact that oils stimulate a kind of fibrous tumor, called the "oil granuloma." If the oil can't be digested and removed, the body reacts by forming a growth around it. Inside the cell, unsaturated fatty acids slow many cellular processes, including respiratory energy production and protein turnover, changes which parallel the changes occurring in aging.
+
+**CONTEXT:** Ray Peat discusses the hypothesis that unsaturated fats inhibit proteolytic enzymes, contributing to tubercle formation. He links this to the concept of "fatty degeneration" and the formation of "oil granulomas" when oils are not digested. He further states that unsaturated fatty acids within cells slow down cellular processes like energy production and protein turnover, mirroring changes seen in aging.
+
+---
+
+**RAY PEAT:** About 30 years ago, Leonard Hayflick found that certain animal or human cells which can be grown in a dish would die out after about 50 divisions. He also found that cells from old individuals would stop dividing sooner when grown in tissue culture. He announced that this limited ability to divide sets the maximum limit of the lifespan. He has said that this is governed by the principle that entropy tends to increase. Another group found that the same kind of cell continued to divide nicely after 110 divisions, and didn't begin to die out until they began to use the serum from a different calf. Their result resembled Carrel's findings, in which the fluid from younger organisms supported more vigorous growth in tissue culture, and clearly casts doubt on Hayflick's principle. But even without such contradictions of Hayflick's tissue culture results, Hayflick's claims couldn't really be taken seriously as anything but a theoretical model of what is happening to cells in an aging organism, because cells that are removed from their complex environment in the organism have been deprived of a rich and communicative framework.
+
+**CONTEXT:** Ray Peat revisits the Hayflick limit, contrasting it with contradictory findings and emphasizing that tissue culture experiments, by removing cells from their natural environment, provide only a limited model of aging within a complex organism.
+
+---
+
+**RAY PEAT:** The cells of the skin and bowel divide thousands of times in a normal lifetime, showing that there is a kind of arrogant silliness in the claim that "human cells have a strictly limited capacity to divide." (I call this "disproof by dandruff.")
+
+**CONTEXT:** Ray Peat uses the example of skin and bowel cells, which divide thousands of times, to dismiss the notion of a strictly limited cellular division capacity in humans.
+
+---
+
+**RAY PEAT:** Pieces of skin or mammary gland, removed from old rats and transplanted into young rats, remained healthy through the lifetimes of ten animals in series. When young animals have been surgically attached to old animals ("parabiosis"), the pair has lived out the life-span of the younger animal, allowing the older one to reach an abnormally advanced age. In some studies, beneficial changes have been seen in the old individual, and some harmful effects appeared in the young animal. I have described these experiments previously.
+
+**CONTEXT:** Ray Peat cites parabiosis experiments and tissue transplantation studies in rats, demonstrating that the aging process is not solely intrinsic to cells but can be influenced by the organism's overall physiological state and the environment provided by younger tissues.
+
+---
+
+**RAY PEAT:** Selye's experiment, besides showing the importance of fluid renewal in cell aging, also showed one of the ways in which cells respond to structure. Cells build structures, and then they respond to them. They "know" where they are in a given structure. Cells produce materials--some of them soluble, others insoluble--that produce a characteristic local environment. In plants, the cellulose scaffolding between cells, and other extracellular matrix materials, serve as part of the information that guides the functioning of cells, so that removal of the cellulose allows the cell to stop a specialized function, and begin to grow and take on new functions, even in some cases producing a complete new organism. In a wound in an animal's skin, cell division is stimulated to heal the wound. I think it is the doctrine of the germ line/somatic distinction that has prevented more vigorous research in the origin of teratomas, growths of radically different tissue types (hair, teeth, bones, fingernails, mammary tissue, e.g.) in an inappropriate location--often the ovary, but sometimes in the bladder, tongue, rectum or other location. These have been explained as “embryonic rests," or undeveloped Siamese twins, as a way to avoid the idea that somatic cells have the capacity to revert to totipotency. Their occurrence is strongly reminiscent of the situation in plants, in which an injured (isolated) somatic cell becomes “totipotent," resembling a germ cell or embryonic cell.
+
+**CONTEXT:** Ray Peat discusses how cells respond to their structural environment and the extracellular matrix. He uses plant examples where removing structural components can lead to totipotency and new organism formation. He then links this to teratomas in animals, suggesting that the germ line/somatic cell doctrine hinders research into the totipotent capacity of somatic cells, which he believes is demonstrated by teratoma formation, similar to plant regeneration.
+
+---
+
+**RAY PEAT:** If cells have systems that regulate their functions, and known substances disrupt those functions, the endogenous regulatory material must have some of the properties of the disruptive material. For example, digitalis and ouabain are plant steroid-derivatives that are poisonous to animal cells--especially the heart cells--by acting at a "site" which is normally regulated by substances such as DHEA and progesterone.
+
+**CONTEXT:** Ray Peat explains the principle that if external substances disrupt cellular functions, the body's natural regulators likely share similar properties. He uses digitalis and ouabain as examples of plant steroids that poison animal cells by interfering with sites normally regulated by endogenous hormones like DHEA and progesterone.
+
+---
+
+**RAY PEAT:** For plants, cholesterol is a hormone, while it is only a precursor for hormones in animals. If plants ate animals, they might eventually accumulate enough cholesterol to disrupt the processes normally regulated by their very small amounts of cholesterol.
+
+**CONTEXT:** Ray Peat highlights the differing roles of cholesterol in plants (as a hormone) and animals (as a precursor), suggesting a hypothetical scenario where plants consuming animals might experience disruptions due to accumulated cholesterol.
+
+---
+
+**RAY PEAT:** The fact that opium from poppies, and similar substances found in other plants, have a powerful effect on animals, and can be found associated with certain sites in their cells, led to the belief that these were regulatory sites, that might normally be controlled by very small amounts of materials produced in the animals’ tissues, for regulatory purposes. This led to the discovery of the endorphins, the peptide molecules that have morphine-like effects.
+
+**CONTEXT:** Ray Peat explains how the discovery of plant-derived psychoactive substances, like opium, acting on specific cellular sites led to the hypothesis of endogenous regulatory molecules, ultimately resulting in the discovery of endorphins.
+
+---
+
+**RAY PEAT:** Valium (or the traditional valerian root extract) was found to be associated with a "receptor site," which is now known as the "benzodiazepine receptor." A peptide called "endozepine" is one of the natural regulators of that control system, but it is also influenced by GABA (gamma amino butyric acid), progesterone, pregnenolone, and other materials. Butyric acid itself might affect this system.
+
+**CONTEXT:** Ray Peat discusses the benzodiazepine receptor, noting that valium and valerian root extract interact with it. He identifies "endozepine" as a natural regulator of this system, which is also influenced by GABA, progesterone, pregnenolone, and potentially butyric acid.
+
+---
+
+**RAY PEAT:** Marihuana acts on cells by acting at a site that is called the "cannabinoid receptor," because the body's natural regulator acting on that site isn't yet known.
+
+**CONTEXT:** Ray Peat states that marijuana interacts with the cannabinoid receptor, though the specific natural regulator for this site remains unidentified.
+
+---
+
+**RAY PEAT:** The unsaturated fatty acids, linolenic acid and linoleic acid, produced by plants, interfere with intercellular communication, as well as intracellular regulatory sites. (PKC, osmotic balance, respiration.) The body's natural regulatory materials are probably similar in structure, but produced in controlled amounts and locations.
+
+**CONTEXT:** Ray Peat explains that plant-derived unsaturated fatty acids like linolenic and linoleic acid disrupt intercellular communication and intracellular regulatory sites (including PKC, osmotic balance, and respiration). He suggests that the body's natural regulators likely have similar structures but are produced in controlled quantities and specific locations.
+
+---
+
+**RAY PEAT:** The Mead acids are unsaturated fatty acids produced in small quantities by the body when the diet doesn't contain an overwhelming amount of the plant-derived fatty acids. Wherever the plant fats act, we can expect to find a process that is regulated by the Mead acids, though not necessarily in the same way or with the same result. Even if the materials had the same effect on the control system, the increasing accumulation of an active material will tend to make control impossible, acting as a constant signal to activate the system. (Therefore, even an exaggerated accumulation of the natural transmitter substance would be disruptive if it were released in an uncontrolled way. The regulatory substance ideally would not be stored in excess, or it would be released in a controlled way. The Mead acids seem to meet these criteria.) [The position of the certain type of fatty acid on glycerol, for example, is regulated by specific enzymes.]
+
+**CONTEXT:** Ray Peat introduces Mead acids as endogenous unsaturated fatty acids produced in small amounts when plant-derived fats are limited. He posits that Mead acids regulate processes affected by plant fats, though not identically. He emphasizes that controlled production and release, as seen with Mead acids, are crucial for effective regulation, unlike the disruptive effects of accumulating active materials.
+
+---
+
+**RAY PEAT:** A naturally occurring combination of a fatty acid with ethanolamine, called anandamide, activates the "marihuana receptor" of cells. It prevents some types of cell activation. The Mead acid ethanolamide, like the arachidonic acid form, can be enzymatically formed in various human tissues, such as the hippocampus, but the two substances have slightly different effects. Marihuana's anticonvulsant properties might be more effectively represented by the Mead acid derivative. The anti-excitatory effect might also be effective in preventing the loss of cells in the hippocampus, hypothalamus, and other brain regions, which (building on Olney's work 25 years ago) is increasingly understood to result from excitotoxicity.
+
+**CONTEXT:** Ray Peat discusses anandamide, a natural compound that activates the cannabinoid receptor, and its Mead acid derivative. He suggests that the Mead acid form might be more effective in producing marijuana's anticonvulsant and anti-excitatory effects, potentially protecting brain cells from excitotoxicity, referencing Olney's work.
+
+---
+
+**RAY PEAT:** The architecture of tissues interacts with the cytoskeleton and the nuclear scaffolding to define the possibilities and opportunities that are available to the cell and to the organism.
+
+**CONTEXT:** Ray Peat highlights the importance of tissue architecture, in conjunction with the cytoskeleton and nuclear scaffolding, in determining cellular and organismal potential.
+
+---
+
+**RAY PEAT:** The organization of life is maintained by the energy it uses, and the use of energy requires a specific organization. There are processes in cells that regulate the interactions of growth, division and other functions, but these processes are responsive to the cells’ environment--they aren't just "emitted by" or "unrolled from" the cells’ repertoire of abilities.
+
+**CONTEXT:** Ray Peat asserts that life's organization is dependent on energy utilization, which in turn requires specific cellular organization. He emphasizes that cellular regulatory processes are not solely intrinsic but are responsive to the cellular environment.
+
+---
+
+**RAY PEAT:** The cell's structure has sensitive “leverage” points that serve for purposes of “perception” or “signalling.” When organization fails, it is just reasonable to consider whether extraneous conditions or "signals" have intervened. If it were in life's nature to become disorganized, it is hard to imagine that it would persist and thrive.
+
+**CONTEXT:** Ray Peat explains that cellular structure contains sensitive points for perception and signaling. He suggests that when disorganization occurs, external factors or signals should be considered as potential causes, as life's inherent tendency is towards persistence and thriving, not disorganization.

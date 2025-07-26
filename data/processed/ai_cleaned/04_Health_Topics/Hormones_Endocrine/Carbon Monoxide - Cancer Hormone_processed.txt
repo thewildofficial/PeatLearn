@@ -1,0 +1,65 @@
+
+
+**RAY PEAT:** The idea that cells are bags of randomly acting enzymes enclosed in an "amazing membrane" which contained an array of pumps that regulated the composition of the enclosed fluid is not supported by evidence. When people produced pictures of "membrane pores," they should also have to explain why pores of the same size appear when distilled water is frozen and photographed by the same techniques. If a red blood cell, when etched away microscopically looks like a sponge, how can a hypothetical membrane on the surface be all-important? The standard lipid bilayer membrane theory is based on the physical model of oil spreading on water, but cells are far from being watery masses that need to be separated from their environment by an oily film. Proteins making up the cell have a great affinity for fats.
+
+**CONTEXT:** What is your perspective on the prevailing cell membrane theory in biology?
+
+**RAY PEAT:** The use of osmium for producing images of cell membranes, which was also used for creating "false membranes" on burned or ulcerated tissue, suggests a manufactured appearance rather than a natural structure. I believe fats are important in carcinogenesis, but not because of any theoretical membrane function. They have regulatory functions, and it is important to avoid associating the idea of "regulation" with the misleading idea of "membranes."
+
+**CONTEXT:** You've discussed the historical development of cell membrane research. What is your view on the role of fats and the methods used to visualize membranes?
+
+**RAY PEAT:** The emphasis on genes and membranes in explaining cancer, with the dominant thought being that a genetic defect caused a membrane defect, leading to abnormal cancer cell behavior, sounds as defective now as it did then. Rhetoric is very important in science, and it was rhetorically persuasive to most scientists.
+
+**CONTEXT:** How was cancer explained in biological research when you began your studies?
+
+**RAY PEAT:** John Gofman argues that 75% of breast cancer is caused by exposure to radiation, and expresses annoyance that so many people seem to forget that radiation is well established as an important cause of the disease. Samuel Epstein cites exposure to chemical and radioactive carcinogens, including emissions from civilian nuclear reactors, as known causes of breast cancer. He also mentions the carcinogenic hazards of mammography and the synergistic carcinogenic effects of exogenous estrogens with irradiation. Therefore, most of the causes of breast cancer are now known.
+
+**CONTEXT:** What are your thoughts on the established causes of breast cancer, referencing the work of John Gofman and Samuel Epstein?
+
+**RAY PEAT:** I am strongly inclined to doubt the establishment view that cancer is a genetic disease, where a tumor develops from a single cell accumulating genetic lesions. Histologists studying carcinogenesis in animals have seen diffuse changes in cells throughout the area that has been irradiated or chemically treated, where the cancer will appear. The uniformity of the precancerous tissue suggests that either the "genetic lesion" isn't random, or it is already invasive. The idea of "promotion," now accepted in cancer doctrine, violates the traditional idea of what a mutation is. Carcinogens or radiation "activate" cancer genes, implying that the carcinogen or radiation is the cause, leaving the cancer gene unable to explain anything.
+
+**CONTEXT:** You've expressed skepticism about the genetic basis of cancer. What evidence leads you to this conclusion?
+
+**RAY PEAT:** The well-accepted tumor "promoters," estrogen and unsaturated fatty acids, are experimentally found to be fundamental carcinogens as well as promoters. Phorbol esters, known tumor promoters, activate a cellular system also activated by unsaturated fatty acids and various hormones. Unsaturated fatty acids are a target of ultraviolet radiation damage in skin cells and are involved in toxic injury and stress injury. Radiation absorbed anywhere in a cell can initiate a peroxidation chain reaction, causing widespread damage, including the inactivation of important enzymes like "membrane pumps." These chain reactions can also cause DNA breaks, producing mutations. If antioxidant defenses and energy reserves are depleted, permanent damage is likely. People who view the cell as "essentially its genes" deny that low-level radiation causes cancer because they focus on direct gene-ray interactions. Despite suppressed evidence, it is clear that low doses of radiation are carcinogenic.
+
+**CONTEXT:** You mentioned tumor promoters like estrogen and unsaturated fatty acids. Can you elaborate on their role and the mechanisms of damage?
+
+**RAY PEAT:** The reason people want to say that cancer is "genetic" is because cancer cells have a stable identity that is propagated as they multiply, making them immortal in the sense of continuous division without maturation. They are "dedifferentiated" cells, more like embryonic cells. If cancer cells could mature into their original cell types, they would simply be part of the tissue-repair process. Cancer cells are stabilized in a relatively undifferentiated state, inheriting this state from preceding cells. It is reasonable to consider that genes might play a role in this stabilization of undifferentiated growth.
+
+**CONTEXT:** Why do you think the concept of "genetic disease" is so prevalent in cancer research?
+
+**RAY PEAT:** There are situations where established, undifferentiated cancer cells have differentiated in the laboratory under special conditions, proving that the cancer was not genetically caused in those instances, as the conditions did not undo a mutation. For example, leukemia cells differentiated after treatment with DMSO or dimethyl formamide. Melanoma cells reverted to a more differentiated type under the influence of theophylline and testosterone. In one experiment, malignant tumor cells combined with embryonic cells grew into a mature mosaic animal, demonstrating that the cancer cells were capable of maturation given the right environment. The real question is what causes the stabilization of cells in the undifferentiated state while allowing for occasional restoration of the mature state.
+
+**CONTEXT:** You've cited examples of cancer cells differentiating in laboratory settings. What does this imply about the nature of cancer?
+
+**RAY PEAT:** Early cancer research showed that tumor cells could be transplanted successfully into certain hosts but not others, leading to the investigation of factors influencing cancer resistance and susceptibility, including the immune system and hormones. Some hypothesized that cancer itself might produce a special hormone affecting the host to promote tumor growth. Extracts of cancers injected into healthy animals sometimes caused them to become sick and develop cancer. Investigations suggested that pyrroles and porphyrins, related to heme, might be a "cancer hormone," but this idea lacked widespread acceptance.
+
+**CONTEXT:** What were some of the early hypotheses regarding the systemic effects of cancer?
+
+**RAY PEAT:** My interest in the hormonal significance of porphyrin pigments, known to be related to estrogen excess and cancer susceptibility, was sparked when I injected extracts of aged uterine tissue into a hamster and observed porphyrin secretion from its eye.
+
+**CONTEXT:** You mentioned your personal research involving uterine tissue extracts and porphyrins. Can you explain the connection you made?
+
+**RAY PEAT:** Two of cancer's most mysterious features are its respiratory defect, where it converts glucose to lactic acid even in the presence of oxygen (identified by Otto Warburg), and its resistance to lipid peroxidation. Lipid peroxidation is involved in cell division control, aging, and susceptibility to immune system elimination, so cancer's antioxidative capacity is closely related to its "immortal" nature. Iron, whether free or bound to heme, catalyzes lipid peroxidation, but its presence in cancer cells supports their growth rather than causing peroxidation.
+
+**CONTEXT:** What are the key metabolic characteristics of cancer cells that you find particularly significant?
+
+**RAY PEAT:** Warburg observed that depriving growing cells of oxygen was sufficient to cause some of them to turn into cancer cells. Anything causing oxygen deprivation stimulates the formation of heme. If heme oxygenase, the enzyme involved in heme breakdown, is present in cancer cells, then conditions exist for a stable, heritable, but non-genetic state. This state, due to the carbon monoxide produced in heme metabolism, combines a respiratory defect with resistance to lipid peroxidation. Heme oxygenase is induced by various stresses, especially oxidative stress, and is known to exist in at least some cancers, likely being a universal feature of cancer.
+
+**CONTEXT:** You've discussed Otto Warburg's findings on oxygen deprivation and cancer. How does heme metabolism fit into this?
+
+**RAY PEAT:** Heme could function as a systemic toxin if produced in abundance in cancer cells, as it would be metabolized in the liver, producing abnormally large amounts of carbon monoxide. Liver abnormalities are a recognized feature of cancer. Carbon monoxide produced by a large tumor would be a systemic toxin and could account for "regional cancerization," where normal cells around a tumor are modified as if by an inductive agent. These observations have been dismissed by genetic dogmatists.
+
+**CONTEXT:** How might carbon monoxide produced by cancer cells have systemic effects?
+
+**RAY PEAT:** The relationship between estrogen and porphyrin, and their association with cancer susceptibility, is likely a consequence of estrogen's interference with blood oxygenation, leading to exaggerated heme production in various tissues. A sensitive instrument to measure carbon monoxide in breath could become an important diagnostic tool.
+
+**CONTEXT:** What is the potential link between estrogen, porphyrins, and carbon monoxide measurement in cancer diagnosis?
+
+**RAY PEAT:** Besides using light to desorb toxins from the heme group, various methods can directly inhibit heme formation. For example, ethyl alcohol inhibits heme formation. Alcohol is superior to morphine for pain control in cancer patients, and if carbon monoxide from heme breakdown is a factor in cancer persistence, alcohol could be important in prevention or treatment. A highly purified form of vodka, free of estrogen and other carcinogens, should be used. Except for bowel and liver cancer, alcohol should be taken transdermally or intravenously. Anti-inflammatory and antihistamine agents, magnesium, progesterone, pregnenolone, and other substances can support oxidative metabolism.
+
+**CONTEXT:** You've suggested alcohol as a potential therapeutic agent. Can you elaborate on its use and other supportive measures?
+
+**RAY PEAT:** The material used in heme synthesis is diverted from energy production. Useless heme production would contribute to cancer's energy-depleting effect on the organism. Although genetic dogmatists may see carbon monoxide production by cancer cells as incidental, it offers a unifying perspective on cancer, explaining both its systemic effects (immune suppression, wasting, adrenal activation) and its cellular features (respiratory defect, dedifferentiation, resistance to lipid peroxidation, and stability). Metabolic stress causes chromosomal damage and mutations, but without intrinsic resistance to lipid peroxidation, these defects would lead to cell death.
+
+**CONTEXT:** How does the concept of carbon monoxide production by cancer cells unify our understanding of the disease?

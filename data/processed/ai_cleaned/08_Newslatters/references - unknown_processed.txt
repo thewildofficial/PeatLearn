@@ -1,0 +1,33 @@
+
+
+**RAY PEAT:** Oral synthetic estrogens, especially when combined with progestins derived from nortestosterone, can induce a diabetogenic tendency, hypertension, dyslipidemia, and thrombogenic risks. While reducing estrogen doses, using equine sulfoconjugates, and selecting non-androgenic progestins have mitigated some of these adverse effects, the current availability of natural oral or percutaneous 17 beta estradiol and norpregnanes necessitates a re-evaluation of the glucidic risk associated with oestroprogestin prescriptions. Some studies suggest these can actually improve glucose tolerance, and substitution therapy for menopause to prevent atherosclerosis should be better characterized for its glycemic and insulinemic effects.
+
+**CONTEXT:** The document discusses the metabolic effects of oestroprogestins.
+
+**RAY PEAT:** In a cross-sectional study of 1290 healthy, nonpregnant women of child-bearing age, oral contraceptive users (33.4%) were younger and leaner than nonusers. However, after adjusting for age and body mass index, oral contraceptive users exhibited higher 2-hour plasma glucose, higher fasting plasma insulin, and higher triglyceride levels. Fasting plasma glucose, glycated hemoglobin Alc, and total cholesterol did not differ significantly. The study concluded that oral contraceptive use appears to induce an increase in insulin resistance markers, which are considered risk factors for ischemic vascular diseases, and these markers should be monitored in users.
+
+**CONTEXT:** The document cites a study on the effects of oral contraceptives on carbohydrate and lipid metabolism.
+
+**RAY PEAT:** Estrogen is essential for the expression of prolactin's effect on glucose intolerance. In female mice with hyperprolactinemia, glucose tolerance was decreased via increased insulin resistance, and estrogen was required for this effect to manifest.
+
+**CONTEXT:** The document presents research on the effect of estrogen on hyperprolactinemia-induced glucose intolerance.
+
+**RAY PEAT:** The use of fish oil in a diet for female rats significantly delayed puberty, increased GnRH concentration in the hypothalamus, and reduced hypothalamic PGE2. This is contrasted with a control diet using safflower oil, highlighting the potential for polyunsaturated fatty acids to interfere with reproductive hormone signaling.
+
+**CONTEXT:** The document notes the "propagandistic use of safflower oil as the control diet" in a study on dietary fish oil and puberty.
+
+**RAY PEAT:** Androgen deficiency is associated with an increased incidence of cardiovascular disease, and hypogonadic males exhibit enhanced fibrinolytic inhibition due to increased synthesis of plasminogen activator inhibitor (PAI-1).
+
+**CONTEXT:** The document discusses the effects of androgens on hemostasis.
+
+**RAY PEAT:** In women, insulin-stimulated progesterone production by granulosa cells is impaired in the presence of diabetes, even with fair metabolic control. This suggests that diabetes can negatively impact ovarian steroidogenesis.
+
+**CONTEXT:** The document examines progesterone production from granulosa cells in diabetic and nondiabetic subjects.
+
+**RAY PEAT:** A diet high in n-6 polyunsaturated fatty acids, such as corn oil, during pregnancy in rats significantly increased circulating estradiol levels and the risk of developing carcinogen-induced mammary tumors. This suggests that dietary fat composition during pregnancy can influence hormonal balance and cancer risk.
+
+**CONTEXT:** The document cites research on breast cancer risk in rats fed a diet high in n-6 polyunsaturated fatty acids during pregnancy.
+
+**RAY PEAT:** Growth hormone (GH) influences renal glomerular basement membrane (GBM) metabolism. In hypophysectomized rats, GBM collagen synthesis is decreased, while in diabetic rats, it is increased. GH treatment normalizes GBM collagen synthesis in hypophysectomized rats and further increases it in diabetic rats, suggesting a significant role for GH in diabetic microvascular complications.
+
+**CONTEXT:** The document details research on the metabolism of glomerular basement membrane in normal, hypophysectomized, and growth-hormone-treated diabetic rats.

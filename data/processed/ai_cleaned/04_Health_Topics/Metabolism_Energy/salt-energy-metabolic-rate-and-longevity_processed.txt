@@ -1,0 +1,173 @@
+
+
+**RAY PEAT:** The pharmaceutical industry began promoting new chemicals as diuretics in the 1950s to replace mercury compounds. This coincided with Walter Kempner's low-salt "rice diet" for hypertension. Diuretics were prescribed for various conditions involving water retention, and their use was accompanied by advice to reduce salt intake to enhance their effectiveness.
+
+**CONTEXT:** What was the historical context of salt restriction and diuretic use?
+
+**RAY PEAT:** It was evident to some physicians and most veterinarians that salt restriction, especially when combined with salt-losing diuretics, was detrimental during pregnancy. Despite this, this combination became standard medical practice for many years, leading to harm in millions of babies.
+
+**CONTEXT:** What were the consequences of this medical practice?
+
+**RAY PEAT:** Despite numerous publications demonstrating that diuretics could cause the very edema they were intended to treat, they remained highly profitable drugs. Dietary salt restriction became a cultural cliché, largely driven by the belief that sodium causes edema and hypertension.
+
+**CONTEXT:** What is the scientific basis for the common belief about salt and health?
+
+**RAY PEAT:** A review of approximately 100 studies indicated that salt restriction lowers blood pressure by a few points, but this generally does not correlate with improved health. One study involving 3000 people over 4 years showed a clear increase in mortality among those who consumed less salt. Conversely, an additional few grams of salt per day was associated with a 36% reduction in "coronary events" (Alderman, et al., 1995). Another study of over 11,000 people followed for 22 years also revealed an inverse relationship between salt intake and mortality (Alderman, et al., 1997).
+
+**CONTEXT:** What does the research suggest about the relationship between salt intake and mortality?
+
+**RAY PEAT:** Tom Brewer, an obstetrician dedicated to educating the public on prenatal nutrition, emphasized the importance of adequate protein (especially milk), calories, and salt. He was instrumental in the gradual discontinuation of the low-salt plus diuretic treatment for pregnant women. Brewer explained that sodium, in conjunction with serum albumin, is crucial for maintaining blood volume. Without sufficient sodium, serum albumin cannot prevent water from leaving the bloodstream and entering the tissues, leading to tissue swelling and reduced blood volume.
+
+**CONTEXT:** Who was Tom Brewer and what was his contribution to understanding salt's role in pregnancy?
+
+**RAY PEAT:** During pregnancy, reduced blood volume inadequately nourishes and oxygenates the developing fetus. This reduced circulation to the kidneys triggers the release of a signaling substance, renin, which causes blood to circulate faster under increased pressure. Low salt intake is one factor that can diminish kidney circulation and stimulate renin production. Other factors, such as bacterial endotoxin and substances that increase capillary permeability, edema, or shock-like symptoms, can also activate renin secretion.
+
+**CONTEXT:** How does low salt intake affect fetal development and kidney function during pregnancy?
+
+**RAY PEAT:** The issue of reduced blood volume is not confined to pregnancy-induced hypertension (toxemia); plasma volume is typically lower in individuals with essential hypertension compared to normal subjects (Tarazi, 1976).
+
+**CONTEXT:** Is the blood volume problem unique to pregnancy?
+
+**RAY PEAT:** Several studies on preeclampsia and toxemia of pregnancy have shown that supplementing the diet with salt can lower blood pressure in women and prevent other associated complications (Shanklin and Hodin, 1979).
+
+**CONTEXT:** What were the findings of studies on preeclampsia and salt supplementation?
+
+**RAY PEAT:** It has long been recognized that decreasing sodium intake triggers adaptive responses in the body, including the activation of the renin-angiotensin-aldosterone system (RAAS). The activation of this system is implicated in hypertension, kidney disease, heart failure, cardiac fibrosis, and other health issues. Sodium restriction also increases serotonin, sympathetic nervous system activity, and plasminogen activator inhibitor type-1 (PAI-1). PAI-1 contributes to clot accumulation and is associated with breast and prostate cancer. Sympathetic nervous system activity becomes hyperactive in preeclampsia (Metsaars, et al., 2006).
+
+**CONTEXT:** What are the physiological consequences of sodium restriction, particularly regarding the RAAS?
+
+**RAY PEAT:** Despite the established link between dietary salt and the RAAS, and its application by Brewer and others in preventing pregnancy toxemia, this knowledge is not commonly applied to other conditions like aging and stress-related degenerative diseases.
+
+**CONTEXT:** Why isn't this understanding of salt's role more widely applied to other health issues?
+
+**RAY PEAT:** Many young women experience salt and sugar cravings, particularly around ovulation and premenstrually, when estrogen levels are high. Physiologically, this resembles the food cravings during pregnancy. Premenstrual water retention is a common issue, and medical advice often mirrors that given to pregnant women: avoiding salt, sometimes with a diuretic. However, when women increase their salt intake in response to these cravings, the water retention can be prevented.
+
+**CONTEXT:** How do salt cravings relate to the menstrual cycle and water retention?
+
+**RAY PEAT:** Blood volume fluctuates during the normal menstrual cycle. When blood volume is low, it's often due to water shifting into the tissues, causing edema. High estrogen levels lead to lower blood osmolarity (Courtar, et al., 2007; Stachenfeld, et al., 1999). Hypothyroidism, which increases the estrogen-to-progesterone ratio, is a significant cause of excessive sodium loss.
+
+**CONTEXT:** What hormonal factors influence blood volume and sodium balance during the menstrual cycle?
+
+**RAY PEAT:** The increase in adrenalin caused by salt restriction has numerous detrimental effects, including insomnia. Many older individuals report that a low-sodium diet disrupts their sleep, and consuming their usual amount of salt restores their ability to sleep. Sympathetic nervous system activity increases with aging, making salt restriction an exacerbating factor for a fundamental problem of aging. Chronically elevated sympathetic nervous system activity contributes to capillary leakage, insulin resistance (with increased free fatty acids), and degenerative brain changes (Griffith and Sutin, 1996).
+
+**CONTEXT:** How does salt restriction affect sleep and the aging process?
+
+**RAY PEAT:** The flexibility of blood vessels (compliance) is reduced by a low-salt diet. Vascular stiffness, often caused by overactive sympathetic nervous system, is considered a key factor in hypertension, especially with aging.
+
+**CONTEXT:** What is the impact of a low-salt diet on vascular health?
+
+**RAY PEAT:** Preeclampsia/toxemia of pregnancy is characterized by increased blood pressure, capillary permeability, and elevated prolactin levels. Prolactin secretion is stimulated by serotonin, which is increased by salt restriction. Prolactin itself can promote sodium excretion in the urine (Ibarra, et al., 2005) and contributes to vascular leakage and hypertension.
+
+**CONTEXT:** How does prolactin relate to preeclampsia and the effects of salt restriction?
+
+**RAY PEAT:** During pregnancy, estrogen excess or progesterone deficiency plays a significant role in the adverse effects of sodium restriction and protein deficiency. Protein deficiency contributes to hypothyroidism, which in turn leads to a relative estrogen excess.
+
+**CONTEXT:** What hormonal imbalances are relevant to the negative effects of sodium restriction during pregnancy?
+
+**RAY PEAT:** Protein, salt, thyroid, and progesterone are all thermogenic, meaning they increase heat production and help stabilize body temperature at a higher level. Prolactin and estrogen, conversely, lower the temperature set-point.
+
+**CONTEXT:** What is the relationship between these substances and body temperature regulation?
+
+**RAY PEAT:** A downward shift in temperature and energy metabolism, as seen in toxemia or salt deprivation, tends to slow oxygen utilization. This increases reliance on glycolysis for sugar metabolism, leading to lactic acid formation instead of carbon dioxide. In preeclampsia, serum lactate levels are elevated, even as free fatty acids interfere with glucose utilization.
+
+**CONTEXT:** How does a decrease in temperature and metabolism affect cellular processes?
+
+**RAY PEAT:** One perspective is that a lack of sodium slows metabolism, reduces carbon dioxide production, and promotes inflammation, stress, and degeneration. Conversely, sodium stimulates energy metabolism, increases carbon dioxide production, and protects against inflammation and other maladaptive stress responses.
+
+**CONTEXT:** How can we understand the role of sodium in metabolism and stress response?
+
+**RAY PEAT:** In recent years, metabolic studies have refuted earlier theories like Weissman's "wear-and-tear" and Pearl's "rate of living." These studies demonstrate that intensified mitochondrial respiration reduces cellular damage and supports a longer lifespan.
+
+**CONTEXT:** What have recent metabolic studies revealed about aging and metabolism?
+
+**RAY PEAT:** Many dog owners observe that smaller dogs consume proportionally more food than larger dogs and have a significantly longer life expectancy, sometimes double that of larger dogs (Speakman, 2003).
+
+**CONTEXT:** What is the observation regarding metabolic rate and lifespan in dogs?
+
+**RAY PEAT:** Organisms as diverse as yeasts and rodents exhibit a similar correlation between metabolic intensity and lifespan. A strain of hamster with a 20% higher metabolic rate lived 15% longer than hamsters with an average metabolic rate (Oklejewicz and Daan, 2002).
+
+**CONTEXT:** Are there similar findings in other species?
+
+**RAY PEAT:** Within a strain of mice, metabolic rates varied considerably. The 25% of mice with the highest metabolic rates used 30% more energy per gram of body weight than the 25% with the lowest metabolic rates, and they lived 36% longer (Speakman, et al., 2000).
+
+**CONTEXT:** What were the findings in mice regarding metabolic rate and lifespan?
+
+**RAY PEAT:** The mitochondria in these animals are "uncoupled," meaning their oxygen consumption is not directly proportional to ATP production. This results in higher carbon dioxide production without necessarily producing more ATP, and a considerable energy expenditure even at rest.
+
+**CONTEXT:** What does "uncoupled" mitochondria mean in this context?
+
+**RAY PEAT:** A crucial function of carbon dioxide is to regulate the movement of positively charged alkali metal ions, such as sodium and calcium. Excessive calcium entry into a cell activates numerous enzymes, prevents muscle and nerve cells from relaxing, and ultimately leads to cell death. The continuous production of acidic carbon dioxide within the cell facilitates the removal of calcium, along with the small amount of sodium that constantly enters the cell.
+
+**CONTEXT:** What is the role of carbon dioxide in cellular ion regulation?
+
+**RAY PEAT:** When extracellular fluid has adequate sodium, the continuous inward movement of sodium ions into a resting cell activates the enzyme sodium-potassium ATPase. This enzyme breaks down ATP into ADP and phosphate, stimulating fuel and oxygen consumption to maintain adequate ATP levels. Increased sodium concentration enhances cellular energy consumption and carbon dioxide production. By increasing carbon dioxide production, sodium protects against the excitatory, toxic effects of intracellular calcium.
+
+**CONTEXT:** How does sodium influence cellular energy production and calcium toxicity?
+
+**RAY PEAT:** Hypertonic solutions, containing sodium concentrations from approximately twice normal to 8 or 10 times normal, are being used for resuscitation after injury in both humans and animals. Beyond increasing blood volume to restore circulation, hypertonic sodium restores cellular energy production, increases oxygen consumption and heat production, reduces free radical production, improves heart muscle contraction and relaxation, and decreases inflammation, vascular permeability, and edema.
+
+**CONTEXT:** What are the benefits of hypertonic sodium solutions in resuscitation?
+
+**RAY PEAT:** Seawater, which is hypertonic to our tissues, has historically been used for wound treatment, and more concentrated salt solutions have proven effective in accelerating wound healing (Mangete, et al., 1993).
+
+**CONTEXT:** What is the historical use of seawater and concentrated salt solutions?
+
+**RAY PEAT:** Several publications have suggested that increased dietary salt intake may contribute to stomach cancer, citing countries like Japan with high salt consumption and high stomach cancer incidence.
+
+**CONTEXT:** What is the proposed link between high salt intake and stomach cancer?
+
+**RAY PEAT:** Studies where animals were fed popular Japanese foods—such as "salted cuttlefish guts, broiled, salted, dried sardines, pickled radish, and soy sauce"—along with a chemical carcinogen showed that these foods increased tumor formation. However, another study where only soy sauce (with about 18% salt) was added to the diet did not increase cancer incidence; in fact, it was protective against stomach cancer in another study (Benjamin, et al., 1991). Multiple studies indicate that dried fish and pickled vegetables are carcinogenic, likely due to oxidized fats, other chemical alterations, and fungal contamination, which are potentially worse in the absence of salt. Animals fed dried fish exhibited mutagenic urine, seemingly a result of toxic materials present in various preserved foods (Fong, et al., 1979).
+
+**CONTEXT:** What do studies on Japanese foods and cancer reveal about the role of salt?
+
+**RAY PEAT:** Although preserved foods can develop various toxins, even fresh fish consumption has been linked to an increased cancer risk (Phukan, et al., 2006).
+
+**CONTEXT:** Are there other dietary factors associated with cancer risk?
+
+**RAY PEAT:** When small animals were administered one milliliter of a saturated salt solution along with a carcinogen, tumor incidence increased with the salt. However, when salt was given with mucin, it had no cancer-promoting effect. This is because a large volume of saturated salt solution can degrade the stomach's protective mucus lining, leaving stomach cells unprotected from the carcinogen. These experiments suggest that ingesting a cup or more of saturated salt solution, or several ounces of pure salt, simultaneously with a potent carcinogen should be avoided, rather than indicating that salt itself causes stomach cancer.
+
+**CONTEXT:** What do experiments with saturated salt solutions and carcinogens suggest about salt's role in cancer?
+
+**RAY PEAT:** Some studies have linked pork consumption to cancers of the esophagus (Nagai, et al., 1982) and thyroid (Markaki, et al., 2003), among other organs. However, an experiment involving beef, chicken, or bacon diets in rats offers a different perspective on salt's role in carcinogenesis. After being administered a carcinogen, rats were fed meat diets containing either 30% or 60% freeze-dried fried beef, chicken, or bacon. Neither beef nor chicken altered the incidence of precancerous lesions in the intestine, but the incidence was reduced by 12% in rats on the 30% bacon diet and by 20% in rats on the 60% bacon diet. Salt appeared to be the differentiating factor.
+
+**CONTEXT:** What do studies on meat consumption and cancer suggest about salt's role?
+
+**RAY PEAT:** Increased sodium also offers protective effects by enhancing immunity (Junger, et al., 1994), reducing vascular leakiness, and alleviating inflammation (Cara, et al., 1988). These effects would collectively protect against degenerative diseases, including tumors, atherosclerosis, and Alzheimer's disease. The RAAS appears to be critically involved in various illnesses and degeneration, but sodium's protective effects extend beyond simply preventing the activation of this system.
+
+**CONTEXT:** What are other protective effects of increased sodium intake?
+
+**RAY PEAT:** A slight decrease in temperature can promote inflammation (Matsui, et al., 2006). Thermogenic substances—dietary protein, sodium, sucrose, thyroid, and progesterone—are anti-inflammatory for multiple reasons, but the increased temperature itself is likely a significant factor.
+
+**CONTEXT:** How does temperature relate to inflammation and thermogenic substances?
+
+**RAY PEAT:** A poor response to stress, characterized by elevated cortisol, can increase body temperature by accelerating protein breakdown and resynthesis. However, adaptive stress resistance raises temperature by increasing oxygen and fuel consumption. In the presence of increased cortisol, abdominal fat accumulates, along with circulating fatty acids and calcium, as mitochondrial respiration is suppressed.
+
+**CONTEXT:** How does stress response affect body temperature and metabolism?
+
+**RAY PEAT:** When mice are chilled, they spontaneously prefer slightly salty water over fresh water, and this increases their heat production (Dejima, et al., 1996). When rats are given a 0.9% sodium chloride solution with their regular food, their heat production increases, and their body fat, including abdominal fat, decreases (Bryant, et al., 1984). These responses to increased dietary sodium are immediate. Part of sodium's effect involves regulatory processes in the brain that are sensitive to the sodium-to-calcium ratio. Decreasing sodium or increasing calcium shifts the body's metabolism away from thermogenesis and accelerated respiration.
+
+**CONTEXT:** How does sodium intake influence heat production and fat metabolism in animals?
+
+**RAY PEAT:** Regulating intracellular calcium by increasing carbon dioxide production is likely a fundamental mechanism by which sodium protects against inflammation, excitatory cell damage, and degeneration.
+
+**CONTEXT:** What is the proposed mechanism for sodium's protective effects against cellular damage?
+
+**RAY PEAT:** Cortisol's suppression of mitochondrial respiration is closely linked to its ability to increase intracellular calcium. Cortisol counteracts the thermogenic effects of sodium, allowing intracellular calcium to damage cells. With aging, tissues become more susceptible to these processes.
+
+**CONTEXT:** How does cortisol interact with sodium and calcium in the context of aging?
+
+**RAY PEAT:** The thermogenic effects of sodium are observable in both short-term and long-term studies. A low-sodium diet accelerates the age-related decline in heat production, reducing the metabolic rate of brown fat and body temperature, increasing body fat content, and enhancing the activity of fat-synthesizing enzymes (Xavier, et al., 2003).
+
+**CONTEXT:** What are the long-term effects of a low-sodium diet on metabolism and aging?
+
+**RAY PEAT:** The activation of heat production and increased body temperature may contribute to some of the sedative effects of increased sodium, similar to GABA. Increased GABA in the brain enhances brown fat heat production (Horton, et al., 1988). Brown fat activation increases slow-wave sleep, the loss of which is characteristic of aging. In adult humans, skeletal muscles perform heat-producing functions analogous to brown fat.
+
+**CONTEXT:** How might increased sodium intake influence sleep and heat production?
+
+**RAY PEAT:** Given that inflammation is now recognized as central to degenerative diseases, the fact that renin, angiotensin, and aldosterone all contribute to inflammation and are elevated by sodium deficiency should prompt interest in exploring the therapeutic benefits of sodium supplementation. This includes the integrated use of factors that normally support respiratory energy production, particularly thyroid and progesterone. Progesterone's antagonism to aldosterone has been known for years, and synthetic antialdosterone drugs are essentially inferior imitations of progesterone.
+
+**CONTEXT:** What is the significance of the RAAS in inflammation and the potential therapeutic role of sodium?
+
+**RAY PEAT:** The pharmaceutical industry, however, is more interested in marketing new drugs to block the formation and action of each component of the RAAS, rather than promoting an inexpensive nutritional approach to normalize the system.
+
+**CONTEXT:** What is the pharmaceutical industry's approach to managing the RAAS?

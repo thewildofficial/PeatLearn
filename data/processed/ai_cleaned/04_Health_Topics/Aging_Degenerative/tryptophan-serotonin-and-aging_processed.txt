@@ -1,0 +1,145 @@
+
+
+**RAY PEAT:** The public has been systematically misinformed about the effects of amino acids in the diet, starting with the industrial production of glutamic acid (MSG). Despite research showing adults assimilate whole proteins more effectively than free amino acids, the public has been led to believe that manufactured free amino acids are more easily assimilated and not toxic. Even if produced without toxins and allergens, they are not appropriate for nutritional use. While babies up to 18 months may assimilate free amino acids, a formula with hydrolyzed protein was linked to decreased serum albumin, suggesting interference with protein synthesis. The myth of free amino acids as "natural nutritional substances" has been used to promote products like aspartame, chelated minerals, and tryptophan.
+
+**CONTEXT:** What are the potential dangers of free amino acids and specific examples?
+
+**RAY PEAT:** Although several amino acids can be acutely or chronically toxic, even lethal, when consumed in excess, tryptophan is unique in that it is also carcinogenic. It can produce various toxic metabolites and is highly susceptible to radiation damage. Since tryptophan is the precursor to serotonin, dietary tryptophan levels significantly influence the organism's response to stress, development, adaptation, and aging.
+
+**CONTEXT:** What is the specific danger associated with tryptophan?
+
+**RAY PEAT:** When an inflammatory disease, eosinophilia-myalgia syndrome, was observed in people using tryptophan tablets (1989-1990), there was an intense campaign to blame an impurity in one company's product. However, the syndrome occurred in users of other products as well, and similar changes can be induced by a high-tryptophan diet (Gross, et al., 1999).
+
+**CONTEXT:** What was the controversy surrounding tryptophan supplementation and the eosinophilia-myalgia syndrome?
+
+**RAY PEAT:** Some advocate for tryptophan supplementation or other methods to increase tissue serotonin as a treatment for fibromyalgia syndrome. However, evidence increasingly suggests that excessive serotonin, by interfering with muscle mitochondria, is a major factor in the development of this syndrome.
+
+**CONTEXT:** What is the proposed link between serotonin and fibromyalgia?
+
+**RAY PEAT:** In 1965, Hans Selye demonstrated that serotonin injections caused muscular dystrophy. Subsequent studies suggest that serotonin excess is implicated in both muscular and nervous dystrophy or degeneration (O'Steen, 1967; Narukami, et al., 1991; Hanna and Peat, 1989).
+
+**CONTEXT:** What is the historical and scientific basis for linking serotonin to degenerative conditions?
+
+**RAY PEAT:** The fatigue associated with "over-training" is likely caused by a tryptophan and serotonin overload, resulting from muscle protein catabolism and stress-induced serotonin increases. Muscle catabolism also releases significant amounts of cysteine, and cysteine, methionine, and tryptophan suppress thyroid function (Carvalho, et al., 2000). Stress also liberates free fatty acids, which enhance tryptophan uptake into the brain, increasing serotonin formation. Since serotonin elevates ACTH and cortisol secretion, the catabolic state becomes self-perpetuating. This process is likely a factor influencing the rate of aging and contributing to the physiological peculiarities of aging and depression.
+
+**CONTEXT:** How does stress and muscle catabolism relate to tryptophan, serotonin, and aging?
+
+**RAY PEAT:** Malnutrition, particularly protein deficiency, leads to an inflammatory state characterized by extreme serotonin dominance. Prenatal or infant stress or malnutrition results in extreme serotonin dominance in adulthood, while other tryptophan functions are reduced as more is converted to serotonin.
+
+**CONTEXT:** What are the effects of malnutrition and stress on serotonin levels and function?
+
+**RAY PEAT:** Decreasing tryptophan or serotonin improves learning and alertness, whereas increased serotonin impairs learning.
+
+**CONTEXT:** What is the impact of tryptophan and serotonin levels on cognitive function?
+
+**RAY PEAT:** Tryptophan is an essential amino acid for reproduction and growth in young animals. Most research on amino acid requirements has focused on farm animals for economic reasons, aiming for the cheapest way to achieve rapid growth, not longevity. Some studies have examined rat amino acid requirements over their short lifespans. In rats and farm animals, the required amount of tryptophan decreases as growth slows. Rats continue to grow for most of their lifespan, stopping only shortly before death, typically around two to three years old. Their cells retain a high water content similar to that of a two-year-old child. They usually become infertile around the midpoint of their lifespan. Extrapolating from rat studies on amino acid requirements, especially for tryptophan, should consider the decreasing need as growth slows, beyond the observed lifespan of the rat. These "requirements" were determined based on maximizing growth rates, using the pig farmer's index as if the rats were being studied for meat production.
+
+**CONTEXT:** How do animal studies on amino acid requirements, particularly tryptophan, relate to human aging and longevity?
+
+**RAY PEAT:** When rats were fed a diet completely lacking tryptophan for a short period, or a diet with only one-fourth of the "normal" amount for a longer duration, the results were surprising. They retained their ability to reproduce up to 36 months (compared to 17 months for rats on a standard diet), and both their average and maximum longevity increased significantly. They appeared and behaved like younger rats. A methionine-poor diet also demonstrated dramatic longevity-increasing effects.
+
+**CONTEXT:** What were the findings of tryptophan restriction studies in rats regarding reproduction and longevity?
+
+**RAY PEAT:** On the tryptophan-poor diet, brain serotonin levels decreased. A decrease in brain serotonin leads to an increase in testosterone levels in male animals. Over 20 years ago, a chemical (p-chlorophenylalanine) that inhibits serotonin synthesis was found to significantly increase libido.
+
+**CONTEXT:** What is the relationship between reduced brain serotonin, testosterone, and libido?
+
+**RAY PEAT:** In old age, brain serotonin levels increase. This is undoubtedly closely linked to the relative inability to suppress cortisol production characteristic of old age (Sapolsky and Donnelly, 1985). Hypothyroidism increases serotonin formation, as does cortisol (Henley, et al., 1997, 1998; Neckers and Sze, 1976).
+
+**CONTEXT:** How do aging, hypothyroidism, and cortisol affect serotonin levels?
+
+**RAY PEAT:** White hair contains higher levels of tryptophan than hair of any other color. While serotonin and tryptophan are crucial during rapid growth, their presence in senile tissues is likely associated with degenerative processes. Hair loss observed in hypothyroidism, postpartum syndrome, and with the use of drugs like St. John's wort (which can also cause "serotonin syndrome") could be another manifestation of excess serotonin.
+
+**CONTEXT:** What is the connection between hair color, aging, and serotonin?
+
+**RAY PEAT:** Serotonin stimulates cell division and tends to increase connective tissue formation, so its production should be carefully regulated after full growth is achieved. It contributes to age- or stress-related thickening of blood vessels and other fibrotic processes that impair organ function.
+
+**CONTEXT:** How does serotonin influence tissue structure and function, particularly in relation to aging?
+
+**RAY PEAT:** Metabolic rate (eating more without gaining weight) and the ability to regulate body temperature are enhanced by early tryptophan deprivation (Ashley and Curzon, 1981; Segall and Timiras, 1975). Serotonin impairs the ability to oxidize sugar. Several drugs with antiserotonin actions are used to treat diabetes and its complications, such as hypertension, obesity, and foot ulcers.
+
+**CONTEXT:** What are the metabolic and physiological effects of serotonin, and how do antiserotonin drugs impact these conditions?
+
+**RAY PEAT:** An excess of tryptophan early in life, stress, or malnutrition activates the system for converting tryptophan into serotonin, a tendency that persists into adulthood, altering pituitary function and increasing the incidence of pituitary and other cancers.
+
+**CONTEXT:** How does early life exposure to tryptophan, stress, or malnutrition influence long-term serotonin production and cancer risk?
+
+**RAY PEAT:** Serotonin's contribution to high blood pressure is well-established. It activates the adrenal cortex directly and via the pituitary, stimulating the production of both cortisol and aldosterone. It also activates aldosterone secretion through the renin-angiotensin system. Angiotensin promotes inflammation and contributes to age- and stress-related degeneration of blood vessels. It can also promote estrogen production.
+
+**CONTEXT:** What are the cardiovascular and hormonal effects of serotonin?
+
+**RAY PEAT:** In traditional diets, all animal parts were consumed, not just muscle meats. Since collagen constitutes about 50% of animal protein and is tryptophan-free, people consumed roughly half the proportion of tryptophan relative to other amino acids when eating foods like "head cheese," ox-tails, and chicken feet.
+
+**CONTEXT:** How did traditional diets differ in their tryptophan content compared to modern diets?
+
+**RAY PEAT:** While the toxic effects of excess individual amino acids have been investigated, and the beneficial or harmful interactions from altering amino acid ratios have been observed, the presence of about 20 amino acids in a normal diet creates an enormous number of possibilities for interactions.
+
+**CONTEXT:** What is the complexity of amino acid interactions in the diet?
+
+**RAY PEAT:** The optimal protein quantity in the diet has traditionally been assessed by observing growth rates with specific proteins and "standard amounts" of other nutrients. This research has been valuable for farmers seeking the cheapest foods for rapid animal growth. However, this research climate has disseminated a degraded concept of nutrition into the broader culture, influencing medical nutrition, consumer attitudes, and governmental regulatory policies.
+
+**CONTEXT:** How has the approach to determining optimal protein intake been influenced by agricultural research?
+
+**RAY PEAT:** When synthetic amino acids are used to supplement natural proteins, they are typically chosen based on irrelevant models of "ideal protein" composition, and numerous toxic contaminants are invariably present in synthetic free amino acids.
+
+**CONTEXT:** What are the issues with using synthetic amino acids for supplementation?
+
+**RAY PEAT:** For now, the crucial step is to avoid the least appropriate food products and select natural foods with historical, epidemiological, and biochemical justification.
+
+**CONTEXT:** What is the practical advice for food choices?
+
+**RAY PEAT:** Whey protein has been promoted as a supplement, but it contains a slightly higher proportion of tryptophan than milk. Cheese (whey removed) has less tryptophan. Some individuals are advised to consume only egg whites to "avoid cholesterol," but egg albumin is rich in tryptophan.
+
+**CONTEXT:** What are the tryptophan content differences in common protein sources like whey, cheese, and eggs?
+
+**RAY PEAT:** Expensive, tender cuts of meat contain excessive cysteine and tryptophan. In contrast, bone broth (gelatin) and tougher meat cuts are richer in gelatin, which lacks these amino acids. Many fruits are deficient in tryptophan but contain significant amounts of other amino acids. They also provide "carbon skeleton" (keto-acid) equivalents of essential amino acids, which the body can convert into protein.
+
+**CONTEXT:** What are the tryptophan levels in different meat cuts and fruits, and what are the benefits of gelatin and fruits?
+
+**RAY PEAT:** Serotonin excess causes a wide range of harmful effects, including cancer, inflammation, fibrosis, neurological damage, shock, bronchoconstriction, and hypertension. Increased serotonin impairs learning, while serotonin antagonists improve it.
+
+**CONTEXT:** What are the broad negative health consequences of excessive serotonin?
+
+**RAY PEAT:** Glycine, the simplest nonessential amino acid, has been shown to protect against carcinogenesis, inflammation, fibrosis, neurological damage, shock, asthma, and hypertension. Increased glycine improves learning (Handlemann, et al., 1989; File, et al., 1999), while glycine antagonists typically impair it. Its antitoxic and cytoprotective actions are remarkable. Collagen, besides being tryptophan-free, is rich in glycine, comprising 32% of its amino acid units and 22% of its weight.
+
+**CONTEXT:** What are the protective effects of glycine and its presence in collagen?
+
+**RAY PEAT:** The diverse anti-inflammatory and protective effects of glycine can be viewed as an antiserotonin action. For instance, serotonin promotes TNF (tumor necrosis factor) formation, while glycine inhibits it. In certain situations, glycine is known to suppress serotonin formation. Antagonists of serotonin can potentiate glycine's effects (Chesnoy-Marchais, et al., 2000). Individuals consuming traditional diets, besides having lower tryptophan concentrations, also ingested substantial amounts of glycine from their gelatin-rich foods.
+
+**CONTEXT:** How does glycine exert its protective effects, and how does it relate to serotonin and traditional diets?
+
+**RAY PEAT:** Gelatin is not only a good source of glycine but also contains a significant amount of proline, which possesses some antiexcitatory properties similar to glycine.
+
+**CONTEXT:** What other beneficial amino acid is found in gelatin, and what are its properties?
+
+**RAY PEAT:** If one consumes half a pound of steak, it would be advisable to have about 20 grams of gelatin concurrently. An even higher ratio of gelatin to muscle meat might be preferable.
+
+**CONTEXT:** What is a recommended ratio of gelatin to meat consumption?
+
+**RAY PEAT:** Carbon dioxide, high altitude, thyroid, progesterone, caffeine, aspirin, and reduced tryptophan consumption protect against excessive serotonin release. Sodium restriction leads to a sharp increase in serotonin secretion. This explains some of the anti-inflammatory and diuretic effects of increased sodium intake, as higher sodium levels lower both serotonin and adrenaline.
+
+**CONTEXT:** What factors can protect against excessive serotonin release, and how does sodium intake play a role?
+
+**RAY PEAT:** Polyunsaturated oils interact closely with serotonin and tryptophan. Short and medium-chain saturated fatty acids possess antihistamine and antiserotonin actions. Serotonin liberates free fatty acids, particularly polyunsaturated fats, from tissues. These fatty acids, in turn, release serotonin from cells like platelets and liberate tryptophan from serum albumin, increasing its uptake and brain serotonin formation. Saturated fats do not liberate serotonin. Some saturated fats, like capric acid in coconut oil, relax blood vessels, whereas linoleic acid constricts them and promotes hypertension. Stress, exercise, and darkness increase free fatty acid release, thus promoting tryptophan liberation and serotonin formation. Elevated serum linoleic acid is specifically linked to serotonin-dependent disorders such as migraine.
+
+**CONTEXT:** How do different types of fats, stress, exercise, and darkness influence serotonin and tryptophan metabolism?
+
+**RAY PEAT:** Coconut oil, due to its saturated fatty acids of varying chain lengths and low linoleic acid content, should be considered part of a protective diet.
+
+**CONTEXT:** What is the role of coconut oil in a protective diet?
+
+**RAY PEAT:** The collagen theory of aging posits that alterations in the extracellular matrix lead to cellular isolation from their environment, reducing nutrient and oxygen availability and impairing their ability to receive and send chemical signals necessary for proper adaptive functioning.
+
+**CONTEXT:** What is the collagen theory of aging?
+
+**RAY PEAT:** In diabetes, basement membranes thicken, and capillary density decreases within tissues. This effect likely involves excessive serotonin (Kasho, et al., 1998). Older animals exhibit a higher proportion of collagen. Aged tendons, or those exposed to excessive estrogen (which stimulates collagen formation), become more rigid, resembling partially cooked tissue. In conditions like carcinoid syndrome, where large amounts of serotonin are systemically released, fibrosis is exaggerated and can be directly fatal. Radiation and oxygen deprivation also contribute to increased tissue fibrosis.
+
+**CONTEXT:** How does serotonin relate to basement membrane thickening, tendon rigidity, and fibrosis in aging and disease?
+
+**RAY PEAT:** In specific fibrotic conditions, such as liver cirrhosis, glycine and saturated fats have been shown to reverse the fibrosis. In cases of heart fibrosis, thyroid hormone can sometimes resolve the condition.
+
+**CONTEXT:** What interventions can reverse fibrosis in conditions like liver cirrhosis and heart fibrosis?
+
+**RAY PEAT:** I believe these findings indicate that excessive tryptophan, estrogen, and polyunsaturated fats significantly, perhaps decisively, contribute to the degenerative changes associated with aging. Experiments have independently shown that reducing dietary tryptophan or unsaturated fats can extend healthy lifespan. Several antiestrogenic interventions (pituitary removal or progesterone supplementation) have been shown to slow age-related changes and delay degenerative diseases. Given that these factors interact, each promoting the others, and also interact with exogenous toxins, excess iron accumulation, and other stressors, it is reasonable to expect greater benefits when multiple issues are addressed concurrently.
+
+**CONTEXT:** What are the key factors contributing to degenerative aging, and how do they interact?

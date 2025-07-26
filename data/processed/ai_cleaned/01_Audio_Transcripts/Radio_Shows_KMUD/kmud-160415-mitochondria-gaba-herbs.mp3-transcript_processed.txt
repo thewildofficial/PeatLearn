@@ -1,0 +1,77 @@
+
+
+**RAY PEAT:** Mitochondria are not just the "powerhouses" of the cell; they also have very important functions in steroid synthesis. They convert cholesterol to pregnenolone, which then turns into all other steroid hormones.
+
+**CONTEXT:** Can you explain what mitochondria are in the cell and their role in energy production?
+
+**RAY PEAT:** Thyroid hormone is the main hormone that activates the oxidative metabolism of the mitochondrion. If your thyroid is low, mitochondria don't efficiently pull in cholesterol and convert it to pregnenolone. Vitamin A, transported along with thyroid hormone on a single protein (prealbumin or transthyretin), acts as a co-factor. This system is like a factory with a conveyor belt bringing raw materials and catalysts to the mitochondria for hormone production. Vitamin A is also involved in storage. This process occurs not only in the gonads and adrenals but also in the brain and skin, which are major steroid endocrine glands.
+
+**CONTEXT:** Is that why cholesterol levels rise with age, because mitochondria are less efficient at converting it into hormones?
+
+**RAY PEAT:** If you don't have adequate thyroid, you won't get adequate oxygen into the mitochondria. This reduces the basic energy production of the cell and its overall function. Red blood cells are an exception; they don't have mitochondria and rely on glucose for energy.
+
+**CONTEXT:** You mentioned that the physiological explanations of membranes are flawed. Can you elaborate on that in relation to mitochondria?
+
+**RAY PEAT:** The conventional textbook definition of a mitochondrion relies on the chemiosmotic hypothesis, which posits specific membrane properties. However, research shows that the outer surface of a living cell exhibits mitochondrial-like properties, with the same oxygen-consuming enzyme reactions occurring there as within the mitochondrion. This challenges the idea of membranes as static, cohesive barriers. Organelles themselves are often artifacts of fixation processes, which involve killing the cell, removing water, and hardening it, leading to structural changes. Live microscopy with fluorescent stains can reveal dynamic, swirling structures that don't always align with fixed-cell descriptions.
+
+**RAY PEAT:** In the 1940s, the concept of a barrier membrane was challenged by the availability of radioactive isotopes. Gilbert Ling's work reviews this history, indicating no barrier to sodium, for example, which readily moves in and out of the cell. Even a dead hair, when its minerals are washed out and it's placed in blood serum, exhibits the same unequal distribution of potassium inside and sodium outside as a living cell. This is analogous to a water softener, which uses physics to explain the cell's mineral distribution. Biologists, however, often resist this perspective as it can challenge established beliefs about genes.
+
+**CONTEXT:** You mentioned that LDL cholesterol is often called "bad cholesterol," but it's important. Can you explain why?
+
+**RAY PEAT:** LDL (low-density lipoprotein) is crucial because it delivers cholesterol, which is essential for steroid synthesis. It also transports vitamin A. Therefore, having low LDL is dangerous as it limits the availability of these vital substances. The brain's white matter is approximately 95% cholesterol, highlighting its importance. Studies have shown that older individuals with low cholesterol are more prone to dementia. The Framingham study indicated that people over 50 with cholesterol below 200 were more likely to develop dementia.
+
+**CONTEXT:** You've discussed GABA and its role. What are your thoughts on valerian root's use, given its purported effects on GABA?
+
+**RAY PEAT:** Valerian appears to increase the activity of the enzyme that converts excitatory glutamic acid into inhibitory GABA. It also seems to increase GABA levels. The GABA receptor system is highly complex, influenced by various substances. Valium, for instance, binds to it similarly to GABA, but also in a way comparable to progesterone, pregnenolone, and certain androgens. Carbon dioxide may also play a role in binding near this receptor, stabilizing the system to reduce cellular excitation.
+
+**CONTEXT:** What is "excitation" in a cellular context, and why is it detrimental?
+
+**RAY PEAT:** Cellular excitation, especially when prolonged, is a wasteful and detrimental state. It leads to brain fatigue. A good supply of glucose, which produces carbon dioxide, helps prevent this fatigued state. Glucose is involved in GABA synthesis, and carbon dioxide stabilizes it. The conversion of glutamic acid to GABA also releases carbon dioxide, aiding the inhibitory process. Oxidative metabolism in the brain supports GABA and progesterone production, carbon dioxide levels, and reduces excitatory substances like lactic acid, nitric oxide, and glutamic acid.
+
+**CONTEXT:** Some people report feeling stimulated or jittery from valerian, the opposite of its intended effect. Why might this happen?
+
+**RAY PEAT:** I don't have a specific explanation for why some individuals experience paradoxical stimulation from valerian.
+
+**RAY PEAT:** St. John's wort, particularly its active compound hypericin, is thought to inhibit GABA reuptake. Lemon balm, on the other hand, acts as a GABA transaminase inhibitor, blocking the enzyme that breaks down GABA into succinic semialdehyde and glutamate. These reactions are reversible, and the body maintains a fine balance to prevent over-excitation or excessive calmness.
+
+**RAY PEAT:** Mitochondrial disease can lead to a state of somnambulance, where individuals experience seizures and are unable to function. Maintaining a balance between GABAergic stability and cellular energy is crucial. Thyroid hormone, rather than being a stimulant, promotes relaxation and helps cells repolarize and re-energize their resting potential. This "high energy resting state" allows cells, especially in the brain, to be readily prepared for activity. Fatigue, conversely, leads to a hypersensitive, agitated state with low resting voltage, resulting in constant excitation without the capacity for work. Magnesium helps restore this relaxed state. Thyroid hormone aids in magnesium retention, and magnesium stabilizes the high-energy ATP molecule. Adequate thyroid function, producing oxidative energy and ATP, allows cells to retain magnesium, maintaining a ready-to-work state with ample energy reserves. Magnesium deficiency can lead to seizures, insomnia, and inflammation, all consequences of low energy.
+
+**CONTEXT:** Is it important to maintain a constant supply of energy for mitochondria?
+
+**RAY PEAT:** Yes, it's important to consume small amounts of sugars regularly to keep mitochondria supplied with energy, rather than allowing them to become depleted between infrequent, large meals. B vitamins are also essential for efficient oxygen utilization in the mitochondria.
+
+**CONTEXT:** What are your thoughts on melatonin?
+
+**RAY PEAT:** Melatonin can be beneficial in the fatigued state of the brain, where nitric oxide rises and activates acetylcholine, which in turn stimulates nitric oxide synthesis. This cycle can cause wakefulness. Melatonin can interrupt this cycle by reducing nitric oxide and excitation, thus protecting the brain.
+
+**CONTEXT:** What is the physiological dose of melatonin, and what are the implications of higher doses?
+
+**RAY PEAT:** A physiological dose of melatonin is extremely small, perhaps 5 micrograms per body weight. Some estimates range up to 2-3 milligrams for the entire body. While higher doses, like 10 milligrams, will induce sleep, they may have other effects. In experiments involving antioxidant or radiation protection, doses thousands or even a million times the physiological concentration have been used. While these high doses can offer protection, their use beyond immediate exposure might lead to unexpected consequences.
+
+**RAY PEAT:** In the late 1990s, as melatonin became widely available and inexpensive, numerous studies emerged touting its benefits for various conditions. However, earlier research indicated that pineal extracts mimicked nighttime and winter, leading to regression of reproductive systems and the thymus gland in animals. This regression of the thymus affects immune function and is linked to increased susceptibility to infections in winter. Melatonin is the primary driver of this involution, contributing to seasonal affective disorder, depression, and weight gain during winter. In equatorial regions like Hawaii, where seasonal changes are minimal, winter sickness and immune disturbances are less common.
+
+**CONTEXT:** Some studies suggest melatonin can suppress tumor metabolism or be pro-cancerous. What is your perspective?
+
+**RAY PEAT:** The effects of melatonin can vary depending on the experimental model. Some studies show it decreases tumors, while others show an increase. The impact on the immune system is dose-dependent. While many studies report anti-inflammatory and antioxidant effects, some research indicates pro-inflammatory effects from physiological amounts of melatonin.
+
+**RAY PEAT:** In our hamster lab, despite controlled conditions, hamsters exhibited thymus gland regression during winter, suggesting that supplementing with substances like melatonin could potentially alter the endocrine system.
+
+**CONTEXT:** What about the use of melatonin in radiation oncology or radiotherapy?
+
+**RAY PEAT:** If radiation therapy is unavoidable, very high doses of melatonin may offer protection against its damaging effects. However, using melatonin to treat tumors can be problematic. While it might kill defective, weak cancer cells, these are quickly replaced. Killing these cells can irritate the tumor site, stimulating the recruitment of new repair cells that can then recreate the tumor, without addressing the underlying systemic issue.
+
+**CONTEXT:** You've mentioned rhodiola rosea as an adaptogen. What are your insights into its effects, particularly regarding mitochondrial protection and stress?
+
+**RAY PEAT:** I studied the progesterone family of steroids concurrently with research on ginseng and rhodiola. Hans Selye's concept of "catatoxic steroids" describes substances that protect the organism by blocking toxin effects, which is similar to one of the adaptogen's actions. Adaptogens may contain steroids analogous to progesterone and testosterone, providing this stress-blocking effect. Russian heart researcher Felix Meyerson expanded on Selye's work, applying it to the mitochondrial level. Meyerson proposed that stress-limiting signals and hormones operate in layers. Steroids are a major stress-limiting system, counteracting the short-term stress reactions activated by cortisol, serotonin, and nitric oxide. While these initial stress responses can be briefly protective, their persistence is destructive. Progesterone, testosterone, and pregnenolone help terminate these processes by inhibiting nitric oxide, serotonin, and estrogen. Plants like rhodiola contain not only steroid-like stress-limiting factors but also polyphenols and flavonoids that specifically inhibit nitric oxide production and limit the excitatory serotonin pathway, which activates cortisol.
+
+**CONTEXT:** What causes tooth decay, and can it be reversed?
+
+**RAY PEAT:** Tooth decay is often stress-related. One type of cavity begins as a white spot, unlike the typical dark area, and progresses rapidly due to stress-induced calcium mobilization from dentin. Another form involves calcium mobilization from the outside, driven by imbalances and pro-inflammatory factors in saliva. Maintaining energy levels and minimizing stress is key to preventing harmful saliva and internal anti-calcium mechanisms. Vitamin D and vitamin K are important for retaining calcium in tooth tissue. Serotonin has also been identified as a significant disruptor of calcium in bones and teeth. Therefore, overall systemic health is more critical than localized oral care.
+
+**CONTEXT:** You mentioned red compounds are antioxidant and protective. Can you elaborate on hypericin from St. John's Wort?
+
+**RAY PEAT:** Hypericin is a large polycyclic molecule. Its red color indicates that its electrons resonate and absorb a significant amount of light. This makes it analogous to molecules found in cascara, aloe, tetracycline antibiotics, tricyclic antidepressants, serotonin, and histamine agents. Other examples include the dark root of Pau d'Arco and Catuaba bark, which contain similar polycyclic molecules. These compounds are analogous to stabilizing multi-ring steroid molecules, providing a geometric and electronic stabilizing effect on the cell's microstructure. When a cell is stressed and its voltage drops, local electrons become concentrated and reactive, potentially damaging molecules they shouldn't interact with. Insufficient oxygen leads to "loose electrons" that cause cellular damage, a process we recognize as free radical reactions.
+
+**RAY PEAT:** Ubiquinone (CoQ10) is another molecule with a structure similar to those found in red pigments. Vitamin K stabilizes ubiquinone. These substances function within a system. For example, vitamin C helps maintain vitamin E in the correct state, and progesterone works with ubiquinone and vitamin K. This system operates at a small molecule level, more organized than often recognized. B vitamins are also important for electronic stability within the cell, helping to prevent lactate buildup, which signifies a shift towards problematic loose electrons.
+
+**RAY PEAT:** Buffalo liver pâté is a good source of B vitamins. Antioxidants like vitamin C and vitamin E are also important for cellular health.

@@ -1,0 +1,361 @@
+
+
+**RAY PEAT:** The highest mortality was concentrated in the highest pollution areas. Wuhan, for example, was terribly, almost opaque air with industrial pollution. Italy, super polluted. New York City, traffic and surrounding industries, high pollution.
+
+**CONTEXT:** How is pollution playing into the coronavirus situation?
+
+**RAY PEAT:** The various viruses that affect the lungs, when they are associated with a lung infection, it's, as far as I know, as far as the evidence indicates, it's always a susceptible lung that gets infected, no matter what the virus or the pollution. A young person is generally very resistant to pollution. Things like altitude and weather affect how your lung reacts to the various agents, whether they're virus or pollution particles. And so if your lung is already a little bit on the edge of being sick, a very mild virus can tip it over the edge, or a moderate amount of pollution can bring on a deadly asthma attack, for example. And the sickness and hospitalization and death and so on always tries to explain what the cause of the sickness is. That's a big part of medicine, identifying causes. There's never a single cause, it's always the soil that the agent falls on that determines whether it can grow into something. And so a case of lung cancer or a case of influenza or of pneumonia from unknown cause, these cases always are somewhat making a guess of what the agent, the specific agent, was that tipped the balance over into sickness. And usually ignored in medicine is something like nutrition. A vitamin D deficiency added to a vitamin A deficiency and a lot of previous sicknesses that weaken the system, those pre-existing conditions are really determining causes of whether a specific little virus or dust particle is going to tip you over into sickness. And the viruses and pollution particles all start acting in very similar ways. One of the early stages of actually developing or not developing a sickness in response to an air pollution or a virus in the lung is the activation of a particular cluster of molecules called the inflammasome. And if that is activated, then that triggers the so-called cytokines that then go out and do particular things that turn on inflammation.
+
+**CONTEXT:** Can you explain inflammasomes and cytokines?
+
+**RAY PEAT:** Inflammasomes are part of our preparatory immune system. It's just sitting there waiting to make a decision whether it should react and turn on the cytokines. And there are stabilizing factors too that affect its decision.
+
+**CONTEXT:** So, if I get some pollution, my inflammasomes react to the pollution, creating cytokines to help get rid of the smoke?
+
+**RAY PEAT:** Yeah, that creates the actual inflammation that can change circulation and start producing antibodies and all kinds of defensive things. As well as if you're not very strong, the inflammasome can then get out of control and create a cytokine storm, one cytokine activating more inflammasomes and creating a potentially lethal condition. But the immune system normally, almost always in reasonable health, stops the process before it gets amplified.
+
+**CONTEXT:** What is the particular worry about the coronavirus?
+
+**RAY PEAT:** The particular worry about the coronavirus, this particular thing, is that it attaches to the so-called receptor, a particle, a protein on the surface of cells or near the surface, called the ACE2 protein. And it's called ACE2 because it's an angiotensin-converting enzyme that is the opposing force against the ACE angiotensin-converting enzyme that causes high blood pressure. And so if you need an ACE inhibitor for high blood pressure, that's because the angiotensin-converting enzyme is making too much angiotensin, which creates inflammation and high blood pressure. ACE2 is there to stop the inflammation at an early stage and prevent high blood pressure and all of the problems. The coronavirus has a chance to replicate and produce trillions of viral envelopes. It's the surface of the virus that attaches to the so-called receptor ACE2. And in attaching, it knocks out our defensive, the first row of defensive proteins. So the coronavirus does have this particular feature which is to knock out our defensive anti-angiotensin enzyme. But all you have to do basically is use the ACE inhibitor drugs that are already in existence to support that defensive ACE2 system which the virus tends to suppress.
+
+**CONTEXT:** So, inflammation is part of the process, right? If we take anti-inflammatories, are we prohibiting the process to go on smoothly and to heal?
+
+**RAY PEAT:** No, some people worry that they think of inflammation as the cure rather than the problem. But people are dying of the inflammatory process, not of the presence of the virus. The virus unleashes our intrinsic inflammatory processes. And it's those, the cytokine storm, that kills us. And so what we need is support for our intrinsic anti-inflammatory system. You can pretty much forget about killing the virus because the virus itself isn't the immediate problem. It's a potential trigger of a problem, but the killing factor is the activation of our own inflammatory process. So all of the successful treatments, azithromycin combined with hydroquinone, those are both essentially anti-inflammatory factors. Aspirin, progesterone, glucocorticoids, the anti-inflammatory steroids, all of those are recognized cures. People wouldn't have died if they had been treated with these natural anti-inflammatory substances instead of pumping oxygen into their lungs, which increases the inflammation.
+
+**CONTEXT:** So, the whole process was triggered maybe by nutrition or pollution or stress or something with the inflammasome that was already in the body?
+
+**RAY PEAT:** Yeah, everything tends to... the decision whether to increase inflammation or not increase it involves that cluster of proteins, the inflammasome.
+
+**CONTEXT:** So that ties into the whole idea that Pasteur and the germ theory thing really doesn't work, the model that he built?
+
+**RAY PEAT:** Yeah, it works in a certain percentage of people who are on the edge, who are infectable and not only are able to support the growth of the bacteria or virus, but who respond to it badly. There was a famous experiment in dairy cows in Canada many years ago in which an immune-stimulating system was given to cows with mastitis, and the number of bacteria in their udders had been measured when they were sick with the inflammatory condition. And then, when they were cured with this chemical, there was no inflammation, but they found that there were even more bacteria in their udder. The udder had simply stopped responding badly to the presence of bacteria. That was a very powerful example of the soil being the problem rather than the bacterium.
+
+**CONTEXT:** So, bottom line, you're suggesting there is no real unique virulent communicable virus that is being spread or not spread through masking, social distancing, or sheltering in place?
+
+**RAY PEAT:** Yeah, there are those viruses, but there is no evidence at all that anything different happened this year than happens every year. In previous years, something like 10-15% of people in the hospital with a lung condition were tested positive for a coronavirus, and about the same number for influenza virus. About half of the cases, they couldn't find any cause at all. They were just sick from maybe pollution or something they ate, causing a lung disease similar to the viruses. So those previous studies showed how relatively meaningless it is to say so many people die every year from influenza when there were more, several times more people hospitalized with influenza who didn't have influenza agents but had something else, including half of them with no identifiable pathogen in their lung.
+
+**CONTEXT:** So what then can our listeners around the world think about or consider or even make some sense out of all this talk about a vaccine that's coming to end the coronavirus pandemic?
+
+**RAY PEAT:** The best evidence that I've seen shows that the actual association of sickness with the presence of the coronavirus dropped off to nothing by the middle of June, the way flu season ends when people start getting sunlight and start moving around outside doing normal things rather than huddling against the weather in an artificially heated house. Those things end the flu season, and the evidence shows that it did the same for the coronavirus associated with sickness. That has come back. They're talking about cases now. They've changed the language radically. A case used to mean a sickness that was clearly associated with the cause of the sickness. Now, if a test is positive for the virus, even when the person is healthy, they're calling it a case. What they should be saying is that testing has increased and they're finding lots of new positive virus results on their tests. But they're saying cases are increasing in proportion to the number of tests they give. But the sickness has gone for the season, or maybe permanently, simply by changing language. Saying things that never were described as a case, calling the positive test result a case of coronavirus. That is the basis for saying we need the vaccine.
+
+**CONTEXT:** So at the beginning, the term "cases" was actually referred to somebody with symptoms?
+
+**RAY PEAT:** Yeah, who was a second person. A second person.
+
+**CONTEXT:** And now it's going back to change, just anybody that's testing positive on either of the two tests, and you and other people have said that these do not really prove a again virulent unique communicable potentially deadly virus in that person?
+
+**RAY PEAT:** Correct. And there are two kinds of tests that they're giving. One is the polymerase chain reaction (PCR). It represents the presence of at least some part of the virus, not even the whole infectious virus, but some fragment of it is present. The other is the presence of antibodies in your blood. The antibody test means that you have been exposed to the virus enough to form the antibodies, but it doesn't mean you were ever sick or will be sick. If anything, that should mean that you're resistant to it. It should be, logically, if you have created antibodies because your body, that's what it does. But even these people, they're being categorized as new cases. Cases, cases.
+
+**CONTEXT:** So if you change the language, you can make anything appear to happen.
+
+**RAY PEAT:** Yes, if the person is only listening to the language and thinking in terms of the old reality, that's how fraud works.
+
+**CONTEXT:** Words of art. Must be curious of how this whole model could be used around the world and using these words of art that aren't true. Fascinating how this could be going on at such a large scale.
+
+**RAY PEAT:** There was a lot of organization behind it. If you look at the Rockefeller Foundation, the World Trade Forum, and the Gates Foundation, they've been collaborating for a long time, preparing scenarios for exactly this. And their answer for each version, they prepared reaction patterns, what the governments should be doing to specifically a coronavirus pandemic before there was one. But they were preparing what to do. And their recommendations, they worked out in detail and had government officials around the world, through the World Health Organization, getting prepared for when the planned pandemic occurred. The plan was already in place in many governments that participated in these meetings to shut down the economy, and the purpose was to shift to a digital online economy. Online medicine, online education, online shopping, online transportation.
+
+**CONTEXT:** Fascinating. And that's what's going on? Just like clockwork?
+
+**RAY PEAT:** Yep. Very, very highly organized. Years and years in advance.
+
+**CONTEXT:** Fascinating. So what was the name of that? Was it 201 or something?
+
+**RAY PEAT:** Yeah, the event. Event 201, I think.
+
+**CONTEXT:** Event 201, and they laid out this whole thing. And then, and it's curious of how these different huge organizations like Twitter, YouTube, Facebook have... Oh, Schmidt, the former executive of Google, shifted over to the Pentagon, an agency of the Pentagon, which was a supporter of the whole development of the Google system. So this executive representing Pentagon and Google and the other giant online organizations put out a detailed description of how we should be acting a year in advance, a full year in advance, May of, spring of 2019. I'm not sure the exact date, but a year later, when the pandemic did come into existence, he was recruited by Governor Cuomo in New York to start putting that plan, expressed publicly a year earlier, to start putting that digital system into improving education, medicine, and the economy in the state of New York. It's not working, and New York is a disaster zone, isn't it, with all of these dynamics we're looking at?
+
+**RAY PEAT:** Yeah, I don't think it's really going to work anywhere, especially if people catch on and realize that the collapse of their business and their employment has been pre-planned to shift wealth to organizations like Google and the Gates and the members of the World Economic Forum. In just the several weeks that the pandemic has been occurring, most of the billionaires have doubled their wealth.
+
+**CONTEXT:** I saw that. Yeah, that's great. So, and I think there's plenty of evidence that the possibility of a world digital kind of currency thing is all part of this as well, to reset something. I don't know what they want to do. There's so much debt. It must feel like there's some kind of plan, Dr. Pete, to redo the whole financial system somewhere.
+
+**RAY PEAT:** Yeah, when they're putting everything... killing private middle-sized and small businesses, shutting down job opportunities, when they're doing that, people are going to start saying, well, we can have a cash economy and get things running again, privately, individually organized. If they simply, if the government declares that twenty dollar bills and hundred dollar bills are no longer legal, you can only use credit cards. And so all of your money exists only on the computer system, represented by monopoly banks. If your money exists only on your credit card, then whatever rules are passed can instantly make your money disappear. All you have to do is announce that paper money is no longer legal to use, which I suspect is doable. I mean, I know in 1933, they made gold illegal and told people they had to turn in all their gold, and people did it.
+
+**CONTEXT:** That was just the first step. Yeah. So if you think about it on those terms, it's I guess it's really possible, Dr. Ray Pete, that this whole thing is a long-term kind of plan and not just something that happened the last few years.
+
+**RAY PEAT:** Yeah, there have been economists essentially working for the giant monopolists before there were billionaires, multimillionaires, operated in the same way, trying to optimize the way government worked to support their interests. And so they saw that gold gave power to the common person. If you owned a chunk of gold, you had some power under your control. But the owners of the system, the powerful monopolists, used the government to outlaw gold to take that power away from the common person. And digitalizing money is just the ultimate thing to take actual money power, or purchasing power, or any power at all, away from everyone who isn't authorized by the World Economic Forum.
+
+**CONTEXT:** Patrick's been talking about magnesium with Marley Robbins, one of the magnesium guys. I wanted to get Dr. Pete's opinion. I read all the time that we are very low on magnesium. Does he agree that most of us are? And would he take magnesium just to take extra or test for it? I'd like his opinion, please.
+
+**RAY PEAT:** About 50 years ago, I was finding that, for example, a woman with menstrual cramps, uterine cramps, could relieve the pain and the cramps in just 5 or 10 minutes after taking some magnesium carbonate. And then I started seeing that many other symptoms could be relieved as quickly. But it turned out that they had to keep taking it at least once a week, if not daily, to keep the symptoms away. But then I read an interesting book about magnesium by a professor at the University of Colorado, I think it was, who explains that cells need good thyroid function to be able to retain magnesium because it exists in cells in combination with the ATP molecule. And you need thyroid to make the ATP, which retains the magnesium. If your thyroid is low, the cell ATP level goes down, and magnesium is released, calcium goes into the cell causing problems, cramps, and so on. And the increased magnesium in the blood gradually gets lost in urine. So then you have to keep replenishing it. But if your thyroid and ATP level are good, then you retain the magnesium for a very long time.
+
+**CONTEXT:** Very interesting. So it could be tied back into a low thyroid. All this quote, unquote, people are very low on magnesium. That could be the connection that they're just dumping it.
+
+**RAY PEAT:** Yeah, inflammatory diseases, high histamine release, for example. Yeah, you can cure it with magnesium all by itself if you keep putting it in. But there are the same symptoms that you get from low thyroid because low thyroid people can't retain their magnesium very well.
+
+**CONTEXT:** So low thyroid people could be high in histamines.
+
+**RAY PEAT:** Yeah, calcium goes into cells in excess, excites the cells, and they make histamine and release it.
+
+**CONTEXT:** Oh, so that's what a histamine response is, is too much calcium in the cells.
+
+**RAY PEAT:** Yeah, basically a fatigued cell that can't keep the calcium out. Then one of the first steps before dying is that the cell produces histamine. That starts poisoning the system if the cell isn't repaired.
+
+**CONTEXT:** So antihistamines would just be a symptomatic, Dr. Pete, where you'd want to get to the cause, and you're saying it's most likely or could be low thyroid.
+
+**RAY PEAT:** Yeah, and that applies to conditions like the corona sickness or virus and pollution sickness in general. Thyroid, magnesium, and antihistamines. All are protective, all working in the same system and inflammatory.
+
+**CONTEXT:** This ties right in, and this one was up there, serendipitous, that this one was up there. This Sally, Oklahoma, I did a thyroid panel, my TSH is around 4.5. I hear that that's really higher than normal. I really don't want to go to a doctor, I actually can't afford it. I was wondering if Dr. Pete could give me some ideas. I have access to some natural thyroid from a friend, what dosage I could start at if I just wanted to do this myself?
+
+**RAY PEAT:** I think it's a good idea if you can get one of Broda Barnes' books, *Hypothyroidism, the Unsuspected Illness*, for example. He describes exactly how the natural thyroid works and how to go about dosing it in a very careful way. Very few people have been harmed by taking a big dose of thyroid. For example, if they had had a heart attack within the last week, they shouldn't jump right in with a big dose of thyroid because it makes your body need more oxygen and blood circulation, puts a strain on your heart. So if your heart is very weak, you have to start the thyroid very, very slowly. But getting some background like that, then the natural thyroid, especially people who live in fishery areas, seacoast towns, and farmers who were producing chickens or any meat animals, they would always include the thyroid gland in their soups and stews and so on. So historically, people eating a natural diet were always getting some of the natural thyroid gland mixed right into their soups or sausages or whatever meat dish they were eating. And it was in the early 1940s that the Department of Agriculture said that the slaughterhouses may sell the thyroid gland only to the drug manufacturing companies to produce pills for medicine, but the common person can't buy it up to eat. So since then, hypothyroidism has become an epidemic throughout the industrialized world.
+
+**CONTEXT:** In that regard, then, do you think there could be some benefit? There are several products out there, Doc, where you can get some desiccated, I think, beef thyroid, you know, from grass-fed cows from Australia or New Zealand. Could that help boost thyroid safely, since it's a food of some kind?
+
+**RAY PEAT:** Yeah, yeah, if you're sure the slaughterhouse got the right gland. Yeah, yeah. Sometimes they get lymph nodes and things by mistake. Good luck with that, right? Yeah, so the potency is extremely variable. And so that's why Broda Barnes' method is so important. You should take a given amount, say 30 milligrams, and do that every day for two weeks while watching for any change in your temperature and pulse rate. And you should have in mind a goal temperature, like waking up around 98 degrees Fahrenheit, at least 98. With a pulse of high 60s per minute, maybe. And if that's your goal, then if your starting temperature is 96.5 and your pulse rate is 50, for example, then make marks on a paper. If the dose is just what you need, then it will climb steadily for two weeks, roughly, and then level off. But if you don't see any change after a week or two, that means the dose is much too small.
+
+**CONTEXT:** I see. So then you can go to 60 milligrams, but stay on that, watching every day for changes for another two weeks at least. So the key then is the pulse and the temperature first thing in the morning. And then I guess 30, 60 milligrams is what they call a grain, which most of them come. So you could cut that in half.
+
+**RAY PEAT:** Right.
+
+**CONTEXT:** And then start for a couple weeks and you should see it rise. But once you get to 98, would you just be... If you're at 98, when you wake up now, would that mean...
+
+**RAY PEAT:** Right after breakfast, it should go up to about 98.6 and stay in that zone until sunset. Then when the sun goes down, it's normal for it to decrease again for the night.
+
+**CONTEXT:** I see. So if it doesn't go up to 98.6, then you still could maybe use a little.
+
+**RAY PEAT:** Yeah, in general. Daytime pulse, it's fine to be anywhere in the 80s at rest during the daytime.
+
+**CONTEXT:** Wow, wow. Okay, so this is Broda Barnes' book. What's the name of it?
+
+**RAY PEAT:** *Hypothyroidism, The Unsuspected Illness*.
+
+**CONTEXT:** *The Unsuspected Illness*. And that really lays it out. Another book is *Solved, The Riddle of Heart Attacks*. He gave almost all of his patients the thyroid that he thought they needed. And in his whole career, he never had a patient die of heart disease. He said statistically there should have been several hundred of them, but that's why he called it *Solved, The Riddle of Heart Attacks*. Just by getting their TSH and their body temperature, everything in balance.
+
+**RAY PEAT:** Yeah, the higher the TSH is, the more inflamed your circulatory system is. It throws your immune system out of whack. And the lower your TSH is, the happier your immune and circulatory systems are.
+
+**CONTEXT:** And in this emailer's case, so a four and a half is a little bit high.
+
+**RAY PEAT:** Oh, I've never seen a very healthy person whose TSH was even two or above.
+
+**CONTEXT:** Really? Wow. And everyone I've seen with 4.5 has pretty intense symptoms. So then she could start easily at 30 and then work her way up like you just talked her through, right?
+
+**RAY PEAT:** Pretty safely.
+
+**CONTEXT:** Okay. Here's one for you. In past interviews, Dr. Pete mentioned that inflammation was previously seen as a necessary part of the healing process, but now it's recognized as a cause of heart disease, diabetes, cancer, muscle wasting, and aging. What can a person eat or supplement to successfully shut down this aggressive level of inflammation once it has settled in a chronic state within the body and reverse any damage to...
+
+**RAY PEAT:** ...it contributed to. Shifting your diet, there are many things in the average diet contributing to that. And even living at sea level is one of the factors. There have been interesting studies in highly polluted Mexico City kids who grow up there don't have any asthma. If they go down to sea level, they often suffer from asthma. And several things about high altitude are protective against inflammation, simply the lower oxygen pressure, because too much oxygen creates inflammation, as demonstrated by the intubated corona patients.
+
+**CONTEXT:** Here's another one for you. Can eating beef liver several times a week lead to a problematic excess of iron in the body?
+
+**RAY PEAT:** Oh yeah, I think liver should be limited to about one serving per week. Too much meat, people who eat a pound of meat every day are going to overload, not only on the pro-inflammatory iron, but also the pro-inflammatory tryptophan, cysteine, and methionine that are very high in the meat, and the extremely high ratio of phosphate to calcium in the meat. All of these are pro-inflammatories that are able to accelerate the aging inflammatory process.
+
+**CONTEXT:** But I... Isn't tryptophan more to settle people down to help them sleep and they even do IVs for tryptophan?
+
+**RAY PEAT:** They might do it, but I think it's very dangerous. Cysteine and tryptophan are very closely connected to the inflammatory processes, including brain inflammation.
+
+**CONTEXT:** Ew! Okay, so you don't want to do that to go to sleep, right?
+
+**RAY PEAT:** No.
+
+**CONTEXT:** This is Ben from Oregon. Hi, Dr. Pete. I'm currently on two grains of Naturothroid, which just recently has been pulled from the shelves. Yet again. I would like to start taking Cynoplus like you do. How many Cynoplus 120, 30 microgram tablets would equal two grains of Naturothroid?
+
+**RAY PEAT:** One tablet is stronger than a two-grain tablet of Armour or one of the standard glandulars. It's equivalent to about 2.2 or 3 tenths of a grain per cytoplasm.
+
+**CONTEXT:** So the Cynoplus is just a... the T3? Is that correct, if I remember?
+
+**RAY PEAT:** No, it's T4, four parts to one part of T3.
+
+**CONTEXT:** Okay, and that equals to a full... more than two grains. Two grains, that's 120 milligrams of Naturothroid, wow.
+
+**RAY PEAT:** Right, about 130 or 140.
+
+**CONTEXT:** So you wouldn't want to use the Cynoplus if you're just starting, right?
+
+**RAY PEAT:** Yeah, it's good to start on a fourth of a tablet, which is roughly like a half a grain.
+
+**CONTEXT:** Do I need a U.S. script or can I get this in the Mexico site?
+
+**RAY PEAT:** Yeah, the Mexican pharmacies manage to get it through the mail.
+
+**CONTEXT:** Yeah, you can get the Cynoplus there, right? Here's a question for Dr. Pete from INA. When I have a sweet fruit like watermelon or honey on an empty stomach, after five or ten minutes, I get a dull pain around the liver area and feel cold. I have a little fruit after food, and I don't have this problem. Does this suggest I have a problem with fructose and should avoid fruits, or can this be related to estrogen, as my mom seems to have similar symptoms?
+
+**RAY PEAT:** I have a lot of possibilities. It could be a slight inflammation reaction. There are many potential allergens in a variety of fruits and honeys. But it just could be a little tricky to figure that out.
+
+**CONTEXT:** From George in Oceanside, I use whey plus olive oil for Hamlet, which he says is human alpha-lactalbumin made lethal to tumor cells, and lecithin as a source of phosphatidylcholine to help the liver. What does Dr. Pete think about these supplements?
+
+**RAY PEAT:** Say the supplement again? I use whey plus olive oil for Hamlet, which he says is human alpha-lactalbumin made... lethal, L-E-T-H-A-L, to tumor cells. Oh, made lethal to tumor cells. I don't think it sounds plausible. Whey contains some of those amino acids that can actually support tumor growth, tryptophan and cysteine, for example.
+
+**CONTEXT:** Okay. I listen to Dr. Pete every month. Thank you for having him on. This is from Robert from Australia. I tried some of his suggestions, started drinking some milk and freshly squeezed orange juice. Now, after a few weeks of doing this, I have developed a strange reaction of having a headache and strange noise in my head, while also feeling kind of dizzy. This reaction happens after I drink just a half a glass of milk or orange juice. I experienced the same after I eat bone broth and after taking aspirin as well. I did a bit of research and think that my problem is probably related to histamine intolerance. Could you ask Dr. Pete what he would suggest and how he thinks I can overcome this problem?
+
+**RAY PEAT:** It depends a lot on what the rest of the diet is. Sometimes bacteria can invade the small intestine or even the stomach and start producing endotoxin and other irritants very soon after you take in some carbohydrate and something to stimulate the intestinal peristalsis like a raw carrot or something like a cup full of cooked mushrooms every day to stimulate the intestine will help to stop the bacterial toxin production.
+
+**CONTEXT:** You've mentioned that before. It's curious how cooked mushrooms help the intestines.
+
+**RAY PEAT:** Mushrooms have lots of anti-inflammatory things and quite a few antibacterial substances because they live in a bacteria-loaded environment in decaying matter and so they naturally produce chemicals that suppress bacterial growth.
+
+**CONTEXT:** But we want to cook these guys, right? You don't want to eat them raw.
+
+**RAY PEAT:** Yeah, because all mushrooms contain some heat degradable carcinogenic substances. So if you boil them for at least an hour, you'll break down the carcinogenic factors, and what remains is germicidal and anti-inflammatory and bulk providing.
+
+**CONTEXT:** Dr. Ray Peat is here on the third Monday of the month. It's September 21st. Today, here's one for you. Dr. Pete, I'm taking three grains. Wow, three grains. I guess that would be... Is that 180 milligrams? Yeah, three grains of thyroid extract, and my temperature has risen to optimum levels. However, at the same time, my resting heart rate is about 90, 100 beats per minute, which feels pretty high for me.
+
+**RAY PEAT:** Yes, sometimes that happens to me. And in the summer, for example, we are much more sensitive to thyroid. So I will sometimes, on a dose that was just right in the spring, by mid-summer, I'll start overheating at a 120 pulse rate, just with, like, raking leaves or something. So I cut back my dose greatly during the summer. Animal studies show that it's normal to need about four times as much thyroid in the winter as in the summer. So you always have to be alert to what season it is and what you're eating and how much stress you're under and adjust the dose so that you're comfortable.
+
+**CONTEXT:** So if someone is uncomfortable with a higher pulse rate, even something like 80, you'd want to back off if you just don't feel right with it.
+
+**RAY PEAT:** Yeah, you're likely to get out of breath easily if your pulse is running a hundred at rest, and moderate activity might make it go up to 125. And so if that makes you uncomfortable, then it's good to back off until the season changes or you have other reasons for needing more.
+
+**CONTEXT:** Patrick at OneRadioNetwork.com, please ask Dr. Pete if I can take 25 milligrams Losartan and 100 milligrams aspirin four to five times a week for inflammation control and also to protect against COVID, older age female.
+
+**RAY PEAT:** Oh, the standard package dose for Losartan, the recommended dose, I found was much more than needed. My blood pressure would go down with about a fourth of the standard dose. So each person, I think, should watch for signs such as blood pressure and any other indicator of inflammation and adjust the dose accordingly.
+
+**CONTEXT:** Someone wants to know about your opinion on essential oils, internally and externally.
+
+**RAY PEAT:** Basically, they're good smelling. Some of them are anti-tumor, anti-inflammatory, very helpful. Eucalyptus oil, camphor, some of them are used as antivirals, and each one has its unique properties, so I don't think you can generalize about them.
+
+**CONTEXT:** What is Dr. Pete's opinion on autophagy, A-U-T-O-P-H-A-G-Y, what is that?
+
+**RAY PEAT:** It's a new term for activating the lysosomes, internal revision, breakdown of proteins. When a protein is damaged, it will get put into the lysosome, and enzymes will be degraded into amino acids, and it will go back as a nutrient. So it's a process that goes on steadily, but when it happens drastically and you get a sudden breakdown of the substance of the cell, that can be preparation either for destroying cancer cells or for destroying normal cells and leaving them to turn into cancer cells. So it has become kind of a fad, but it's just part of the normal cell turnover process, internal refusion. And I think it's best not to take any drugs that are known to intensify the process because some of them also promote cancer tumor survival instead of destruction.
+
+**CONTEXT:** We're very fortunate to have Dr. Pete on once a month, and he doesn't do medical advice and stuff, but he can give you his opinion on things. And if you'd like to join in, Patrick at OneRadioNetwork.com. This is from Harris. Could you please ask Dr. Pete, you mentioned in one of your interviews that you cannot take sufficient thyroid when you had been in Florida because of the high heat and humidity. Does that mean that people living in tropical countries will not be able to take enough thyroid to fully fix their hypothyroid symptoms?
+
+**RAY PEAT:** Hypothyroid people move to the tropics and move to Florida because the external heat will keep their body temperature up. A person who is in a northern climate might go around with a 95-degree Fahrenheit body temperature and be sick. If they move into a steamy tropical place where the air is humid and 90 degrees, their body will find it easy to get their oral temperature up to 97.5 or even 98 degrees where everything works better. So, for a hypothyroid person, a tropical climate is therapeutic. It gets their body temperature up and lowers stress.
+
+**CONTEXT:** Do you think these things, these little infrared things you can do on your forehead for temperature are accurate? Do we know?
+
+**RAY PEAT:** They seem to have some correspondence to the internal temperature, but a lot of things can happen right in the skin of your forehead that I wouldn't consider it a very precise way of measuring your temperature. It can... a body temperature change of two degrees will probably show up on your forehead.
+
+**CONTEXT:** Wow, well that's a lot. So, so the only way to get it would be just a good old-fashioned, if you can find them, they're hard to find, but a good old-fashioned mercury thermometer and pop it in your mouth.
+
+**RAY PEAT:** Yeah, those are extremely reliable. They're a perfect standard. Ear drum temperature is another extremely variable thing. I've found that just the kind of mental activity I'm doing at my right and left ears can vary by a degree.
+
+**CONTEXT:** Oh my goodness. And you know, as I said, you can find the mercury thermometers, but again, they're challenging to find them. But there's a few of them still out there. I think you have to know somebody. Dr. Pete, I have a surgery soon and wonder how I can protect my body from the stress associated with anesthesia and surgery itself. Also, I've heard common side effects is hair loss. I would like to avoid that. This is from Alex.
+
+**RAY PEAT:** All of the anti-inflammatory things, but a very important thing that several studies have validated, but most hospitals haven't taken it up yet, is to make sure your intestine is clean, a good laxative for two or three days before the surgery, or even eating several carrots a day for about three or four days before the surgery, because they've found that, for example, giving an antibiotic for a day or two before the surgery to totally disinfect the bowel, that people come out of surgery quickly, recover, everything recovers faster, and they don't have the incidence of prolonged inflammatory problems after the surgery.
+
+**CONTEXT:** Interesting. Just a tremendous difference for disinfecting the bowel. Many people argue that if we have one course of antibiotics, it kind of messes up the microbiome. We have to get things back. Does it, one course of antibiotics?
+
+**RAY PEAT:** What the doctors define as a course of antibiotics or the package insert, it wants you to take the whole package. Fourteen days or? Yeah. That very often is a severe overdose, can wipe out so many that what comes back might not be predictable. So I think if you have the option to take enough the first day or two to stop the symptoms, get them under control, and as soon as the symptoms have disappeared, maybe give it another day, but then taper off, and probably the pathogen will disappear, and you can taper off and not totally eliminate all of your bacteria so that you recover faster.
+
+**CONTEXT:** Dr. Ray Peat, what would, in your opinion, would be some of the very best things that people, most people have taken antibiotics to get this microbiome thing happy again? What are some things, your favorites to do that?
+
+**RAY PEAT:** Carrots. Carrots, raw carrots.
+
+**CONTEXT:** Yeah, they have mild antibiotic functions but they don't destroy everything. Not the juice, but grating carrots, right?
+
+**RAY PEAT:** Yeah, the juice is counterproductive because of the very high carotene content, which is anti-sibrate. So that's kind of part of your...
+
+**CONTEXT:** What's that little carrot salad you do? I think you do the grated carrots with... what's on the top there? A little olive oil and vinegar and salt.
+
+**RAY PEAT:** Yeah, and that really will help get everybody happy again.
+
+**CONTEXT:** You could do this every night, right?
+
+**RAY PEAT:** Yeah, the olive oil and vinegar are both able to suppress bacteria and fungal growth.
+
+**CONTEXT:** And then eventually, are we speaking of the colon now, or for this, this is what's going on in the colon?
+
+**RAY PEAT:** Yeah, the colon isn't the whole story though. Americans, now on average, have considerable bacterial growth in their small intestine, where it shouldn't be. And the healthier a person is, the farther towards the colon the bacteria are. A very healthy person has a sterile small intestine, and a person with deteriorating health will sometimes have bacteria all the way up to their stomach.
+
+**CONTEXT:** Not good. So this is commonly called what's called SIBO, small intestinal bacterial overgrowth. Have you know some things that people can do for this?
+
+**RAY PEAT:** Yeah, the carrots and cooked mushrooms will gradually disinfect the small intestine. And making sure your thyroid is good, because the secretions, stomach acid and pancreatic enzymes, all of those are in proportion to your metabolic rate and thyroid function. And so if those are underproduced, bacteria aren't properly killed. And so thyroid, getting your digestion going, speeds the movement through the intestine, washes out bacteria before they can replicate.
+
+**CONTEXT:** Excellent. Well, that's some pretty nice natural ways for this, carrots and mushrooms, I mean that's great, right, without having to take a bunch of pills.
+
+**RAY PEAT:** Yeah, I've seen just carrots for a few days solve problems like reproductive hormone imbalance, lower the blood cholesterol, lower the estrogen to progesterone ratio, increasing progesterone.
+
+**CONTEXT:** Interesting. And this could be, this carrot salad, even a couple times a day? Or it's fine?
+
+**RAY PEAT:** Yeah, it's fine. Yeah, and an extreme person might eat three carrots a day, but usually one middle-sized carrot is enough every day. That's the grated up olive oil, a little vinegar, and some salt.
+
+**CONTEXT:** That's great. Mark writes in, my wife is constantly trying to clear her throat all day long. She likens it to phlegm and can never get it cleared. Silent reflux has been ruled out. And Ella just gave her medication. She thinks, oh, she inhales through the nose, but that hasn't helped. And she takes no other medication. I'm wondering what we could try to do now.
+
+**RAY PEAT:** There are reflexes so that irritation somewhere else can cause excess mucous production in the nose or sinus area or throat. And so making sure that the intestine isn't being irritated, sometimes just finding a spice that... pepper, for example, or celery, or many particular foods can cause chronic irritation in the intestine with the reflex, excess mucus production up in the upper respiratory system.
+
+**CONTEXT:** Dr. Ray Peat, we have time for a few more here, we could probably squeeze you in if you haven't emailed yet, patrick1radionetwork.com. This is from Michael, Dr. Peat, he's in Connecticut. Are there any nutritional or hormonal approach to help reduce prostate enlargement, BPH?
+
+**RAY PEAT:** Oh, cool, okay. Yeah, balancing the hormones. Thyroid deficiency is going to necessarily weaken your control and balancing processes. Your liver slows down and lets testosterone turn into estrogen. Estrogen activates inflammatory and cell multiplication processes. One would be highest. Testosterone level generally have the lowest estrogen and the lowest prostate cancer problems. Deficiency of testosterone usually is the result of low thyroid leading to the conversion of testosterone to estrogen. Estrogen promotes growth of the prostate. Inflammation. So it's good to check your hormones. Vitamin D is a major anti-inflammatory factor. Might be the single most important thing besides thyroid function. A good vitamin D level. If folks get a vitamin D test, blood test, and it's high, but they're not doing any extra vitamin D, so but they do get out in the sun, is that they're pretty good, good to go, you don't need to do extra?
+
+**CONTEXT:** Yep, the sunlight is the best way to get it. Keeping your calcium intake high relative to phosphate.
+
+**RAY PEAT:** Oh, so if you eat a lot of meat, try to get some good kind of calcium in there.
+
+**CONTEXT:** Yeah. Yeah. Here's a good one for you. What seasonal foods is Dr. Pete looking forward to for this fall?
+
+**RAY PEAT:** Oh. It's hard to tell. Usually, fall is a good season for fruits like sapotes and purimoyas. Those are showing up in the supermarkets now fairly regularly. And if you can find them properly ripened, they are good seasonal. I think they're grown now both in Florida and the Santa Barbara area.
+
+**CONTEXT:** This is from James. You... and then I'm just fine. Why would this be happening? Does it mean that more or less of an adjustment is needed? Progesterone does tend to increase your temperature and it can activate your sweat glands if they've been blocked by stress hormones.
+
+**RAY PEAT:** Oh.
+
+**CONTEXT:** What's progestee?
+
+**RAY PEAT:** Progesterone.
+
+**CONTEXT:** Progesterone, sorry. Yeah, in itself, progesterone has these anti-stress effects that dry skin, for example, the sweat glands are shut down by too much estrogen. And this is a product that you developed, Progest E?
+
+**RAY PEAT:** Progest E Complex, yeah, that's the name of the one I developed.
+
+**CONTEXT:** And do you sell that or who sells that?
+
+**RAY PEAT:** Kienergen. That makes it and sells it.
+
+**CONTEXT:** Kienergen?
+
+**RAY PEAT:** Yeah, Kienergen.com, their phone number is 541-345-9855. And you're spelling it K-E-T-O? Kienergen?
+
+**RAY PEAT:** K-E-N-O-gen. Kienergen.
+
+**CONTEXT:** And what's... Is the progesterone, is that a kind of a bioidentical yam thing?
+
+**RAY PEAT:** It's similar to the one made from yams, but it's actually identical to the hormone we make.
+
+**CONTEXT:** Oh, so you think it's a more efficient way to get some progesterone?
+
+**RAY PEAT:** Um, yeah. The first time I used it was around 1973 or 4, after I'd been working with it in animals, I had a horrible migraine, blind spots and sickness, and I put about 50 milligrams or more in my mouth. And before I could get back to my morning in bed, the headache was gone, and I got in bed and went to sleep. I tried it again and waited until I could lie down and close my eyes before I put it in my mouth and then watched what happened to the visual flashing lights and such, and within about five seconds of getting it in my mouth, a quiet black area in my visual field appeared and steadily expanded over about just a minute. And as that quiet black area expanded, turning off the flashing lights, the headache and the nausea subsided, and as my visual field was clear, there was still a progressing sense of euphoria coming on, and just about two minutes after I put it in my mouth, everything was peaceful. I felt perfect and went to sleep.
+
+**CONTEXT:** Very interesting. What would be the symptomatics of folks calling for this product to take the progesterone? What was the question? What would be some symptoms that people might say, maybe I'll try this to see if it helps me?
+
+**RAY PEAT:** Oh, the PMS and menopause symptoms are the usual reasons people take it. Katharina Dalton worked for many years with women with PMS and toxemia of pregnancy problems, and all of her patients not only immediately recovered from the very debilitating premenstrual symptoms and menopausal symptoms, but they stopped having toxemic pregnancies, and it turned out that their babies had about 30 points higher IQ than their older siblings that were born before they got progesterone.
+
+**CONTEXT:** And what would be some symptoms that might lead a male to trying this product as this fellow did?
+
+**RAY PEAT:** Um... I've used it on some of my friends with rheumatoid arthritis and migraines like myself. Those are the most spectacular effects. A friend of mine worked at a bench, and every afternoon his knee swelled up horribly. It looked like a pink football. I went to the drug store and got him a bottle of injectable progesterone, but he rubbed a whole bottle on his leg. Not only did the painful pink football effect disappear, but I saw him repeatedly over the next 30 years, and he never had a recurrence of arthritis. Other time, a plumber was limping, just one knee was, he said cartilage was destroyed and the surgeon said it needed a joint replacement, but he planned to retire instead. But I gave him a bottle of progesterone, Progest E. He covered his whole leg with it, and before he finished the job, he was walking with less of a limp, and I told him to apply it again, and the next day the job had been finished, but the next day he was there knocking on the door and said, I just wanted to show you this. And he ran down the steps and ran back up, said his knee had no signs whatsoever of a problem. And I saw him 10 or 15 years later, he was still working as a plumber.
+
+**CONTEXT:** We have a fellow on from time to time that he's a weight lifter, kind of strongman guy, and he had suggested, I know for sure, that a little bit of progesterone for guys helps to raise testosterone levels. Is that true?
+
+**RAY PEAT:** If you're under heavy stress, have some problems that is causing your testosterone to turn to estrogen, then the progesterone in a moderate amount can block that process and let you make and retain your testosterone by suppressing the estrogen.
+
+**CONTEXT:** Do you think that just generally evolutionary-wise that as folks get more and more years on them that the T levels tend to go down?
+
+**RAY PEAT:** Oh sure, that's been known for a long time. It's been known for a long time.
+
+**CONTEXT:** Planet Earth thing here with a body. Yeah, both progesterone and testosterone decrease with age, leaving estrogen and cortisol as the default hormones that degrade the tissues in various ways. Speaking of cholesterol. Here's one from a fellow in Germany. Sorry, sir. I can't pronounce your name, but welcome. What are the causes for hyperventilation?
+
+**RAY PEAT:** Low thyroid and high cortisol.
+
+**CONTEXT:** I guess he's got those all together.
+
+**RAY PEAT:** Yeah, in the chemical sense, hyperventilation means that your CO2 is not being retained adequately. You have a low level of carbon dioxide in your tissues, and that turns on the production of lactic acid, which turns on the stress hormones. So cortisol is a natural adaptation to low thyroid, and the low thyroid means that you are not producing carbon dioxide at a high enough rate. So even if you don't seem to be hyperventilating and are not breathing much at all because you don't need much oxygen, a hypothyroid person always has elevated lactic acid in relation to CO2 in the body.
+
+**CONTEXT:** Interesting, wow. Wow, wow, wow. Well, let me do this first. Does Dr. Pete have any advice for an ongoing seborrheic dermatitis? I'm worried that it's kind of an autoimmune response from old vaccines. I would be interested to know what Dr. Pete thinks about it. Homeopathic medicine as well, in general.
+
+**RAY PEAT:** I haven't had any experience with homeopathics for that, but vitamin D and the calcium-phosphate ratio in the diet are, I think, the first things that should be explored. Vitamin D has many effects on the skin. For example, psoriasis, sunburn, all kinds of things are improved by getting your vitamin D level up.
+
+**CONTEXT:** Good morning. Would you please ask Dr. Pete what his thoughts are on these natural thyroid pills all being recalled? How are those people without thyroids, how are we going to make it?
+
+**RAY PEAT:** Oh yeah, I think some of the slaughterhouses were slipping in other glandular tissues, diluting the actual thyroid substance, so some of the products were extremely weak, like a fifth of what the label said, which is only possible if other non-thyroid material got into the batch. The normal pig or cow population varies in their own thyroid function. So even with the purest glandular selection at the slaughterhouse, there will be variation. So each batch should be tested carefully, but the FDA hasn't been interested in proper regulation of the glandular products, neither the USP organization. I found out 50 years ago that all they looked at was the iodine content, and so many companies were getting away selling any old protein, like gelatin or powdered milk, with iodine added, calling it natural desiccated thyroid, because the USP required testing only for iodine.
+
+**CONTEXT:** It really can be an anti-thyroid factor. Fascinating. A couple more here. Is there anything that can be done to help with bacterial mold fungus in the nasal passages without fear of sending something to the brain?
+
+**RAY PEAT:** There are non-toxic remedies. I think the first thing is to make sure your immune system is good. Having blood tests for thyroid and vitamin D and cortisol and so on. Make sure your immune system is okay, and then consider some of the natural topical treatments. And it depends on exactly where the fungus is.
+
+**CONTEXT:** Okay, here's a great one. We'll end with this one here. This is fun. Could you please ask these questions to Dr. Pete? Alright sir, you have three of them here and then we'll let you go. The first one is, what does Dr. Pete think what happens after death?
+
+**RAY PEAT:** Basically, many interesting books and experiments have been written. A physicist professor in Texas wrote a book on the New Paradigm, and he wrote a book on summarizes lots of research on the subject, and some other interpretations. Michael Persinger, for example, has the idea of consciousness interacting with, resonating with, and having echoes in the planetary resonance. *No More Secrets* is the title of one of his videos, and it overlaps with this book on the New Paradigm, a lot of interesting theories of exactly what might happen.
+
+**CONTEXT:** Sure, yeah, lots of research on that. And his second question is, would you ever consider playing the cello on the show?
+
+**RAY PEAT:** No.
+
+**CONTEXT:** No, okay. That was easy. And is there a sport that you enjoy either playing yourself or watching?
+
+**RAY PEAT:** Oh, I haven't for a long time done anything called a sport. But I always enjoyed ping pong and tennis. Those were the only sport-like activities I've enjoyed very much.
+
+**CONTEXT:** Yeah, well, Dr. Pete, it's always such an honor to talk to you. You're one of our favorites because so many people like listening to you around the world. Thanks for being here. If you would like to get Dr. Pete's newsletter, it's raypetesnewsletter.gmail.com. Ray Pete's Plural Newsletter at gmail.com. And he'll set you up and you can also go to his website raypete.com and read a lot of different articles and learn more about him. So I hope the skies clear up there sir and we'll be talking to you I guess in around 30 days or so.
+
+**RAY PEAT:** Okay, very good. Thank you.
+
+**CONTEXT:** Thank you sir, it's an honor. Thank you. Dr. Ray Pete, Patrick Timpone, OneRadioNetwork.com. It's always fun having Dr. Pete on. So I guess we're just gonna blow out of here and have a little lunch ourselves, and I think I'm gonna start doing those carrot things. What do you think?
+
+**RAY PEAT:** I did it for a while, and then all of a sudden, yeah. So that's just a grate of carrot every day with a little bit of vinegar, olive oil, a little bit of salt. And Dr. Pete says that that'll help you to get your whole, the bacteria thing all in line, and we know that's so important. And then the cooked mushrooms, I've been doing that with Dr. Pete's recommendations, and my body sure likes those, so you might try that. All different kinds of mushrooms, just make sure you cook them up. You can do them in ghee or and then little spices and stuff like that.

@@ -1,0 +1,91 @@
+
+
+**RAY PEAT:** The concentration of a hormone in the blood doesn't directly represent the concentration in the various organs. The amount of estrogen in tissue is decreased when progesterone is abundant. In the absence of progesterone, tissues retain estrogen even when there is little estrogen circulating in the blood. Many things suggest an increased estrogenic activity at menopause. For example, melatonin decreases sharply at puberty when estrogen increases, and then it decreases again at menopause. Prolactin (stimulated by estrogen) increases around puberty, and instead of decreasing at menopause, it often increases, and its increase is associated with osteoporosis and other age-related symptoms. Estrogen is produced in many tissues by the enzyme aromatase, even in the breast and endometrium, although these are considered "target tissues" rather than endocrine glands. Aromatase increases with aging. Estrogen is inactivated, mainly in the liver and brain, by being made water soluble by the attachment of glucuronic acid and/or sulfuric acid. Estrogen's concentration in a particular tissue depends on many things, including its affinity or binding strength for components of that tissue, relative to its affinity for the blood; the activity in that tissue of the aromatase enzyme, which converts androgens to estrogen; the activity of the glucuronidase enzyme, that converts water-soluble estrogen glucuronides into the oil soluble active forms of estrogen; and the sulfatases and several other enzymes that modify the activity and solubility of the estrogens. The "estrogen receptors," proteins which bind estrogens in cells, are inactivated by progesterone, and activated by many physical and chemical conditions. Inflammation activates beta-glucuronidase, and antiinflammatory substances such as aspirin reduce many of estrogen's effects.
+
+**CONTEXT:** What is the fundamental misunderstanding regarding estrogen replacement therapy and its relation to tissue-bound estrogen?
+
+**RAY PEAT:** The "Estrogen Replacement" industry is based on the doctrine that a woman's tissues are depleted of estrogen after menopause. This doctrine is false.
+
+**CONTEXT:** How does progesterone influence tissue estrogen levels?
+
+**RAY PEAT:** The amount of estrogen in tissue is decreased when progesterone is abundant. In the absence of progesterone, tissues retain estrogen even when there is little estrogen circulating in the blood.
+
+**CONTEXT:** What are some indicators of increased estrogenic activity around menopause?
+
+**RAY PEAT:** Many things suggest an increased estrogenic activity at menopause. For example, melatonin decreases sharply at puberty when estrogen increases, and then it decreases again at menopause. Prolactin (stimulated by estrogen) increases around puberty, and instead of decreasing at menopause, it often increases, and its increase is associated with osteoporosis and other age-related symptoms.
+
+**CONTEXT:** Where is estrogen produced in the body, and how does this change with aging?
+
+**RAY PEAT:** Estrogen is produced in many tissues by the enzyme aromatase, even in the breast and endometrium, although these are considered "target tissues" rather than endocrine glands. Aromatase increases with aging.
+
+**CONTEXT:** How is estrogen inactivated in the body?
+
+**RAY PEAT:** Estrogen is inactivated, mainly in the liver and brain, by being made water soluble by the attachment of glucuronic acid and/or sulfuric acid.
+
+**CONTEXT:** What factors determine the concentration of estrogen within a specific tissue?
+
+**RAY PEAT:** Estrogen's concentration in a particular tissue depends on many things, including its affinity or binding strength for components of that tissue, relative to its affinity for the blood; the activity in that tissue of the aromatase enzyme, which converts androgens to estrogen; the activity of the glucuronidase enzyme, that converts water-soluble estrogen glucuronides into the oil soluble active forms of estrogen; and the sulfatases and several other enzymes that modify the activity and solubility of the estrogens. The "estrogen receptors," proteins which bind estrogens in cells, are inactivated by progesterone, and activated by many physical and chemical conditions.
+
+**CONTEXT:** How does inflammation affect estrogen metabolism?
+
+**RAY PEAT:** Inflammation activates beta-glucuronidase, and antiinflammatory substances such as aspirin reduce many of estrogen's effects.
+
+**CONTEXT:** What is the scientific basis for the hormone replacement therapy industry, and how has the understanding of hormone activity evolved?
+
+**RAY PEAT:** The immense Hormone Replacement Therapy industry—which Brown-Séquard’s experiments foreshadowed—is based on the fact that the concentrations of some hormones in the blood serum decrease with aging. At first, it was assumed that the amount of the hormone in the blood corresponded to the effectiveness of that hormone. Whatever was in the blood was being delivered to the “target tissues.” But as the idea of measuring “protein bound iodine” (PBI) to determine thyroid function came into disrepute (because it never had a scientific basis at all), new ideas of measuring “active hormones” came into the marketplace, and currently the doctrine is that the “bound” hormones are inactive, and the active hormones are “free.” The “free” hormones are supposed to be the only ones that can get into the cells to deliver their signals, but the problem is that “free hormones” exist only in the imagination of people who interpret certain lab tests, as I discussed in the newsletter on thyroid tests (May, 2000). In the 1960s and 1970s, when the PBI test was disappearing, there was intense interest in—a kind of mania regarding—the role of “membranes” in regulating cell functions, and the membrane was still seen by most biologists as the “semipermeable membrane” which, “obviously,” would exclude molecules as large as albumin and the other proteins that carry thyroid and other hormones in the blood. (In reality, and experimental observations, albumin and other proteins enter cells more or less freely, depending on prevailing conditions.) The membrane doctrine led directly to the “free hormone” doctrine.
+
+**CONTEXT:** If cell membranes regulate hormone passage, how relevant are blood hormone measurements?
+
+**RAY PEAT:** But if the membrane regulates the passage of hormones from blood to tissue cells, and especially if pumps are needed to move the hormone into the cell, how relevant is the measurement of hormones in the blood?
+
+**CONTEXT:** How do oil-soluble molecules like progesterone and thyroid hormone behave within cells, and what is the nature of their binding to proteins?
+
+**RAY PEAT:** Within the blood, progesterone and thyroid hormone (T3) are much more concentrated in the red blood cells than in the serum. Since it isn’t likely that red blood cells are “targets” for the sex hormones, or for progesterone or even thyroid, their concentration “against their gradient” in these cells suggests that a simple distribution by solubility is involved. Oily substances just naturally tend to concentrate inside cells because of their insolubility in the watery environment of the plasma and extracellular fluid. Proteins that have “oily” regions effectively bind oily molecules, such as fats and steroids. Even red blood cells have such proteins. In the case of oil soluble molecules, such as progesterone and estrogen, it’s important to explain that most of their “binding” to proteins or other oil-loving molecules is really the nearly passive consequence of the molecules’ being forced away from the watery phase—they are hydrophobic, and although it would take a great amount of energy to make these insoluble substances enter the watery phase, the attractive force between them and the cell is usually small. This means that they can be freely mobile, while “bound” or concentrated within the cell. The oxygen atoms, and especially the phenolic group of estrogen, slightly reduce the hormones’ affinity for simple oils, but they interact with other polar or aromatic groups, giving estrogen the ability to bind more strongly and specifically with some proteins and other molecules. Enzymes which catalyze estrogen’s oxidation-reduction actions are among the specific estrogen-binding proteins.
+
+**CONTEXT:** What is the role of estrogen receptors, and how does progesterone interact with them?
+
+**RAY PEAT:** Many proteins and lipoproteins bind steroids, but some intracellular proteins bind them so strongly that they have been—in a very teleological, if not anthropomorphic, way—considered as the switch by which the hormone turns on the cellular response. In the popular doctrine of the Estrogen Receptor, a few molecules of estrogen bind to the receptors, which carry them to the nucleus of the cell, where the activated receptors turn on the genes in charge of the female response. (Or the male response, or the growth response, or the atrophy response, or whatever genetic response estrogen is producing.) Once the switch has been thrown, the estrogen molecules have fulfilled their hormonal duty, and must get lost, so that the response isn’t perpetuated indefinitely by a few molecules. Although the Estrogen Receptor doctrine is worse than silly, there are real proteins which bind estrogen, and some of these are called receptors. The uterus, breast, and brain, which are very responsive to estrogen, bind, or concentrate, estrogen molecules.
+
+**CONTEXT:** What did S. Batra's research reveal about estrogen concentrations in tissue versus plasma, particularly in relation to progesterone levels?
+
+**RAY PEAT:** When I was working on my dissertation, I tried to extract estrogens from hamster uteri, but the chemical techniques I was using to measure estrogen weren’t accurate for such small quantities. A few years later, S. Batra was able to extract the estrogen from human tissue in quantities large enough for accurate analysis by radioimmunoassay. (Batra, 1976.) His crucial observation was that the difference in estrogen concentration between tissue and blood was lowest in the luteal phase, when progesterone is high: “The tissue/plasma ratio of E2 [estradiol] ranged from 1.45 to 20.36 with very high values in early follicular phase and the lowest in mid-luteal phase.” This means that progesterone prevents the tissue from concentrating estrogen. He made similar observations during pregnancy, with tissue estrogen decreasing as blood progesterone increased, so that there is less estrogen in the tissue than in the plasma. But in women who aren’t pregnant, and when their progesterone is low, the tissues may contain 20 to 30 times more estrogen than the plasma (in equal volumes).
+
+**CONTEXT:** How does aging affect tissue estrogen concentration, and what is the role of progesterone in this process?
+
+**RAY PEAT:** In aging, the sharply decreased progesterone production creates a situation resembling the follicular phase of the menstrual cycle, allowing tissues to concentrate estrogen even when the serum estrogen may be low. “In postmenopausal women, the tissue concentration of E2 was not significantly lower than in menstruating women in follicular phase. . . .” (Akerlund, et al., 1981.) Besides the relatively direct actions of progesterone on the estrogen receptors, keeping their concentration low, and its indirect action by preventing prolactin from stimulating the formation of estrogen receptors, there are many other processes that can increase or decrease the tissue concentration of estrogen, and many of these influences change with aging.
+
+**CONTEXT:** What are the two main enzymes involved in estrogen production and activation, and how do they relate to aging and liver function?
+
+**RAY PEAT:** There are two kinds of enzyme that produce estrogen. Aromatase converts male hormones into estrogen. Beta-glucuronidase converts the inactive estrogen-glucuronides into active estrogen. The healthy liver inactivates practically all the estrogen that reaches it, mostly by combining it with the “sugar acid,” glucuronic acid. This makes the estrogen water soluble, and it is quickly eliminated in the urine. But when it passes through inflamed tissue, these tissues contain large amounts of beta-glucuronidase, which will remove the glucuronic acid, leaving the pure estrogen to accumulate in the tissue. Many kinds of liver impairment decrease its ability to excrete estrogen, and estrogen contributes to a variety of liver diseases. The work of the Biskinds in the 1940s showed that a dietary protein deficiency prevented the liver from detoxifying estrogen. Hypothyroidism prevents the liver from attaching glucuronic acid to estrogen, and so increases the body’s retention of estrogen, which in turn impairs the thyroid gland’s ability to secrete thyroid hormone. Hypothyroidism often results from nutritional protein deficiency.
+
+**CONTEXT:** Beyond the ovaries, where else is estrogen produced, and what factors influence aromatase activity?
+
+**RAY PEAT:** Although we commonly think of the ovaries as the main source of estrogen, the enzyme which makes it can be found in all parts of the body. Surprisingly, in rhesus monkeys, aromatase in the arms accounts for a very large part of estrogen production. Fat and the skin are major sources of estrogen, especially in older people. The activity of aromatase increases with aging, and under the influence of prolactin, cortisol, prostaglandin, and the pituitary hormones, FSH (follicle stimulating hormone) and growth hormone. It is inhibited by progesterone, thyroid, aspirin, and high altitude. Aromatase can produce estrogen in fat cells, fibroblasts, smooth muscle cells, breast and uterine tissue, pancreas, liver, brain, bone, skin, etc. Its action in breast cancer, endometriosis, uterine cancer, lupus, gynecomastia, and many other diseases is especially important. Aromatase in mammary tissue appears to increase estrogen receptors and cause breast neoplasia, independently of ovarian estrogen (Tekmal, et al., 1999).
+
+**CONTEXT:** What happens to tissue aromatase activity when the gonads are removed, and what is the role of estrogen in brain aromatase activity?
+
+**RAY PEAT:** Women who have had their ovaries removed are usually told that they need to take estrogen, but animal experiments consistently show that removal of the gonads causes the tissue aromatases to increase. The loss of progesterone and ovarian androgens is probably responsible for this generalized increase in the formation of estrogen. In the brain, aromatase increases under the influence of estrogen treatment.
+
+**CONTEXT:** What is sulfatase, and what inhibits its activity?
+
+**RAY PEAT:** Sulfatase is another enzyme that releases estrogen in tissues, and its activity is inhibited by antiestrogenic hormones.
+
+**CONTEXT:** How does progesterone affect beta-glucuronidase, and what are the implications for estrogen activity?
+
+**RAY PEAT:** In at least some tissues, progesterone inhibits the release or activation of beta-glucuronidase (which, according to Cristofalo and Kabakjian, 1975, increases with aging). Glucaric acid, which inhibits this enzyme, is being used to treat breast cancer, and glucuronic acid also tends to inhibit the intracellular release of estrogen by beta-glucuronidase.
+
+**CONTEXT:** What is the historical understanding of estrogen's effects, and how does continuous exposure differ from intermittent exposure?
+
+**RAY PEAT:** Although there is clearly a trend toward the rational use of antiestrogenic treatments for breast cancer, in other diseases the myth of estrogen deficiency still prevents even rudimentary approaches. Ever since Lipshutz’ work in the 1940s, it has been established that the uninterrupted effect of a little estrogen is more harmful than larger but intermittent exposures. But after menopause, when progesterone stops its cyclic displacement of estrogen from the tissues, the tissues retain large amounts of estrogen continuously.
+
+**CONTEXT:** What is the proposed mechanism for menopause, and how does unopposed estrogen contribute to aging?
+
+**RAY PEAT:** The menopause itself is produced by the prolonged exposure to estrogen beginning in puberty, in spite of the monthly protection of the progesterone produced by cycling ovaries. The unopposed action of the high concentration of tissue-bound estrogen after menopause must be even more harmful.
+
+**CONTEXT:** What hormonal changes occur with aging in both men and women, and what role does progesterone play in female longevity?
+
+**RAY PEAT:** The decline of the antiestrogenic factors in aging, combined with the increase of pro-estrogenic factors such as cortisol and prolactin and FSH, occurs in both men and women. During the reproductive years, women’s cyclic production of large amounts of progesterone probably retards their aging enough to account for their greater longevity. Childbearing also has a residual antiestrogenic effect and is associated with increased longevity.
+
+**CONTEXT:** What is the overall implication of increased estrogen exposure with aging?
+
+**RAY PEAT:** Being aware of this pervasive increase in estrogen exposure with aging should make it possible to marshal a comprehensive set of methods for opposing that trend toward degeneration.

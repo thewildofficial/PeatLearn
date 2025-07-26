@@ -1,0 +1,221 @@
+
+
+**RAY PEAT:** Each of the indicators of thyroid function can be useful, but has to be interpreted in relation to the physiological state.
+
+**CONTEXT:** How should thyroid function be assessed?
+
+**RAY PEAT:** Increasingly, TSH (the pituitary thyroid stimulating hormone) has been treated as if it meant something independently; however, it can be brought down into the normal range, or lower, by substances other than the thyroid hormones.
+
+**CONTEXT:** What are the limitations of TSH as a diagnostic marker?
+
+**RAY PEAT:** “Basal” body temperature is influenced by many things besides thyroid. The resting heart rate helps to interpret the temperature. In a cool environment, the temperature of the extremities is sometimes a better indicator than the oral or eardrum temperature.
+
+**CONTEXT:** How can body temperature be better interpreted?
+
+**RAY PEAT:** The “basal” metabolic rate, especially if the rate of carbon dioxide production is measured, is very useful. The amount of water and calories disposed of in a day can give a rough idea of the metabolic rate.
+
+**CONTEXT:** What are other useful indicators of metabolic rate?
+
+**RAY PEAT:** The T wave on the electrocardiogram, and the relaxation rate on the Achilles reflex test are useful.
+
+**CONTEXT:** What other physiological indicators are relevant?
+
+**RAY PEAT:** Blood tests for cholesterol, albumin, glucose, sodium, lactate, total thyroxine and total T3 are useful to know, because they help to evaluate the present thyroid status, and sometimes they can suggest ways to correct the problem.
+
+**CONTEXT:** What blood tests are helpful for evaluating thyroid status?
+
+**RAY PEAT:** Less common blood or urine tests (adrenaline, cortisol, ammonium, free fatty acids), if they are available, can help to understand compensatory reactions to hypothyroidism.
+
+**CONTEXT:** What less common tests can provide insight into hypothyroidism?
+
+**RAY PEAT:** A book such as McGavack's *The Thyroid*, that provides traditional medical knowledge about thyroid physiology, can help to dispel some of the current dogmas about the thyroid.
+
+**CONTEXT:** What resources can help in understanding thyroid physiology?
+
+**RAY PEAT:** Using more physiologically relevant methods to diagnose hypothyroidism will contribute to understanding its role in many problems now considered to be unrelated to the thyroid.
+
+**CONTEXT:** What is the broader implication of using better diagnostic methods for hypothyroidism?
+
+**RAY PEAT:** I have spoken to several people who told me that their doctors had diagnosed them as “both hypothyroid and hyperthyroid.” Although physicists can believe in things which are simultaneously both particles and not particles, I think biology (and medicine, as far as it is biologically based) should occupy a world in which things are not simultaneously themselves and their opposites. Those illogical, impossible diagnoses make it clear that the rules for interpreting test results have in some situations lost touch with reality.
+
+**CONTEXT:** What is the issue with contradictory diagnoses in medicine?
+
+**RAY PEAT:** Until the 1940s, hypothyroidism was diagnosed on the basis of signs and symptoms, and sometimes the measurement of oxygen consumption (“basal metabolic rate”) was used for confirmation. Besides the introduction of supposedly “scientific” blood tests, such as the measurement of protein-bound iodine (PBI) in the blood, there were other motives for becoming parsimonious with the diagnosis of hypothyroidism. With the introduction of synthetic thyroxine, one of the arguments for increasing its sale was that natural Armour thyroid (which was precisely standardized by biological tests) wasn't properly standardized, and that an overdose could be fatal. A few articles in prestigious journals created a myth of the danger of thyroid, and the synthetic thyroxine was (falsely) said to be precisely standardized, and to be without the dangers of the complete glandular extract.
+
+**CONTEXT:** How has the diagnosis and treatment of hypothyroidism changed historically?
+
+**RAY PEAT:** Between 1940 and about 1950, the estimated percentage of hypothyroid Americans went from 30% or 40% to 5%, on the basis of the PBI test, and it has stayed close to that lower number (many publications claim it to be only 1% or 2%). By the time that the measurement of PBI was shown to be only vaguely related to thyroid hormonal function, it had been in use long enough for a new generation of physicians to be taught to disregard the older ideas about diagnosing and treating hypothyroidism. They were taught to inform their patients that the traditional symptoms that were identified as hypothyroidism before 1950 were the result of the patients' own behavior (sloth and gluttony, for example, which produced fatigue, obesity, and heart disease), or that the problems were imaginary (women's hormonal and neurological problems, especially), or that they were simply mysterious diseases and defects (recurring infections, arthritis, and cancer, for example).
+
+**CONTEXT:** What was the impact of new diagnostic tests on the perception of hypothyroidism?
+
+**RAY PEAT:** As the newer, more direct tests became available, their meaning was defined in terms of the statistical expectation of hypothyroidism that had become an integral part of medical culture. To make the new TSH measurements fit the medical doctrine, an 8- or 10-fold variation in the hormone was defined as “normal.” With any other biological measurement, such as erythrocyte count, blood pressure, body weight, or serum sodium, calcium, chloride, or glucose, a variation of ten or 20 percent from the mean is considered to be meaningful. If the doctrine regarding the 5% prevalence of hypothyroidism hadn't been so firmly established, there would have been more interest in establishing the meaning of these great variations in TSH.
+
+**CONTEXT:** How were new TSH measurements standardized, and what is the implication of this standardization?
+
+**RAY PEAT:** In recent years the “normal range” for TSH has been decreasing. In 2003, the American Association of Clinical Endocrinologists changed their guidelines for the normal range to 0.3 to 3.0 microIU/ml. But even though this lower range is less arbitrary than the older standards, it still isn't based on an understanding of the physiological meaning of TSH.
+
+**CONTEXT:** What has been the trend in TSH normal ranges, and what is the critique of these ranges?
+
+**RAY PEAT:** Over a period of several years, I never saw a person whose TSH was over 2 microIU/ml who was comfortably healthy, and I formed the impression that the normal, or healthy, quantity was probably something less than 1.0.
+
+**CONTEXT:** What is your personal observation regarding healthy TSH levels?
+
+**RAY PEAT:** If a pathologically high TSH is defined as normal, its role in major diseases, such as breast cancer, mastalgia, MS, fibrotic diseases, and epilepsy, will simply be ignored. Even if the possibility is considered, the use of an irrational norm, instead of a proper comparison, such as the statistical difference between the mean TSH levels of cases and controls, leads to denial of an association between hypothyroidism and important diseases, despite evidence that indicates an association.
+
+**CONTEXT:** What are the consequences of defining pathologically high TSH as normal?
+
+**RAY PEAT:** Some critics have said that most physicians are “treating the TSH,” rather than the patient. If TSH is itself pathogenic, because of its pro-inflammatory actions, then that approach isn't entirely useless, even when they “treat the TSH” with only thyroxine, which often isn't well converted into the active triiodothyronine, T3. But the relief of a few symptoms in a small percentage of the population is serving to blind the medical world to the real possibilities of thyroid therapy.
+
+**CONTEXT:** What is the criticism of physicians "treating the TSH," and what is the counterpoint?
+
+**RAY PEAT:** TSH has direct actions on many cell types other than the thyroid, and probably contributes directly to edema (Wheatley and Edwards, 1983), fibrosis, and mastocytosis. If people are concerned about the effects of a TSH “deficiency,” then I think they have to explain the remarkable longevity of the animals lacking pituitaries in W.D. Denckla's experiments, or of the naturally pituitary deficient dwarf mice that lack TSH, prolactin, and growth hormone, but live about a year longer than normal mice (Heiman, et al., 2003). Until there is evidence that very low TSH is somehow harmful, there is no basis for setting a lower limit to the normal range.
+
+**CONTEXT:** What are the direct actions of TSH on non-thyroid cells, and what is the evidence regarding TSH deficiency?
+
+**RAY PEAT:** Some types of thyroid cancer can usually be controlled by keeping TSH completely suppressed. Since TSH produces reactions in cells as different as fibroblasts and fat cells, pigment cells in the skin, mast cells and bone marrow cells (Whetsell, et al., 1999), it won't be surprising if it turns out to have a role in the development of a variety of cancers, including melanoma.
+
+**CONTEXT:** What is the role of TSH in cancer, and how can it be managed?
+
+**RAY PEAT:** Many things, including the liver and the senses, regulate the function of the thyroid system, and the pituitary is just one of the factors affecting the synthesis and secretion of the thyroid hormones.
+
+**CONTEXT:** What factors regulate the thyroid system beyond the pituitary?
+
+**RAY PEAT:** A few people who had extremely low levels of pituitary hormones, and were told that they must take several hormone supplements for the rest of their life, began producing normal amounts of those hormones within a few days of eating more protein and fruit. Their endocrinologist described them as, effectively, having no pituitary gland. Extreme malnutrition in Africa has been described as creating “. . . a condition resembling hypophysectomy,” (Ingenbleek and Beckers, 1975) but the people I talked to in Oregon were just following what they thought were healthful nutritional policies, avoiding eggs and sugars, and eating soy products.
+
+**CONTEXT:** What is the relationship between nutrition and pituitary hormone production?
+
+**RAY PEAT:** Occasionally, a small supplement of thyroid in addition to a good diet is needed to quickly escape from the stress-induced “hypophysectomized” condition.
+
+**CONTEXT:** When might thyroid supplementation be necessary in conjunction with diet?
+
+**RAY PEAT:** Aging, infection, trauma, prolonged cortisol excess, somatostatin, dopamine or L-dopa, adrenaline (sometimes; Mannisto, et al., 1979), amphetamine, caffeine and fever can lower TSH, apart from the effect of feedback by the thyroid hormones, creating a situation in which TSH can appear normal or low, at the same time that there is a real hypothyroidism.
+
+**CONTEXT:** What factors can lower TSH and mask hypothyroidism?
+
+**RAY PEAT:** A disease or its treatment can obscure the presence of hypothyroidism. Parkinson's disease is a clear example of this. (Garcia-Moreno and Chacon, 2002: “... in the same way hypothyroidism can simulate Parkinson's disease, the latter can also conceal hypothyroidism.”)
+
+**CONTEXT:** How can certain diseases obscure hypothyroidism?
+
+**RAY PEAT:** The stress-induced suppression of TSH and other pituitary hormones is reminiscent of the protective inhibition that occurs in individual nerve fibers during dangerously intense stress, and might involve such a “parabiotic” process in the nerves of the hypothalamus or other brain region. The relative disappearance of the pituitary hormones when the organism is in very good condition (for example, the suppression of ACTH and cortisol by sugar or pregnenolone) is parallel to the high energy quiescence of individual nerve fibers.
+
+**CONTEXT:** What is the mechanism behind stress-induced suppression of pituitary hormones?
+
+**RAY PEAT:** These associations between energy state and cellular activity can be used for evaluating the thyroid state, as in measuring nerve and muscle reaction times and relaxation rates. For example, relaxation which is retarded, because of slow restoration of the energy needed for cellular “repolarization,” is the basis for the traditional use of the Achilles tendon reflex relaxation test for diagnosing hypothyroidism. The speed of relaxation of the heart muscle also indicates thyroid status (Mohr-Kahaly, et al., 1996).
+
+**CONTEXT:** How can energy state and cellular activity be used to evaluate thyroid function?
+
+**RAY PEAT:** Stress, besides suppressing the TSH, acts in other ways to suppress the real thyroid function. Cortisol, for example, inhibits the conversion of T4 to T3, which is responsible for the respiratory production of energy and carbon dioxide. Adrenaline, besides leading to increased production of cortisol, is lipolytic, releasing the fatty acids which, if they are polyunsaturated, inhibit the production and transport of thyroid hormone, and also interfere directly with the respiratory functions of the mitochondria. Adrenaline decreases the conversion to T4 to T3, and increases the formation of the antagonistic reverse T3 (Nauman, et al., 1980, 1984).
+
+**CONTEXT:** How does stress negatively impact thyroid function beyond TSH suppression?
+
+**RAY PEAT:** During the night, at the time adrenaline and free fatty acids are at their highest, TSH usually reaches its peak. TSH itself can produce lipolysis, raising the level of circulating free fatty acids. This suggests that a high level of TSH could sometimes contribute to functional hypothyroidism, because of the antimetabolic effects of the unsaturated fatty acids.
+
+**CONTEXT:** What is the relationship between TSH, adrenaline, free fatty acids, and hypothyroidism?
+
+**RAY PEAT:** These are the basic reasons for thinking that the TSH tests should be given only moderate weight in interpreting thyroid function.
+
+**CONTEXT:** What is the overall conclusion regarding the interpretation of TSH tests?
+
+**RAY PEAT:** The metabolic rate is very closely related to thyroid hormone function, but defining it and measuring it have to be done with awareness of its complexity.
+
+**CONTEXT:** How should metabolic rate be understood in relation to thyroid function?
+
+**RAY PEAT:** The basal metabolic rate that was commonly used in the 1930s for diagnosing thyroid disorders was usually a measurement of the rate of oxygen consumption, made while lying quietly early in the morning without having eaten anything for several hours. When carbon dioxide production can be measured at the same time as oxygen consumption, it's possible to estimate the proportion of energy that is being derived from glucose, rather than fat or protein, since oxidation of glucose produces more carbon dioxide than oxidation of fat does. Glucose oxidation is efficient, and suggests a state of low stress.
+
+**CONTEXT:** How was basal metabolic rate measured historically, and what is the significance of measuring carbon dioxide production?
+
+**RAY PEAT:** The very high adrenaline that sometimes occurs in hypothyroidism will increase the metabolic rate in several ways, but it tends to increase the oxidation of fat. If the production of carbon dioxide is measured, the adrenaline/stress component of metabolism will be minimized in the measurement. When polyunsaturated fats are mobilized, their spontaneous peroxidation consumes some oxygen, without producing any usable energy or carbon dioxide, so this is another reason that the production of carbon dioxide is a very good indicator of thyroid hormone activity. The measurement of oxygen consumption was usually done for two minutes, and carbon dioxide production could be accurately measured in a similarly short time. Even a measurement of the percentage of carbon dioxide at the end of a single breath can give an indication of the stress-free, thyroid hormone stimulated rate of metabolism (it should approach five or six percent of the expired air).
+
+**CONTEXT:** How does adrenaline affect metabolic rate, and why is carbon dioxide production a good indicator of thyroid activity?
+
+**RAY PEAT:** Increasingly in the last several years, people who have many of the standard symptoms of hypothyroidism have told me that they are hyperthyroid, and that they have to decide whether to have surgery or radiation to destroy their thyroid gland. They have told me that their symptoms of “hyperthyroidism,” according to their physicians, were fatigue, weakness, irritability, poor memory, and insomnia.
+
+**CONTEXT:** What is the paradox of patients presenting with symptoms of hypothyroidism but being diagnosed with hyperthyroidism?
+
+**RAY PEAT:** They didn't eat very much. They didn't sweat noticeably, and they drank a moderate amount of fluids. Their pulse rates and body temperature were normal, or a little low.
+
+**CONTEXT:** What were the specific symptoms reported by these patients diagnosed with hyperthyroidism?
+
+**RAY PEAT:** Simply on the basis of some laboratory tests, they were going to have their thyroid gland destroyed. But on the basis of all of the traditional ways of judging thyroid function, they were hypothyroid.
+
+**CONTEXT:** What was the discrepancy between laboratory tests and traditional diagnostic methods for these patients?
+
+**RAY PEAT:** Broda Barnes, who worked mostly in Fort Collins, Colorado, argued that the body temperature, measured before getting out of bed in the morning, was the best basis for diagnosing thyroid function.
+
+**CONTEXT:** What was Broda Barnes' primary diagnostic criterion for thyroid function?
+
+**RAY PEAT:** Fort Collins, at a high altitude, has a cool climate most of the year. The altitude itself helps the thyroid to function normally. For example, one study (Savourey, et al., 1998) showed an 18% increase in T3 at a high altitude, and mitochondria become more numerous and are more efficient at preventing lactic acid production, capillary leakiness, etc.
+
+**CONTEXT:** How does high altitude affect thyroid function?
+
+**RAY PEAT:** In Eugene during a hot and humid summer, I saw several obviously hypothyroid people whose temperature seemed perfectly normal, euthyroid by Barnes' standards. But I noticed that their pulse rates were, in several cases, very low. It takes very little metabolic energy to keep the body at 98.6 degrees when the air temperature is in the nineties. In cooler weather, I began asking people whether they used electric blankets, and ignored their temperature measurements if they did.
+
+**CONTEXT:** What observations were made in Eugene regarding body temperature and pulse rate in hypothyroid individuals?
+
+**RAY PEAT:** The combination of pulse rate and temperature is much better than either one alone. I happened to see two people whose resting pulse rates were chronically extremely high, despite their hypothyroid symptoms. When they took a thyroid supplement, their pulse rates came down to normal. (Healthy and intelligent groups of people have been found to have an average resting pulse rate of 85/minute, while less healthy groups average close to 70/minute.)
+
+**CONTEXT:** Why is the combination of pulse rate and temperature a better indicator, and what is the significance of resting pulse rates?
+
+**RAY PEAT:** The speed of the pulse is partly determined by adrenaline, and many hypothyroid people compensate with very high adrenaline production. Knowing that hypothyroid people are susceptible to hypoglycemia, and that hypoglycemia increases adrenaline, I found that many people had normal (and sometimes faster than average) pulse rates when they woke up in the morning, and when they got hungry. Salt, which helps to maintain blood sugar, also tends to lower adrenalin, and hypothyroid people often lose salt too easily in their urine and sweat. Measuring the pulse rate before and after breakfast, and in the afternoon, can give a good impression of the variations in adrenalin. (The blood pressure, too, will show the effects of adrenaline in hypothyroid people. Hypothyroidism is a major cause of hypertension.)
+
+**CONTEXT:** How does adrenaline influence pulse rate in hypothyroid individuals, and what role does salt play?
+
+**RAY PEAT:** But hypoglycemia also tends to decrease the conversion of T4 to T3, so heat production often decreases when a person is hungry. First, their fingers, toes, and nose will get cold, because adrenalin, or adrenergic sympathetic nervous activity, will increase to keep the brain and heart at a normal temperature, by reducing circulation to the skin and extremities. Despite the temperature-regulating effect of adrenalin, the reduced heat production resulting from decreased T3 will make a person susceptible to hypothermia if the environment is cool.
+
+**CONTEXT:** How does hypoglycemia affect heat production and circulation?
+
+**RAY PEAT:** Since food, especially carbohydrate and protein, will increase blood sugar and T3 production, eating is “thermogenic,” and the oral (or eardrum) temperature is likely to rise after eating.
+
+**CONTEXT:** Why is eating thermogenic, and how does it affect body temperature?
+
+**RAY PEAT:** Blood sugar falls at night, and the body relies on the glucose stored in the liver as glycogen for energy, and hypothyroid people store very little sugar. As a result, adrenalin and cortisol begin to rise almost as soon as a person goes to bed, and in hypothyroid people, they rise very high, with the adrenalin usually peaking around 1 or 2 A.M., and the cortisol peaking around dawn; the high cortisol raises blood sugar as morning approaches, and allows adrenalin to decline. Some people wake up during the adrenalin peak with a pounding heart, and have trouble getting back to sleep unless they eat something.
+
+**CONTEXT:** What happens to blood sugar and stress hormones during the night in hypothyroid individuals?
+
+**RAY PEAT:** If the night-time stress is very high, the adrenalin will still be high until breakfast, increasing both temperature and pulse rate. The cortisol stimulates the breakdown of muscle tissue and its conversion to energy, so it is thermogenic, for some of the same reasons that food is thermogenic.
+
+**CONTEXT:** How does sustained high adrenaline and cortisol affect temperature and pulse rate in the morning?
+
+**RAY PEAT:** After eating breakfast, the cortisol (and adrenalin, if it stayed high despite the increased cortisol) will start returning to a more normal, lower level, as the blood sugar is sustained by food, instead of by the stress hormones. In some hypothyroid people, this is a good time to measure the temperature and pulse rate. In a normal person, both temperature and pulse rate rise after breakfast, but in very hypothyroid people either, or both, might fall.
+
+**CONTEXT:** How does breakfast affect cortisol, adrenaline, temperature, and pulse rate in hypothyroid individuals?
+
+**RAY PEAT:** Some hypothyroid people have a very slow pulse, apparently because they aren't compensating with a large production of adrenalin. When they eat, the liver's increased production of T3 is likely to increase both their temperature and their pulse rate.
+
+**CONTEXT:** What is the effect of eating on temperature and pulse rate in hypothyroid individuals with slow pulses?
+
+**RAY PEAT:** By watching the temperature and pulse rate at different times of day, especially before and after meals, it's possible to separate some of the effects of stress from the thyroid-dependent, relatively “basal” metabolic rate. When beginning to take a thyroid supplement, it's important to keep a chart of these measurements for at least two weeks, since that's roughly the half-life of thyroxine in the body. When the body has accumulated a steady level of the hormones, and begun to function more fully, the factors such as adrenaline that have been chronically distorted to compensate for hypothyroidism will have begun to normalize, and the early effects of the supplementary thyroid will in many cases seem to disappear, with heart rate and temperature declining. The daily dose of thyroid often has to be increased several times, as the state of stress and the adrenaline and cortisol production decrease.
+
+**CONTEXT:** How can temperature and pulse rate monitoring help in managing thyroid supplementation, and what is the expected progression?
+
+**RAY PEAT:** Counting calories achieves approximately the same thing as measuring oxygen consumption, and is something that will allow people to evaluate the various thyroid tests they may be given by their doctor. Although food intake and metabolic rate vary from day to day, an approximate calorie count for several days can often make it clear that a diagnosis of hyperthyroidism is mistaken. If a person is eating only about 1800 calories per day, and has a steady and normal body weight, any “hyperthyroidism” is strictly metaphysical, or as they say, “clinical.”
+
+**CONTEXT:** How can calorie counting be used to evaluate thyroid function and diagnose hyperthyroidism?
+
+**RAY PEAT:** When the humidity and temperature are normal, a person evaporates about a liter of water for every 1000 calories metabolized. Eating 2000 calories per day, a normal person will take in about four liters of liquid, and form about two liters of urine. A hyperthyroid person will invisibly lose several quarts of water in a day, and a hypothyroid person may evaporate a quart or less.
+
+**CONTEXT:** How does water metabolism relate to calorie intake and thyroid status?
+
+**RAY PEAT:** When cells, because of a low metabolic rate, don't easily return to their thoroughly energized state after they have been stimulated, they tend to take up water, or, in the case of blood vessels, to become excessively permeable. Fatigued muscles swell noticeably, and chronically fatigued nerves can swell enough to cause them to be compressed by the surrounding connective tissues. The energy and hydration state of cells can be detected in various ways, including magnetic resonance, and electrical impedance, but functional tests are easy and practical.
+
+**CONTEXT:** What are the cellular consequences of a low metabolic rate?
+
+**RAY PEAT:** With suitable measuring instruments, the effects of hypothyroidism can be seen as slowed conduction along nerves, and slowed recovery and readiness for new responses. Slow reaction time is associated with slowed memory, perception, and other mental processes. Some of these nervous deficits can be remedied slightly just by raising the core temperature and providing suitable nutrients, but the active thyroid hormone, T3 is mainly responsible for maintaining the temperature, the nutrients, and the intracellular respiratory energy production.
+
+**CONTEXT:** How does hypothyroidism affect nerve function, and what is the role of T3?
+
+**RAY PEAT:** In nerves, as in other cells, the ability to rest and repair themselves increases with the proper level of thyroid hormone. In some cells, the energized stability produced by the thyroid hormones prevents inflammation or an immunological hyperactivity. In the 1950s, shortly after it was identified as a distinct substance, T3 was found to be anti-inflammatory, and both T4 and T3 have a variety of anti-inflammatory actions, besides the suppression of the pro-inflammatory TSH.
+
+**CONTEXT:** What is the role of thyroid hormone in cellular repair and inflammation?
+
+**RAY PEAT:** Because the actions of T3 can be inhibited by many factors, including polyunsaturated fatty acids, reverse T3, and excess thyroxine, the absolute level of T3 can't be used by itself for diagnosis. “Free T3” or “free T4” is a laboratory concept, and the biological activity of T3 doesn't necessarily correspond to its “freedom” in the test. T3 bound to its transport proteins can be demonstrated to enter cells, mitochondria, and nuclei. Transthyretin, which carries both vitamin A and thyroid hormones, is sharply decreased by stress, and should probably be regularly measured as part of the thyroid examination.
+
+**CONTEXT:** Why is the absolute level of T3 not a reliable diagnostic marker, and what is the significance of transthyretin?
+
+**RAY PEAT:** When T3 is metabolically active, lactic acid won't be produced unnecessarily, so the measurement of lactate in the blood is a useful test for interpreting thyroid function. Cholesterol is used rapidly under the influence of T3, and ever since the 1930s it has been clear that serum cholesterol rises in hypothyroidism, and is very useful diagnostically. Sodium, magnesium, calcium, potassium, creatinine, albumin, glucose, and other components of the serum are regulated by the thyroid hormones, and can be used along with the various functional tests for evaluating thyroid function.
+
+**CONTEXT:** What other blood markers are useful for interpreting thyroid function?
+
+**RAY PEAT:** Stereotypes are important. When a very thin person with high blood pressure visits a doctor, hypothyroidism isn't likely to be considered; even high TSH and very low T4 and T3 are likely to be ignored, because of the stereotypes. (And if those tests were in the healthy range, the person would be at risk for the “hyperthyroid” diagnosis.) But remembering some of the common adaptive reactions to a thyroid deficiency, the catabolic effects of high cortisol and the circulatory disturbance caused by high adrenaline should lead to doing some of the appropriate tests, instead of treating the person's hypertension and “under nourished” condition.
+
+**CONTEXT:** How do stereotypes influence the diagnosis of hypothyroidism, and what adaptive reactions should be considered?
