@@ -1,0 +1,3974 @@
+{
+  "summary": {
+    "total_files": 552,
+    "total_pairs": 26326,
+    "total_tokens": 3660641,
+    "directories": {
+      "01_Audio_Transcripts": {
+        "file_count": 243,
+        "total_pairs": 14677,
+        "total_tokens": 2049815,
+        "files": [
+          {
+            "name": "Other_Interviews/orn-140101-nutrition-2.mp3-transcript_processed.txt",
+            "size_kb": 27.794921875,
+            "pair_count": 32,
+            "token_count": 6143,
+            "avg_tokens_per_pair": 191.96875
+          },
+          {
+            "name": "Other_Interviews/Talking with Ray Peat [Generative Energy #19] [HPrIPVAD6dI].mp3-transcript_processed.txt",
+            "size_kb": 36.02734375,
+            "pair_count": 29,
+            "token_count": 7809,
+            "avg_tokens_per_pair": 269.2758620689655
+          },
+          {
+            "name": "Other_Interviews/#32\uff1a Hormonal Imprinting \uff5c Fake History \uff5c Aristotelian Philosophy \uff5c Marx, Lenin, Stalin, and Lysenko [famOF8GYlbg].mp3-transcript_processed.txt",
+            "size_kb": 54.443359375,
+            "pair_count": 61,
+            "token_count": 11148,
+            "avg_tokens_per_pair": 182.75409836065575
+          },
+          {
+            "name": "Other_Interviews/#70\uff1a Life After Death\uff1f \uff5c Synchronicity \uff5c Sexual Insatiability \uff5c Deja Vu \uff5c Autoimmunity \uff5c Communism [Pdb_xOl3GJY].mp3-transcript_processed.txt",
+            "size_kb": 68.3603515625,
+            "pair_count": 88,
+            "token_count": 12301,
+            "avg_tokens_per_pair": 139.7840909090909
+          },
+          {
+            "name": "Other_Interviews/05.16.22 PEAT RAY [1269628684].mp3-transcript_processed.txt",
+            "size_kb": 42.3193359375,
+            "pair_count": 68,
+            "token_count": 9253,
+            "avg_tokens_per_pair": 136.0735294117647
+          },
+          {
+            "name": "Other_Interviews/11.16.20 Peat Ray [930557059].mp3-transcript_processed.txt",
+            "size_kb": 42.4091796875,
+            "pair_count": 73,
+            "token_count": 9208,
+            "avg_tokens_per_pair": 126.13698630136986
+          },
+          {
+            "name": "Other_Interviews/01.20.20 Ray Peat Honest and Uncensored, January 20, 2020 [746757790].mp3-transcript_processed.txt",
+            "size_kb": 42.435546875,
+            "pair_count": 63,
+            "token_count": 8999,
+            "avg_tokens_per_pair": 142.84126984126985
+          },
+          {
+            "name": "Other_Interviews/ewh-110603-milk-calcium-and-hormones.mp3-transcript_processed.txt",
+            "size_kb": 39.353515625,
+            "pair_count": 41,
+            "token_count": 8271,
+            "avg_tokens_per_pair": 201.73170731707316
+          },
+          {
+            "name": "Other_Interviews/#30\uff1a LSD, Serotonin, and Hallucinations \uff5c PUFA and Lipofuscin \uff5c Strategy of Tension \uff5c William Blake [JOEqOd4ceGA].mp3-transcript_processed.txt",
+            "size_kb": 89.5654296875,
+            "pair_count": 150,
+            "token_count": 19399,
+            "avg_tokens_per_pair": 129.32666666666665
+          },
+          {
+            "name": "Other_Interviews/#43\uff1a Body Temperature, Inflammation, and Aging \uff5c Copper and Thyroid \uff5c mRNA Vaccines and Infertility [bHKWkqrYqAY].mp3-transcript_processed.txt",
+            "size_kb": 149.736328125,
+            "pair_count": 627,
+            "token_count": 29063,
+            "avg_tokens_per_pair": 46.3524720893142
+          },
+          {
+            "name": "Other_Interviews/#76\uff1a Antistress Home Strategies \uff5c Grounding \uff5c Negative Ions \uff5c Allopathic Essentialism with Ray Peat [l61D8dJzVWk].mp3-transcript_processed.txt",
+            "size_kb": 137.9970703125,
+            "pair_count": 934,
+            "token_count": 28969,
+            "avg_tokens_per_pair": 31.016059957173447
+          },
+          {
+            "name": "Other_Interviews/09.17.19 Peat Ray One [682629224].mp3-transcript_processed.txt",
+            "size_kb": 32.8369140625,
+            "pair_count": 37,
+            "token_count": 7102,
+            "avg_tokens_per_pair": 191.94594594594594
+          },
+          {
+            "name": "Other_Interviews/11.19.19 Hormones, Thyroid and Much much more, November 19, 2019 [715603975].mp3-transcript_processed.txt",
+            "size_kb": 145.673828125,
+            "pair_count": 188,
+            "token_count": 31300,
+            "avg_tokens_per_pair": 166.48936170212767
+          },
+          {
+            "name": "Other_Interviews/voiceofamerica-130909-water.mp3-transcript_processed.txt",
+            "size_kb": 10.453125,
+            "pair_count": 15,
+            "token_count": 2154,
+            "avg_tokens_per_pair": 143.6
+          },
+          {
+            "name": "Other_Interviews/garynull-960101-thyroid-function-npr-thyroid-interview.mp3-transcript_processed.txt",
+            "size_kb": 30.4287109375,
+            "pair_count": 12,
+            "token_count": 6406,
+            "avg_tokens_per_pair": 533.8333333333334
+          },
+          {
+            "name": "Other_Interviews/05.17.21 Peat Ray [1050901948].mp3-transcript_processed.txt",
+            "size_kb": 43.1259765625,
+            "pair_count": 70,
+            "token_count": 9532,
+            "avg_tokens_per_pair": 136.17142857142858
+          },
+          {
+            "name": "Other_Interviews/blp-190722-a-casual-conversation-with-ray-peat.mp3-transcript_processed.txt",
+            "size_kb": 43.17578125,
+            "pair_count": 22,
+            "token_count": 8948,
+            "avg_tokens_per_pair": 406.72727272727275
+          },
+          {
+            "name": "Other_Interviews/10.18.21 Peat Ray [1144025140].mp3-transcript_processed.txt",
+            "size_kb": 47.208984375,
+            "pair_count": 93,
+            "token_count": 10945,
+            "avg_tokens_per_pair": 117.68817204301075
+          },
+          {
+            "name": "Other_Interviews/#19\uff1a Philosophy and Physiology \uff5c Metabolism and Consciousness \uff5c Deep Politics \uff5c Ray Peat [PF27zr95Lhg].mp3-transcript_processed.txt",
+            "size_kb": 35.435546875,
+            "pair_count": 53,
+            "token_count": 7356,
+            "avg_tokens_per_pair": 138.79245283018867
+          },
+          {
+            "name": "Other_Interviews/09.21.20 The True Natrue of a Virus, September 21, 2020 [897179593].mp3-transcript_processed.txt",
+            "size_kb": 52.3857421875,
+            "pair_count": 89,
+            "token_count": 11479,
+            "avg_tokens_per_pair": 128.97752808988764
+          },
+          {
+            "name": "Other_Interviews/yohaf-961112-thyroid-progesterone-and-diet.mp3-transcript_processed.txt",
+            "size_kb": 22.0693359375,
+            "pair_count": 30,
+            "token_count": 4644,
+            "avg_tokens_per_pair": 154.8
+          },
+          {
+            "name": "Other_Interviews/#67\uff1a Weaponized Art and Language \uff5c Iron Overload \uff5c Ant Physiology \uff5c PTH \uff5c Lactic Acid with Ray Peat [m0jvY2m6h28].mp3-transcript_processed.txt",
+            "size_kb": 44.4697265625,
+            "pair_count": 68,
+            "token_count": 9310,
+            "avg_tokens_per_pair": 136.91176470588235
+          },
+          {
+            "name": "Other_Interviews/01.18.21 Peat Ray January [968874163].mp3-transcript_processed.txt",
+            "size_kb": 28.9697265625,
+            "pair_count": 44,
+            "token_count": 6231,
+            "avg_tokens_per_pair": 141.61363636363637
+          },
+          {
+            "name": "Other_Interviews/The Origins of Authoritarianism with Ray Peat  [Generative Energy #28] [MBsFWsHgSCY].mp3-transcript_processed.txt",
+            "size_kb": 23.3154296875,
+            "pair_count": 14,
+            "token_count": 3785,
+            "avg_tokens_per_pair": 270.35714285714283
+          },
+          {
+            "name": "Other_Interviews/08.16.21 Peat Ray [1107776674].mp3-transcript_processed.txt",
+            "size_kb": 44.291015625,
+            "pair_count": 54,
+            "token_count": 9442,
+            "avg_tokens_per_pair": 174.85185185185185
+          },
+          {
+            "name": "Other_Interviews/ewh-110712-q-and-a-1.mp3-transcript_processed.txt",
+            "size_kb": 45.9228515625,
+            "pair_count": 49,
+            "token_count": 9921,
+            "avg_tokens_per_pair": 202.46938775510205
+          },
+          {
+            "name": "Other_Interviews/orn-140101-nutrition-1.mp3-transcript_processed.txt",
+            "size_kb": 23.3359375,
+            "pair_count": 41,
+            "token_count": 5001,
+            "avg_tokens_per_pair": 121.97560975609755
+          },
+          {
+            "name": "Other_Interviews/Carbon Dioxide, Redox Balance, and The Ketone Body Ratio with Ray Peat  [Generative Energy #26] [3AI46HYJ3ro].mp3-transcript_processed.txt",
+            "size_kb": 38.75,
+            "pair_count": 39,
+            "token_count": 8147,
+            "avg_tokens_per_pair": 208.89743589743588
+          },
+          {
+            "name": "Other_Interviews/jf-190427-stress-health.mp3-transcript_processed.txt",
+            "size_kb": 140.111328125,
+            "pair_count": 3,
+            "token_count": 1234,
+            "avg_tokens_per_pair": 411.3333333333333
+          },
+          {
+            "name": "Other_Interviews/jf-190601-cortisol-low-testosterone.mp3-transcript_processed.txt",
+            "size_kb": 25.4345703125,
+            "pair_count": 25,
+            "token_count": 5016,
+            "avg_tokens_per_pair": 200.64
+          },
+          {
+            "name": "Other_Interviews/#61\uff1a Bodybuilding and Steroids \uff5c Progesterone for Men\uff1f \uff5c Basic Bioenergetic Therapies with Ray Peat [3fVx5yk73t4].mp3-transcript_processed.txt",
+            "size_kb": 46.6552734375,
+            "pair_count": 78,
+            "token_count": 10047,
+            "avg_tokens_per_pair": 128.80769230769232
+          },
+          {
+            "name": "Other_Interviews/04.29.19 Ray Peat Live, April 29, 2019 [613401165].mp3-transcript_processed.txt",
+            "size_kb": 69.693359375,
+            "pair_count": 79,
+            "token_count": 14825,
+            "avg_tokens_per_pair": 187.65822784810126
+          },
+          {
+            "name": "Other_Interviews/jf-200116-insulin-resistance-vegans-low-cortisol.mp3-transcript_processed.txt",
+            "size_kb": 26.1015625,
+            "pair_count": 35,
+            "token_count": 5707,
+            "avg_tokens_per_pair": 163.05714285714285
+          },
+          {
+            "name": "Other_Interviews/#85\uff1a Protein Restriction \uff5c Lidocaine for Hair Loss\uff1f \uff5c Brain Size, Intelligence _ Symptom Recognition [zZCgpw6_sRA].mp3-transcript_processed.txt",
+            "size_kb": 30.8779296875,
+            "pair_count": 45,
+            "token_count": 6228,
+            "avg_tokens_per_pair": 138.4
+          },
+          {
+            "name": "Other_Interviews/06.21.21 Pear Ray [1073174857].mp3-transcript_processed.txt",
+            "size_kb": 47.00390625,
+            "pair_count": 72,
+            "token_count": 10348,
+            "avg_tokens_per_pair": 143.72222222222223
+          },
+          {
+            "name": "Other_Interviews/08.20.19 Super Health Researcher, August 20, 2019 [668670851].mp3-transcript_processed.txt",
+            "size_kb": 33.3681640625,
+            "pair_count": 42,
+            "token_count": 7240,
+            "avg_tokens_per_pair": 172.38095238095238
+          },
+          {
+            "name": "Other_Interviews/11.15.21 Peat Ray [1160757235].mp3-transcript_processed.txt",
+            "size_kb": 46.03515625,
+            "pair_count": 96,
+            "token_count": 10175,
+            "avg_tokens_per_pair": 105.98958333333333
+          },
+          {
+            "name": "Other_Interviews/#36\uff1a CO2 and Mineral Balance \uff5c Thyroid \uff5c Magnesium \uff5c Calcium in Health and Disease \uff5c Current Events [74oLBrVddFs].mp3-transcript_processed.txt",
+            "size_kb": 48.3564453125,
+            "pair_count": 70,
+            "token_count": 9896,
+            "avg_tokens_per_pair": 141.37142857142857
+          },
+          {
+            "name": "Other_Interviews/rainmaking-140602-energy-protective-materials.mp3-transcript_processed.txt",
+            "size_kb": 133.0166015625,
+            "pair_count": 269,
+            "token_count": 31078,
+            "avg_tokens_per_pair": 115.53159851301115
+          },
+          {
+            "name": "Other_Interviews/Dr. Ray Peat, Day One\uff1a Full Interview from On the Back of a Tiger [jqhlIOt5sUw].mp3-transcript_processed.txt",
+            "size_kb": 177.771484375,
+            "pair_count": 1,
+            "token_count": 44,
+            "avg_tokens_per_pair": 44.0
+          },
+          {
+            "name": "Other_Interviews/05.21.19 Dr Ray Peat PhD, May 21, 2019 [624444612].mp3-transcript_processed.txt",
+            "size_kb": 52.4267578125,
+            "pair_count": 62,
+            "token_count": 10272,
+            "avg_tokens_per_pair": 165.67741935483872
+          },
+          {
+            "name": "Other_Interviews/kkvv-081031-ray-peat.mp3-transcript_processed.txt",
+            "size_kb": 19.857421875,
+            "pair_count": 25,
+            "token_count": 4156,
+            "avg_tokens_per_pair": 166.24
+          },
+          {
+            "name": "Other_Interviews/#58\uff1a Bioenergetic Nutrition Continued \uff5c Authoritarianism \uff5c Intention and Learning with Ray Peat, PhD [kwynlIkJ4tU].mp3-transcript_processed.txt",
+            "size_kb": 147.595703125,
+            "pair_count": 322,
+            "token_count": 31045,
+            "avg_tokens_per_pair": 96.41304347826087
+          },
+          {
+            "name": "Other_Interviews/05.18.20 Does Carona Virus exist as told to us, Ray Peat, May 18 2020 [823303075].mp3-transcript_processed.txt",
+            "size_kb": 44.833984375,
+            "pair_count": 53,
+            "token_count": 8022,
+            "avg_tokens_per_pair": 151.35849056603774
+          },
+          {
+            "name": "Other_Interviews/12.17.19 The Nation_s Top Contrarian on Health, December 17, 2019 [729743395].mp3-transcript_processed.txt",
+            "size_kb": 21.267578125,
+            "pair_count": 47,
+            "token_count": 4545,
+            "avg_tokens_per_pair": 96.70212765957447
+          },
+          {
+            "name": "Other_Interviews/12.21.20 Peat Ray [951954235].mp3-transcript_processed.txt",
+            "size_kb": 33.4306640625,
+            "pair_count": 41,
+            "token_count": 7292,
+            "avg_tokens_per_pair": 177.85365853658536
+          },
+          {
+            "name": "Other_Interviews/#27\uff1a Thyroid Function _ Pulse Rate \uff5c Weaponized Culture \uff5c Finasteride as an \uff02Insane Decision\uff02 [AOmIfzvasr0].mp3-transcript_processed.txt",
+            "size_kb": 31.599609375,
+            "pair_count": 49,
+            "token_count": 6695,
+            "avg_tokens_per_pair": 136.6326530612245
+          },
+          {
+            "name": "Other_Interviews/#38\uff1a In Defense of Mexican Coke \uff5c The Authoritarian Metabolism \uff5c Symbols of an Alien Sky \uff5c Astrology [LKsogI7Hu9E].mp3-transcript_processed.txt",
+            "size_kb": 136.82421875,
+            "pair_count": 321,
+            "token_count": 31190,
+            "avg_tokens_per_pair": 97.16510903426791
+          },
+          {
+            "name": "Other_Interviews/ewh-130717-energy-and-metabolism.mp3-transcript_processed.txt",
+            "size_kb": 23.5830078125,
+            "pair_count": 26,
+            "token_count": 4807,
+            "avg_tokens_per_pair": 184.8846153846154
+          },
+          {
+            "name": "Other_Interviews/01.17.22 Peat Ray [1198355269].mp3-transcript_processed.txt",
+            "size_kb": 38.251953125,
+            "pair_count": 65,
+            "token_count": 8392,
+            "avg_tokens_per_pair": 129.1076923076923
+          },
+          {
+            "name": "Other_Interviews/#47\uff1a The Power Elite \uff5c Vaccines \uff5c Hair Loss \uff5c UFOs \uff5c Surviving The Great Reset with Ray Peat, PhD [De0fXmRnunU].mp3-transcript_processed.txt",
+            "size_kb": 22.044921875,
+            "pair_count": 32,
+            "token_count": 4709,
+            "avg_tokens_per_pair": 147.15625
+          },
+          {
+            "name": "Other_Interviews/07.18.19 Deep Research in Healh, July 18, 2019 [653210912].mp3-transcript_processed.txt",
+            "size_kb": 147.9619140625,
+            "pair_count": 214,
+            "token_count": 31884,
+            "avg_tokens_per_pair": 148.99065420560748
+          },
+          {
+            "name": "Other_Interviews/radiation.mp3-transcript_processed.txt",
+            "size_kb": 137.904296875,
+            "pair_count": 191,
+            "token_count": 30046,
+            "avg_tokens_per_pair": 157.3089005235602
+          },
+          {
+            "name": "Other_Interviews/The CIA_s Mighty Wurlitzer with Ray Peat [Generative Energy #32] [TtTiDVWVlQc].mp3-transcript_processed.txt",
+            "size_kb": 28.6064453125,
+            "pair_count": 38,
+            "token_count": 4985,
+            "avg_tokens_per_pair": 131.18421052631578
+          },
+          {
+            "name": "Other_Interviews/ewh-111215-q-and-a-2.mp3-transcript_processed.txt",
+            "size_kb": 47.73828125,
+            "pair_count": 47,
+            "token_count": 9919,
+            "avg_tokens_per_pair": 211.04255319148936
+          },
+          {
+            "name": "Other_Interviews/02.19.19 Ray Peat on Healing The Body, February 19, 2019 [578138142].mp3-transcript_processed.txt",
+            "size_kb": 51.392578125,
+            "pair_count": 90,
+            "token_count": 11416,
+            "avg_tokens_per_pair": 126.84444444444445
+          },
+          {
+            "name": "Other_Interviews/#82\uff1a What_s More Toxic\uff1a PUFA or Endotoxin\uff1f \uff5c Euphoria \uff5c Addiction \uff5c Meaningful Work \uff5c Current Events [U2f0WOaTmu4].mp3-transcript_processed.txt",
+            "size_kb": 17.0751953125,
+            "pair_count": 28,
+            "token_count": 3586,
+            "avg_tokens_per_pair": 128.07142857142858
+          },
+          {
+            "name": "Other_Interviews/ewh-110825-serotonin-and-endotoxin.mp3-transcript_processed.txt",
+            "size_kb": 50.5380859375,
+            "pair_count": 57,
+            "token_count": 10566,
+            "avg_tokens_per_pair": 185.3684210526316
+          },
+          {
+            "name": "Other_Interviews/#41\uff1a Body Temperature \uff5c mRNA Vaccines \uff5c Vernadsky_s Evolution \uff5c The CIA_s Weaponized Culture [DchRbk3E-SI].mp3-transcript_processed.txt",
+            "size_kb": 151.4013671875,
+            "pair_count": 177,
+            "token_count": 31613,
+            "avg_tokens_per_pair": 178.6045197740113
+          },
+          {
+            "name": "Other_Interviews/04.19.21 Peat Ray [1032809317].mp3-transcript_processed.txt",
+            "size_kb": 28.845703125,
+            "pair_count": 48,
+            "token_count": 6419,
+            "avg_tokens_per_pair": 133.72916666666666
+          },
+          {
+            "name": "Other_Interviews/04.18.22 Peat [1252580716].mp3-transcript_processed.txt",
+            "size_kb": 42.1787109375,
+            "pair_count": 71,
+            "token_count": 9102,
+            "avg_tokens_per_pair": 128.19718309859155
+          },
+          {
+            "name": "Other_Interviews/03.23.22 Peat Ray [1237616035].mp3-transcript_processed.txt",
+            "size_kb": 36.89453125,
+            "pair_count": 84,
+            "token_count": 8145,
+            "avg_tokens_per_pair": 96.96428571428571
+          },
+          {
+            "name": "Other_Interviews/#53\uff1a What is Inflammation\uff1f \uff5c The CIA_s \uff02Finders\uff02 Operation \uff5c Using Progesterone \uff5c CO2 and Stem Cells [LZLAmwBObdA].mp3-transcript_processed.txt",
+            "size_kb": 28.4306640625,
+            "pair_count": 42,
+            "token_count": 5858,
+            "avg_tokens_per_pair": 139.47619047619048
+          },
+          {
+            "name": "Other_Interviews/#24\uff1a Immunity and Scientism \uff5c Pandemic Hobbyists \uff5c Eugenics Philanthropy \uff5c Killer Austerity [QxsdHJuvyck].mp3-transcript_processed.txt",
+            "size_kb": 150.5634765625,
+            "pair_count": 409,
+            "token_count": 31337,
+            "avg_tokens_per_pair": 76.61858190709046
+          },
+          {
+            "name": "Other_Interviews/sourcenutritional-120512-brain-and-tissue-2.mp3-transcript_processed.txt",
+            "size_kb": 7.99609375,
+            "pair_count": 9,
+            "token_count": 1865,
+            "avg_tokens_per_pair": 207.22222222222223
+          },
+          {
+            "name": "Other_Interviews/Ray Peat Interview with Tucker Goodrich, David Gornoski on PUFAs, Seed Oils, Benefits of Sugar, Milk [On4xMR-7q04].mp3-transcript_processed.txt",
+            "size_kb": 37.6826171875,
+            "pair_count": 43,
+            "token_count": 8107,
+            "avg_tokens_per_pair": 188.53488372093022
+          },
+          {
+            "name": "Other_Interviews/orn-190917-mr-thyroid.mp3-transcript_processed.txt",
+            "size_kb": 51.0146484375,
+            "pair_count": 76,
+            "token_count": 11080,
+            "avg_tokens_per_pair": 145.78947368421052
+          },
+          {
+            "name": "Other_Interviews/12.20.21 Peat Ray [1181861614].mp3-transcript_processed.txt",
+            "size_kb": 144.6787109375,
+            "pair_count": 315,
+            "token_count": 31392,
+            "avg_tokens_per_pair": 99.65714285714286
+          },
+          {
+            "name": "Other_Interviews/09.21.21 Peat Ray [1128846532].mp3-transcript_processed.txt",
+            "size_kb": 171.771484375,
+            "pair_count": 406,
+            "token_count": 33299,
+            "avg_tokens_per_pair": 82.01724137931035
+          },
+          {
+            "name": "Other_Interviews/03.02.21 Peat Ray [997481839].mp3-transcript_processed.txt",
+            "size_kb": 41.0556640625,
+            "pair_count": 60,
+            "token_count": 8795,
+            "avg_tokens_per_pair": 146.58333333333334
+          },
+          {
+            "name": "Other_Interviews/Optimizing The Environment with Ray Peat [Generative Energy #33] [enNGb3c1NKk].mp3-transcript_processed.txt",
+            "size_kb": 26.533203125,
+            "pair_count": 32,
+            "token_count": 5320,
+            "avg_tokens_per_pair": 166.25
+          },
+          {
+            "name": "Other_Interviews/#64\uff1a Life \uff5c Energy \uff5c Estrogen \uff5c Fibrosis \uff5c Calcification \uff5c Process Theology \uff5c Altruism with Ray Peat [P7l_jy6fhtw].mp3-transcript_processed.txt",
+            "size_kb": 32.7294921875,
+            "pair_count": 60,
+            "token_count": 6801,
+            "avg_tokens_per_pair": 113.35
+          },
+          {
+            "name": "Other_Interviews/03.15.21 Peat Ray March [1009402927].mp3-transcript_processed.txt",
+            "size_kb": 139.9990234375,
+            "pair_count": 214,
+            "token_count": 27761,
+            "avg_tokens_per_pair": 129.72429906542055
+          },
+          {
+            "name": "Other_Interviews/yohaf-140729-heart-brain-cancer-and-hormones.mp3-transcript_processed.txt",
+            "size_kb": 16.982421875,
+            "pair_count": 24,
+            "token_count": 3607,
+            "avg_tokens_per_pair": 150.29166666666666
+          },
+          {
+            "name": "Other_Interviews/Calcium, Phosphate, Authoritarianism, Eugenics _ CIA Spymaster Allen Dulles with Ray Peat [GE #34] [qA9YrebN5zY].mp3-transcript_processed.txt",
+            "size_kb": 21.037109375,
+            "pair_count": 6,
+            "token_count": 598,
+            "avg_tokens_per_pair": 99.66666666666667
+          },
+          {
+            "name": "Other_Interviews/ewh-110427-glycemia-starch-and-sugar-in-context.mp3-transcript_processed.txt",
+            "size_kb": 49.9384765625,
+            "pair_count": 44,
+            "token_count": 10605,
+            "avg_tokens_per_pair": 241.02272727272728
+          },
+          {
+            "name": "Other_Interviews/ewh-110222-the-thryoid.mp3-transcript_processed.txt",
+            "size_kb": 30.6328125,
+            "pair_count": 23,
+            "token_count": 6471,
+            "avg_tokens_per_pair": 281.3478260869565
+          },
+          {
+            "name": "Other_Interviews/#80\uff1a World War 3 \uff5c Heavy Metals \uff5c Progesterone for Hair Loss \uff5c T3 to T4 Thyroid Ratio with Ray Peat [LDWVtsqEOF0].mp3-transcript_processed.txt",
+            "size_kb": 22.7392578125,
+            "pair_count": 25,
+            "token_count": 4584,
+            "avg_tokens_per_pair": 183.36
+          },
+          {
+            "name": "Other_Interviews/#78\uff1a CO2 \uff5c Art and Science \uff5c Supply Shortages \uff5c Killer Austerity \uff5c Authoritarianism with Ray Peat [72Zz0TbfBAg].mp3-transcript_processed.txt",
+            "size_kb": 147.2646484375,
+            "pair_count": 263,
+            "token_count": 31437,
+            "avg_tokens_per_pair": 119.53231939163499
+          },
+          {
+            "name": "Other_Interviews/#55\uff1a Bioenergetic Nutrition Basics \uff5c \uff02The Ray Peat Diet\uff02 \uff5c Appetite and Metabolism with Ray Peat [f06rVi8iXfI].mp3-transcript_processed.txt",
+            "size_kb": 40.701171875,
+            "pair_count": 96,
+            "token_count": 8735,
+            "avg_tokens_per_pair": 90.98958333333333
+          },
+          {
+            "name": "Other_Interviews/ewh-110315-estrogen-vs-progesterone.mp3-transcript_processed.txt",
+            "size_kb": 33.673828125,
+            "pair_count": 17,
+            "token_count": 6982,
+            "avg_tokens_per_pair": 410.70588235294116
+          },
+          {
+            "name": "Other_Interviews/10.15.19 Deep Research into Health, October 15, 2019 [696513319].mp3-transcript_processed.txt",
+            "size_kb": 40.9384765625,
+            "pair_count": 62,
+            "token_count": 8939,
+            "avg_tokens_per_pair": 144.17741935483872
+          },
+          {
+            "name": "Other_Interviews/sourcenutritional-120512-brain-and-tissue-1.mp3-transcript_processed.txt",
+            "size_kb": 18.8642578125,
+            "pair_count": 26,
+            "token_count": 3883,
+            "avg_tokens_per_pair": 149.34615384615384
+          },
+          {
+            "name": "Other_Interviews/ewh-101118-the-science-behind-the-dangers-of-polyunsaturated-fats.mp3-transcript_processed.txt",
+            "size_kb": 25.1416015625,
+            "pair_count": 14,
+            "token_count": 5204,
+            "avg_tokens_per_pair": 371.7142857142857
+          },
+          {
+            "name": "Other_Interviews/orn-190124-fats-and-questions.mp3-transcript_processed.txt",
+            "size_kb": 148.353515625,
+            "pair_count": 239,
+            "token_count": 31710,
+            "avg_tokens_per_pair": 132.67782426778243
+          },
+          {
+            "name": "Other_Interviews/eluv-140101-effects-of-stress-and-trauma-on-the-body.mp3-transcript_processed.txt",
+            "size_kb": 29.1513671875,
+            "pair_count": 27,
+            "token_count": 6236,
+            "avg_tokens_per_pair": 230.96296296296296
+          },
+          {
+            "name": "Other_Interviews/08.17.20 Great Monthly Talk with Ray Peat PhD, August 17, 2020 [877857784].mp3-transcript_processed.txt",
+            "size_kb": 32.7392578125,
+            "pair_count": 45,
+            "token_count": 7000,
+            "avg_tokens_per_pair": 155.55555555555554
+          },
+          {
+            "name": "Other_Interviews/07.20.20 Nothing is as it seems with COVID, July 20, 2020 [861603244].mp3-transcript_processed.txt",
+            "size_kb": 156.51171875,
+            "pair_count": 256,
+            "token_count": 31239,
+            "avg_tokens_per_pair": 122.02734375
+          },
+          {
+            "name": "Other_Interviews/02.21.22 Peat Ray [1220230201].mp3-transcript_processed.txt",
+            "size_kb": 44.3623046875,
+            "pair_count": 34,
+            "token_count": 10228,
+            "avg_tokens_per_pair": 300.8235294117647
+          },
+          {
+            "name": "Other_Interviews/ewh-110929-cholesterol-and-saturated-fats.mp3-transcript_processed.txt",
+            "size_kb": 48.3662109375,
+            "pair_count": 41,
+            "token_count": 10244,
+            "avg_tokens_per_pair": 249.85365853658536
+          },
+          {
+            "name": "Other_Interviews/rainmaking-110704-life-supporting-substances.mp3-transcript_processed.txt",
+            "size_kb": 44.046875,
+            "pair_count": 38,
+            "token_count": 9599,
+            "avg_tokens_per_pair": 252.60526315789474
+          },
+          {
+            "name": "Other_Interviews/#74\uff1a Vaccine Shedding \uff5c Progesterone and Thyroid \uff5c Immunology, Ideology, and Power with Ray Peat [e-l-LGUi9aQ].mp3-transcript_processed.txt",
+            "size_kb": 34.9384765625,
+            "pair_count": 45,
+            "token_count": 7335,
+            "avg_tokens_per_pair": 163.0
+          },
+          {
+            "name": "Other_Interviews/wp-121123-foundational-hormones.mp3-transcript_processed.txt",
+            "size_kb": 29.2900390625,
+            "pair_count": 39,
+            "token_count": 6274,
+            "avg_tokens_per_pair": 160.87179487179486
+          },
+          {
+            "name": "Other_Interviews/eluv-080918-fats.mp3-transcript_processed.txt",
+            "size_kb": 25.1484375,
+            "pair_count": 27,
+            "token_count": 4945,
+            "avg_tokens_per_pair": 183.14814814814815
+          },
+          {
+            "name": "Other_Interviews/Safe Supplements with Ray Peat [Generative Energy #31] [PuSfV43Quuo].mp3-transcript_processed.txt",
+            "size_kb": 32.470703125,
+            "pair_count": 35,
+            "token_count": 6845,
+            "avg_tokens_per_pair": 195.57142857142858
+          },
+          {
+            "name": "Other_Interviews/07.18.22 Peat [1307585149].mp3-transcript_processed.txt",
+            "size_kb": 21.0166015625,
+            "pair_count": 30,
+            "token_count": 4685,
+            "avg_tokens_per_pair": 156.16666666666666
+          },
+          {
+            "name": "Other_Interviews/Episode One Supplemental\uff1a Dr. Ray Peat [H0oWFJFO1gU].mp3-transcript_processed.txt",
+            "size_kb": 19.9384765625,
+            "pair_count": 17,
+            "token_count": 4000,
+            "avg_tokens_per_pair": 235.2941176470588
+          },
+          {
+            "name": "Other_Interviews/(2005-10) Ray Peat - Nervous System Protect _ Restore [mdLHWFJI2y0].mp3-transcript_processed.txt",
+            "size_kb": 69.333984375,
+            "pair_count": 45,
+            "token_count": 14480,
+            "avg_tokens_per_pair": 321.77777777777777
+          },
+          {
+            "name": "Other_Interviews/yohaf-970211-nutrition-and-the-endocrine-system.mp3-transcript_processed.txt",
+            "size_kb": 22.318359375,
+            "pair_count": 23,
+            "token_count": 4676,
+            "avg_tokens_per_pair": 203.30434782608697
+          },
+          {
+            "name": "Other_Interviews/03.16.20 What is a Virus Anyway, March 16, 2020 [777346411].mp3-transcript_processed.txt",
+            "size_kb": 22.955078125,
+            "pair_count": 52,
+            "token_count": 4837,
+            "avg_tokens_per_pair": 93.01923076923077
+          },
+          {
+            "name": "Other_Interviews/#51\uff1a Heat Shock Proteins \uff5c Antibiotic Resistance \uff5c DHT Safety \uff5c Energy and Aging with Ray Peat, PhD [5sop_zLMZ34].mp3-transcript_processed.txt",
+            "size_kb": 60.41796875,
+            "pair_count": 79,
+            "token_count": 12620,
+            "avg_tokens_per_pair": 159.74683544303798
+          },
+          {
+            "name": "Other_Interviews/ewh-110118-inflammation.mp3-transcript_processed.txt",
+            "size_kb": 25.4482421875,
+            "pair_count": 20,
+            "token_count": 5142,
+            "avg_tokens_per_pair": 257.1
+          },
+          {
+            "name": "Other_Interviews/jf-190910-how-to-fix-your-digestion-poop.mp3-transcript_processed.txt",
+            "size_kb": 29.619140625,
+            "pair_count": 17,
+            "token_count": 6255,
+            "avg_tokens_per_pair": 367.94117647058823
+          },
+          {
+            "name": "Other_Interviews/10.19.20 Peat Ray [915101332].mp3-transcript_processed.txt",
+            "size_kb": 163.1328125,
+            "pair_count": 268,
+            "token_count": 33912,
+            "avg_tokens_per_pair": 126.53731343283582
+          },
+          {
+            "name": "Other_Interviews/jf-191112-listener-qa.mp3-transcript_processed.txt",
+            "size_kb": 23.19921875,
+            "pair_count": 28,
+            "token_count": 5028,
+            "avg_tokens_per_pair": 179.57142857142858
+          },
+          {
+            "name": "Other_Interviews/Dr. Ray Peat, Day Two\uff1a Full Interview from On the Back of a Tiger [Z3yVUELD2ZA].mp3-transcript_processed.txt",
+            "size_kb": 129.529296875,
+            "pair_count": 47,
+            "token_count": 26410,
+            "avg_tokens_per_pair": 561.9148936170212
+          },
+          {
+            "name": "Other_Interviews/01.24.19 Ray Peat on Thryroid and More, January 24, 2019 [564150933].mp3-transcript_processed.txt",
+            "size_kb": 145.6796875,
+            "pair_count": 294,
+            "token_count": 31796,
+            "avg_tokens_per_pair": 108.14965986394557
+          },
+          {
+            "name": "Other_Interviews/Dr Ray Peat Q_A \uff5c PUFAS, fructose, weight loss, PCOS, hormones, cholesterol, _ more [96AFY50-J4A].mp3-transcript_processed.txt",
+            "size_kb": 40.525390625,
+            "pair_count": 38,
+            "token_count": 8338,
+            "avg_tokens_per_pair": 219.42105263157896
+          },
+          {
+            "name": "Other_Interviews/blp-200219-fertility-pregnancy-development.mp3-transcript_processed.txt",
+            "size_kb": 47.5234375,
+            "pair_count": 40,
+            "token_count": 9845,
+            "avg_tokens_per_pair": 246.125
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-170721-language-criticism-estrogen-part2.mp3-transcript_processed.txt",
+            "size_kb": 14.44140625,
+            "pair_count": 20,
+            "token_count": 3078,
+            "avg_tokens_per_pair": 153.9
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-131220-aging-and-energy-reversal.mp3-transcript_processed.txt",
+            "size_kb": 18.8046875,
+            "pair_count": 29,
+            "token_count": 4052,
+            "avg_tokens_per_pair": 139.72413793103448
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-150320-breast-cancer.mp3-transcript_processed.txt",
+            "size_kb": 26.8017578125,
+            "pair_count": 41,
+            "token_count": 4702,
+            "avg_tokens_per_pair": 114.6829268292683
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-140117-questions-and-answers.mp3-transcript_processed.txt",
+            "size_kb": 25.7783203125,
+            "pair_count": 27,
+            "token_count": 5227,
+            "avg_tokens_per_pair": 193.59259259259258
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-161216-food.mp3-transcript_processed.txt",
+            "size_kb": 140.775390625,
+            "pair_count": 105,
+            "token_count": 30715,
+            "avg_tokens_per_pair": 292.5238095238095
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-150821-longevity-and-nootropics.mp3-transcript_processed.txt",
+            "size_kb": 18.3193359375,
+            "pair_count": 23,
+            "token_count": 3812,
+            "avg_tokens_per_pair": 165.7391304347826
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-121221-dementia-progesterone.mp3-transcript_processed.txt",
+            "size_kb": 26.35546875,
+            "pair_count": 38,
+            "token_count": 5704,
+            "avg_tokens_per_pair": 150.10526315789474
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-140620-vaccination.mp3-transcript_processed.txt",
+            "size_kb": 20.15234375,
+            "pair_count": 23,
+            "token_count": 4001,
+            "avg_tokens_per_pair": 173.95652173913044
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-120217-cancer-treatment.mp3-transcript_processed.txt",
+            "size_kb": 32.6767578125,
+            "pair_count": 30,
+            "token_count": 6897,
+            "avg_tokens_per_pair": 229.9
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-121019-antioxidants.mp3-transcript_processed.txt",
+            "size_kb": 36.7900390625,
+            "pair_count": 52,
+            "token_count": 7662,
+            "avg_tokens_per_pair": 147.34615384615384
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-140718-vaccination-2.mp3-transcript_processed.txt",
+            "size_kb": 21.388671875,
+            "pair_count": 26,
+            "token_count": 4485,
+            "avg_tokens_per_pair": 172.5
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-080701-thyroid-and-polyunsaturated-fatty-acids.mp3-transcript_processed.txt",
+            "size_kb": 36.5869140625,
+            "pair_count": 52,
+            "token_count": 7911,
+            "avg_tokens_per_pair": 152.1346153846154
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-190920-education-reeducation.mp3-transcript_processed.txt",
+            "size_kb": 9.8427734375,
+            "pair_count": 12,
+            "token_count": 1953,
+            "avg_tokens_per_pair": 162.75
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-191018-brain-barriers.mp3-transcript_processed.txt",
+            "size_kb": 142.8056640625,
+            "pair_count": 264,
+            "token_count": 31113,
+            "avg_tokens_per_pair": 117.85227272727273
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-130621-heart-2.mp3-transcript_processed.txt",
+            "size_kb": 22.65234375,
+            "pair_count": 34,
+            "token_count": 4676,
+            "avg_tokens_per_pair": 137.52941176470588
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-130315-palpitations-and-cardiac-events.mp3-transcript_processed.txt",
+            "size_kb": 25.607421875,
+            "pair_count": 32,
+            "token_count": 5448,
+            "avg_tokens_per_pair": 170.25
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-111021-sugar-myths-2.mp3-transcript_processed.txt",
+            "size_kb": 32.8095703125,
+            "pair_count": 28,
+            "token_count": 7198,
+            "avg_tokens_per_pair": 257.07142857142856
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-181116-skin-cancer.mp3-transcript_processed.txt",
+            "size_kb": 12.6650390625,
+            "pair_count": 14,
+            "token_count": 2623,
+            "avg_tokens_per_pair": 187.35714285714286
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-080801-thyroid-metabolism-and-coconut-oil.mp3-transcript_processed.txt",
+            "size_kb": 16.25390625,
+            "pair_count": 39,
+            "token_count": 3219,
+            "avg_tokens_per_pair": 82.53846153846153
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-130920-learned-helplessness-nervous-system-thyroid-questionaire.mp3-transcript_processed.txt",
+            "size_kb": 17.7626953125,
+            "pair_count": 14,
+            "token_count": 3692,
+            "avg_tokens_per_pair": 263.7142857142857
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-110819-milk.mp3-transcript_processed.txt",
+            "size_kb": 28.40234375,
+            "pair_count": 39,
+            "token_count": 6056,
+            "avg_tokens_per_pair": 155.28205128205127
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-130517-heart-1.mp3-transcript_processed.txt",
+            "size_kb": 19.8466796875,
+            "pair_count": 37,
+            "token_count": 4174,
+            "avg_tokens_per_pair": 112.8108108108108
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-190517-pollution.mp3-transcript_processed.txt",
+            "size_kb": 18.236328125,
+            "pair_count": 23,
+            "token_count": 3449,
+            "avg_tokens_per_pair": 149.95652173913044
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-110715-hair-loss-inflammation-osteoporosis.mp3-transcript_processed.txt",
+            "size_kb": 18.6611328125,
+            "pair_count": 40,
+            "token_count": 4022,
+            "avg_tokens_per_pair": 100.55
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-170317-endocrinology-part1-parkinsons.mp3-transcript_processed.txt",
+            "size_kb": 21.2431640625,
+            "pair_count": 15,
+            "token_count": 3919,
+            "avg_tokens_per_pair": 261.26666666666665
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-101119-endotoxins.mp3-transcript_processed.txt",
+            "size_kb": 30.4033203125,
+            "pair_count": 27,
+            "token_count": 6608,
+            "avg_tokens_per_pair": 244.74074074074073
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-180921-evidence-based-medicine.mp3-transcript_processed.txt",
+            "size_kb": 13.5400390625,
+            "pair_count": 27,
+            "token_count": 2867,
+            "avg_tokens_per_pair": 106.18518518518519
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-130215-weight-gain.mp3-transcript_processed.txt",
+            "size_kb": 18.2626953125,
+            "pair_count": 34,
+            "token_count": 3868,
+            "avg_tokens_per_pair": 113.76470588235294
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-170519-endocrinology-part3.mp3-transcript_processed.txt",
+            "size_kb": 22.7646484375,
+            "pair_count": 25,
+            "token_count": 4693,
+            "avg_tokens_per_pair": 187.72
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-181221-skin-cancer-2.mp3-transcript_processed.txt",
+            "size_kb": 14.146484375,
+            "pair_count": 20,
+            "token_count": 3143,
+            "avg_tokens_per_pair": 157.15
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-160916-antioxidant-theory-and-continued-war-on-cancer.mp3-transcript_processed.txt",
+            "size_kb": 23.5693359375,
+            "pair_count": 31,
+            "token_count": 4981,
+            "avg_tokens_per_pair": 160.67741935483872
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-160415-mitochondria-gaba-herbs.mp3-transcript_processed.txt",
+            "size_kb": 13.3681640625,
+            "pair_count": 15,
+            "token_count": 1948,
+            "avg_tokens_per_pair": 129.86666666666667
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-101217-radiation.mp3-transcript_processed.txt",
+            "size_kb": 37.4326171875,
+            "pair_count": 31,
+            "token_count": 7937,
+            "avg_tokens_per_pair": 256.03225806451616
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-160115-water-quality-atmospheric-co2-climate-change.mp3-transcript_processed.txt",
+            "size_kb": 6.212890625,
+            "pair_count": 13,
+            "token_count": 1300,
+            "avg_tokens_per_pair": 100.0
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-160617-authoritarianism.mp3-transcript_processed.txt",
+            "size_kb": 9.3515625,
+            "pair_count": 7,
+            "token_count": 1907,
+            "avg_tokens_per_pair": 272.42857142857144
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-110617-serotonin-endotoxins-stress.mp3-transcript_processed.txt",
+            "size_kb": 34.154296875,
+            "pair_count": 25,
+            "token_count": 7302,
+            "avg_tokens_per_pair": 292.08
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-130420-hormone-replacement-therapy.mp3-transcript_processed.txt",
+            "size_kb": 24.1591796875,
+            "pair_count": 11,
+            "token_count": 4855,
+            "avg_tokens_per_pair": 441.3636363636364
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-081201-cholesterol-is-an-important-molecule.mp3-transcript_processed.txt",
+            "size_kb": 28.119140625,
+            "pair_count": 28,
+            "token_count": 5048,
+            "avg_tokens_per_pair": 180.28571428571428
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-170217-the-precautionary-principle-part2.mp3-transcript_processed.txt",
+            "size_kb": 29.9345703125,
+            "pair_count": 23,
+            "token_count": 5547,
+            "avg_tokens_per_pair": 241.17391304347825
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-101015-sugar-2.mp3-transcript_processed.txt",
+            "size_kb": 161.330078125,
+            "pair_count": 294,
+            "token_count": 32771,
+            "avg_tokens_per_pair": 111.46598639455782
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-170915-california-proposition-65.mp3-transcript_processed.txt",
+            "size_kb": 20.5009765625,
+            "pair_count": 19,
+            "token_count": 4552,
+            "avg_tokens_per_pair": 239.57894736842104
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-150116-digestion-and-emotion.mp3-transcript_processed.txt",
+            "size_kb": 19.37890625,
+            "pair_count": 19,
+            "token_count": 4023,
+            "avg_tokens_per_pair": 211.73684210526315
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-160715-the-metabolism-of-cancer.mp3-transcript_processed.txt",
+            "size_kb": 141.15625,
+            "pair_count": 302,
+            "token_count": 32702,
+            "avg_tokens_per_pair": 108.28476821192054
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-140221-diabetes.mp3-transcript_processed.txt",
+            "size_kb": 21.9091796875,
+            "pair_count": 20,
+            "token_count": 4456,
+            "avg_tokens_per_pair": 222.8
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-110218-inflammation-2.mp3-transcript_processed.txt",
+            "size_kb": 18.1328125,
+            "pair_count": 35,
+            "token_count": 3738,
+            "avg_tokens_per_pair": 106.8
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-140919-field-biology.mp3-transcript_processed.txt",
+            "size_kb": 22.017578125,
+            "pair_count": 27,
+            "token_count": 4559,
+            "avg_tokens_per_pair": 168.85185185185185
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-180316-progesterone-vs-estrogen-listener-questions.mp3-transcript_processed.txt",
+            "size_kb": 15.748046875,
+            "pair_count": 23,
+            "token_count": 3066,
+            "avg_tokens_per_pair": 133.30434782608697
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-180119-female-hormones-progesterone.mp3-transcript_processed.txt",
+            "size_kb": 16.1259765625,
+            "pair_count": 19,
+            "token_count": 3500,
+            "avg_tokens_per_pair": 184.21052631578948
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-091001-food-additives.mp3-transcript_processed.txt",
+            "size_kb": 21.0556640625,
+            "pair_count": 25,
+            "token_count": 4396,
+            "avg_tokens_per_pair": 175.84
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-151120-steiner-schools-and-education.mp3-transcript_processed.txt",
+            "size_kb": 28.4072265625,
+            "pair_count": 33,
+            "token_count": 5874,
+            "avg_tokens_per_pair": 178.0
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-120720-blood-pressure-regulation-heart-failure-muscle-atrophy.mp3-transcript_processed.txt",
+            "size_kb": 19.4306640625,
+            "pair_count": 24,
+            "token_count": 3852,
+            "avg_tokens_per_pair": 160.5
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-090801-you-are-what-you-eat.mp3-transcript_processed.txt",
+            "size_kb": 18.3232421875,
+            "pair_count": 26,
+            "token_count": 3784,
+            "avg_tokens_per_pair": 145.53846153846155
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-141219-you-are-what-you-eat.mp3-transcript_processed.txt",
+            "size_kb": 24.6845703125,
+            "pair_count": 37,
+            "token_count": 5319,
+            "avg_tokens_per_pair": 143.75675675675674
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-131115-hashimotos.mp3-transcript_processed.txt",
+            "size_kb": 24.0224609375,
+            "pair_count": 29,
+            "token_count": 4898,
+            "avg_tokens_per_pair": 168.89655172413794
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-090401-thyroid-polyunsaturated-fats-and-oils.mp3-transcript_processed.txt",
+            "size_kb": 32.96484375,
+            "pair_count": 33,
+            "token_count": 6930,
+            "avg_tokens_per_pair": 210.0
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-130118-carbon-monoxide.mp3-transcript_processed.txt",
+            "size_kb": 29.38671875,
+            "pair_count": 46,
+            "token_count": 5642,
+            "avg_tokens_per_pair": 122.65217391304348
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-141017-longevity.mp3-transcript_processed.txt",
+            "size_kb": 24.263671875,
+            "pair_count": 24,
+            "token_count": 5194,
+            "avg_tokens_per_pair": 216.41666666666666
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-171215-diagnosis.mp3-transcript_processed.txt",
+            "size_kb": 22.1904296875,
+            "pair_count": 18,
+            "token_count": 4418,
+            "avg_tokens_per_pair": 245.44444444444446
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-140815-thinking-outside-the-box-new-cancer-treatments.mp3-transcript_processed.txt",
+            "size_kb": 24.0244140625,
+            "pair_count": 13,
+            "token_count": 5116,
+            "avg_tokens_per_pair": 393.53846153846155
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-180615-positive-thinking-sleep-repair.mp3-transcript_processed.txt",
+            "size_kb": 18.427734375,
+            "pair_count": 29,
+            "token_count": 3828,
+            "avg_tokens_per_pair": 132.0
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-121116-energetic-interactions-ionizing-and-non-ionizing-radiation.mp3-transcript_processed.txt",
+            "size_kb": 21.052734375,
+            "pair_count": 20,
+            "token_count": 4465,
+            "avg_tokens_per_pair": 223.25
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-160520-exploring-alternatives.mp3-transcript_processed.txt",
+            "size_kb": 15.92578125,
+            "pair_count": 22,
+            "token_count": 3423,
+            "avg_tokens_per_pair": 155.5909090909091
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-090701-bowel-endotoxin.mp3-transcript_processed.txt",
+            "size_kb": 26.349609375,
+            "pair_count": 28,
+            "token_count": 5578,
+            "avg_tokens_per_pair": 199.21428571428572
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-130719-heart-3.mp3-transcript_processed.txt",
+            "size_kb": 19.9169921875,
+            "pair_count": 20,
+            "token_count": 4000,
+            "avg_tokens_per_pair": 200.0
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-111118-energy-production-diabetes-saturated-fats.mp3-transcript_processed.txt",
+            "size_kb": 8.1328125,
+            "pair_count": 12,
+            "token_count": 1706,
+            "avg_tokens_per_pair": 142.16666666666666
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-160219-iodine-supplement-reactions-hormones.mp3-transcript_processed.txt",
+            "size_kb": 38.8212890625,
+            "pair_count": 42,
+            "token_count": 8318,
+            "avg_tokens_per_pair": 198.04761904761904
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-150515-california-sb-277-degradation-of-the-food-supply.mp3-transcript_processed.txt",
+            "size_kb": 30.111328125,
+            "pair_count": 40,
+            "token_count": 6410,
+            "avg_tokens_per_pair": 160.25
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-090901-the-ten-most-toxic-things-in-our-food.mp3-transcript_processed.txt",
+            "size_kb": 22.8671875,
+            "pair_count": 24,
+            "token_count": 4917,
+            "avg_tokens_per_pair": 204.875
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-171020-economics.mp3-transcript_processed.txt",
+            "size_kb": 13.5771484375,
+            "pair_count": 22,
+            "token_count": 2875,
+            "avg_tokens_per_pair": 130.6818181818182
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-200117-frequencies-vibrations.mp3-transcript_processed.txt",
+            "size_kb": 13.775390625,
+            "pair_count": 16,
+            "token_count": 1212,
+            "avg_tokens_per_pair": 75.75
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-170616-language-criticism-estrogen.mp3-transcript_processed.txt",
+            "size_kb": 13.8251953125,
+            "pair_count": 15,
+            "token_count": 2986,
+            "avg_tokens_per_pair": 199.06666666666666
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-110916-sugar-myths.mp3-transcript_processed.txt",
+            "size_kb": 19.64453125,
+            "pair_count": 18,
+            "token_count": 4171,
+            "avg_tokens_per_pair": 231.72222222222223
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-150717-on-the-back-of-a-tiger.mp3-transcript_processed.txt",
+            "size_kb": 12.3203125,
+            "pair_count": 24,
+            "token_count": 2563,
+            "avg_tokens_per_pair": 106.79166666666667
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-150220-uses-of-urea.mp3-transcript_processed.txt",
+            "size_kb": 28.728515625,
+            "pair_count": 30,
+            "token_count": 6189,
+            "avg_tokens_per_pair": 206.3
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-140516-memory-cognition-and-nutrition.mp3-transcript_processed.txt",
+            "size_kb": 29.310546875,
+            "pair_count": 29,
+            "token_count": 5592,
+            "avg_tokens_per_pair": 192.82758620689654
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-160318-allergy.mp3-transcript_processed.txt",
+            "size_kb": 31.1318359375,
+            "pair_count": 38,
+            "token_count": 6648,
+            "avg_tokens_per_pair": 174.94736842105263
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-191115-tryptophan.mp3-transcript_processed.txt",
+            "size_kb": 18.515625,
+            "pair_count": 35,
+            "token_count": 3984,
+            "avg_tokens_per_pair": 113.82857142857142
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-120817-hot-flashes-night-sweats-relationship-to-stress-aging-p-m-sand-sugar-metabolism.mp3-transcript_processed.txt",
+            "size_kb": 21.7158203125,
+            "pair_count": 24,
+            "token_count": 4437,
+            "avg_tokens_per_pair": 184.875
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-120518-genetics-x-environment.mp3-transcript_processed.txt",
+            "size_kb": 24.681640625,
+            "pair_count": 25,
+            "token_count": 5184,
+            "avg_tokens_per_pair": 207.36
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-120316-acidity-x-alkalinity.mp3-transcript_processed.txt",
+            "size_kb": 25.85546875,
+            "pair_count": 37,
+            "token_count": 5595,
+            "avg_tokens_per_pair": 151.21621621621622
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-200320-coronavirus.mp3-transcript_processed.txt",
+            "size_kb": 15.28125,
+            "pair_count": 19,
+            "token_count": 3080,
+            "avg_tokens_per_pair": 162.10526315789474
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-161021-rheumatoid-arthritis.mp3-transcript_processed.txt",
+            "size_kb": 18.0205078125,
+            "pair_count": 14,
+            "token_count": 3775,
+            "avg_tokens_per_pair": 269.64285714285717
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-120921-phosphate-and-calcium-metabolism.mp3-transcript_processed.txt",
+            "size_kb": 26.2763671875,
+            "pair_count": 45,
+            "token_count": 5492,
+            "avg_tokens_per_pair": 122.04444444444445
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-151218-nitric-oxide-nitrates-nitrites-fluoride.mp3-transcript_processed.txt",
+            "size_kb": 16.5166015625,
+            "pair_count": 20,
+            "token_count": 3555,
+            "avg_tokens_per_pair": 177.75
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-140321-how-to-restore-and-protect-nerves.mp3-transcript_processed.txt",
+            "size_kb": 20.90625,
+            "pair_count": 31,
+            "token_count": 4460,
+            "avg_tokens_per_pair": 143.8709677419355
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-180817-critical-thinking-in-academia.mp3-transcript_processed.txt",
+            "size_kb": 20.7080078125,
+            "pair_count": 12,
+            "token_count": 4202,
+            "avg_tokens_per_pair": 350.1666666666667
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-181019-medical-misinformation.mp3-transcript_processed.txt",
+            "size_kb": 19.041015625,
+            "pair_count": 18,
+            "token_count": 3517,
+            "avg_tokens_per_pair": 195.38888888888889
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-190118-skin-cancer-3.mp3-transcript_processed.txt",
+            "size_kb": 17.5712890625,
+            "pair_count": 28,
+            "token_count": 3643,
+            "avg_tokens_per_pair": 130.10714285714286
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-100917-sugar-1.mp3-transcript_processed.txt",
+            "size_kb": 32.1787109375,
+            "pair_count": 31,
+            "token_count": 6733,
+            "avg_tokens_per_pair": 217.19354838709677
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-190315-viruses.mp3-transcript_processed.txt",
+            "size_kb": 17.1796875,
+            "pair_count": 24,
+            "token_count": 3586,
+            "avg_tokens_per_pair": 149.41666666666666
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-190719-herbalist-sophie-lamb.mp3-transcript_processed.txt",
+            "size_kb": 10.1318359375,
+            "pair_count": 15,
+            "token_count": 2108,
+            "avg_tokens_per_pair": 140.53333333333333
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-130816-environmental-enrichment.mp3-transcript_processed.txt",
+            "size_kb": 20.0322265625,
+            "pair_count": 20,
+            "token_count": 4212,
+            "avg_tokens_per_pair": 210.6
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-170120-the-precautionary-principle.mp3-transcript_processed.txt",
+            "size_kb": 23.7880859375,
+            "pair_count": 17,
+            "token_count": 4928,
+            "avg_tokens_per_pair": 289.88235294117646
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-141121-nitric-oxide.mp3-transcript_processed.txt",
+            "size_kb": 21.7294921875,
+            "pair_count": 25,
+            "token_count": 4624,
+            "avg_tokens_per_pair": 184.96
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-190621-postpartum-depression.mp3-transcript_processed.txt",
+            "size_kb": 14.6357421875,
+            "pair_count": 16,
+            "token_count": 3176,
+            "avg_tokens_per_pair": 198.5
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-100716-altitude.mp3-transcript_processed.txt",
+            "size_kb": 30.8134765625,
+            "pair_count": 25,
+            "token_count": 6349,
+            "avg_tokens_per_pair": 253.96
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-110415-fukujima-and-serotonin.mp3-transcript_processed.txt",
+            "size_kb": 19.072265625,
+            "pair_count": 21,
+            "token_count": 3980,
+            "avg_tokens_per_pair": 189.52380952380952
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-110318-fukujima.mp3-transcript_processed.txt",
+            "size_kb": 16.880859375,
+            "pair_count": 23,
+            "token_count": 3410,
+            "avg_tokens_per_pair": 148.2608695652174
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-151016-current-trends-nitric-oxide.mp3-transcript_processed.txt",
+            "size_kb": 17.6826171875,
+            "pair_count": 16,
+            "token_count": 2734,
+            "avg_tokens_per_pair": 170.875
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-110121-inflammation-1.mp3-transcript_processed.txt",
+            "size_kb": 21.6298828125,
+            "pair_count": 21,
+            "token_count": 4525,
+            "avg_tokens_per_pair": 215.47619047619048
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-111216-water-retention-salt.mp3-transcript_processed.txt",
+            "size_kb": 18.9619140625,
+            "pair_count": 19,
+            "token_count": 3957,
+            "avg_tokens_per_pair": 208.26315789473685
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-170421-endocrinology-part2.mp3-transcript_processed.txt",
+            "size_kb": 15.1279296875,
+            "pair_count": 19,
+            "token_count": 3184,
+            "avg_tokens_per_pair": 167.57894736842104
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-200221-frequencies-vibrations-2.mp3-transcript_processed.txt",
+            "size_kb": 23.1650390625,
+            "pair_count": 40,
+            "token_count": 4816,
+            "avg_tokens_per_pair": 120.4
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-161118-vitamin-d.mp3-transcript_processed.txt",
+            "size_kb": 13.9892578125,
+            "pair_count": 25,
+            "token_count": 3012,
+            "avg_tokens_per_pair": 120.48
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-180518-progesterone-vs-estrogen-listener-questions-part2.mp3-transcript_processed.txt",
+            "size_kb": 23.9970703125,
+            "pair_count": 27,
+            "token_count": 5217,
+            "avg_tokens_per_pair": 193.22222222222223
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-150619-continuing-research-on-urea.mp3-transcript_processed.txt",
+            "size_kb": 27.6376953125,
+            "pair_count": 39,
+            "token_count": 5924,
+            "avg_tokens_per_pair": 151.89743589743588
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-120615-cellular-repair.mp3-transcript_processed.txt",
+            "size_kb": 28.9892578125,
+            "pair_count": 35,
+            "token_count": 6080,
+            "avg_tokens_per_pair": 173.71428571428572
+          },
+          {
+            "name": "Radio_Shows_KMUD/kmud-190419-particles.mp3-transcript_processed.txt",
+            "size_kb": 10.953125,
+            "pair_count": 20,
+            "token_count": 2275,
+            "avg_tokens_per_pair": 113.75
+          },
+          {
+            "name": "Politics_Science/polsci-130220-questions-and-answers.mp3-transcript_processed.txt",
+            "size_kb": 29.6513671875,
+            "pair_count": 72,
+            "token_count": 6147,
+            "avg_tokens_per_pair": 85.375
+          },
+          {
+            "name": "Politics_Science/polsci-200324-coronavirus-immunity-vaccines-part2.mp3-transcript_processed.txt",
+            "size_kb": 32.9775390625,
+            "pair_count": 39,
+            "token_count": 6922,
+            "avg_tokens_per_pair": 177.48717948717947
+          },
+          {
+            "name": "Politics_Science/polsci-090427-radiation-2.mp3-transcript_processed.txt",
+            "size_kb": 32.716796875,
+            "pair_count": 32,
+            "token_count": 6626,
+            "avg_tokens_per_pair": 207.0625
+          },
+          {
+            "name": "Politics_Science/polsci-080911-thyroid-and-regeneration.mp3-transcript_processed.txt",
+            "size_kb": 23.85546875,
+            "pair_count": 22,
+            "token_count": 5047,
+            "avg_tokens_per_pair": 229.4090909090909
+          },
+          {
+            "name": "Politics_Science/polsci-080918-reductionist-science.mp3-transcript_processed.txt",
+            "size_kb": 3.1875,
+            "pair_count": 4,
+            "token_count": 632,
+            "avg_tokens_per_pair": 158.0
+          },
+          {
+            "name": "Politics_Science/polsci-200331-coronavirus-immunity-vaccines-part3.mp3-transcript_processed.txt",
+            "size_kb": 27.0400390625,
+            "pair_count": 26,
+            "token_count": 5677,
+            "avg_tokens_per_pair": 218.34615384615384
+          },
+          {
+            "name": "Politics_Science/polsci-090420-radiation-1.mp3-transcript_processed.txt",
+            "size_kb": 29.2158203125,
+            "pair_count": 20,
+            "token_count": 5584,
+            "avg_tokens_per_pair": 279.2
+          },
+          {
+            "name": "Politics_Science/polsci-110316-nuclear-disaster.mp3-transcript_processed.txt",
+            "size_kb": 18.90234375,
+            "pair_count": 20,
+            "token_count": 3832,
+            "avg_tokens_per_pair": 191.6
+          },
+          {
+            "name": "Politics_Science/polsci-110330-obfuscation-of-radiation.mp3-transcript_processed.txt",
+            "size_kb": 27.986328125,
+            "pair_count": 27,
+            "token_count": 5754,
+            "avg_tokens_per_pair": 213.11111111111111
+          },
+          {
+            "name": "Politics_Science/polsci-120122-progesterone-1.mp3-transcript_processed.txt",
+            "size_kb": 32.1416015625,
+            "pair_count": 32,
+            "token_count": 6288,
+            "avg_tokens_per_pair": 196.5
+          },
+          {
+            "name": "Politics_Science/polsci-150311-biochemical-health.mp3-transcript_processed.txt",
+            "size_kb": 69.525390625,
+            "pair_count": 67,
+            "token_count": 14384,
+            "avg_tokens_per_pair": 214.6865671641791
+          },
+          {
+            "name": "Politics_Science/polsci-100426-digestion.mp3-transcript_processed.txt",
+            "size_kb": 24.373046875,
+            "pair_count": 19,
+            "token_count": 5101,
+            "avg_tokens_per_pair": 268.4736842105263
+          },
+          {
+            "name": "Politics_Science/polsci-120518-autoimmune-and-movement.mp3-transcript_processed.txt",
+            "size_kb": 36.12109375,
+            "pair_count": 29,
+            "token_count": 7237,
+            "avg_tokens_per_pair": 249.55172413793105
+          },
+          {
+            "name": "Politics_Science/polsci-120222-fundraiser-2.mp3-transcript_processed.txt",
+            "size_kb": 30.5166015625,
+            "pair_count": 21,
+            "token_count": 5429,
+            "avg_tokens_per_pair": 258.5238095238095
+          },
+          {
+            "name": "Politics_Science/polsci-010102-suppression-of-cancer.mp3-transcript_processed.txt",
+            "size_kb": 28.4541015625,
+            "pair_count": 34,
+            "token_count": 5807,
+            "avg_tokens_per_pair": 170.7941176470588
+          },
+          {
+            "name": "Politics_Science/polsci-140226-william-blake.mp3-transcript_processed.txt",
+            "size_kb": 61.345703125,
+            "pair_count": 64,
+            "token_count": 13062,
+            "avg_tokens_per_pair": 204.09375
+          },
+          {
+            "name": "Politics_Science/polsci-120207-progesterone-3.mp3-transcript_processed.txt",
+            "size_kb": 32.765625,
+            "pair_count": 39,
+            "token_count": 6792,
+            "avg_tokens_per_pair": 174.15384615384616
+          },
+          {
+            "name": "Politics_Science/polsci-200318-coronavirus-immunity-vaccines-part1.mp3-transcript_processed.txt",
+            "size_kb": 26.64453125,
+            "pair_count": 39,
+            "token_count": 5737,
+            "avg_tokens_per_pair": 147.10256410256412
+          },
+          {
+            "name": "Politics_Science/polsci-080724-dogmatism-in-science.mp3-transcript_processed.txt",
+            "size_kb": 24.8154296875,
+            "pair_count": 21,
+            "token_count": 5031,
+            "avg_tokens_per_pair": 239.57142857142858
+          },
+          {
+            "name": "Politics_Science/polsci-080721-fats.mp3-transcript_processed.txt",
+            "size_kb": 25.96875,
+            "pair_count": 34,
+            "token_count": 5431,
+            "avg_tokens_per_pair": 159.73529411764707
+          },
+          {
+            "name": "Politics_Science/polsci-120222-fundraiser-1.mp3-transcript_processed.txt",
+            "size_kb": 38.9443359375,
+            "pair_count": 37,
+            "token_count": 8477,
+            "avg_tokens_per_pair": 229.1081081081081
+          },
+          {
+            "name": "Politics_Science/polsci-120129-progesterone-2.mp3-transcript_processed.txt",
+            "size_kb": 160.8505859375,
+            "pair_count": 120,
+            "token_count": 33908,
+            "avg_tokens_per_pair": 282.56666666666666
+          },
+          {
+            "name": "Politics_Science/polsci-120107-food-quality.mp3-transcript_processed.txt",
+            "size_kb": 24.3203125,
+            "pair_count": 29,
+            "token_count": 5107,
+            "avg_tokens_per_pair": 176.10344827586206
+          },
+          {
+            "name": "Politics_Science/polsci-000102-origin-of-life.mp3-transcript_processed.txt",
+            "size_kb": 46.87109375,
+            "pair_count": 32,
+            "token_count": 9350,
+            "avg_tokens_per_pair": 292.1875
+          },
+          {
+            "name": "Politics_Science/polsci-101110-self-ordering-world.mp3-transcript_processed.txt",
+            "size_kb": 30.7138671875,
+            "pair_count": 21,
+            "token_count": 6399,
+            "avg_tokens_per_pair": 304.7142857142857
+          },
+          {
+            "name": "Politics_Science/polsci-150304-evolution.mp3-transcript_processed.txt",
+            "size_kb": 46.8740234375,
+            "pair_count": 45,
+            "token_count": 9588,
+            "avg_tokens_per_pair": 213.06666666666666
+          }
+        ]
+      },
+      "02_Publications": {
+        "file_count": 67,
+        "total_pairs": 1334,
+        "total_tokens": 253876,
+        "files": [
+          {
+            "name": "Academic_Papers/altitude-and-mortality_processed.txt",
+            "size_kb": 20.8544921875,
+            "pair_count": 34,
+            "token_count": 4215,
+            "avg_tokens_per_pair": 123.97058823529412
+          },
+          {
+            "name": "Academic_Papers/physiology-texts-and-the-real-world_processed.txt",
+            "size_kb": 21.2431640625,
+            "pair_count": 19,
+            "token_count": 4167,
+            "avg_tokens_per_pair": 219.31578947368422
+          },
+          {
+            "name": "Academic_Papers/can-art-instruct-science-william-blake-as-biological-visionary_processed.txt",
+            "size_kb": 27.6259765625,
+            "pair_count": 41,
+            "token_count": 5512,
+            "avg_tokens_per_pair": 134.4390243902439
+          },
+          {
+            "name": "Academic_Papers/estriol-des-ddt-etc_processed.txt",
+            "size_kb": 24.0595703125,
+            "pair_count": 24,
+            "token_count": 5442,
+            "avg_tokens_per_pair": 226.75
+          },
+          {
+            "name": "Academic_Papers/a-holistic-physiology-of-memory_processed.txt",
+            "size_kb": 15.357421875,
+            "pair_count": 17,
+            "token_count": 3062,
+            "avg_tokens_per_pair": 180.11764705882354
+          },
+          {
+            "name": "Academic_Papers/blocking-tissue-destruction_processed.txt",
+            "size_kb": 21.12890625,
+            "pair_count": 28,
+            "token_count": 4290,
+            "avg_tokens_per_pair": 153.21428571428572
+          },
+          {
+            "name": "Academic_Papers/stem-cells-cell-culture-and-culture-issues-in-regeneration_processed.txt",
+            "size_kb": 35.1943359375,
+            "pair_count": 1,
+            "token_count": 7165,
+            "avg_tokens_per_pair": 7165.0
+          },
+          {
+            "name": "Academic_Papers/a-revolution-in-physics_processed.txt",
+            "size_kb": 11.185546875,
+            "pair_count": 1,
+            "token_count": 2355,
+            "avg_tokens_per_pair": 2355.0
+          },
+          {
+            "name": "Academic_Papers/autonomic-systems_processed.txt",
+            "size_kb": 167.7919921875,
+            "pair_count": 253,
+            "token_count": 34134,
+            "avg_tokens_per_pair": 134.91699604743084
+          },
+          {
+            "name": "Academic_Papers/genes-carbon-dioxide-and-adaptation_processed.txt",
+            "size_kb": 28.896484375,
+            "pair_count": 25,
+            "token_count": 5866,
+            "avg_tokens_per_pair": 234.64
+          },
+          {
+            "name": "Academic_Papers/the-problem-of-alzheimers-disease-as-a-clue-to-immortality_processed.txt",
+            "size_kb": 58.6376953125,
+            "pair_count": 71,
+            "token_count": 12572,
+            "avg_tokens_per_pair": 177.07042253521126
+          },
+          {
+            "name": "Academic_Papers/coconut-oil_processed.txt",
+            "size_kb": 21.37109375,
+            "pair_count": 24,
+            "token_count": 4402,
+            "avg_tokens_per_pair": 183.41666666666666
+          },
+          {
+            "name": "Academic_Papers/intuitive-knowledge-and-its-development_processed.txt",
+            "size_kb": 21.3203125,
+            "pair_count": 29,
+            "token_count": 4202,
+            "avg_tokens_per_pair": 144.89655172413794
+          },
+          {
+            "name": "Academic_Papers/can-some-anomalous-structural-interactions-be-explained-by-an-excitable-ether_processed.txt",
+            "size_kb": 17.1611328125,
+            "pair_count": 14,
+            "token_count": 3503,
+            "avg_tokens_per_pair": 250.21428571428572
+          },
+          {
+            "name": "Academic_Papers/biological-balance-and-addictions_processed.txt",
+            "size_kb": 24.7626953125,
+            "pair_count": 4,
+            "token_count": 4598,
+            "avg_tokens_per_pair": 1149.5
+          },
+          {
+            "name": "Academic_Papers/menopause-and-its-causes_processed.txt",
+            "size_kb": 12.7587890625,
+            "pair_count": 14,
+            "token_count": 2692,
+            "avg_tokens_per_pair": 192.28571428571428
+          },
+          {
+            "name": "Academic_Papers/osteoporosis-harmful-calcification-and-nerve-muscle-malfunctions_processed.txt",
+            "size_kb": 25.732421875,
+            "pair_count": 28,
+            "token_count": 5415,
+            "avg_tokens_per_pair": 193.39285714285714
+          },
+          {
+            "name": "Academic_Papers/adaptive-substance-creative-regeneration-mainstream-science-repression-and-creativity_processed.txt",
+            "size_kb": 42.2265625,
+            "pair_count": 58,
+            "token_count": 8303,
+            "avg_tokens_per_pair": 143.1551724137931
+          },
+          {
+            "name": "Academic_Papers/how-do-you-know-students-patients-and-discovery_processed.txt",
+            "size_kb": 30.2880859375,
+            "pair_count": 33,
+            "token_count": 5835,
+            "avg_tokens_per_pair": 176.8181818181818
+          },
+          {
+            "name": "Academic_Papers/neutrinos-and-long-range-interactions_processed.txt",
+            "size_kb": 10.3984375,
+            "pair_count": 10,
+            "token_count": 2158,
+            "avg_tokens_per_pair": 215.8
+          },
+          {
+            "name": "Academic_Papers/the-great-fish-oil-experiment_processed.txt",
+            "size_kb": 26.15625,
+            "pair_count": 38,
+            "token_count": 5612,
+            "avg_tokens_per_pair": 147.68421052631578
+          },
+          {
+            "name": "Academic_Papers/membranes-plasma-membranes-and-surfaces_processed.txt",
+            "size_kb": 25.1533203125,
+            "pair_count": 30,
+            "token_count": 5225,
+            "avg_tokens_per_pair": 174.16666666666666
+          },
+          {
+            "name": "Academic_Papers/education-as-advertised-in-napoleonic-times_processed.txt",
+            "size_kb": 7.9501953125,
+            "pair_count": 8,
+            "token_count": 1471,
+            "avg_tokens_per_pair": 183.875
+          },
+          {
+            "name": "Academic_Papers/the-transparency-of-life-cataracts-as-a-model-of-age-related-disease_processed.txt",
+            "size_kb": 17.537109375,
+            "pair_count": 16,
+            "token_count": 3721,
+            "avg_tokens_per_pair": 232.5625
+          },
+          {
+            "name": "Academic_Papers/academic-authoritarians-language-metaphor-animals-and-science_processed.txt",
+            "size_kb": 31.068359375,
+            "pair_count": 47,
+            "token_count": 6078,
+            "avg_tokens_per_pair": 129.31914893617022
+          },
+          {
+            "name": "Academic_Papers/pathological-science-and-general-electric-threatening-the-paradigm_processed.txt",
+            "size_kb": 34.841796875,
+            "pair_count": 39,
+            "token_count": 7110,
+            "avg_tokens_per_pair": 182.30769230769232
+          },
+          {
+            "name": "Academic_Papers/irons-dangers_processed.txt",
+            "size_kb": 15.17578125,
+            "pair_count": 15,
+            "token_count": 3046,
+            "avg_tokens_per_pair": 203.06666666666666
+          },
+          {
+            "name": "Academic_Papers/bone-density-first-do-no-harm_processed.txt",
+            "size_kb": 14.5087890625,
+            "pair_count": 1,
+            "token_count": 260,
+            "avg_tokens_per_pair": 260.0
+          },
+          {
+            "name": "Townsend_Letters/1988 - June - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 9.75390625,
+            "pair_count": 12,
+            "token_count": 1545,
+            "avg_tokens_per_pair": 128.75
+          },
+          {
+            "name": "Townsend_Letters/1990 - October - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 27.1630859375,
+            "pair_count": 29,
+            "token_count": 5342,
+            "avg_tokens_per_pair": 184.20689655172413
+          },
+          {
+            "name": "Townsend_Letters/1994 - July - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 10.5,
+            "pair_count": 1,
+            "token_count": 1750,
+            "avg_tokens_per_pair": 1750.0
+          },
+          {
+            "name": "Townsend_Letters/1989 - February.March - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 1.341796875,
+            "pair_count": 3,
+            "token_count": 267,
+            "avg_tokens_per_pair": 89.0
+          },
+          {
+            "name": "Townsend_Letters/#49 - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 10.0078125,
+            "pair_count": 13,
+            "token_count": 2116,
+            "avg_tokens_per_pair": 162.76923076923077
+          },
+          {
+            "name": "Townsend_Letters/1992 - December - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 9.15625,
+            "pair_count": 12,
+            "token_count": 1893,
+            "avg_tokens_per_pair": 157.75
+          },
+          {
+            "name": "Townsend_Letters/1992 - June - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 20.4140625,
+            "pair_count": 27,
+            "token_count": 4143,
+            "avg_tokens_per_pair": 153.44444444444446
+          },
+          {
+            "name": "Townsend_Letters/1990 - May - dupe2 - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 9.5751953125,
+            "pair_count": 12,
+            "token_count": 2004,
+            "avg_tokens_per_pair": 167.0
+          },
+          {
+            "name": "Townsend_Letters/1988 - January - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 6.10546875,
+            "pair_count": 6,
+            "token_count": 1321,
+            "avg_tokens_per_pair": 220.16666666666666
+          },
+          {
+            "name": "Townsend_Letters/1996 - April - dupe - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 46.4072265625,
+            "pair_count": 6,
+            "token_count": 9545,
+            "avg_tokens_per_pair": 1590.8333333333333
+          },
+          {
+            "name": "Townsend_Letters/1989 - November - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 16.255859375,
+            "pair_count": 15,
+            "token_count": 3335,
+            "avg_tokens_per_pair": 222.33333333333334
+          },
+          {
+            "name": "Townsend_Letters/1990 - February.March - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 0.7216796875,
+            "pair_count": 1,
+            "token_count": 148,
+            "avg_tokens_per_pair": 148.0
+          },
+          {
+            "name": "Townsend_Letters/1994 - April - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 10.298828125,
+            "pair_count": 11,
+            "token_count": 2108,
+            "avg_tokens_per_pair": 191.63636363636363
+          },
+          {
+            "name": "Townsend_Letters/The Bean Syndrome - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 12.2333984375,
+            "pair_count": 18,
+            "token_count": 2389,
+            "avg_tokens_per_pair": 132.72222222222223
+          },
+          {
+            "name": "Townsend_Letters/2000 - June - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 5.0654296875,
+            "pair_count": 6,
+            "token_count": 1039,
+            "avg_tokens_per_pair": 173.16666666666666
+          },
+          {
+            "name": "Townsend_Letters/1996 - June - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 13.521484375,
+            "pair_count": 11,
+            "token_count": 2779,
+            "avg_tokens_per_pair": 252.63636363636363
+          },
+          {
+            "name": "Townsend_Letters/1994 - Nobember - dupe - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 3.9033203125,
+            "pair_count": 4,
+            "token_count": 791,
+            "avg_tokens_per_pair": 197.75
+          },
+          {
+            "name": "Townsend_Letters/1990 - May - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 5.1220703125,
+            "pair_count": 2,
+            "token_count": 1009,
+            "avg_tokens_per_pair": 504.5
+          },
+          {
+            "name": "Townsend_Letters/1989 - January - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 11.2060546875,
+            "pair_count": 1,
+            "token_count": 1231,
+            "avg_tokens_per_pair": 1231.0
+          },
+          {
+            "name": "Townsend_Letters/1995 - November - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 6.5498046875,
+            "pair_count": 2,
+            "token_count": 1355,
+            "avg_tokens_per_pair": 677.5
+          },
+          {
+            "name": "Townsend_Letters/1992 - August.September - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 15.15234375,
+            "pair_count": 2,
+            "token_count": 2835,
+            "avg_tokens_per_pair": 1417.5
+          },
+          {
+            "name": "Townsend_Letters/1988 - May - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 2.2841796875,
+            "pair_count": 4,
+            "token_count": 471,
+            "avg_tokens_per_pair": 117.75
+          },
+          {
+            "name": "Townsend_Letters/1990 - August.September - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 2.73828125,
+            "pair_count": 3,
+            "token_count": 566,
+            "avg_tokens_per_pair": 188.66666666666666
+          },
+          {
+            "name": "Townsend_Letters/1995 - August.September - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 20.580078125,
+            "pair_count": 27,
+            "token_count": 4172,
+            "avg_tokens_per_pair": 154.5185185185185
+          },
+          {
+            "name": "Townsend_Letters/1993 - November - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 17.689453125,
+            "pair_count": 25,
+            "token_count": 3666,
+            "avg_tokens_per_pair": 146.64
+          },
+          {
+            "name": "Townsend_Letters/1990 - December - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 5.4736328125,
+            "pair_count": 1,
+            "token_count": 1078,
+            "avg_tokens_per_pair": 1078.0
+          },
+          {
+            "name": "Townsend_Letters/1995 - February.March - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 8.455078125,
+            "pair_count": 7,
+            "token_count": 1730,
+            "avg_tokens_per_pair": 247.14285714285714
+          },
+          {
+            "name": "Townsend_Letters/1988 - August.September - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 8.7490234375,
+            "pair_count": 7,
+            "token_count": 1732,
+            "avg_tokens_per_pair": 247.42857142857142
+          },
+          {
+            "name": "Townsend_Letters/1994 - November - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 9.466796875,
+            "pair_count": 12,
+            "token_count": 1782,
+            "avg_tokens_per_pair": 148.5
+          },
+          {
+            "name": "Townsend_Letters/1989 - April - Townsend Letter for Doctors 11.42.31 PM_processed.txt",
+            "size_kb": 152.5009765625,
+            "pair_count": 34,
+            "token_count": 4332,
+            "avg_tokens_per_pair": 127.41176470588235
+          },
+          {
+            "name": "Townsend_Letters/1994 - June - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 12.1787109375,
+            "pair_count": 20,
+            "token_count": 2566,
+            "avg_tokens_per_pair": 128.3
+          },
+          {
+            "name": "Townsend_Letters/1991 - February.March - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 1.689453125,
+            "pair_count": 1,
+            "token_count": 339,
+            "avg_tokens_per_pair": 339.0
+          },
+          {
+            "name": "Townsend_Letters/1992 - November - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 8.6435546875,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "Townsend_Letters/1991 - April - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 11.62109375,
+            "pair_count": 16,
+            "token_count": 2322,
+            "avg_tokens_per_pair": 145.125
+          },
+          {
+            "name": "Townsend_Letters/1991 - July - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 9.5751953125,
+            "pair_count": 12,
+            "token_count": 2039,
+            "avg_tokens_per_pair": 169.91666666666666
+          },
+          {
+            "name": "Townsend_Letters/1991 - June- Townsend Letter for Doctors_processed.txt",
+            "size_kb": 35.7548828125,
+            "pair_count": 5,
+            "token_count": 6924,
+            "avg_tokens_per_pair": 1384.8
+          },
+          {
+            "name": "Townsend_Letters/1996 - April - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 18.63671875,
+            "pair_count": 22,
+            "token_count": 4003,
+            "avg_tokens_per_pair": 181.95454545454547
+          },
+          {
+            "name": "Townsend_Letters/1991 - January - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 13.912109375,
+            "pair_count": 14,
+            "token_count": 2909,
+            "avg_tokens_per_pair": 207.78571428571428
+          },
+          {
+            "name": "Townsend_Letters/1990 - May - dupe - Townsend Letter for Doctors_processed.txt",
+            "size_kb": 8.955078125,
+            "pair_count": 8,
+            "token_count": 1889,
+            "avg_tokens_per_pair": 236.125
+          }
+        ]
+      },
+      "03_Chronological_Content": {
+        "file_count": 58,
+        "total_pairs": 1493,
+        "total_tokens": 298438,
+        "files": [
+          {
+            "name": "2000s/2000 - March_processed.txt",
+            "size_kb": 15.4443359375,
+            "pair_count": 13,
+            "token_count": 2937,
+            "avg_tokens_per_pair": 225.92307692307693
+          },
+          {
+            "name": "2000s/2006 - November_processed.txt",
+            "size_kb": 37.6826171875,
+            "pair_count": 2,
+            "token_count": 263,
+            "avg_tokens_per_pair": 131.5
+          },
+          {
+            "name": "2000s/2000 - January_processed.txt",
+            "size_kb": 26.4873046875,
+            "pair_count": 29,
+            "token_count": 5374,
+            "avg_tokens_per_pair": 185.31034482758622
+          },
+          {
+            "name": "2000s/2002 - November_processed.txt",
+            "size_kb": 30.3125,
+            "pair_count": 46,
+            "token_count": 6004,
+            "avg_tokens_per_pair": 130.52173913043478
+          },
+          {
+            "name": "2000s/2008 - March_processed.txt",
+            "size_kb": 28.4892578125,
+            "pair_count": 34,
+            "token_count": 5979,
+            "avg_tokens_per_pair": 175.85294117647058
+          },
+          {
+            "name": "2000s/2002 - September_processed.txt",
+            "size_kb": 13.7001953125,
+            "pair_count": 30,
+            "token_count": 2743,
+            "avg_tokens_per_pair": 91.43333333333334
+          },
+          {
+            "name": "2000s/2000 - October_processed.txt",
+            "size_kb": 27.447265625,
+            "pair_count": 26,
+            "token_count": 5442,
+            "avg_tokens_per_pair": 209.30769230769232
+          },
+          {
+            "name": "2000s/2000 - July_processed.txt",
+            "size_kb": 20.91015625,
+            "pair_count": 12,
+            "token_count": 4035,
+            "avg_tokens_per_pair": 336.25
+          },
+          {
+            "name": "2000s/2006 - March_processed.txt",
+            "size_kb": 25.8154296875,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "2000s/2006 - July_processed.txt",
+            "size_kb": 20.697265625,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "2000s/2003 - July_processed.txt",
+            "size_kb": 27.5634765625,
+            "pair_count": 36,
+            "token_count": 5624,
+            "avg_tokens_per_pair": 156.22222222222223
+          },
+          {
+            "name": "2000s/2001 - March_processed.txt",
+            "size_kb": 15.66796875,
+            "pair_count": 16,
+            "token_count": 3002,
+            "avg_tokens_per_pair": 187.625
+          },
+          {
+            "name": "2000s/2009 - July_processed.txt",
+            "size_kb": 29.060546875,
+            "pair_count": 29,
+            "token_count": 6137,
+            "avg_tokens_per_pair": 211.6206896551724
+          },
+          {
+            "name": "2000s/2001 - October_processed.txt",
+            "size_kb": 33.501953125,
+            "pair_count": 38,
+            "token_count": 7087,
+            "avg_tokens_per_pair": 186.5
+          },
+          {
+            "name": "2000s/2005 - January_processed.txt",
+            "size_kb": 32.45703125,
+            "pair_count": 10,
+            "token_count": 6601,
+            "avg_tokens_per_pair": 660.1
+          },
+          {
+            "name": "2000s/2000 - February_processed.txt",
+            "size_kb": 26.6396484375,
+            "pair_count": 52,
+            "token_count": 5353,
+            "avg_tokens_per_pair": 102.9423076923077
+          },
+          {
+            "name": "2000s/2001 - September_processed.txt",
+            "size_kb": 30.9287109375,
+            "pair_count": 33,
+            "token_count": 5113,
+            "avg_tokens_per_pair": 154.93939393939394
+          },
+          {
+            "name": "2000s/2009 - September_processed.txt",
+            "size_kb": 30.4912109375,
+            "pair_count": 49,
+            "token_count": 6295,
+            "avg_tokens_per_pair": 128.46938775510205
+          },
+          {
+            "name": "2000s/2009 - November_processed.txt",
+            "size_kb": 33.6865234375,
+            "pair_count": 64,
+            "token_count": 6849,
+            "avg_tokens_per_pair": 107.015625
+          },
+          {
+            "name": "2000s/2001 - January_processed.txt",
+            "size_kb": 15.84375,
+            "pair_count": 3,
+            "token_count": 3278,
+            "avg_tokens_per_pair": 1092.6666666666667
+          },
+          {
+            "name": "2000s/2005 - November_processed.txt",
+            "size_kb": 153.962890625,
+            "pair_count": 18,
+            "token_count": 7211,
+            "avg_tokens_per_pair": 400.6111111111111
+          },
+          {
+            "name": "2000s/2008 - May_processed.txt",
+            "size_kb": 42.59765625,
+            "pair_count": 31,
+            "token_count": 8743,
+            "avg_tokens_per_pair": 282.03225806451616
+          },
+          {
+            "name": "2000s/2003 - March_processed.txt",
+            "size_kb": 27.068359375,
+            "pair_count": 6,
+            "token_count": 316,
+            "avg_tokens_per_pair": 52.666666666666664
+          },
+          {
+            "name": "2000s/2001 - November_processed.txt",
+            "size_kb": 24.095703125,
+            "pair_count": 21,
+            "token_count": 4903,
+            "avg_tokens_per_pair": 233.47619047619048
+          },
+          {
+            "name": "2000s/2005 - March_processed.txt",
+            "size_kb": 38.98046875,
+            "pair_count": 15,
+            "token_count": 7673,
+            "avg_tokens_per_pair": 511.53333333333336
+          },
+          {
+            "name": "2000s/2002 - July_processed.txt",
+            "size_kb": 28.6845703125,
+            "pair_count": 47,
+            "token_count": 5752,
+            "avg_tokens_per_pair": 122.38297872340425
+          },
+          {
+            "name": "2000s/2006 - May_processed.txt",
+            "size_kb": 20.15625,
+            "pair_count": 24,
+            "token_count": 4127,
+            "avg_tokens_per_pair": 171.95833333333334
+          },
+          {
+            "name": "2000s/2003 - September_processed.txt",
+            "size_kb": 27.1103515625,
+            "pair_count": 35,
+            "token_count": 5304,
+            "avg_tokens_per_pair": 151.54285714285714
+          },
+          {
+            "name": "2000s/2000 - April_processed.txt",
+            "size_kb": 20.4931640625,
+            "pair_count": 29,
+            "token_count": 4201,
+            "avg_tokens_per_pair": 144.86206896551724
+          },
+          {
+            "name": "2000s/2006 - January_processed.txt",
+            "size_kb": 28.662109375,
+            "pair_count": 30,
+            "token_count": 5678,
+            "avg_tokens_per_pair": 189.26666666666668
+          },
+          {
+            "name": "2000s/2001 - May_processed.txt",
+            "size_kb": 28.60546875,
+            "pair_count": 53,
+            "token_count": 6055,
+            "avg_tokens_per_pair": 114.24528301886792
+          },
+          {
+            "name": "2000s/2001 - February_processed.txt",
+            "size_kb": 19.39453125,
+            "pair_count": 13,
+            "token_count": 3948,
+            "avg_tokens_per_pair": 303.6923076923077
+          },
+          {
+            "name": "1980s/1986 - February_processed.txt",
+            "size_kb": 7.4423828125,
+            "pair_count": 6,
+            "token_count": 1492,
+            "avg_tokens_per_pair": 248.66666666666666
+          },
+          {
+            "name": "2010s/2013 - January_processed.txt",
+            "size_kb": 24.9189453125,
+            "pair_count": 32,
+            "token_count": 5232,
+            "avg_tokens_per_pair": 163.5
+          },
+          {
+            "name": "2010s/2010 - November_processed.txt",
+            "size_kb": 23.671875,
+            "pair_count": 19,
+            "token_count": 4962,
+            "avg_tokens_per_pair": 261.1578947368421
+          },
+          {
+            "name": "2010s/2010 - September_processed.txt",
+            "size_kb": 28.7158203125,
+            "pair_count": 39,
+            "token_count": 5429,
+            "avg_tokens_per_pair": 139.2051282051282
+          },
+          {
+            "name": "2010s/2011 - November_processed.txt",
+            "size_kb": 74.8896484375,
+            "pair_count": 35,
+            "token_count": 16089,
+            "avg_tokens_per_pair": 459.6857142857143
+          },
+          {
+            "name": "2010s/2012 - July_processed.txt",
+            "size_kb": 36.26171875,
+            "pair_count": 25,
+            "token_count": 7217,
+            "avg_tokens_per_pair": 288.68
+          },
+          {
+            "name": "2010s/2012 - March_processed.txt",
+            "size_kb": 67.3076171875,
+            "pair_count": 12,
+            "token_count": 14175,
+            "avg_tokens_per_pair": 1181.25
+          },
+          {
+            "name": "2010s/2010 - January_processed.txt",
+            "size_kb": 27.310546875,
+            "pair_count": 31,
+            "token_count": 5691,
+            "avg_tokens_per_pair": 183.58064516129033
+          },
+          {
+            "name": "2010s/2010 - March_processed.txt",
+            "size_kb": 40.7216796875,
+            "pair_count": 72,
+            "token_count": 9104,
+            "avg_tokens_per_pair": 126.44444444444444
+          },
+          {
+            "name": "2010s/2012 - September_processed.txt",
+            "size_kb": 20.7509765625,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "2010s/2012 - May_processed.txt",
+            "size_kb": 13.84375,
+            "pair_count": 35,
+            "token_count": 2577,
+            "avg_tokens_per_pair": 73.62857142857143
+          },
+          {
+            "name": "2010s/2012 - January_processed.txt",
+            "size_kb": 58.3203125,
+            "pair_count": 28,
+            "token_count": 12969,
+            "avg_tokens_per_pair": 463.17857142857144
+          },
+          {
+            "name": "2010s/2011 - July_processed.txt",
+            "size_kb": 31.373046875,
+            "pair_count": 32,
+            "token_count": 6487,
+            "avg_tokens_per_pair": 202.71875
+          },
+          {
+            "name": "2010s/2010 - May_processed.txt",
+            "size_kb": 25.9833984375,
+            "pair_count": 19,
+            "token_count": 5073,
+            "avg_tokens_per_pair": 267.0
+          },
+          {
+            "name": "2010s/2011 - May_processed.txt",
+            "size_kb": 21.1923828125,
+            "pair_count": 29,
+            "token_count": 4216,
+            "avg_tokens_per_pair": 145.3793103448276
+          },
+          {
+            "name": "2010s/2013 - March_processed.txt",
+            "size_kb": 21.44921875,
+            "pair_count": 19,
+            "token_count": 4677,
+            "avg_tokens_per_pair": 246.1578947368421
+          },
+          {
+            "name": "2010s/2011 - September_processed.txt",
+            "size_kb": 23.6162109375,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "2010s/2010 - July_processed.txt",
+            "size_kb": 19.3740234375,
+            "pair_count": 18,
+            "token_count": 3967,
+            "avg_tokens_per_pair": 220.38888888888889
+          },
+          {
+            "name": "2010s/2011 - March_processed.txt",
+            "size_kb": 22.5048828125,
+            "pair_count": 26,
+            "token_count": 4695,
+            "avg_tokens_per_pair": 180.57692307692307
+          },
+          {
+            "name": "2010s/2012 - November_processed.txt",
+            "size_kb": 26.0283203125,
+            "pair_count": 30,
+            "token_count": 5482,
+            "avg_tokens_per_pair": 182.73333333333332
+          },
+          {
+            "name": "1990s/1999 - April_processed.txt",
+            "size_kb": 17.2978515625,
+            "pair_count": 17,
+            "token_count": 3482,
+            "avg_tokens_per_pair": 204.8235294117647
+          },
+          {
+            "name": "1990s/1998 - Unknown_processed.txt",
+            "size_kb": 28.0771484375,
+            "pair_count": 37,
+            "token_count": 6084,
+            "avg_tokens_per_pair": 164.43243243243242
+          },
+          {
+            "name": "1990s/1997 - Unknown_processed.txt",
+            "size_kb": 14.12109375,
+            "pair_count": 11,
+            "token_count": 2980,
+            "avg_tokens_per_pair": 270.90909090909093
+          },
+          {
+            "name": "1990s/1995 - September_processed.txt",
+            "size_kb": 27.765625,
+            "pair_count": 30,
+            "token_count": 5641,
+            "avg_tokens_per_pair": 188.03333333333333
+          },
+          {
+            "name": "1990s/1999 - December_processed.txt",
+            "size_kb": 23.5732421875,
+            "pair_count": 21,
+            "token_count": 4809,
+            "avg_tokens_per_pair": 229.0
+          },
+          {
+            "name": "1990s/1998 - May_processed.txt",
+            "size_kb": 19.0771484375,
+            "pair_count": 26,
+            "token_count": 3881,
+            "avg_tokens_per_pair": 149.26923076923077
+          }
+        ]
+      },
+      "04_Health_Topics": {
+        "file_count": 127,
+        "total_pairs": 3163,
+        "total_tokens": 563916,
+        "files": [
+          {
+            "name": "Aging_Degenerative/chronic-fatigue-by-ray-peat_processed.txt",
+            "size_kb": 8.595703125,
+            "pair_count": 1,
+            "token_count": 1756,
+            "avg_tokens_per_pair": 1756.0
+          },
+          {
+            "name": "Aging_Degenerative/tryptophan-serotonin-and-aging_processed.txt",
+            "size_kb": 17.6904296875,
+            "pair_count": 36,
+            "token_count": 3578,
+            "avg_tokens_per_pair": 99.38888888888889
+          },
+          {
+            "name": "Aging_Degenerative/The Edema of Stress - 1989 May_processed.txt",
+            "size_kb": 12.142578125,
+            "pair_count": 15,
+            "token_count": 2424,
+            "avg_tokens_per_pair": 161.6
+          },
+          {
+            "name": "Aging_Degenerative/osteoporosis-aging-tissue-renewal-and-product-science_processed.txt",
+            "size_kb": 28.251953125,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "Aging_Degenerative/regeneration-and-degeneration-types-of-inflammation-change-with-aging_processed.txt",
+            "size_kb": 22.8046875,
+            "pair_count": 13,
+            "token_count": 4793,
+            "avg_tokens_per_pair": 368.6923076923077
+          },
+          {
+            "name": "Aging_Degenerative/leakiness-aging-and-cancer_processed.txt",
+            "size_kb": 18.9189453125,
+            "pair_count": 7,
+            "token_count": 3808,
+            "avg_tokens_per_pair": 544.0
+          },
+          {
+            "name": "Aging_Degenerative/brain-aging-by-ray-peat_processed.txt",
+            "size_kb": 9.255859375,
+            "pair_count": 12,
+            "token_count": 1846,
+            "avg_tokens_per_pair": 153.83333333333334
+          },
+          {
+            "name": "Aging_Degenerative/homeostasis-and-aging_processed.txt",
+            "size_kb": 23.43359375,
+            "pair_count": 20,
+            "token_count": 4781,
+            "avg_tokens_per_pair": 239.05
+          },
+          {
+            "name": "Aging_Degenerative/food-junk-and-some-mystery-ailments-fatigue-alzheimers-colitis-immunodeficiency_processed.txt",
+            "size_kb": 10.224609375,
+            "pair_count": 24,
+            "token_count": 1999,
+            "avg_tokens_per_pair": 83.29166666666667
+          },
+          {
+            "name": "Aging_Degenerative/water-swelling-tension-pain-fatigue-aging_processed.txt",
+            "size_kb": 32.3154296875,
+            "pair_count": 58,
+            "token_count": 6563,
+            "avg_tokens_per_pair": 113.15517241379311
+          },
+          {
+            "name": "Aging_Degenerative/fats-and-degeneration_processed.txt",
+            "size_kb": 28.318359375,
+            "pair_count": 44,
+            "token_count": 5923,
+            "avg_tokens_per_pair": 134.61363636363637
+          },
+          {
+            "name": "Aging_Degenerative/bowel-toxins-accelerate-aging-process_processed.txt",
+            "size_kb": 1.7080078125,
+            "pair_count": 1,
+            "token_count": 347,
+            "avg_tokens_per_pair": 347.0
+          },
+          {
+            "name": "Aging_Degenerative/rosacea-inflammation-and-aging-the-inefficiency-of-stress_processed.txt",
+            "size_kb": 29.9755859375,
+            "pair_count": 26,
+            "token_count": 6286,
+            "avg_tokens_per_pair": 241.76923076923077
+          },
+          {
+            "name": "Aging_Degenerative/bse-mad-cow-scrapie-etc-stimulated-amyloid-degeneration-and-the-toxic-fats_processed.txt",
+            "size_kb": 29.4111328125,
+            "pair_count": 39,
+            "token_count": 6059,
+            "avg_tokens_per_pair": 155.35897435897436
+          },
+          {
+            "name": "Aging_Degenerative/solving-some-of-the-problems-of-aging_processed.txt",
+            "size_kb": 14.57421875,
+            "pair_count": 17,
+            "token_count": 3009,
+            "avg_tokens_per_pair": 177.0
+          },
+          {
+            "name": "Aging_Degenerative/phosphate-activation-and-aging_processed.txt",
+            "size_kb": 25.4150390625,
+            "pair_count": 31,
+            "token_count": 5389,
+            "avg_tokens_per_pair": 173.83870967741936
+          },
+          {
+            "name": "Aging_Degenerative/carbon-monoxide-stress-and-cancer-1999-status_processed.txt",
+            "size_kb": 17.5888671875,
+            "pair_count": 22,
+            "token_count": 3532,
+            "avg_tokens_per_pair": 160.54545454545453
+          },
+          {
+            "name": "Aging_Degenerative/implications-of-inflammation_processed.txt",
+            "size_kb": 9.0654296875,
+            "pair_count": 20,
+            "token_count": 1649,
+            "avg_tokens_per_pair": 82.45
+          },
+          {
+            "name": "Aging_Degenerative/the-dark-side-of-stress-learned-helplnessness_processed.txt",
+            "size_kb": 23.70703125,
+            "pair_count": 32,
+            "token_count": 5114,
+            "avg_tokens_per_pair": 159.8125
+          },
+          {
+            "name": "Aging_Degenerative/eclampsia-in-the-real-organism-a-paradigm-of-general-distress-applicable-in-infants-adults-etc_processed.txt",
+            "size_kb": 14.7431640625,
+            "pair_count": 24,
+            "token_count": 2866,
+            "avg_tokens_per_pair": 119.41666666666667
+          },
+          {
+            "name": "Aging_Degenerative/serotonin-effects-in-disease-aging-and-inflammation_processed.txt",
+            "size_kb": 23.8603515625,
+            "pair_count": 36,
+            "token_count": 4907,
+            "avg_tokens_per_pair": 136.30555555555554
+          },
+          {
+            "name": "Aging_Degenerative/meat-physiology-stress-and-degenerative-physiology_processed.txt",
+            "size_kb": 26.7470703125,
+            "pair_count": 40,
+            "token_count": 5427,
+            "avg_tokens_per_pair": 135.675
+          },
+          {
+            "name": "Aging_Degenerative/the-edema-of-stress_processed.txt",
+            "size_kb": 10.8798828125,
+            "pair_count": 3,
+            "token_count": 344,
+            "avg_tokens_per_pair": 114.66666666666667
+          },
+          {
+            "name": "Aging_Degenerative/aging-ovaries-not-the-eggs_processed.txt",
+            "size_kb": 25.23046875,
+            "pair_count": 35,
+            "token_count": 5262,
+            "avg_tokens_per_pair": 150.34285714285716
+          },
+          {
+            "name": "Aging_Degenerative/endotoxin-stress-depression_processed.txt",
+            "size_kb": 18.984375,
+            "pair_count": 1,
+            "token_count": 128,
+            "avg_tokens_per_pair": 128.0
+          },
+          {
+            "name": "Aging_Degenerative/aging-eyes-infant-eyes-and-excitable-tissues_processed.txt",
+            "size_kb": 17.607421875,
+            "pair_count": 19,
+            "token_count": 3569,
+            "avg_tokens_per_pair": 187.8421052631579
+          },
+          {
+            "name": "Aging_Degenerative/lungs-shock-inflammation-and-aging_processed.txt",
+            "size_kb": 12.6708984375,
+            "pair_count": 27,
+            "token_count": 2486,
+            "avg_tokens_per_pair": 92.07407407407408
+          },
+          {
+            "name": "Aging_Degenerative/gelatin-stress-longevity_processed.txt",
+            "size_kb": 34.431640625,
+            "pair_count": 55,
+            "token_count": 7231,
+            "avg_tokens_per_pair": 131.47272727272727
+          },
+          {
+            "name": "Aging_Degenerative/fatigue-aging-and-recuperation_processed.txt",
+            "size_kb": 39.880859375,
+            "pair_count": 20,
+            "token_count": 8033,
+            "avg_tokens_per_pair": 401.65
+          },
+          {
+            "name": "Aging_Degenerative/cholesterol-longevity-intelligence-and-health_processed.txt",
+            "size_kb": 26.90234375,
+            "pair_count": 1,
+            "token_count": 53,
+            "avg_tokens_per_pair": 53.0
+          },
+          {
+            "name": "Metabolism_Energy/szent-gyorgyis-energy_processed.txt",
+            "size_kb": 6.078125,
+            "pair_count": 8,
+            "token_count": 1269,
+            "avg_tokens_per_pair": 158.625
+          },
+          {
+            "name": "Metabolism_Energy/hot-flashes-energy-and-aging_processed.txt",
+            "size_kb": 26.8984375,
+            "pair_count": 31,
+            "token_count": 5560,
+            "avg_tokens_per_pair": 179.3548387096774
+          },
+          {
+            "name": "Metabolism_Energy/mitochondria-and-mortality_processed.txt",
+            "size_kb": 21.900390625,
+            "pair_count": 9,
+            "token_count": 4430,
+            "avg_tokens_per_pair": 492.22222222222223
+          },
+          {
+            "name": "Metabolism_Energy/thought-and-energy-mood-and-metabolism_processed.txt",
+            "size_kb": 32.353515625,
+            "pair_count": 33,
+            "token_count": 6870,
+            "avg_tokens_per_pair": 208.1818181818182
+          },
+          {
+            "name": "Metabolism_Energy/cataracts-water-energy-light-and-aging_processed.txt",
+            "size_kb": 21.939453125,
+            "pair_count": 14,
+            "token_count": 4680,
+            "avg_tokens_per_pair": 334.2857142857143
+          },
+          {
+            "name": "Metabolism_Energy/salt-energy-metabolic-rate-and-longevity_processed.txt",
+            "size_kb": 20.234375,
+            "pair_count": 43,
+            "token_count": 3967,
+            "avg_tokens_per_pair": 92.25581395348837
+          },
+          {
+            "name": "Metabolism_Energy/intelligence-and-metabolism_processed.txt",
+            "size_kb": 22.9990234375,
+            "pair_count": 26,
+            "token_count": 4554,
+            "avg_tokens_per_pair": 175.15384615384616
+          },
+          {
+            "name": "Metabolism_Energy/glycemia-starch-and-sugar-in-context_processed.txt",
+            "size_kb": 24.4951171875,
+            "pair_count": 17,
+            "token_count": 4965,
+            "avg_tokens_per_pair": 292.05882352941177
+          },
+          {
+            "name": "Metabolism_Energy/lactate-vs-co2-in-wounds-sickness-and-aging-the-other-approach-to-cancer_processed.txt",
+            "size_kb": 22.0625,
+            "pair_count": 25,
+            "token_count": 4663,
+            "avg_tokens_per_pair": 186.52
+          },
+          {
+            "name": "Metabolism_Energy/Szent-Gyorgyi's Energy - 1989 September_processed.txt",
+            "size_kb": 5.2822265625,
+            "pair_count": 7,
+            "token_count": 1103,
+            "avg_tokens_per_pair": 157.57142857142858
+          },
+          {
+            "name": "Metabolism_Energy/generative-energy-restoring-the-wholeness-of-life-by-ray-peat_processed.txt",
+            "size_kb": 159.416015625,
+            "pair_count": 245,
+            "token_count": 32645,
+            "avg_tokens_per_pair": 133.24489795918367
+          },
+          {
+            "name": "Metabolism_Energy/when-energy-fails-edema-heart-failure-hypertension-sarcopenia-etc_processed.txt",
+            "size_kb": 20.611328125,
+            "pair_count": 27,
+            "token_count": 4148,
+            "avg_tokens_per_pair": 153.62962962962962
+          },
+          {
+            "name": "Metabolism_Energy/glucose-and-sucrose-for-diabetes_processed.txt",
+            "size_kb": 25.5146484375,
+            "pair_count": 7,
+            "token_count": 5084,
+            "avg_tokens_per_pair": 726.2857142857143
+          },
+          {
+            "name": "Metabolism_Energy/protective-co2-and-aging_processed.txt",
+            "size_kb": 21.439453125,
+            "pair_count": 32,
+            "token_count": 4362,
+            "avg_tokens_per_pair": 136.3125
+          },
+          {
+            "name": "Metabolism_Energy/cancer-disorder-and-energy_processed.txt",
+            "size_kb": 42.3291015625,
+            "pair_count": 46,
+            "token_count": 8849,
+            "avg_tokens_per_pair": 192.3695652173913
+          },
+          {
+            "name": "Metabolism_Energy/Glucose and sucrose for diabetes_processed.txt",
+            "size_kb": 42.59375,
+            "pair_count": 40,
+            "token_count": 9143,
+            "avg_tokens_per_pair": 228.575
+          },
+          {
+            "name": "Metabolism_Energy/serotonin-depression-and-aggression-the-problem-of-brain-energy_processed.txt",
+            "size_kb": 17.57421875,
+            "pair_count": 27,
+            "token_count": 3551,
+            "avg_tokens_per_pair": 131.5185185185185
+          },
+          {
+            "name": "Metabolism_Energy/resveratrol-rate-of-living-co2-and-aging_processed.txt",
+            "size_kb": 27.345703125,
+            "pair_count": 31,
+            "token_count": 5682,
+            "avg_tokens_per_pair": 183.29032258064515
+          },
+          {
+            "name": "Metabolism_Energy/optimizing-respiration_processed.txt",
+            "size_kb": 14.1181640625,
+            "pair_count": 12,
+            "token_count": 2973,
+            "avg_tokens_per_pair": 247.75
+          },
+          {
+            "name": "Metabolism_Energy/calcium-and-disease-hypertension-organ-calcification-and-shock-vs-respiratory-energy_processed.txt",
+            "size_kb": 19.4912109375,
+            "pair_count": 27,
+            "token_count": 3885,
+            "avg_tokens_per_pair": 143.88888888888889
+          },
+          {
+            "name": "Metabolism_Energy/sugar-issues_processed.txt",
+            "size_kb": 37.435546875,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "Cancer_Research/A Physiological Approach to Ovarian Cancer_processed.txt",
+            "size_kb": 7.302734375,
+            "pair_count": 10,
+            "token_count": 1477,
+            "avg_tokens_per_pair": 147.7
+          },
+          {
+            "name": "Cancer_Research/breast-cancer_processed.txt",
+            "size_kb": 8.1396484375,
+            "pair_count": 20,
+            "token_count": 1580,
+            "avg_tokens_per_pair": 79.0
+          },
+          {
+            "name": "Cancer_Research/bleeding-clotting-cancer_processed.txt",
+            "size_kb": 23.6748046875,
+            "pair_count": 39,
+            "token_count": 4898,
+            "avg_tokens_per_pair": 125.58974358974359
+          },
+          {
+            "name": "Cancer_Research/a-physiological-approach-to-ovarian-cancer_processed.txt",
+            "size_kb": 6.98046875,
+            "pair_count": 10,
+            "token_count": 1414,
+            "avg_tokens_per_pair": 141.4
+          },
+          {
+            "name": "Cancer_Research/Taxol, Yew & Cancer - March 1992_processed.txt",
+            "size_kb": 16.7548828125,
+            "pair_count": 7,
+            "token_count": 3290,
+            "avg_tokens_per_pair": 470.0
+          },
+          {
+            "name": "Cancer_Research/taxol-yew-and-cancer_processed.txt",
+            "size_kb": 8.0224609375,
+            "pair_count": 1,
+            "token_count": 1622,
+            "avg_tokens_per_pair": 1622.0
+          },
+          {
+            "name": "Cancer_Research/aspirin-brain-and-cancer_processed.txt",
+            "size_kb": 21.1787109375,
+            "pair_count": 22,
+            "token_count": 4522,
+            "avg_tokens_per_pair": 205.54545454545453
+          },
+          {
+            "name": "Cancer_Research/the-cancer-matrix_processed.txt",
+            "size_kb": 23.65234375,
+            "pair_count": 28,
+            "token_count": 4937,
+            "avg_tokens_per_pair": 176.32142857142858
+          },
+          {
+            "name": "Cancer_Research/prostate-cancer_processed.txt",
+            "size_kb": 12.759765625,
+            "pair_count": 18,
+            "token_count": 2539,
+            "avg_tokens_per_pair": 141.05555555555554
+          },
+          {
+            "name": "Hormones_Endocrine/moles-dhea-etc_processed.txt",
+            "size_kb": 18.9228515625,
+            "pair_count": 28,
+            "token_count": 4053,
+            "avg_tokens_per_pair": 144.75
+          },
+          {
+            "name": "Hormones_Endocrine/carbon-monoxide-estrogen-and-the-medical-cancer-cult_processed.txt",
+            "size_kb": 35.70703125,
+            "pair_count": 25,
+            "token_count": 7185,
+            "avg_tokens_per_pair": 287.4
+          },
+          {
+            "name": "Hormones_Endocrine/response-to-recent-pop-medicine-articles-on-progesterone-therapy_processed.txt",
+            "size_kb": 4.95703125,
+            "pair_count": 8,
+            "token_count": 1019,
+            "avg_tokens_per_pair": 127.375
+          },
+          {
+            "name": "Hormones_Endocrine/estrogen-in-1990_processed.txt",
+            "size_kb": 12.8271484375,
+            "pair_count": 17,
+            "token_count": 2541,
+            "avg_tokens_per_pair": 149.47058823529412
+          },
+          {
+            "name": "Hormones_Endocrine/progesterone-deceptions_processed.txt",
+            "size_kb": 15.0908203125,
+            "pair_count": 21,
+            "token_count": 3158,
+            "avg_tokens_per_pair": 150.38095238095238
+          },
+          {
+            "name": "Hormones_Endocrine/estrogen-receptors-what-do-they-explain_processed.txt",
+            "size_kb": 20.0048828125,
+            "pair_count": 8,
+            "token_count": 1095,
+            "avg_tokens_per_pair": 136.875
+          },
+          {
+            "name": "Hormones_Endocrine/concerns-about-progesterone-cream-and-yam-extracts_processed.txt",
+            "size_kb": 4.6640625,
+            "pair_count": 1,
+            "token_count": 1032,
+            "avg_tokens_per_pair": 1032.0
+          },
+          {
+            "name": "Hormones_Endocrine/Multiple Sclerosis & Other Hormone-Related Brain Syndromes_processed.txt",
+            "size_kb": 21.1552734375,
+            "pair_count": 28,
+            "token_count": 4390,
+            "avg_tokens_per_pair": 156.78571428571428
+          },
+          {
+            "name": "Hormones_Endocrine/origins-of-progesterone-therapy_processed.txt",
+            "size_kb": 8.2939453125,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "Hormones_Endocrine/heart-and-hormones_processed.txt",
+            "size_kb": 21.4931640625,
+            "pair_count": 29,
+            "token_count": 4576,
+            "avg_tokens_per_pair": 157.79310344827587
+          },
+          {
+            "name": "Hormones_Endocrine/aging-estrogen-and-progesterone_processed.txt",
+            "size_kb": 22.44921875,
+            "pair_count": 34,
+            "token_count": 4589,
+            "avg_tokens_per_pair": 134.97058823529412
+          },
+          {
+            "name": "Hormones_Endocrine/x-rays-estrogen-and-the-brain_processed.txt",
+            "size_kb": 26.1142578125,
+            "pair_count": 20,
+            "token_count": 5132,
+            "avg_tokens_per_pair": 256.6
+          },
+          {
+            "name": "Hormones_Endocrine/Progesterone in Orthomolecular Medicine _processed.txt",
+            "size_kb": 90.9169921875,
+            "pair_count": 16,
+            "token_count": 19076,
+            "avg_tokens_per_pair": 1192.25
+          },
+          {
+            "name": "Hormones_Endocrine/multiple-sclerosis-and-other-hormone-related-brain-syndromes_processed.txt",
+            "size_kb": 24.384765625,
+            "pair_count": 8,
+            "token_count": 5137,
+            "avg_tokens_per_pair": 642.125
+          },
+          {
+            "name": "Hormones_Endocrine/preventing-and-treating-cancer-with-progesterone_processed.txt",
+            "size_kb": 34.345703125,
+            "pair_count": 1,
+            "token_count": 29,
+            "avg_tokens_per_pair": 29.0
+          },
+          {
+            "name": "Hormones_Endocrine/1996 - June - Concerns About Progesterone Cream and Yam Extracts_processed.txt",
+            "size_kb": 4.681640625,
+            "pair_count": 1,
+            "token_count": 1035,
+            "avg_tokens_per_pair": 1035.0
+          },
+          {
+            "name": "Hormones_Endocrine/Carbon Monoxide - Cancer Hormone_processed.txt",
+            "size_kb": 11.431640625,
+            "pair_count": 16,
+            "token_count": 2224,
+            "avg_tokens_per_pair": 139.0
+          },
+          {
+            "name": "Hormones_Endocrine/ru486-cancer-estrogen-and-progesterone_processed.txt",
+            "size_kb": 15.5654296875,
+            "pair_count": 16,
+            "token_count": 3260,
+            "avg_tokens_per_pair": 203.75
+          },
+          {
+            "name": "Hormones_Endocrine/estrogen-memory-and-heredity-imprinting-and-the-stress-response_processed.txt",
+            "size_kb": 24.0537109375,
+            "pair_count": 22,
+            "token_count": 4788,
+            "avg_tokens_per_pair": 217.63636363636363
+          },
+          {
+            "name": "Hormones_Endocrine/estrogen-aging-radiation-migraine-and-energy_processed.txt",
+            "size_kb": 27.595703125,
+            "pair_count": 29,
+            "token_count": 5478,
+            "avg_tokens_per_pair": 188.89655172413794
+          },
+          {
+            "name": "Hormones_Endocrine/diabetes-scleroderma-oils-and-hormones_processed.txt",
+            "size_kb": 24.9287109375,
+            "pair_count": 29,
+            "token_count": 5217,
+            "avg_tokens_per_pair": 179.89655172413794
+          },
+          {
+            "name": "Hormones_Endocrine/progesterone-and-ideas-of-balance-in-hormone-replacement-therapy_processed.txt",
+            "size_kb": 16.7041015625,
+            "pair_count": 12,
+            "token_count": 3141,
+            "avg_tokens_per_pair": 261.75
+          },
+          {
+            "name": "Hormones_Endocrine/epilepsy-and-progesterone_processed.txt",
+            "size_kb": 12.775390625,
+            "pair_count": 1,
+            "token_count": 2518,
+            "avg_tokens_per_pair": 2518.0
+          },
+          {
+            "name": "Hormones_Endocrine/natural-estrogens_processed.txt",
+            "size_kb": 63.068359375,
+            "pair_count": 55,
+            "token_count": 13697,
+            "avg_tokens_per_pair": 249.03636363636363
+          },
+          {
+            "name": "Hormones_Endocrine/thyroid-therapies-confusion-and-fraud_processed.txt",
+            "size_kb": 29.3740234375,
+            "pair_count": 38,
+            "token_count": 6273,
+            "avg_tokens_per_pair": 165.07894736842104
+          },
+          {
+            "name": "Hormones_Endocrine/immunity-hormones-and-yeast-infections_processed.txt",
+            "size_kb": 16.734375,
+            "pair_count": 25,
+            "token_count": 3480,
+            "avg_tokens_per_pair": 139.2
+          },
+          {
+            "name": "Hormones_Endocrine/progesterone-not-estrogen-is-the-coronary-protection-factor-of-women_processed.txt",
+            "size_kb": 45.734375,
+            "pair_count": 40,
+            "token_count": 9631,
+            "avg_tokens_per_pair": 240.775
+          },
+          {
+            "name": "Hormones_Endocrine/edema-estrogen-and-aging_processed.txt",
+            "size_kb": 26.263671875,
+            "pair_count": 27,
+            "token_count": 5331,
+            "avg_tokens_per_pair": 197.44444444444446
+          },
+          {
+            "name": "Hormones_Endocrine/thyroiditis-some-confusions-and-causes-of-autoimmune-diseases_processed.txt",
+            "size_kb": 136.0859375,
+            "pair_count": 2,
+            "token_count": 2066,
+            "avg_tokens_per_pair": 1033.0
+          },
+          {
+            "name": "Hormones_Endocrine/Thyroid Deficiency & Common Health Problems_processed.txt",
+            "size_kb": 29.681640625,
+            "pair_count": 6,
+            "token_count": 5571,
+            "avg_tokens_per_pair": 928.5
+          },
+          {
+            "name": "Hormones_Endocrine/progesterone-thyroid-cancer_processed.txt",
+            "size_kb": 22.421875,
+            "pair_count": 39,
+            "token_count": 4262,
+            "avg_tokens_per_pair": 109.28205128205128
+          },
+          {
+            "name": "Hormones_Endocrine/progesterone-content-corrected_processed.txt",
+            "size_kb": 5.22265625,
+            "pair_count": 6,
+            "token_count": 1060,
+            "avg_tokens_per_pair": 176.66666666666666
+          },
+          {
+            "name": "Hormones_Endocrine/tsh-temperature-pulse-rate-and-other-indicators-in-hypothyroidism_processed.txt",
+            "size_kb": 28.9921875,
+            "pair_count": 55,
+            "token_count": 6001,
+            "avg_tokens_per_pair": 109.10909090909091
+          },
+          {
+            "name": "Hormones_Endocrine/estrogen-and-brain-aging-in-men-and-women-depression-energy-stress_processed.txt",
+            "size_kb": 8.32421875,
+            "pair_count": 17,
+            "token_count": 1628,
+            "avg_tokens_per_pair": 95.76470588235294
+          },
+          {
+            "name": "Hormones_Endocrine/estrogen-progesterone-and-cancer-conflicts-of-interest-in-regulation-and-product-promotion_processed.txt",
+            "size_kb": 63.533203125,
+            "pair_count": 92,
+            "token_count": 13302,
+            "avg_tokens_per_pair": 144.58695652173913
+          },
+          {
+            "name": "Hormones_Endocrine/tissue-bound-estrogen-in-aging_processed.txt",
+            "size_kb": 16.9990234375,
+            "pair_count": 22,
+            "token_count": 3463,
+            "avg_tokens_per_pair": 157.4090909090909
+          },
+          {
+            "name": "Hormones_Endocrine/caffeine-a-vitamin-like-nutrient-or-adaptogen-questions-about-tea-and-coffee-cancer-and-other-degenerative-diseases-and-the-hormones_processed.txt",
+            "size_kb": 16.5234375,
+            "pair_count": 36,
+            "token_count": 3270,
+            "avg_tokens_per_pair": 90.83333333333333
+          },
+          {
+            "name": "Hormones_Endocrine/thyroid-insomnia-and-the-insanities-commonalities-in-disease_processed.txt",
+            "size_kb": 12.212890625,
+            "pair_count": 9,
+            "token_count": 2421,
+            "avg_tokens_per_pair": 269.0
+          },
+          {
+            "name": "Hormones_Endocrine/inflammation-endotoxin-estrogen-and-other-problems_processed.txt",
+            "size_kb": 32.767578125,
+            "pair_count": 48,
+            "token_count": 6922,
+            "avg_tokens_per_pair": 144.20833333333334
+          },
+          {
+            "name": "Hormones_Endocrine/estrogens-mechanisms-in-aging-and-cancer_processed.txt",
+            "size_kb": 30.6533203125,
+            "pair_count": 27,
+            "token_count": 6048,
+            "avg_tokens_per_pair": 224.0
+          },
+          {
+            "name": "Hormones_Endocrine/estrogen-and-osteoporosis_processed.txt",
+            "size_kb": 15.8310546875,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "Hormones_Endocrine/Immunity, Hormones and Yeast Infections_processed.txt",
+            "size_kb": 16.0498046875,
+            "pair_count": 23,
+            "token_count": 3330,
+            "avg_tokens_per_pair": 144.7826086956522
+          },
+          {
+            "name": "Hormones_Endocrine/estrogen-calcium-heavy-metals-and-nerve-degeneration_processed.txt",
+            "size_kb": 19.63671875,
+            "pair_count": 14,
+            "token_count": 3987,
+            "avg_tokens_per_pair": 284.7857142857143
+          },
+          {
+            "name": "Hormones_Endocrine/multiple-sclerosis-protein-fats-and-progesterone_processed.txt",
+            "size_kb": 28.6318359375,
+            "pair_count": 28,
+            "token_count": 5548,
+            "avg_tokens_per_pair": 198.14285714285714
+          },
+          {
+            "name": "Hormones_Endocrine/oral-progesterone-is-not-inactivated-by-stomach-acids-pancreatic-enzymes-or-liver-detoxification_processed.txt",
+            "size_kb": 8.736328125,
+            "pair_count": 9,
+            "token_count": 1808,
+            "avg_tokens_per_pair": 200.88888888888889
+          },
+          {
+            "name": "Hormones_Endocrine/on-recycling-placentas-thyroid-suppression-and-carpal-tunnel_processed.txt",
+            "size_kb": 9.443359375,
+            "pair_count": 3,
+            "token_count": 1920,
+            "avg_tokens_per_pair": 640.0
+          },
+          {
+            "name": "Hormones_Endocrine/transdermal-progesterone-for-premenstrual-syndrome_processed.txt",
+            "size_kb": 2.96484375,
+            "pair_count": 4,
+            "token_count": 635,
+            "avg_tokens_per_pair": 158.75
+          },
+          {
+            "name": "Hormones_Endocrine/steroids-thyroid-by-ray-peat_processed.txt",
+            "size_kb": 8.6611328125,
+            "pair_count": 13,
+            "token_count": 1778,
+            "avg_tokens_per_pair": 136.76923076923077
+          },
+          {
+            "name": "Hormones_Endocrine/immunodeficiency-dioxins-stress-and-the-hormones_processed.txt",
+            "size_kb": 57.1943359375,
+            "pair_count": 94,
+            "token_count": 11779,
+            "avg_tokens_per_pair": 125.30851063829788
+          },
+          {
+            "name": "Hormones_Endocrine/vitamin-e-estrogen-antagonist-energy-promoter-and-anti-inflammatory_processed.txt",
+            "size_kb": 42.2001953125,
+            "pair_count": 47,
+            "token_count": 8894,
+            "avg_tokens_per_pair": 189.2340425531915
+          },
+          {
+            "name": "Hormones_Endocrine/progesterone-summaries_processed.txt",
+            "size_kb": 11.5888671875,
+            "pair_count": 22,
+            "token_count": 2385,
+            "avg_tokens_per_pair": 108.4090909090909
+          },
+          {
+            "name": "Hormones_Endocrine/Moles, DHEA, Etc._processed.txt",
+            "size_kb": 18.501953125,
+            "pair_count": 28,
+            "token_count": 3984,
+            "avg_tokens_per_pair": 142.28571428571428
+          },
+          {
+            "name": "Hormones_Endocrine/growth-hormone-hormone-of-stress-aging-and-death_processed.txt",
+            "size_kb": 20.50390625,
+            "pair_count": 31,
+            "token_count": 4240,
+            "avg_tokens_per_pair": 136.7741935483871
+          },
+          {
+            "name": "Hormones_Endocrine/progesterone-pregnenolone-and-dhea-three-youth-associated-hormones_processed.txt",
+            "size_kb": 11.9970703125,
+            "pair_count": 3,
+            "token_count": 2590,
+            "avg_tokens_per_pair": 863.3333333333334
+          },
+          {
+            "name": "Hormones_Endocrine/thyroid-misconceptions_processed.txt",
+            "size_kb": 17.4287109375,
+            "pair_count": 25,
+            "token_count": 3637,
+            "avg_tokens_per_pair": 145.48
+          },
+          {
+            "name": "Hormones_Endocrine/oral-absorption-of-progesterone_processed.txt",
+            "size_kb": 4.0205078125,
+            "pair_count": 1,
+            "token_count": 750,
+            "avg_tokens_per_pair": 750.0
+          },
+          {
+            "name": "Hormones_Endocrine/progesterone-can-be-taken-orally_processed.txt",
+            "size_kb": 10.4677734375,
+            "pair_count": 5,
+            "token_count": 1968,
+            "avg_tokens_per_pair": 393.6
+          },
+          {
+            "name": "Nutrition_Diet/unsaturated-fatty-acids-nutritionally-essential-or-toxic_processed.txt",
+            "size_kb": 32.1083984375,
+            "pair_count": 53,
+            "token_count": 6752,
+            "avg_tokens_per_pair": 127.39622641509433
+          },
+          {
+            "name": "Nutrition_Diet/nutrition-for-women-by-ray-peat_processed.txt",
+            "size_kb": 160.298828125,
+            "pair_count": 185,
+            "token_count": 33382,
+            "avg_tokens_per_pair": 180.44324324324324
+          },
+          {
+            "name": "Nutrition_Diet/unsatured-oils-have-deleterious-effects_processed.txt",
+            "size_kb": 2.55078125,
+            "pair_count": 5,
+            "token_count": 544,
+            "avg_tokens_per_pair": 108.8
+          },
+          {
+            "name": "Nutrition_Diet/oils-in-context_processed.txt",
+            "size_kb": 40.1728515625,
+            "pair_count": 48,
+            "token_count": 8323,
+            "avg_tokens_per_pair": 173.39583333333334
+          },
+          {
+            "name": "Nutrition_Diet/fats-functions-and-malfunctions_processed.txt",
+            "size_kb": 31.6357421875,
+            "pair_count": 1,
+            "token_count": 117,
+            "avg_tokens_per_pair": 117.0
+          },
+          {
+            "name": "Nutrition_Diet/vegetables-etc-who-defines-food_processed.txt",
+            "size_kb": 29.78125,
+            "pair_count": 33,
+            "token_count": 6372,
+            "avg_tokens_per_pair": 193.0909090909091
+          },
+          {
+            "name": "Nutrition_Diet/supplement-safety_processed.txt",
+            "size_kb": 9.4580078125,
+            "pair_count": 12,
+            "token_count": 1989,
+            "avg_tokens_per_pair": 165.75
+          },
+          {
+            "name": "Nutrition_Diet/suitable-fats-unsuitable-fats-issues-in-nutrition_processed.txt",
+            "size_kb": 18.9296875,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          },
+          {
+            "name": "Nutrition_Diet/milk-in-context-allergies-ecology-and-some-myths_processed.txt",
+            "size_kb": 18.3603515625,
+            "pair_count": 1,
+            "token_count": 81,
+            "avg_tokens_per_pair": 81.0
+          },
+          {
+            "name": "Nutrition_Diet/unsaturated-vegetable-oils-toxic_processed.txt",
+            "size_kb": 19.0849609375,
+            "pair_count": 20,
+            "token_count": 4200,
+            "avg_tokens_per_pair": 210.0
+          }
+        ]
+      },
+      "05_Academic_Documents": {
+        "file_count": 2,
+        "total_pairs": 63,
+        "total_tokens": 33126,
+        "files": [
+          {
+            "name": "PHD Thesis_processed.txt",
+            "size_kb": 147.1572265625,
+            "pair_count": 63,
+            "token_count": 33126,
+            "avg_tokens_per_pair": 525.8095238095239
+          },
+          {
+            "name": "masters-thesis-1960_processed.txt",
+            "size_kb": 1.626953125,
+            "pair_count": 0,
+            "token_count": 0,
+            "avg_tokens_per_pair": 0
+          }
+        ]
+      },
+      "06_Email_Communications": {
+        "file_count": 2,
+        "total_pairs": 3883,
+        "total_tokens": 214154,
+        "files": [
+          {
+            "name": "ray-peat-email-advice-depository_processed.txt",
+            "size_kb": 849.8330078125,
+            "pair_count": 3634,
+            "token_count": 182309,
+            "avg_tokens_per_pair": 50.16758392955421
+          },
+          {
+            "name": "Email Exchanges With Ray Peat_processed.txt",
+            "size_kb": 143.6357421875,
+            "pair_count": 249,
+            "token_count": 31845,
+            "avg_tokens_per_pair": 127.89156626506023
+          }
+        ]
+      },
+      "07_Special_Collections": {
+        "file_count": 2,
+        "total_pairs": 91,
+        "total_tokens": 8729,
+        "files": [
+          {
+            "name": "Lost Conversations with Ray Peat #2_processed.txt",
+            "size_kb": 24.189453125,
+            "pair_count": 68,
+            "token_count": 5465,
+            "avg_tokens_per_pair": 80.36764705882354
+          },
+          {
+            "name": "Ray Peat Interviews Revisited_processed.txt",
+            "size_kb": 16.1162109375,
+            "pair_count": 23,
+            "token_count": 3264,
+            "avg_tokens_per_pair": 141.91304347826087
+          }
+        ]
+      },
+      "08_Newslatters": {
+        "file_count": 51,
+        "total_pairs": 1622,
+        "total_tokens": 238587,
+        "files": [
+          {
+            "name": "The Generality of Adaptogens_processed.txt",
+            "size_kb": 16.8583984375,
+            "pair_count": 15,
+            "token_count": 3343,
+            "avg_tokens_per_pair": 222.86666666666667
+          },
+          {
+            "name": "the-gaba-system-defenses-and-tissue-renewal_processed.txt",
+            "size_kb": 40.423828125,
+            "pair_count": 45,
+            "token_count": 8338,
+            "avg_tokens_per_pair": 185.2888888888889
+          },
+          {
+            "name": "sunlight-using-it-to-enhance-life_processed.txt",
+            "size_kb": 13.521484375,
+            "pair_count": 11,
+            "token_count": 2779,
+            "avg_tokens_per_pair": 252.63636363636363
+          },
+          {
+            "name": "darkness-water-osteoporosis_processed.txt",
+            "size_kb": 14.1513671875,
+            "pair_count": 22,
+            "token_count": 2975,
+            "avg_tokens_per_pair": 135.22727272727272
+          },
+          {
+            "name": "inhibition-and-vitality_processed.txt",
+            "size_kb": 5.53125,
+            "pair_count": 5,
+            "token_count": 1139,
+            "avg_tokens_per_pair": 227.8
+          },
+          {
+            "name": "insomnia-and-hyperactivity_processed.txt",
+            "size_kb": 10.2646484375,
+            "pair_count": 11,
+            "token_count": 2098,
+            "avg_tokens_per_pair": 190.72727272727272
+          },
+          {
+            "name": "asthma-and-metabisulfite_processed.txt",
+            "size_kb": 2.6796875,
+            "pair_count": 5,
+            "token_count": 616,
+            "avg_tokens_per_pair": 123.2
+          },
+          {
+            "name": "Darkness, Water, Osteoporosis_processed.txt",
+            "size_kb": 14.0576171875,
+            "pair_count": 23,
+            "token_count": 3008,
+            "avg_tokens_per_pair": 130.7826086956522
+          },
+          {
+            "name": "diagnosing-porphyria-for-labor-and-industries-claims_processed.txt",
+            "size_kb": 15.12109375,
+            "pair_count": 18,
+            "token_count": 3307,
+            "avg_tokens_per_pair": 183.72222222222223
+          },
+          {
+            "name": "aids-syphilis-treatments-and-ideas_processed.txt",
+            "size_kb": 8.6513671875,
+            "pair_count": 23,
+            "token_count": 1722,
+            "avg_tokens_per_pair": 74.8695652173913
+          },
+          {
+            "name": "resistance-of-the-heart_processed.txt",
+            "size_kb": 22.15625,
+            "pair_count": 27,
+            "token_count": 4536,
+            "avg_tokens_per_pair": 168.0
+          },
+          {
+            "name": "contexts-for-asthma_processed.txt",
+            "size_kb": 39.64453125,
+            "pair_count": 16,
+            "token_count": 7821,
+            "avg_tokens_per_pair": 488.8125
+          },
+          {
+            "name": "peptides-coherent-adaption-and-some-terminal-diseases_processed.txt",
+            "size_kb": 30.90234375,
+            "pair_count": 40,
+            "token_count": 6666,
+            "avg_tokens_per_pair": 166.65
+          },
+          {
+            "name": "mortality-again_processed.txt",
+            "size_kb": 13.9833984375,
+            "pair_count": 22,
+            "token_count": 2925,
+            "avg_tokens_per_pair": 132.95454545454547
+          },
+          {
+            "name": "fibrosis-by-ray-peat_processed.txt",
+            "size_kb": 32.384765625,
+            "pair_count": 41,
+            "token_count": 6743,
+            "avg_tokens_per_pair": 164.46341463414635
+          },
+          {
+            "name": "cocaine-babies-criminal-responsibility-and-medicine_processed.txt",
+            "size_kb": 14.947265625,
+            "pair_count": 28,
+            "token_count": 2979,
+            "avg_tokens_per_pair": 106.39285714285714
+          },
+          {
+            "name": "bioelectric-fields-regeneration-and-the-lactic-acid-myth_processed.txt",
+            "size_kb": 24.876953125,
+            "pair_count": 27,
+            "token_count": 5000,
+            "avg_tokens_per_pair": 185.1851851851852
+          },
+          {
+            "name": "osteoporosis-and-the-skin_processed.txt",
+            "size_kb": 20.0498046875,
+            "pair_count": 27,
+            "token_count": 4190,
+            "avg_tokens_per_pair": 155.1851851851852
+          },
+          {
+            "name": "the-generality-of-adaptogens-by-ray-peat_processed.txt",
+            "size_kb": 17.55078125,
+            "pair_count": 17,
+            "token_count": 3563,
+            "avg_tokens_per_pair": 209.58823529411765
+          },
+          {
+            "name": "1998 - Unknown - 4_processed.txt",
+            "size_kb": 26.8896484375,
+            "pair_count": 20,
+            "token_count": 5612,
+            "avg_tokens_per_pair": 280.6
+          },
+          {
+            "name": "1998 - Unknown - 3_processed.txt",
+            "size_kb": 28.2998046875,
+            "pair_count": 25,
+            "token_count": 5739,
+            "avg_tokens_per_pair": 229.56
+          },
+          {
+            "name": "hayflickers-dolly-and-dandruff_processed.txt",
+            "size_kb": 13.349609375,
+            "pair_count": 17,
+            "token_count": 2653,
+            "avg_tokens_per_pair": 156.05882352941177
+          },
+          {
+            "name": "recharging-the-system_processed.txt",
+            "size_kb": 25.44921875,
+            "pair_count": 33,
+            "token_count": 5205,
+            "avg_tokens_per_pair": 157.72727272727272
+          },
+          {
+            "name": "sales-pitch-for-linseed-oil_processed.txt",
+            "size_kb": 1.9462890625,
+            "pair_count": 4,
+            "token_count": 353,
+            "avg_tokens_per_pair": 88.25
+          },
+          {
+            "name": "radiation-and-growth-incoherent-imprinting-from-inappropriate-irradiation_processed.txt",
+            "size_kb": 25.9130859375,
+            "pair_count": 30,
+            "token_count": 5103,
+            "avg_tokens_per_pair": 170.1
+          },
+          {
+            "name": "Asthma and Metabisulfite - More Letters to the Editor_processed.txt",
+            "size_kb": 0.4423828125,
+            "pair_count": 1,
+            "token_count": 98,
+            "avg_tokens_per_pair": 98.0
+          },
+          {
+            "name": "Radiation and Growth_processed.txt",
+            "size_kb": 42.861328125,
+            "pair_count": 63,
+            "token_count": 8469,
+            "avg_tokens_per_pair": 134.42857142857142
+          },
+          {
+            "name": "a-new-approach-to-detoxifying_processed.txt",
+            "size_kb": 6.3876953125,
+            "pair_count": 1,
+            "token_count": 1384,
+            "avg_tokens_per_pair": 1384.0
+          },
+          {
+            "name": "references - unknown_processed.txt",
+            "size_kb": 4.0888671875,
+            "pair_count": 8,
+            "token_count": 831,
+            "avg_tokens_per_pair": 103.875
+          },
+          {
+            "name": "emprise-should-evaluate-conventional-and-alternative-treatments-comparatively_processed.txt",
+            "size_kb": 4.994140625,
+            "pair_count": 7,
+            "token_count": 987,
+            "avg_tokens_per_pair": 141.0
+          },
+          {
+            "name": "mary-shomon-interview_processed.txt",
+            "size_kb": 15.5224609375,
+            "pair_count": 16,
+            "token_count": 3010,
+            "avg_tokens_per_pair": 188.125
+          },
+          {
+            "name": "1998 - Unknown - 2_processed.txt",
+            "size_kb": 22.9482421875,
+            "pair_count": 30,
+            "token_count": 4596,
+            "avg_tokens_per_pair": 153.2
+          },
+          {
+            "name": "tissue-firmness-and-elasticity-and-rothens-resonance_processed.txt",
+            "size_kb": 28.177734375,
+            "pair_count": 23,
+            "token_count": 5722,
+            "avg_tokens_per_pair": 248.7826086956522
+          },
+          {
+            "name": "repairing-immunodeficiencies_processed.txt",
+            "size_kb": 15.84765625,
+            "pair_count": 15,
+            "token_count": 3219,
+            "avg_tokens_per_pair": 214.6
+          },
+          {
+            "name": "the-bean-syndrome_processed.txt",
+            "size_kb": 11.7587890625,
+            "pair_count": 18,
+            "token_count": 2324,
+            "avg_tokens_per_pair": 129.11111111111111
+          },
+          {
+            "name": "ray-peat-responds-to-dr-dravis_processed.txt",
+            "size_kb": 6.1591796875,
+            "pair_count": 6,
+            "token_count": 1246,
+            "avg_tokens_per_pair": 207.66666666666666
+          },
+          {
+            "name": "1996 - August.September_processed.txt",
+            "size_kb": 2.8720703125,
+            "pair_count": 5,
+            "token_count": 670,
+            "avg_tokens_per_pair": 134.0
+          },
+          {
+            "name": "sharks-salmon-and-osmotic-therapies_processed.txt",
+            "size_kb": 9.56640625,
+            "pair_count": 12,
+            "token_count": 2026,
+            "avg_tokens_per_pair": 168.83333333333334
+          },
+          {
+            "name": "2013 - March 2_processed.txt",
+            "size_kb": 4.580078125,
+            "pair_count": 8,
+            "token_count": 936,
+            "avg_tokens_per_pair": 117.0
+          },
+          {
+            "name": "natural-immunity-and-viral-infections_processed.txt",
+            "size_kb": 15.51953125,
+            "pair_count": 8,
+            "token_count": 2876,
+            "avg_tokens_per_pair": 359.5
+          },
+          {
+            "name": "Mind And Tissue Ray Peat _processed.txt",
+            "size_kb": 154.1806640625,
+            "pair_count": 173,
+            "token_count": 30790,
+            "avg_tokens_per_pair": 177.97687861271677
+          },
+          {
+            "name": "abnormal-cells-in-the-uterine-cervix_processed.txt",
+            "size_kb": 5.787109375,
+            "pair_count": 5,
+            "token_count": 1236,
+            "avg_tokens_per_pair": 247.2
+          },
+          {
+            "name": "postpartum-prementstrual-and-seasonal-seotonin-soaks_processed.txt",
+            "size_kb": 23.951171875,
+            "pair_count": 20,
+            "token_count": 4879,
+            "avg_tokens_per_pair": 243.95
+          },
+          {
+            "name": "criticism-and-the-experts_processed.txt",
+            "size_kb": 10.130859375,
+            "pair_count": 13,
+            "token_count": 1890,
+            "avg_tokens_per_pair": 145.3846153846154
+          },
+          {
+            "name": "rosacea-rhynophyma-pterygium-riboflavin-and-varicose-veins_processed.txt",
+            "size_kb": 5.0888671875,
+            "pair_count": 9,
+            "token_count": 1049,
+            "avg_tokens_per_pair": 116.55555555555556
+          },
+          {
+            "name": "critiquing-dr-mcdaniel-responds-letter_processed.txt",
+            "size_kb": 4.1318359375,
+            "pair_count": 8,
+            "token_count": 939,
+            "avg_tokens_per_pair": 117.375
+          },
+          {
+            "name": "regeneration-and-the-anti-adaptogens_processed.txt",
+            "size_kb": 23.6845703125,
+            "pair_count": 23,
+            "token_count": 4753,
+            "avg_tokens_per_pair": 206.65217391304347
+          },
+          {
+            "name": "autoimmunity-by-ray-peat_processed.txt",
+            "size_kb": 20.3427734375,
+            "pair_count": 25,
+            "token_count": 4163,
+            "avg_tokens_per_pair": 166.52
+          },
+          {
+            "name": "education-against-knowledge_processed.txt",
+            "size_kb": 5.41015625,
+            "pair_count": 1,
+            "token_count": 1068,
+            "avg_tokens_per_pair": 1068.0
+          },
+          {
+            "name": "From PMS to Menopause_processed.txt",
+            "size_kb": 260.173828125,
+            "pair_count": 560,
+            "token_count": 49111,
+            "avg_tokens_per_pair": 87.69821428571429
+          },
+          {
+            "name": "failures-of-immunity_processed.txt",
+            "size_kb": 9.1875,
+            "pair_count": 12,
+            "token_count": 1902,
+            "avg_tokens_per_pair": 158.5
+          }
+        ]
+      }
+    }
+  },
+  "costs": {
+    "gemini": {
+      "cost_per_1k_tokens": 0.0001,
+      "total_cost": 0.3660641
+    },
+    "openai_small": {
+      "cost_per_1k_tokens": 2e-05,
+      "total_cost": 0.07321282000000001
+    },
+    "openai_large": {
+      "cost_per_1k_tokens": 0.00013,
+      "total_cost": 0.47588333
+    }
+  },
+  "storage": {
+    "gemini_768d": {
+      "dimensions": 768,
+      "embedding_size_mb": 77.126953125,
+      "metadata_size_mb": 25.708984375,
+      "total_size_mb": 102.8359375,
+      "total_size_gb": 0.10042572021484375
+    },
+    "gemini_3k_d": {
+      "dimensions": 3072,
+      "embedding_size_mb": 308.5078125,
+      "metadata_size_mb": 25.708984375,
+      "total_size_mb": 334.216796875,
+      "total_size_gb": 0.3263835906982422
+    },
+    "openai_1536d": {
+      "dimensions": 1536,
+      "embedding_size_mb": 154.25390625,
+      "metadata_size_mb": 25.708984375,
+      "total_size_mb": 179.962890625,
+      "total_size_gb": 0.17574501037597656
+    },
+    "sentence_transformers_384d": {
+      "dimensions": 384,
+      "embedding_size_mb": 38.5634765625,
+      "metadata_size_mb": 25.708984375,
+      "total_size_mb": 64.2724609375,
+      "total_size_gb": 0.06276607513427734
+    }
+  },
+  "analysis_date": "/Users/aban/drive/Projects/PeatLearn"
+}
