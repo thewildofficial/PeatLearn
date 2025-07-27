@@ -1,39 +1,39 @@
 
 
-**RAY PEAT:** The cause of rosacea is known to anyone who cares to know. Hot beverages, spicy foods, and alcohol can contribute to the enlargement of blood vessels in the face, a condition often associated with rosacea.
+**RAY PEAT:** The cause of rosacea is known to anyone who cares to know. Hot beverages, spicy foods, and alcohol can contribute to the enlargement of blood vessels in the face.
 
-**CONTEXT:** What is the underlying metabolic issue contributing to conditions like rosacea?
+**CONTEXT:** What is the underlying mechanism behind rosacea and similar conditions?
 
-**RAY PEAT:** I inferred from the very vascularized nose of a neighbor that his tissues were experiencing relative hypoxia, and that his brain tissue might be suffering even more. Extensive new growth of blood vessels suggests a compensatory mechanism for oxygen delivery.
+**RAY PEAT:** In 1964, I observed a neighbor whose nose was remarkably red. I inferred that his tissues were experiencing relative hypoxia, and that his brain tissue might be suffering even more due to extensive new blood vessel growth. I suggested riboflavin, and after receiving a B-complex injection, his nose was no longer red, and his memory improved. However, when the injections stopped, both problems returned. Later, his nose had enlarged and become lumpy (rhynophyma), an advanced form of rosacea.
 
-**CONTEXT:** Can you elaborate on the role of riboflavin in addressing this hypoxia and vascularization?
+**CONTEXT:** Can you provide a case study illustrating the role of riboflavin in vascular issues?
 
-**RAY PEAT:** Riboflavin deficiency would waste glucose by blocking mitochondrial respiration. This leads to blood vessels dilating to deliver more blood to the tissues. When blood sugar falls at night, this can exacerbate the problem, potentially leading to issues like nosebleeds.
+**RAY PEAT:** I knew a woman whose son had frequent nosebleeds, often at night, and violent rages after eating sugary foods. I reasoned that a riboflavin deficiency would waste glucose by blocking mitochondrial respiration, leading to blood vessel dilation to deliver more blood to tissues. As blood sugar falls at night, this could explain the nocturnal nosebleeds. His anger seemed an exaggeration of hunger-induced irritability. His mother had visible blood vessels in her eyes, yellowed and lumpy, suggesting enlarged, tortuous vessels.
 
-**CONTEXT:** You mentioned a case of a child with frequent nosebleeds and behavioral issues. How did riboflavin play a role?
+**CONTEXT:** How does riboflavin deficiency relate to vascular changes in the eyes and nose?
 
-**RAY PEAT:** I reasoned that a riboflavin deficiency would waste glucose by blocking mitochondrial respiration, and that blood vessels would dilate to deliver more blood to the tissues. Since blood sugar falls at night, I thought this could account for the regularity of his night-time nosebleeds. His frequent angry behavior seemed to be an exaggeration of the normal irritability of hungry children.
+**RAY PEAT:** The cornea normally has a high concentration of riboflavin and is susceptible to its deficiency. It receives oxygen from the air and the blood vessels at its edge. Contact lenses, by limiting air contact, likely led to invasive blood vessel growth at the cornea's edge, possibly exacerbated by a riboflavin deficiency. This process, if on the nose or cheeks, would be called rosacea; on the eye, it might be a pterygium. Oxygen deficiency causes connective tissue cells to produce extra collagen, creating a vicious cycle of impaired oxygen delivery. Even adequate blood nutrients wouldn't suffice once fibrous overgrowth begins.
 
-**CONTEXT:** You also observed a woman with chronically visible blood vessels in her eyes, a condition you linked to pterygium. What is the connection to riboflavin?
+**CONTEXT:** What was the outcome of riboflavin supplementation in these cases?
 
-**RAY PEAT:** The cornea normally has a high concentration of riboflavin, but it is very susceptible to a deficiency of that vitamin. It receives its oxygen largely directly from the air, and partly from the ring of blood vessels at its edge. In her case, it seemed that the contact lenses, shutting off direct contact with the air, had led to an invasive growth of blood vessels to the edge of the cornea, probably partly because of a riboflavin deficiency. I think this would be called a pterygium, but I think the same kind of process would be called rosacea if it occurred on the nose or cheeks. Oxygen deficiency causes connective tissue cells to produce extra collagen. This would intensify the problem of delivering oxygen to the cells, tending to set up a vicious circle.
+**RAY PEAT:** I gave the woman and her son 10 mg of riboflavin daily. The boy's nosebleeds stopped, and he no longer had fits of rage. His mother later became chronically insane, likely due to heavy smoking, poor diet, and hormonal imbalance causing severe energy deficiency in her brain. While the brain is generally resistant to fibrous tissue overproduction, degenerative brain diseases can involve glial cell overproduction, a stress reaction similar to rhynophyma and pterygium.
 
-**CONTEXT:** What dosage of riboflavin did you recommend for these conditions?
+**CONTEXT:** Can enlarged and invasive blood vessels caused by riboflavin deficiency be fully reversed?
 
-**RAY PEAT:** I gave the woman and her son each 10 mg. of riboflavin one morning, and suggested using that amount for a few weeks. The boy's nose didn’t bleed that day or in the night, and as far as I know, it never bled again. He stopped having his fits of rage.
+**RAY PEAT:** Although I've seen near-instantaneous effects from small doses of riboflavin, enlarged and invasive blood vessels caused by its deficiency may not disappear even with prolonged supplementation. Delicate red blood vessels around the nostrils, larger vessels on the feet, and varicose veins can also result from a loss of blood vessel wall tone, in addition to overgrowth. Stress and nutritional issues can contribute. I've observed distinct blood vessels disappear completely with thyroid and oral DHEA, likely due to restored muscle tone, similar to the effect of progesterone on hand blood vessels.
 
-**CONTEXT:** You noted that even with riboflavin supplementation, enlarged and invasive blood vessels may not always disappear. What other factors can influence blood vessel tone and appearance?
+**CONTEXT:** What is the conventional understanding of blood vessel regulation, and how does it differ from your view?
 
-**RAY PEAT:** I believe that the delicate red blood vessels that often first appear around the nostrils, and the larger red, purple and blue vessels that usually appear on the sides of the feet below the ankles, and more obvious varicose veins, can also result from loss of tone in the walls of the blood vessels, in addition to any overgrowth process that might be occurring, and that various problems related to stress and nutrition can be responsible. I have seen very distinct blood vessels disappear completely after using thyroid and oral DHEA. I think this is partly the result of restored muscle tone, as can sometimes be seen in the blood vessels of the hands shortly after taking progesterone.
+**RAY PEAT:** Many believe only arteries and arterioles contain smooth muscle, due to an overemphasis on arteriolar contraction. I believe the conventional theory about arteriolar role in circulation is incorrect. The capillary wall and endothelial cells are often assumed to be non-contractile, and with passive veins, this leads to the impression that "peripheral resistance" is solely due to arteriolar tone.
 
-**CONTEXT:** Can you explain the physiological basis for how thyroid and DHEA might improve blood vessel tone?
+**CONTEXT:** How does smooth muscle in veins relate to conditions like varicose veins?
 
-**RAY PEAT:** Many veins are very well-supplied with smooth muscle. When the physician scoffs at the idea that varicose veins could “recover,” it is because of the idea that “they occur when the valve fails." Since the valve is just a flap of tissue, it is hard to imagine how it could be restored. But if you realize that veins (especially the subcutaneous veins which become unsightly varicosities) are well-muscled, you can see that a loss of muscle tone will lead to swelling of the vein, and that a valve which could close a small channel, simply can't reach across the channel of a distended vein. That is, valve failure will necessarily follow loss of smooth muscle tone. If the tone is restored, the channel will return to its normal size, and the valve would have a chance to function again.
+**RAY PEAT:** Many veins are well-supplied with smooth muscle. The idea that varicose veins can "recover" is dismissed because of the belief that they occur when the valve fails. However, a valve is just a flap of tissue and cannot be restored if the vein channel is distended. If veins, especially subcutaneous ones that become varicose, have lost muscle tone, they will swell. A valve that could close a small channel cannot span a distended one. Valve failure is a consequence of lost smooth muscle tone. Restoring tone normalizes the channel size, allowing the valve to function again.
 
-**CONTEXT:** What is your overall recommendation for preventing or reversing these degenerative vascular processes?
+**CONTEXT:** What is the best approach to managing degenerative vascular processes?
 
-**RAY PEAT:** Although major structural restorations can occur in many tissues, even in middle-aged people, when conditions are favorable, it is much better to stop degenerative processes before they have gone very far, by optimizing all aspects of the environment, as far as this is possible.
+**RAY PEAT:** While significant structural restoration can occur in many tissues, even in middle age, when conditions are favorable, it is far better to halt degenerative processes before they advance significantly. This is achieved by optimizing all aspects of the environment as much as possible.
 
-**CONTEXT:** Are there any specific considerations regarding the source of riboflavin?
+**CONTEXT:** Are there any specific considerations regarding riboflavin supplementation?
 
 **RAY PEAT:** Synthetic riboflavin is allergenic, so natural sources are the safest.

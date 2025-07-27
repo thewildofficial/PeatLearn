@@ -5,7 +5,8 @@ Ray Peat Legacy - Central Configuration Settings
 import os
 from pathlib import Path
 from typing import Optional
-from pydantic import BaseSettings, Field
+from pydantic import Field
+from pydantic_settings import BaseSettings
 
 # Project root directory
 PROJECT_ROOT = Path(__file__).parent.parent
@@ -60,7 +61,7 @@ class Settings(BaseSettings):
     API_WORKERS: int = Field(default=1, env="API_WORKERS")
     
     # Embedding Settings
-    EMBEDDING_MODEL: str = Field(default="text-embedding-004", env="EMBEDDING_MODEL")
+    EMBEDDING_MODEL: str = Field(default="gemini-embedding-001", env="EMBEDDING_MODEL")
     EMBEDDING_DIMENSIONS: int = Field(default=768, env="EMBEDDING_DIMENSIONS")
     
     # LLM Settings
