@@ -243,8 +243,10 @@ coverage.xml
 # Documentation
 # =================================================================
 docs/_build/
-docs/project_requirements/
 site/
+
+# Project requirements and submission files
+docs/project_requirements/*
 
 # =================================================================
 # Backup and Archive Files

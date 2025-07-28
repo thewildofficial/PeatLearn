@@ -71,24 +71,26 @@ class GeminiEmbeddingGenerator:
         self.api_key = api_key
         self.model = model
         self.base_url = "https://generativelanguage.googleapis.com/v1beta"
-        self.rate_limit_delay = 60 / 90  # 90 RPM for safety (free tier: 100 RPM)
+        # Exponential backoff instead of fixed rate limiting
+        self.base_delay = 0.1  # Start with 100ms between requests
+        self.max_delay = 30    # Max 30 seconds between retries
         self.last_request_time = 0
         
         # Gemini embedding pricing (per 1M tokens)
         self.cost_per_million_tokens = 0.15  # $0.15 per 1M tokens (official pricing)
         
-    async def _rate_limit_wait(self):
-        """Ensure we don't exceed rate limits."""
+    async def _adaptive_delay(self):
+        """Simple adaptive delay based on time since last request."""
         current_time = time.time()
         time_since_last = current_time - self.last_request_time
-        if time_since_last < self.rate_limit_delay:
-            sleep_time = self.rate_limit_delay - time_since_last
+        if time_since_last < self.base_delay:
+            sleep_time = self.base_delay - time_since_last
             await asyncio.sleep(sleep_time)
         self.last_request_time = time.time()
     
     async def generate_embedding(self, text: str, session: aiohttp.ClientSession) -> Optional[np.ndarray]:
-        """Generate embedding for a single text."""
-        await self._rate_limit_wait()
+        """Generate embedding for a single text with exponential backoff on rate limits."""
+        await self._adaptive_delay()
         
         url = f"{self.base_url}/models/{self.model}:embedContent"
         headers = {
@@ -103,20 +105,43 @@ class GeminiEmbeddingGenerator:
             }
         }
         
-        try:
-            async with session.post(url, headers=headers, json=payload) as response:
-                if response.status == 200:
-                    data = await response.json()
-                    embedding = data.get("embedding", {}).get("values", [])
-                    return np.array(embedding, dtype=np.float32)
+        # Exponential backoff for rate limit errors
+        retry_delay = 1  # Start with 1 second
+        max_retries = 5
+        
+        for attempt in range(max_retries):
+            try:
+                async with session.post(url, headers=headers, json=payload) as response:
+                    if response.status == 200:
+                        data = await response.json()
+                        embedding = data.get("embedding", {}).get("values", [])
+                        return np.array(embedding, dtype=np.float32)
+                    elif response.status == 429:  # Rate limit error
+                        if attempt < max_retries - 1:
+                            logger.warning(f"Rate limit hit (429), retrying in {retry_delay}s... (attempt {attempt + 1}/{max_retries})")
+                            await asyncio.sleep(retry_delay)
+                            retry_delay = min(retry_delay * 2, self.max_delay)  # Exponential backoff
+                            continue
+                        else:
+                            error_text = await response.text()
+                            logger.error(f"Rate limit exceeded after {max_retries} retries: {error_text}")
+                            return None
+                    else:
+                        error_text = await response.text()
+                        logger.error(f"API Error {response.status}: {error_text}")
+                        return None
+                        
+            except Exception as e:
+                if attempt < max_retries - 1:
+                    logger.warning(f"Request failed (attempt {attempt + 1}/{max_retries}): {str(e)}, retrying in {retry_delay}s...")
+                    await asyncio.sleep(retry_delay)
+                    retry_delay = min(retry_delay * 2, self.max_delay)
+                    continue
                 else:
-                    error_text = await response.text()
-                    logger.error(f"API Error {response.status}: {error_text}")
+                    logger.error(f"Request failed after {max_retries} retries: {str(e)}")
                     return None
-                    
-        except Exception as e:
-            logger.error(f"Request failed: {str(e)}")
-            return None
+        
+        return None
     
     def calculate_cost(self, total_tokens: int) -> float:
         """Calculate embedding cost based on tokens."""
@@ -134,12 +159,34 @@ class RayPeatCorpusEmbedder:
         self.checkpoint_file = self.embedding_output_dir / "checkpoint.json"
         self.completed_pairs_file = self.embedding_output_dir / "completed_pairs.pkl"
         
-        # Initialize Gemini embedder
+        # Ensure .env file exists and load it
+        env_path = PATHS["project_root"] / ".env"
+        if not env_path.exists():
+            logger.warning(f".env file not found at {env_path}. Creating a new one.")
+            with open(env_path, 'w') as f:
+                f.write("# Environment variables for PeatLearn project\n")
+            from dotenv import load_dotenv
+            load_dotenv(dotenv_path=env_path) # Load the newly created empty .env
+
+        # Check for GEMINI_API_KEY
         if not settings.GEMINI_API_KEY:
-            raise ValueError("GEMINI_API_KEY not found in environment variables")
-        
+            logger.warning("GEMINI_API_KEY not found in environment variables or .env file.")
+            api_key_input = input("Please enter your Gemini API Key: ").strip()
+            if not api_key_input:
+                raise ValueError("Gemini API Key is required to proceed.")
+
+            # Save the key to .env
+            from dotenv import set_key
+            set_key(dotenv_path=env_path, key_to_set="GEMINI_API_KEY", value_to_set=api_key_input)
+            logger.info("GEMINI_API_KEY saved to .env file.")
+
+            # Reload settings to pick up the new key
+            # Update the current settings object with the new key
+            settings.GEMINI_API_KEY = api_key_input
+
+        # Initialize Gemini embedder
         self.embedder = GeminiEmbeddingGenerator(
-            api_key=settings.GEMINI_API_KEY,
+            api_key=settings.GEMINI_API_KEY, # Now guaranteed to be available
             model=settings.EMBEDDING_MODEL
         )
         
@@ -240,40 +287,58 @@ class RayPeatCorpusEmbedder:
         # Combine completed pairs with new ones
         all_completed_pairs = completed_pairs.copy()
         
-        async with aiohttp.ClientSession() as session:
-            for i, pair in enumerate(remaining_pairs):
-                # Combine context and response for embedding
+        # Create semaphore to limit concurrent requests (Tier 1: 3000 RPM = ~50 RPS)
+        semaphore = asyncio.Semaphore(30)  # Conservative concurrent limit
+        
+        async def process_single_pair(session, pair, pair_index):
+            """Process a single Q&A pair with rate limiting."""
+            async with semaphore:
                 text_to_embed = f"Context: {pair.context}\n\nRay Peat: {pair.ray_peat_response}"
-                
                 embedding = await self.embedder.generate_embedding(text_to_embed, session)
+                return pair, embedding, pair_index
+        
+        async with aiohttp.ClientSession() as session:
+            # Process in batches for better memory management
+            batch_size = 50  # Process 50 pairs concurrently
+            
+            for batch_start in range(0, len(remaining_pairs), batch_size):
+                batch_end = min(batch_start + batch_size, len(remaining_pairs))
+                batch_pairs = remaining_pairs[batch_start:batch_end]
                 
-                if embedding is not None:
-                    pair.embedding = embedding
-                    all_completed_pairs.append(pair)
-                    self.progress.successful_embeddings += 1
-                else:
-                    self.progress.failed_embeddings += 1
-                    logger.warning(f"Failed to generate embedding for pair {pair.id}")
+                # Create concurrent tasks for this batch
+                tasks = [
+                    process_single_pair(session, pair, batch_start + i)
+                    for i, pair in enumerate(batch_pairs)
+                ]
                 
-                self.progress.processed_pairs += 1
+                # Execute batch concurrently
+                batch_results = await asyncio.gather(*tasks)
                 
-                # Calculate cost
-                self.progress.total_cost += self.embedder.calculate_cost(pair.tokens)
+                # Process results
+                for pair, embedding, original_index in batch_results:
+                    if embedding is not None:
+                        pair.embedding = embedding
+                        all_completed_pairs.append(pair)
+                        self.progress.successful_embeddings += 1
+                    else:
+                        self.progress.failed_embeddings += 1
+                        logger.warning(f"Failed to generate embedding for pair {pair.id}")
+                    
+                    self.progress.processed_pairs += 1
+                    self.progress.total_cost += self.embedder.calculate_cost(pair.tokens)
                 
-                # Save checkpoint periodically
-                if (i + 1) % checkpoint_interval == 0 or (i + 1) == len(remaining_pairs):
-                    self.save_checkpoint(all_completed_pairs, total_pairs)
+                # Save checkpoint after each batch
+                self.save_checkpoint(all_completed_pairs, total_pairs)
                 
                 # Progress update
-                if (i + 1) % (checkpoint_interval // 10) == 0 or (i + 1) == len(remaining_pairs):
-                    progress_pct = self.progress.progress_percentage()
-                    eta_minutes = self.progress.estimated_time_remaining() / 60
-                    logger.info(
-                        f"Progress: {progress_pct:.1f}% "
-                        f"({self.progress.processed_pairs}/{self.progress.total_pairs}) "
-                        f"- ETA: {eta_minutes:.1f}m "
-                        f"- Cost: ${self.progress.total_cost:.4f}"
-                    )
+                progress_pct = self.progress.progress_percentage()
+                eta_minutes = self.progress.estimated_time_remaining() / 60
+                logger.info(
+                    f"Progress: {progress_pct:.1f}% "
+                    f"({self.progress.processed_pairs}/{self.progress.total_pairs}) "
+                    f"- ETA: {eta_minutes:.1f}m "
+                    f"- Cost: ${self.progress.total_cost:.4f}"
+                )
         
         return all_completed_pairs
     
@@ -419,7 +484,7 @@ async def main():
             print(f"   • Cost so far: ${cost_so_far:.4f}")
             print(f"   • Last updated: {last_updated}")
             print(f"   • Embedding model: {embedder.embedder.model}")
-            print(f"   • Rate limit: 90 RPM")
+            print(f"   • Rate limiting: Exponential backoff (adaptive)")
             print()
             
             if remaining_pairs == 0:
@@ -434,7 +499,7 @@ async def main():
             print(f"   • Total tokens: {total_tokens:,}")
             print(f"   • Estimated total cost: ${estimated_total_cost:.4f}")
             print(f"   • Embedding model: {embedder.embedder.model}")
-            print(f"   • Rate limit: 90 RPM")
+            print(f"   • Rate limiting: Exponential backoff (adaptive)")
             print()
             
             # Only ask for confirmation on fresh start
