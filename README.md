@@ -1,12 +1,53 @@
-# Ray Peat Legacy - Bioenergetic Knowledge Platform
+# PeatLearn: Advanced AI Learning Platform
 
-A comprehensive AI-powered platform to preserve and share Dr. Ray Peat's bioenergetic philosophy through an interactive, searchable knowledge base of his complete corpus of work.
+An AI-powered personalized learning platform featuring state-of-the-art machine learning techniques including Neural Collaborative Filtering, LSTM trajectory modeling, Reinforcement Learning, and Knowledge Graph Networks.
 
-## Project Vision
+Built around Dr. Ray Peat's bioenergetic philosophy, this comprehensive system demonstrates advanced AI/ML concepts in a real-world educational application.
 
-This platform serves as a posthumous digital legacy for Dr. Ray Peat, the renowned biologist and health researcher. It provides an accessible, intelligent interface for people to learn about bioenergetic thinking, explore specific health topics, and understand Ray Peat's unique approach to biological processes.
+## 🚀 Quick Start
 
-**Mission**: To democratize access to Ray Peat's vast knowledge and enable anyone to think bioenergetically about health and biology.
+### Run Complete System Demo
+```bash
+python3 demo_system.py
+```
+
+### Launch Web Interfaces
+```bash
+# Streamlit Dashboard
+cd web_ui/frontend && streamlit run streamlit_dashboard.py
+
+# Modern HTML Interface
+open web_ui/frontend/web_interface.html
+```
+
+### Start Backend Services
+```bash
+# Terminal 1: RAG Service (Port 8000)
+cd inference/backend && python app.py
+
+# Terminal 2: Advanced ML Service (Port 8001)  
+cd inference/backend && python -m uvicorn app:app --port 8001
+```
+
+## 🧠 Advanced ML Features
+
+✅ **Neural Collaborative Filtering** - Personalized content recommendations  
+✅ **LSTM + Multi-head Attention** - Learning trajectory prediction  
+✅ **Multi-task Deep Learning** - Adaptive quiz generation  
+✅ **Deep Q-Networks (DQN)** - Reinforcement learning for content selection  
+✅ **Actor-Critic Methods** - Continuous difficulty adjustment  
+✅ **Graph Neural Networks** - Knowledge graph reasoning  
+✅ **Retrieval-Augmented Generation** - Intelligent Q&A system  
+✅ **Fine-tuned BERT** - Domain-specific concept extraction  
+
+## 📊 System Architecture
+
+- **Backend**: FastAPI microservices with advanced ML models
+- **Frontend**: Modern HTML5 interface + Professional Streamlit dashboard  
+- **Data**: 1000+ processed Ray Peat documents with vector embeddings
+- **AI/ML**: 10+ state-of-the-art techniques integrated in production
+
+Perfect for academic AI/ML final project demonstration! 🎓
 
 ## Features
 
