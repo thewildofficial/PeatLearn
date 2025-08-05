@@ -13,8 +13,8 @@ python3 demo_system.py
 
 ### Launch Web Interfaces
 ```bash
-# Streamlit Dashboard
-cd web_ui/frontend && streamlit run streamlit_dashboard.py
+# Streamlit Dashboard (ensure venv is activated)
+source venv/bin/activate && streamlit run streamlit_dashboard.py --server.port 8502
 
 # Modern HTML Interface
 open web_ui/frontend/web_interface.html
@@ -23,10 +23,10 @@ open web_ui/frontend/web_interface.html
 ### Start Backend Services
 ```bash
 # Terminal 1: RAG Service (Port 8000)
-cd inference/backend && python app.py
+source venv/bin/activate && cd inference/backend && python app.py
 
 # Terminal 2: Advanced ML Service (Port 8001)  
-cd inference/backend && python -m uvicorn app:app --port 8001
+source venv/bin/activate && cd inference/backend && python -m uvicorn advanced_app:app --port 8001
 ```
 
 ## 🧠 Advanced ML Features

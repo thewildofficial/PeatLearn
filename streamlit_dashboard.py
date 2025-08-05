@@ -117,9 +117,14 @@ def get_recommendations(user_id, num_recommendations=5):
 def send_chat_message(message, user_id):
     """Send a message to the advanced RAG system."""
     try:
-        response = requests.post(
-            f"{ML_API_BASE}/advanced-rag/personalized-answer",
-            json={"query": message, "user_id": user_id},
+        response = requests.get(
+            f"{ML_API_BASE}/api/ask",
+            params={
+                "q": message,
+                "user_id": user_id,
+                "max_sources": 5,
+                "min_similarity": 0.3
+            },
             timeout=30
         )
         if response.status_code == 200:
