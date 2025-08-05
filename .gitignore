@@ -290,3 +290,29 @@ benchmarks/results/
 
 # Keep important empty directories
 !.gitkeep 
+
+# Logs
+logs
+dev-debug.log
+# Dependency directories
+# Environment variables
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# OS specific
+
+/.claude
+/.cursor
+/.taskmaster
+CLAUDE.md
+/.github
+.DS_Store
+
+# Task files
+# tasks.json
+# tasks/ 
