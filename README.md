@@ -47,8 +47,6 @@ source venv/bin/activate && cd inference/backend && python -m uvicorn advanced_a
 - **Data**: 1000+ processed Ray Peat documents with vector embeddings
 - **AI/ML**: 10+ state-of-the-art techniques integrated in production
 
-Perfect for academic AI/ML final project demonstration! 🎓
-
 ## Features
 
 - 🔍 **Intelligent Search**: Query Ray Peat's entire corpus using natural language
