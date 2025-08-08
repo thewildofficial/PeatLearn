@@ -77,8 +77,20 @@ Our comprehensive dataset includes:
 
 ### Data Pipeline
 ```
-Raw Data → Quality Analysis → AI-Powered Cleaning → Segmentation → Embedding → Vector Storage
+Raw Data → Quality Analysis → AI-Powered Cleaning → Segmentation → Embedding → Hugging Face Hosting
 ```
+
+### 📂 Dataset Hosting
+Our embeddings are hosted separately to keep the codebase lightweight:
+
+- **Code Repository**: [GitHub](https://github.com/thewildofficial/PeatLearn) (this repo)
+- **Embeddings Dataset**: [Hugging Face](https://huggingface.co/datasets/abanwild/peatlearn-embeddings)
+
+This hybrid approach allows:
+- ✅ Fast code sharing and collaboration
+- ✅ Large ML artifacts hosted efficiently  
+- ✅ Easy contributor onboarding without massive downloads
+- ✅ Automatic embedding synchronization
 
 ### System Components
 
@@ -93,8 +105,9 @@ Raw Data → Quality Analysis → AI-Powered Cleaning → Segmentation → Embed
    - Quality assessment and validation
 
 3. **Embedding & Vectorization** (`embedding/`)
-   - Text embedding using Gemini API or Hugging Face
-   - Vector storage management
+   - Text embedding using sentence-transformers/all-mpnet-base-v2
+   - Hugging Face dataset hosting for embeddings
+   - Automatic download and caching system
    - Similarity search optimization
 
 4. **Inference Backend** (`inference/`)
@@ -157,9 +170,17 @@ pip install -r requirements.txt
 cp .env.template .env
 # Edit .env with your API keys:
 # GEMINI_API_KEY=your_key_here
+# HF_TOKEN=your_hugging_face_token  # Optional, for private access
 ```
 
-3. **Process the Data**
+3. **Download Pre-trained Embeddings**
+```bash
+cd embedding
+python download_from_hf.py
+# This downloads ~700MB of embeddings from Hugging Face
+```
+
+4. **Process the Data (Optional - for development)**
 ```bash
 # Run data cleaning pipeline
 cd preprocessing/cleaning
@@ -169,19 +190,19 @@ python main_pipeline.py --limit 10  # Start with sample
 python main_pipeline.py
 ```
 
-4. **Generate Embeddings**
+5. **Generate New Embeddings (Optional - for development)**
 ```bash
 cd ../../embedding
 python embed_corpus.py
 ```
 
-5. **Start Backend Server**
+6. **Start Backend Server**
 ```bash
 cd ../inference/backend
 python app.py
 ```
 
-6. **Launch Frontend**
+7. **Launch Frontend**
 ```bash
 cd ../../web_ui/frontend
 npm install
