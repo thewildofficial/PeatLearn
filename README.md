@@ -8,13 +8,13 @@ Built around Dr. Ray Peat's bioenergetic philosophy, this comprehensive system d
 
 ### Run Complete System Demo
 ```bash
-python3 demo_system.py
+python3 scripts/demo_system.py
 ```
 
 ### Launch Web Interfaces
 ```bash
 # Streamlit Dashboard (ensure venv is activated)
-source venv/bin/activate && streamlit run streamlit_dashboard.py --server.port 8502
+source venv/bin/activate && streamlit run scripts/streamlit_dashboard.py --server.port 8502
 
 # Modern HTML Interface
 open web_ui/frontend/web_interface.html
