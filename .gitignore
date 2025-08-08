@@ -77,6 +77,8 @@ data/analysis/*
 
 
 # Embedding and vector stores
+embedding/vectors/*
+!embedding/vectors/.gitkeep
 embedding/vectorstore/*
 !embedding/vectorstore/.gitkeep
 
@@ -315,4 +317,4 @@ CLAUDE.md
 
 # Task files
 # tasks.json
-# tasks/ 
+# tasks/
