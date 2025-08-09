@@ -523,13 +523,100 @@ if ADVANCED_ML_AVAILABLE:
         }
 
 else:
-    # Placeholder endpoints when advanced ML is not available
+    # Basic, usable endpoints when advanced ML is not available
+    from personalization.simple_utils import (
+        estimate_difficulty_score,
+        generate_mcq_from_passage,
+    )
+
     @app.post("/api/recommendations")
     async def get_recommendations_basic(request: RecommendationRequest):
-        return {
-            "error": "Advanced ML features not available",
-            "message": "Install requirements-advanced.txt to enable personalization"
-        }
+        """Return content-based recommendations using RAG search only.
+
+        Strategy: if topic_filter provided, search each topic and aggregate top results.
+        Otherwise, return a diverse set by sampling common topics.
+        """
+        try:
+            topics = request.topic_filter or [
+                "thyroid function", "estrogen progesterone", "metabolism energy",
+                "sugar and cellular energy", "aspirin inflammation",
+            ]
+
+            seen_sources = set()
+            recs: List[Dict[str, Any]] = []
+
+            for topic in topics:
+                results = await rag_system.search_engine.search(query=topic, top_k=10, min_similarity=0.2)
+                for r in results:
+                    key = (r.source_file, r.id)
+                    if key in seen_sources:
+                        continue
+                    seen_sources.add(key)
+                    recs.append({
+                        "content_id": r.id,
+                        "predicted_score": float(r.similarity_score),
+                        "title": r.source_file,
+                        "snippet": r.context[:200] + ("..." if len(r.context) > 200 else ""),
+                        "recommendation_reason": f"Related to topic: {topic}",
+                    })
+
+            # Sort by score and truncate
+            recs.sort(key=lambda x: x["predicted_score"], reverse=True)
+            recs = recs[: request.num_recommendations]
+
+            return {
+                "user_id": request.user_id,
+                "recommendations": recs,
+                "mode": "basic_content_based",
+            }
+        except Exception as e:
+            raise HTTPException(status_code=500, detail=f"Basic recommendations failed: {e}")
+
+    @app.post("/api/quiz/generate")
+    async def generate_quiz_basic(request: QuizRequest):
+        """Generate a retrieval-based quiz without advanced ML.
+
+        Uses RAG search to fetch passages and templates MCQs from them.
+        """
+        try:
+            topic = request.topic or "thyroid metabolism"
+            results = await rag_system.search_engine.search(query=topic, top_k=max(3, request.num_questions), min_similarity=0.3)
+            if not results:
+                # Fallback to a generic topic
+                results = await rag_system.search_engine.search(query="ray peat metabolism", top_k=max(3, request.num_questions), min_similarity=0.1)
+
+            questions: List[Dict[str, Any]] = []
+            for i, r in enumerate(results[: request.num_questions]):
+                q = generate_mcq_from_passage(topic=topic, passage_text=r.context)
+                q.update({
+                    "question_id": f"q_{i}",
+                    "ray_peat_context": r.context[:220] + ("..." if len(r.context) > 220 else ""),
+                    "source_file": r.source_file,
+                })
+                questions.append(q)
+
+            return {
+                "user_id": request.user_id,
+                "quiz_id": f"quiz_{request.user_id}_{datetime.now().isoformat()}",
+                "questions": questions,
+                "quiz_metadata": {
+                    "topic": topic,
+                    "generation_method": "retrieval_templates",
+                },
+                "rag_integration": "enabled",
+            }
+        except Exception as e:
+            raise HTTPException(status_code=500, detail=f"Basic quiz generation failed: {e}")
+
+    @app.post("/api/knowledge-graph/query")
+    async def query_knowledge_graph_basic(request: KnowledgeGraphQuery):
+        """Provide co-occurrence based query expansion when advanced KG is unavailable."""
+        try:
+            from utils.concept_graph import expand_query_terms
+            result = expand_query_terms(request.query, max_expansions=request.max_expansions)
+            return result
+        except Exception as e:
+            raise HTTPException(status_code=500, detail=f"Basic KG expansion failed: {e}")
 
 # Health check
 @app.get("/api/health")

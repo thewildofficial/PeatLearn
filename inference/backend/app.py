@@ -178,16 +178,6 @@ if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
 
-@app.post("/api/ask")
-async def ask_question(question: str, context: str = None):
-    """Ask a question about Ray Peat's work."""
-    return {
-        "question": question,
-        "answer": "Question answering will be implemented with fine-tuned LLM",
-        "context": context,
-        "sources": []
-    }
-
 @app.get("/api/topics")
 async def get_topics():
     """Get available topics and categories."""
@@ -202,12 +192,3 @@ async def get_topics():
         ],
         "message": "Topics will be dynamically generated from corpus analysis"
     }
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(
-        app, 
-        host=settings.API_HOST, 
-        port=settings.API_PORT,
-        reload=settings.DEBUG
-    ) 
