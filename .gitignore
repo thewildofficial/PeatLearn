@@ -317,6 +317,4 @@ CLAUDE.md
 
 # Task files
 # tasks.json
-# tasks/ 
-.env.example
-env_template.txt
+# tasks/

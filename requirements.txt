@@ -1,18 +1,3 @@
 # Base project requirements
 pydantic-settings>=2.2.1
 python-dotenv>=1.0.0
-
-# Streamlit and web dependencies
-streamlit
-plotly
-pandas
-requests
-
-# AI/ML dependencies
-google-generativeai
-aiohttp
-scikit-learn
-numpy
-
-# Additional requirements for RAG system
-pydantic
