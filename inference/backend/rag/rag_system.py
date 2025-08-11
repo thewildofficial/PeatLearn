@@ -27,7 +27,7 @@ class RayPeatRAG:
     def __init__(self, search_engine: RayPeatVectorSearch = None):
         """Initialize the RAG system."""
         self.search_engine = search_engine or RayPeatVectorSearch()
-        self.llm_model = "gemini-1.5-flash"  # Fast and cost-effective for RAG
+        self.llm_model = "gemini-2.5-flash"  # Fast and cost-effective for RAG
         
     async def answer_question(
         self, 

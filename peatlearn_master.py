@@ -1,0 +1,490 @@
+#!/usr/bin/env python3
+"""
+PeatLearn Master Dashboard - AI-Enhanced Adaptive Learning System
+Full integration of all adaptive learning features with live AI profiling
+"""
+
+import streamlit as st
+import sys
+import os
+from datetime import datetime, timedelta
+import json
+import pandas as pd
+import plotly.graph_objects as go
+import plotly.express as px
+from pathlib import Path
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# Add src directory to path for our adaptive learning modules
+sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
+
+# Import our AI-enhanced adaptive learning system
+from adaptive_learning.data_logger import DataLogger
+from adaptive_learning.ai_profile_analyzer import AIEnhancedProfiler
+from adaptive_learning.content_selector import ContentSelector
+from adaptive_learning.quiz_generator import QuizGenerator
+from adaptive_learning.dashboard import Dashboard
+from adaptive_learning.rag_system import RayPeatRAG
+
+# Page configuration
+st.set_page_config(
+    page_title="PeatLearn - AI-Enhanced Adaptive Learning",
+    page_icon="🧠",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+# Custom CSS
+st.markdown("""
+<style>
+    .main-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 2rem;
+        border-radius: 10px;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    
+    .metric-card {
+        background: white;
+        padding: 1rem;
+        border-radius: 8px;
+        border-left: 4px solid #667eea;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    .chat-message {
+        padding: 1rem;
+        margin: 0.5rem 0;
+        border-radius: 8px;
+    }
+    
+    .user-message {
+        background-color: #667eea;
+        color: white;
+        margin-left: 2rem;
+    }
+    
+    .assistant-message {
+        background-color: #f1f3f4;
+        margin-right: 2rem;
+    }
+    
+    .recommendation-card {
+        background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+        padding: 1rem;
+        border-radius: 8px;
+        margin: 0.5rem 0;
+        border-left: 4px solid #ff6b6b;
+    }
+    
+    .profile-card {
+        background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+        padding: 1rem;
+        border-radius: 8px;
+        margin: 0.5rem 0;
+    }
+    
+    .mastery-badge {
+        display: inline-block;
+        padding: 0.2rem 0.5rem;
+        border-radius: 15px;
+        font-size: 0.8rem;
+        font-weight: bold;
+        margin: 0.2rem;
+    }
+    
+    .struggling { background-color: #ffebee; color: #c62828; }
+    .learning { background-color: #fff3e0; color: #ef6c00; }
+    .advanced { background-color: #e8f5e8; color: #2e7d32; }
+</style>
+""", unsafe_allow_html=True)
+
+# Initialize components
+@st.cache_resource
+def init_adaptive_system():
+    """Initialize the adaptive learning system components"""
+    data_logger = DataLogger()
+    ai_profiler = AIEnhancedProfiler()
+    content_selector = ContentSelector(ai_profiler)
+    quiz_generator = QuizGenerator(ai_profiler)
+    dashboard = Dashboard()
+    rag_system = RayPeatRAG()
+    
+    return data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system
+
+# Initialize session state
+def init_session_state():
+    """Initialize Streamlit session state"""
+    if 'user_id' not in st.session_state:
+        st.session_state.user_id = None
+    if 'session_id' not in st.session_state:
+        st.session_state.session_id = None
+    if 'chat_history' not in st.session_state:
+        st.session_state.chat_history = []
+    if 'user_profile' not in st.session_state:
+        st.session_state.user_profile = None
+    if 'recommendations' not in st.session_state:
+        st.session_state.recommendations = []
+
+def get_rag_response(query: str, user_profile: dict = None) -> str:
+    """
+    Get real RAG response using Gemini 2.5-Flash
+    Adapted based on user profile and learning state
+    """
+    # Initialize RAG system
+    rag_system = RayPeatRAG()
+    
+    # Get AI-powered response
+    response = rag_system.get_rag_response(query, user_profile)
+    
+    return response
+
+def render_user_setup():
+    """Render user identification setup"""
+    st.markdown("<div class='main-header'><h1>🧠 PeatLearn AI - Adaptive Learning</h1><p>Your Personal Ray Peat Bioenergetics Tutor</p></div>", unsafe_allow_html=True)
+    
+    with st.sidebar:
+        st.header("👤 User Setup")
+        
+        # Get user ID
+        user_id = st.text_input("Enter your name or ID:", value=st.session_state.get('user_id', ''))
+        
+        if user_id and user_id != st.session_state.user_id:
+            st.session_state.user_id = user_id
+            
+            # Initialize session for this user
+            data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
+            st.session_state.session_id = data_logger.get_session_id()
+            
+            # Load existing profile if available
+            st.session_state.user_profile = ai_profiler.get_user_profile(user_id)
+            
+            st.success(f"Welcome, {user_id}! 🎉")
+            st.rerun()
+        
+        if st.session_state.user_id:
+            st.write(f"**Current User:** {st.session_state.user_id}")
+            if st.session_state.session_id:
+                st.write(f"**Session:** {st.session_state.session_id[:8]}...")
+            else:
+                st.write("**Session:** Not initialized")
+            
+            # Show AI status
+            api_key = os.getenv('GEMINI_API_KEY')
+            if api_key:
+                st.success("🤖 AI Analysis: Enabled")
+            else:
+                st.warning("🤖 AI Analysis: Using Fallback Mode")
+
+def render_user_profile():
+    """Render user profile and learning analytics"""
+    if not st.session_state.user_profile:
+        st.info("Start chatting to build your learning profile! 📈")
+        return
+    
+    profile = st.session_state.user_profile
+    
+    st.subheader("📊 Your Learning Profile")
+    
+    # Overall stats
+    col1, col2, col3, col4 = st.columns(4)
+    
+    with col1:
+        st.metric("Learning State", profile.get('overall_state', 'new').title())
+    
+    with col2:
+        st.metric("Learning Style", profile.get('learning_style', 'balanced').replace('_', ' ').title())
+    
+    with col3:
+        st.metric("Total Interactions", profile.get('total_interactions', 0))
+    
+    with col4:
+        avg_feedback = profile.get('average_feedback', 0)
+        st.metric("Avg Feedback", f"{avg_feedback:.1f}" if avg_feedback else "N/A")
+    
+    # Topic mastery
+    topic_mastery = profile.get('topic_mastery', {})
+    if topic_mastery:
+        st.subheader("🎯 Topic Mastery")
+        
+        mastery_data = []
+        for topic, data in topic_mastery.items():
+            mastery_data.append({
+                'Topic': topic.title(),
+                'State': data.get('state', 'unknown'),
+                'Mastery Level': data.get('mastery_level', 0),
+                'Interactions': data.get('total_interactions', 0)
+            })
+        
+        df = pd.DataFrame(mastery_data)
+        
+        # Create mastery chart
+        fig = px.bar(df, x='Topic', y='Mastery Level', 
+                    color='State', 
+                    title="Mastery Levels by Topic",
+                    color_discrete_map={
+                        'struggling': '#ff6b6b',
+                        'learning': '#feca57', 
+                        'advanced': '#48db71'
+                    })
+        st.plotly_chart(fig, use_container_width=True)
+        
+        # Show mastery badges
+        for _, row in df.iterrows():
+            badge_class = row['State']
+            st.markdown(f"""
+                <span class="mastery-badge {badge_class}">
+                    {row['Topic']}: {row['State'].title()} ({row['Mastery Level']:.1f})
+                </span>
+            """, unsafe_allow_html=True)
+    
+    # AI insights if available
+    ai_analysis = profile.get('ai_analysis', {})
+    if ai_analysis:
+        st.subheader("🤖 AI Insights")
+        
+        insights = ai_analysis.get('insights', [])
+        for insight in insights:
+            st.write(f"• {insight}")
+        
+        learning_velocity = ai_analysis.get('learning_velocity')
+        if learning_velocity:
+            st.info(f"**Learning Velocity:** {learning_velocity.title()}")
+
+def render_recommendations():
+    """Render AI-generated recommendations"""
+    if not st.session_state.user_profile:
+        return
+    
+    recommendations = st.session_state.user_profile.get('recommendations', [])
+    
+    if recommendations:
+        st.subheader("💡 Personalized Recommendations")
+        
+        for rec in recommendations[:3]:  # Show top 3
+            priority_color = {
+                'high': '#ff6b6b',
+                'medium': '#feca57',
+                'low': '#74b9ff'
+            }.get(rec.get('priority', 'medium'), '#74b9ff')
+            
+            st.markdown(f"""
+                <div class="recommendation-card">
+                    <h4 style="color: {priority_color};">
+                        {rec.get('priority', 'medium').upper()} PRIORITY: {rec.get('title', 'Recommendation')}
+                    </h4>
+                    <p>{rec.get('description', '')}</p>
+                    {f"<small><i>Reasoning: {rec.get('reasoning', '')}</i></small>" if rec.get('reasoning') else ""}
+                    <br><small>Source: {rec.get('source', 'unknown').replace('_', ' ').title()}</small>
+                </div>
+            """, unsafe_allow_html=True)
+
+def render_chat_interface():
+    """Render the main chat interface with AI profiling"""
+    data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
+    
+    st.subheader("💬 Chat with Ray Peat AI")
+    
+    # Display chat history
+    for message in st.session_state.chat_history:
+        if message['role'] == 'user':
+            st.markdown(f"""
+                <div class="chat-message user-message">
+                    <strong>You:</strong> {message['content']}
+                </div>
+            """, unsafe_allow_html=True)
+        else:
+            st.markdown(f"""
+                <div class="chat-message assistant-message">
+                    <strong>Ray Peat AI:</strong> {message['content']}
+                </div>
+            """, unsafe_allow_html=True)
+            
+            # Show feedback buttons for assistant messages
+            if 'feedback' not in message:
+                col1, col2, col3 = st.columns([1, 1, 8])
+                with col1:
+                    if st.button("👍", key=f"up_{len(st.session_state.chat_history)}_{message.get('timestamp', '')}"):
+                        handle_feedback(message, 1, data_logger, ai_profiler)
+                with col2:
+                    if st.button("👎", key=f"down_{len(st.session_state.chat_history)}_{message.get('timestamp', '')}"):
+                        handle_feedback(message, -1, data_logger, ai_profiler)
+    
+    # Chat input
+    if prompt := st.chat_input("Ask Ray Peat about bioenergetics, metabolism, hormones..."):
+        # Add user message
+        user_message = {
+            'role': 'user',
+            'content': prompt,
+            'timestamp': datetime.now().isoformat()
+        }
+        st.session_state.chat_history.append(user_message)
+        
+        # Generate AI response using real RAG with Gemini
+        with st.spinner("Ray Peat AI is thinking..."):
+            response = get_rag_response(prompt, st.session_state.user_profile)
+        
+        # Add assistant message
+        assistant_message = {
+            'role': 'assistant', 
+            'content': response,
+            'timestamp': datetime.now().isoformat(),
+            'user_query': prompt
+        }
+        st.session_state.chat_history.append(assistant_message)
+        
+        st.rerun()
+
+def handle_feedback(message, feedback_value, data_logger, ai_profiler):
+    """Handle user feedback and update profile"""
+    if not st.session_state.user_id or not st.session_state.session_id:
+        return
+    
+    # Extract topic from the interaction
+    from adaptive_learning.profile_analyzer import TopicExtractor
+    topic_extractor = TopicExtractor()
+    topic = topic_extractor.get_primary_topic(message.get('user_query', '')) or 'general'
+    
+    # Log the interaction
+    data_logger.log_interaction(
+        user_id=st.session_state.user_id,
+        session_id=st.session_state.session_id,
+        user_query=message.get('user_query', ''),
+        llm_response=message.get('content', ''),
+        topic=topic,
+        user_feedback=feedback_value,
+        interaction_type='chat'
+    )
+    
+    # Update user profile with AI analysis
+    all_interactions = data_logger._load_interactions()
+    user_interactions = all_interactions[all_interactions['user_id'] == st.session_state.user_id].to_dict(orient='records')
+    
+    # Update profile using AI
+    updated_profile = ai_profiler.update_user_profile_with_ai(st.session_state.user_id, user_interactions)
+    st.session_state.user_profile = updated_profile
+    
+    # Mark message as having feedback
+    message['feedback'] = feedback_value
+    
+    # Show success message
+    feedback_text = "positive" if feedback_value > 0 else "negative"
+    st.success(f"Thanks for the {feedback_text} feedback! Your profile has been updated. 📊")
+    
+    st.rerun()
+
+def render_quiz_interface():
+    """Render personalized quiz interface"""
+    if not st.session_state.user_profile:
+        st.info("Chat with the AI first to build your profile for personalized quizzes! 💬")
+        return
+    
+    st.subheader("🎯 Personalized Quiz")
+    
+    data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
+    
+    # Quiz topic selection
+    topic_mastery = st.session_state.user_profile.get('topic_mastery', {})
+    if topic_mastery:
+        topics = list(topic_mastery.keys())
+        selected_topic = st.selectbox("Choose a topic for your quiz:", topics)
+        
+        if st.button("Generate Quiz", type="primary"):
+            with st.spinner("Creating your personalized quiz..."):
+                quiz = quiz_generator.generate_quiz(
+                    st.session_state.user_profile,
+                    topic=selected_topic,
+                    num_questions=3
+                )
+            
+            if quiz and 'questions' in quiz:
+                st.success("Quiz generated! 📝")
+                
+                # Display quiz questions
+                for i, question in enumerate(quiz['questions']):
+                    st.write(f"**Question {i+1}:** {question.get('question_text', 'Sample question')}")
+                    
+                    # Show options if available
+                    options = question.get('options', [])
+                    if options:
+                        for j, option in enumerate(options):
+                            st.write(f"  {chr(65+j)}. {option}")
+                    
+                    st.write(f"**Correct Answer:** {question.get('correct_answer', 'Not specified')}")
+                    st.divider()
+            else:
+                st.error("Failed to generate quiz. Please try again.")
+
+def main():
+    """Main application"""
+    init_session_state()
+    
+    # Check if user is set up
+    if not st.session_state.user_id:
+        render_user_setup()
+        st.stop()
+    
+    # Sidebar user info and navigation
+    render_user_setup()
+    
+    # Main content tabs
+    tab1, tab2, tab3, tab4 = st.tabs(["💬 Chat", "📊 Profile", "🎯 Quiz", "📈 Analytics"])
+    
+    with tab1:
+        render_chat_interface()
+        render_recommendations()
+    
+    with tab2:
+        render_user_profile()
+    
+    with tab3:
+        render_quiz_interface()
+    
+    with tab4:
+        st.subheader("📈 Learning Analytics")
+        if st.session_state.user_profile:
+            # Show detailed analytics
+            data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
+            
+            # Load interaction data
+            all_interactions = data_logger._load_interactions()
+            user_interactions = all_interactions[all_interactions['user_id'] == st.session_state.user_id]
+            
+            if not user_interactions.empty:
+                # Interaction timeline
+                user_interactions['timestamp'] = pd.to_datetime(user_interactions['timestamp'])
+                daily_interactions = user_interactions.groupby(user_interactions['timestamp'].dt.date).size()
+                
+                fig = px.line(x=daily_interactions.index, y=daily_interactions.values, 
+                            title="Daily Interaction Count")
+                fig.update_xaxes(title="Date")
+                fig.update_yaxes(title="Interactions")
+                st.plotly_chart(fig, use_container_width=True)
+                
+                # Topic distribution
+                topic_counts = user_interactions['topic'].value_counts()
+                fig = px.pie(values=topic_counts.values, names=topic_counts.index, 
+                           title="Topics Explored")
+                st.plotly_chart(fig, use_container_width=True)
+                
+                # Feedback analysis
+                feedback_data = user_interactions['user_feedback'].value_counts()
+                if len(feedback_data) > 0:
+                    fig = px.bar(x=['Negative', 'Positive'], 
+                               y=[feedback_data.get(-1, 0), feedback_data.get(1, 0)],
+                               title="Feedback Distribution",
+                               color=['Negative', 'Positive'],
+                               color_discrete_map={'Negative': '#ff6b6b', 'Positive': '#48db71'})
+                    st.plotly_chart(fig, use_container_width=True)
+            else:
+                st.info("No interaction data yet. Start chatting to see analytics!")
+        else:
+            st.info("No profile data yet. Chat with the AI to build your profile!")
+
+if __name__ == "__main__":
+    main()
