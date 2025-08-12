@@ -126,7 +126,8 @@ Answer:"""
         try:
             import google.generativeai as genai  # type: ignore
             genai.configure(api_key=settings.GEMINI_API_KEY)
-            model = genai.GenerativeModel(self.llm_model)
+            model_name = self.llm_model if self.llm_model.startswith("gemini") else f"models/{self.llm_model}"
+            model = genai.GenerativeModel(model_name)
             resp = await asyncio.to_thread(
                 model.generate_content,
                 prompt,

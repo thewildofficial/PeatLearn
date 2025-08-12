@@ -345,7 +345,9 @@ Output format:
         try:
             import google.generativeai as genai  # type: ignore
             genai.configure(api_key=settings.GEMINI_API_KEY)
-            model = genai.GenerativeModel(self.llm_model)
+            # Prefer the "models/" prefix if needed by installed SDK version
+            model_name = self.llm_model if self.llm_model.startswith("gemini") else f"models/{self.llm_model}"
+            model = genai.GenerativeModel(model_name)
             # SDK is sync; offload to thread to keep async API
             resp = await asyncio.to_thread(
                 model.generate_content,

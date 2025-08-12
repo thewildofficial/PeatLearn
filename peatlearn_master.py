@@ -254,66 +254,20 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Helpers ---
-def _format_ai_answer(raw: str) -> str:
-    """Sanitize and enhance LLM answer for display.
+def _split_answer_and_sources(raw: str) -> tuple[str, list[str]]:
+    """Split body and sources list from the model output without escaping.
 
-    - Remove any model-emitted HTML tags (e.g., stray </div>)
-    - Escape remaining content
-    - Convert simple bullets/headings to HTML
-    - Render a sources section cleanly if present
+    Returns (body_markdown, sources_lines)
     """
     if not raw:
-        return ""
-
-    # Strip all tags the model might output
-    no_tags = re.sub(r"</?[a-zA-Z][^>]*>", "", raw)
-
-    # Detect a trailing sources section
-    sources_html = ""
-    body = no_tags
-    m = re.search(r"(?:^|\n)\s*(?:Source mapping:|📚\s*Sources[^\n]*:)\s*(.+)$", no_tags, flags=re.IGNORECASE | re.DOTALL)
-    if m:
-        before = no_tags[:m.start()]
-        after = m.group(1)
-        items = [html.escape(l.strip(" -\t")) for l in after.splitlines() if l.strip()]
-        if items:
-            # Create hoverable sources with custom CSS
-            sources_list = "".join(f"<li>{it}</li>" for it in items[:10])
-            sources_html = """
-                <div class="sources-container">
-                    <div class="sources-toggle">📚 Sources</div>
-                    <div class="sources-content">
-                        <ul>{}</ul>
-                    </div>
-                </div>
-            """.format(sources_list)
-            body = before.strip()
-
-
-    esc = html.escape(body)
-
-    # Lightweight markdown-ish formatting
-    lines = esc.splitlines()
-    out = []
-    in_ul = False
-    for ln in lines:
-        if re.match(r"^\s*[-•]\s+", ln):
-            if not in_ul:
-                out.append("<ul>")
-                in_ul = True
-            out.append(f"<li>{ln.lstrip('-• ').strip()}</li>")
-        else:
-            if in_ul:
-                out.append("</ul>")
-                in_ul = False
-            if re.match(r"^\s*\d+\)\s+", ln) or ln.startswith("## "):
-                out.append(f"<h3>{ln.lstrip('0123456789) ').lstrip('# ').strip()}</h3>")
-            elif ln.strip():
-                out.append(f"<p>{ln}</p>")
-    if in_ul:
-        out.append("</ul>")
-
-    return "".join(out) + sources_html
+        return "", []
+    m = re.search(r"(?:^|\n)\s*(?:Source mapping:|📚\s*Sources[^\n]*:)\s*(.+)$", raw, flags=re.IGNORECASE | re.DOTALL)
+    if not m:
+        return raw, []
+    body = raw[:m.start()].rstrip()
+    tail = m.group(1)
+    sources = [l.strip(" -*\t") for l in tail.splitlines() if l.strip()]
+    return body, sources
 
 # Initialize components
 @st.cache_resource
@@ -511,13 +465,27 @@ def render_chat_interface():
                 </div>
             """, unsafe_allow_html=True)
         else:
-            cleaned_html = _format_ai_answer(message['content'])
+            body_md, sources = _split_answer_and_sources(message['content'])
             st.markdown(f"""
                 <div class="chat-message assistant-message">
                     <strong>Ray Peat AI:</strong>
-                    <div class="rag-answer">{cleaned_html}</div>
                 </div>
             """, unsafe_allow_html=True)
+            # Render markdown body first (allows headings/lists)
+            st.markdown(body_md)
+            # Render sources with hover UI if present
+            if sources:
+                sources_list = "".join(f"<li>{html.escape(it)}</li>" for it in sources[:12])
+                st.markdown(f"""
+                    <div class="rag-answer">
+                        <div class="sources-container">
+                            <div class="sources-toggle">📚 Sources</div>
+                            <div class="sources-content">
+                                <ul>{sources_list}</ul>
+                            </div>
+                        </div>
+                    </div>
+                """, unsafe_allow_html=True)
             
             # Show feedback buttons for assistant messages
             if 'feedback' not in message:
