@@ -67,13 +67,15 @@ class PineconeRAG:
         
         try:
             # Step 1: Retrieve relevant passages from Pinecone
-            search_results = await self.search_engine.search(
+            raw_results = await self.search_engine.search(
                 query=question,
                 top_k=max_sources,
                 min_similarity=min_similarity,
                 filter_dict=metadata_filter
             )
-            
+            # Step 1.1: Rerank and deduplicate for quality and diversity
+            search_results = self._rerank_and_dedupe(question, raw_results, max_sources)
+
             search_stats.update({
                 "results_found": len(search_results),
                 "min_similarity": min_similarity,
@@ -119,6 +121,65 @@ class PineconeRAG:
                 query=question,
                 search_stats={"error": str(e)}
             )
+
+    def _rerank_and_dedupe(self, query: str, results: List[SearchResult], max_sources: int) -> List[SearchResult]:
+        """Rerank by combining vector similarity with simple keyword overlap, and deduplicate by source.
+
+        - Encourages diversity across `source_file`
+        - Prefers passages with higher query term overlap
+        """
+        if not results:
+            return []
+
+        import re
+        from collections import defaultdict
+
+        def tokenize(text: str) -> List[str]:
+            return re.findall(r"[a-zA-Z][a-zA-Z\-']+", (text or "").lower())
+
+        stop = {
+            "the","a","an","and","or","of","to","in","is","it","on","for","with","as","by","that","this","are","be","at","from","about","into","over","under","than","then","but","if","so","not"
+        }
+        query_tokens = [t for t in tokenize(query) if t not in stop]
+        query_vocab = set(query_tokens)
+        if not query_vocab:
+            query_vocab = set(tokenize(query))
+
+        scored: List[tuple[float, SearchResult]] = []
+        for r in results:
+            text = f"{r.context} {r.ray_peat_response}"
+            toks = [t for t in tokenize(text) if t not in stop]
+            if toks:
+                overlap = len(query_vocab.intersection(toks)) / max(1, len(query_vocab))
+            else:
+                overlap = 0.0
+            score = 0.7 * float(r.similarity_score) + 0.3 * float(overlap)
+            scored.append((score, r))
+
+        # Sort by score desc
+        scored.sort(key=lambda x: x[0], reverse=True)
+
+        # Deduplicate by (source_file, normalized excerpt) for diversity
+        seen_sources: set[str] = set()
+        selected: List[SearchResult] = []
+        for _score, r in scored:
+            key = (r.source_file or "").strip()
+            if key in seen_sources:
+                continue
+            selected.append(r)
+            seen_sources.add(key)
+            if len(selected) >= max_sources:
+                break
+
+        # If we still have room (few unique sources), fill remaining ignoring source dedupe
+        if len(selected) < max_sources:
+            for _score, r in scored:
+                if r not in selected:
+                    selected.append(r)
+                    if len(selected) >= max_sources:
+                        break
+
+        return selected
     
     async def answer_with_source_filter(
         self,
@@ -233,35 +294,39 @@ class PineconeRAG:
         # Build context from sources
         context_parts = []
         for i, source in enumerate(sources, 1):
-            truncation_note = " [Note: Response was truncated due to length]" if source.truncated else ""
-            
+            truncation_note = " [Note: truncated]" if source.truncated else ""
+            # Trim very long fields to keep prompt concise
+            ctx = (source.context or "")[:800]
+            resp = (source.ray_peat_response or "")[:1200]
             context_parts.append(
-                f"Source {i} (from {source.source_file}, similarity: {source.similarity_score:.3f}):\n"
-                f"Context: {source.context}\n"
-                f"Ray Peat's response: {source.ray_peat_response}{truncation_note}\n"
+                f"SOURCE {i} | file: {source.source_file} | sim: {source.similarity_score:.3f}{truncation_note}\n"
+                f"Context:\n{ctx}\n"
+                f"Response:\n{resp}\n"
             )
         
         context = "\n---\n".join(context_parts)
         
         # Create the prompt
-        prompt = f"""You are an expert on Ray Peat's bioenergetic approach to health and biology. Answer the following question based ONLY on the provided sources from Ray Peat's work.
+        prompt = f"""You are an expert on Ray Peat's bioenergetic approach. Answer the user's question strictly from the SOURCES below.
 
 Question: {question}
 
-Ray Peat's Knowledge Sources (from Pinecone vector database):
+SOURCES:
 {context}
 
-Instructions:
-1. Answer based ONLY on the information provided in the sources above
-2. If the sources don't contain enough information to answer the question, say so
-3. Quote or reference specific parts of Ray Peat's responses when possible
-4. Maintain Ray Peat's perspective and terminology (bioenergetic, metabolic rate, etc.)
-5. Be accurate and don't make assumptions beyond what's stated
-6. If multiple sources give different perspectives, acknowledge this
-7. Consider the similarity scores - higher scores indicate more relevant sources
-8. If a source is marked as truncated, note that the full response may contain additional information
+Requirements:
+- Use only the SOURCES. Do not add external knowledge.
+- Synthesize a clear, well-structured answer with headings and bullet points where helpful.
+- Include 2-4 short quoted snippets in quotes when directly citing.
+- Cite sources inline as [S1], [S2], etc., matching SOURCE indices.
+- If information is insufficient or contradictory, state this explicitly.
+- End with a short 1-2 sentence summary.
 
-Answer:"""
+Output format:
+1) Answer
+2) Key citations (list, e.g., [S1], [S3])
+3) Source mapping: [S1]=<file>, [S2]=<file>, ...
+"""
 
         try:
             answer = await self._call_gemini_llm(prompt)
@@ -276,6 +341,37 @@ Answer:"""
         if not settings.GEMINI_API_KEY:
             raise ValueError("GEMINI_API_KEY not found in environment")
         
+        # Prefer official SDK if available; fallback to HTTP
+        try:
+            import google.generativeai as genai  # type: ignore
+            genai.configure(api_key=settings.GEMINI_API_KEY)
+            model = genai.GenerativeModel(self.llm_model)
+            # SDK is sync; offload to thread to keep async API
+            resp = await asyncio.to_thread(
+                model.generate_content,
+                prompt,
+                generation_config={
+                    "temperature": 0.3,
+                    "max_output_tokens": 2048,
+                    "top_p": 0.8,
+                    "top_k": 40,
+                },
+            )
+            text = getattr(resp, "text", None)
+            if isinstance(text, str) and text.strip():
+                return text
+            # Fallback: attempt to join parts if present
+            try:
+                parts = resp.candidates[0].content.parts  # type: ignore[attr-defined]
+                texts = [getattr(p, "text", "") for p in parts if getattr(p, "text", "")]
+                if texts:
+                    return "".join(texts)
+            except Exception:
+                pass
+            # If SDK returned but empty, fall through to HTTP fallback
+        except Exception as _sdk_err:
+            logger.debug(f"Gemini SDK unavailable or failed, using HTTP fallback: {_sdk_err}")
+
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{self.llm_model}:generateContent"
         headers = {
             "Content-Type": "application/json",
@@ -284,11 +380,12 @@ Answer:"""
         
         payload = {
             "contents": [{
+                "role": "user",
                 "parts": [{"text": prompt}]
             }],
             "generationConfig": {
                 "temperature": 0.3,  # Lower temperature for more factual responses
-                "maxOutputTokens": 1000,
+                "maxOutputTokens": 2048,
                 "topP": 0.8,
                 "topK": 40
             }
@@ -299,10 +396,34 @@ Answer:"""
                 async with session.post(url, json=payload, headers=headers) as response:
                     if response.status == 200:
                         result = await response.json()
-                        if "candidates" in result and len(result["candidates"]) > 0:
-                            return result["candidates"][0]["content"]["parts"][0]["text"]
-                        else:
-                            return None
+                        # Try robust parsing across possible response shapes
+                        try:
+                            candidates = result.get("candidates", []) if isinstance(result, dict) else []
+                            if candidates:
+                                first_candidate = candidates[0] if isinstance(candidates[0], dict) else {}
+                                content = first_candidate.get("content", {}) if isinstance(first_candidate, dict) else {}
+                                parts = content.get("parts", []) if isinstance(content, dict) else []
+                                texts = []
+                                for part in parts:
+                                    if isinstance(part, dict) and "text" in part and isinstance(part["text"], str):
+                                        texts.append(part["text"])
+                                if texts:
+                                    return "".join(texts)
+                        except Exception:
+                            # Ignore and try fallbacks below
+                            pass
+                        # Fallbacks
+                        if isinstance(result, dict):
+                            if "text" in result and isinstance(result["text"], str):
+                                return result["text"]
+                            if "output_text" in result and isinstance(result["output_text"], str):
+                                return result["output_text"]
+                            prompt_feedback = result.get("promptFeedback") if isinstance(result.get("promptFeedback"), dict) else None
+                            if prompt_feedback and prompt_feedback.get("blockReason"):
+                                return "The model blocked this request per safety settings. Please rephrase your question."
+                            # Debug: log top-level keys to aid troubleshooting when no text is found
+                            logger.debug(f"Gemini response keys (no text extracted): {list(result.keys())}")
+                        return None
                     else:
                         error_text = await response.text()
                         logger.error(f"LLM API Error {response.status}: {error_text}")

@@ -22,13 +22,13 @@ class AIEnhancedProfiler(LearnerProfiler):
         super().__init__(profiles_file)
         
         # Initialize Gemini with API key from environment
-        api_key = os.getenv('GOOGLE_API_KEY')
+        api_key = os.getenv('GEMINI_API_KEY')
         if api_key:
             genai.configure(api_key=api_key)
             self.model = genai.GenerativeModel('gemini-2.5-flash')
             self.ai_enabled = True
         else:
-            print("Warning: GOOGLE_API_KEY not found. Falling back to rule-based analysis.")
+            print("Warning: GEMINI_API_KEY not found. Falling back to rule-based analysis.")
             self.ai_enabled = False
     
     def analyze_mastery_with_ai(self, 

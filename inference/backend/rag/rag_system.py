@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-RAG (Retrieval-Augmented Generation) System for Ray Peat Knowledge
+DEPRECATED: Legacy RAG (file-based embeddings)
 
-Combines vector search with LLM generation for accurate Q&A.
+This module has been superseded by the Pinecone-backed RAG implementation in
+`embedding/pinecone/rag_system.py`. Please migrate imports to the new module.
 """
 
 import asyncio
@@ -121,6 +122,34 @@ Answer:"""
         if not settings.GEMINI_API_KEY:
             raise ValueError("GEMINI_API_KEY not found in environment")
         
+        # Prefer official SDK if available; fallback to HTTP
+        try:
+            import google.generativeai as genai  # type: ignore
+            genai.configure(api_key=settings.GEMINI_API_KEY)
+            model = genai.GenerativeModel(self.llm_model)
+            resp = await asyncio.to_thread(
+                model.generate_content,
+                prompt,
+                generation_config={
+                    "temperature": 0.3,
+                    "max_output_tokens": 2048,
+                    "top_p": 0.8,
+                    "top_k": 40,
+                },
+            )
+            text = getattr(resp, "text", None)
+            if isinstance(text, str) and text.strip():
+                return text
+            try:
+                parts = resp.candidates[0].content.parts  # type: ignore[attr-defined]
+                texts = [getattr(p, "text", "") for p in parts if getattr(p, "text", "")]
+                if texts:
+                    return "".join(texts)
+            except Exception:
+                pass
+        except Exception:
+            pass
+
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{self.llm_model}:generateContent"
         headers = {
             "Content-Type": "application/json",
@@ -129,11 +158,12 @@ Answer:"""
         
         payload = {
             "contents": [{
+                "role": "user",
                 "parts": [{"text": prompt}]
             }],
             "generationConfig": {
                 "temperature": 0.3,  # Lower temperature for more factual responses
-                "maxOutputTokens": 1000,
+                "maxOutputTokens": 2048,
                 "topP": 0.8,
                 "topK": 40
             }
@@ -144,10 +174,28 @@ Answer:"""
                 async with session.post(url, json=payload, headers=headers) as response:
                     if response.status == 200:
                         result = await response.json()
-                        if "candidates" in result and len(result["candidates"]) > 0:
-                            return result["candidates"][0]["content"]["parts"][0]["text"]
-                        else:
-                            return None
+                        # Try robust parsing across possible response shapes
+                        try:
+                            candidates = result.get("candidates", [])
+                            if candidates:
+                                content = candidates[0].get("content", {}) if isinstance(candidates[0], dict) else {}
+                                parts = content.get("parts", []) if isinstance(content, dict) else []
+                                for part in parts:
+                                    if isinstance(part, dict) and "text" in part:
+                                        return part["text"]
+                        except Exception:
+                            pass
+
+                        # Fallbacks
+                        if isinstance(result, dict):
+                            if "text" in result and isinstance(result["text"], str):
+                                return result["text"]
+                            if "output_text" in result and isinstance(result["output_text"], str):
+                                return result["output_text"]
+                            prompt_feedback = result.get("promptFeedback") if isinstance(result.get("promptFeedback"), dict) else None
+                            if prompt_feedback and prompt_feedback.get("blockReason"):
+                                return "The model blocked this request per safety settings. Please rephrase your question."
+                        return None
                     else:
                         error_text = await response.text()
                         print(f"LLM API Error {response.status}: {error_text}")

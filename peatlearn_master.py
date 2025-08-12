@@ -7,6 +7,10 @@ Full integration of all adaptive learning features with live AI profiling
 import streamlit as st
 import sys
 import os
+import subprocess
+import signal
+import time
+import requests
 from datetime import datetime, timedelta
 import json
 import pandas as pd
@@ -14,9 +18,68 @@ import plotly.graph_objects as go
 import plotly.express as px
 from pathlib import Path
 from dotenv import load_dotenv
+import html
+import re
 
 # Load environment variables
 load_dotenv()
+
+# --- Orchestrator: run backend servers + Streamlit together when invoked via `python peatlearn_master.py` ---
+def _wait_for_health(url: str, timeout_seconds: int = 90) -> bool:
+    start = time.time()
+    while time.time() - start < timeout_seconds:
+        try:
+            r = requests.get(url, timeout=2)
+            if r.status_code == 200:
+                return True
+        except Exception:
+            pass
+        time.sleep(0.5)
+    return False
+
+def _launch_all():
+    print("🚀 Launching PeatLearn: backends + Streamlit...")
+    env = os.environ.copy()
+    # Mark child Streamlit process to avoid re-launch recursion
+    env["RUNNING_UNDER_STREAMLIT"] = "1"
+
+    procs = []
+    try:
+        # Start API backends
+        api_cmd = [sys.executable, "-m", "uvicorn", "inference.backend.app:app", "--host", "0.0.0.0", "--port", "8000"]
+        adv_cmd = [sys.executable, "-m", "uvicorn", "inference.backend.advanced_app:app", "--host", "0.0.0.0", "--port", "8001"]
+        procs.append(subprocess.Popen(api_cmd, env=env))
+        procs.append(subprocess.Popen(adv_cmd, env=env))
+
+        # Wait for health
+        ok_api = _wait_for_health("http://localhost:8000/api/health", 90)
+        print(f"{'✅' if ok_api else '⚠️'} API 8000 health: {'OK' if ok_api else 'not ready'}")
+        ok_adv = _wait_for_health("http://localhost:8001/api/health", 90)
+        print(f"{'✅' if ok_adv else '⚠️'} Advanced API 8001 health: {'OK' if ok_adv else 'not ready'}")
+
+        # Launch Streamlit for this same script
+        st_cmd = ["streamlit", "run", os.path.abspath(__file__)]
+        streamlit_proc = subprocess.Popen(st_cmd, env=env)
+
+        # Wait until streamlit exits
+        exit_code = streamlit_proc.wait()
+        return exit_code
+    finally:
+        # Cleanup child processes
+        for p in procs:
+            try:
+                if p.poll() is None:
+                    p.terminate()
+                    try:
+                        p.wait(timeout=5)
+                    except subprocess.TimeoutExpired:
+                        p.kill()
+            except Exception:
+                pass
+
+# If run directly (not by Streamlit), act as a launcher and exit before any Streamlit UI code runs
+if __name__ == "__main__" and os.environ.get("RUNNING_UNDER_STREAMLIT") != "1":
+    sys.exit(_launch_all())
 
 # Add src directory to path for our adaptive learning modules
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
@@ -47,6 +110,7 @@ st.markdown("""
         border-radius: 10px;
         text-align: center;
         margin-bottom: 2rem;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     }
     
     .metric-card {
@@ -58,20 +122,96 @@ st.markdown("""
     }
     
     .chat-message {
-        padding: 1rem;
+        padding: 1.5rem;
         margin: 0.5rem 0;
-        border-radius: 8px;
+        border-radius: 10px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        transition: box-shadow 0.3s ease;
+    }
+    
+    .chat-message:hover {
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
     
     .user-message {
         background-color: #667eea;
         color: white;
         margin-left: 2rem;
+        border-bottom-right-radius: 0;
     }
     
     .assistant-message {
-        background-color: #f1f3f4;
+        background-color: #f8f9fa;
         margin-right: 2rem;
+        border-bottom-left-radius: 0;
+    }
+    
+    .rag-answer h3 {
+        color: #2c3e50;
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+        font-size: 1.2em;
+    }
+    
+    .rag-answer p {
+        margin-top: 0.3rem;
+        margin-bottom: 0.3rem;
+        line-height: 1.6;
+    }
+    
+    .rag-answer ul {
+        padding-left: 1.5rem;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .rag-answer li {
+        margin-bottom: 0.3rem;
+    }
+    
+    /* Sources styling with hover effect */
+    .sources-container {
+        margin-top: 1.5rem;
+        border-top: 1px solid #eaeaea;
+        padding-top: 1rem;
+    }
+    
+    .sources-toggle {
+        cursor: pointer;
+        color: #667eea;
+        font-weight: bold;
+        display: inline-block;
+        padding: 0.3rem 0.5rem;
+        border-radius: 4px;
+        transition: background-color 0.3s;
+    }
+    
+    .sources-toggle:hover {
+        background-color: #f0f2f5;
+    }
+    
+    .sources-content {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease-out;
+        margin-top: 0.5rem;
+    }
+    
+    .sources-content ul {
+        padding-left: 1.2rem;
+        margin: 0.5rem 0;
+    }
+    
+    .sources-content li {
+        margin-bottom: 0.4rem;
+        font-size: 0.9em;
+        color: #555;
+    }
+    
+    /* When sources are expanded */
+    .sources-container:hover .sources-content {
+        max-height: 500px;
+        transition: max-height 0.5s ease-in;
     }
     
     .recommendation-card {
@@ -80,6 +220,7 @@ st.markdown("""
         border-radius: 8px;
         margin: 0.5rem 0;
         border-left: 4px solid #ff6b6b;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     }
     
     .profile-card {
@@ -87,6 +228,7 @@ st.markdown("""
         padding: 1rem;
         border-radius: 8px;
         margin: 0.5rem 0;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     }
     
     .mastery-badge {
@@ -96,13 +238,82 @@ st.markdown("""
         font-size: 0.8rem;
         font-weight: bold;
         margin: 0.2rem;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.1);
     }
     
     .struggling { background-color: #ffebee; color: #c62828; }
     .learning { background-color: #fff3e0; color: #ef6c00; }
     .advanced { background-color: #e8f5e8; color: #2e7d32; }
+    
+    /* Feedback buttons */
+    .stButton button {
+        padding: 0.2rem 0.5rem;
+        font-size: 1rem;
+    }
 </style>
 """, unsafe_allow_html=True)
+
+# --- Helpers ---
+def _format_ai_answer(raw: str) -> str:
+    """Sanitize and enhance LLM answer for display.
+
+    - Remove any model-emitted HTML tags (e.g., stray </div>)
+    - Escape remaining content
+    - Convert simple bullets/headings to HTML
+    - Render a sources section cleanly if present
+    """
+    if not raw:
+        return ""
+
+    # Strip all tags the model might output
+    no_tags = re.sub(r"</?[a-zA-Z][^>]*>", "", raw)
+
+    # Detect a trailing sources section
+    sources_html = ""
+    body = no_tags
+    m = re.search(r"(?:^|\n)\s*(?:Source mapping:|📚\s*Sources[^\n]*:)\s*(.+)$", no_tags, flags=re.IGNORECASE | re.DOTALL)
+    if m:
+        before = no_tags[:m.start()]
+        after = m.group(1)
+        items = [html.escape(l.strip(" -\t")) for l in after.splitlines() if l.strip()]
+        if items:
+            # Create hoverable sources with custom CSS
+            sources_list = "".join(f"<li>{it}</li>" for it in items[:10])
+            sources_html = """
+                <div class="sources-container">
+                    <div class="sources-toggle">📚 Sources</div>
+                    <div class="sources-content">
+                        <ul>{}</ul>
+                    </div>
+                </div>
+            """.format(sources_list)
+            body = before.strip()
+
+
+    esc = html.escape(body)
+
+    # Lightweight markdown-ish formatting
+    lines = esc.splitlines()
+    out = []
+    in_ul = False
+    for ln in lines:
+        if re.match(r"^\s*[-•]\s+", ln):
+            if not in_ul:
+                out.append("<ul>")
+                in_ul = True
+            out.append(f"<li>{ln.lstrip('-• ').strip()}</li>")
+        else:
+            if in_ul:
+                out.append("</ul>")
+                in_ul = False
+            if re.match(r"^\s*\d+\)\s+", ln) or ln.startswith("## "):
+                out.append(f"<h3>{ln.lstrip('0123456789) ').lstrip('# ').strip()}</h3>")
+            elif ln.strip():
+                out.append(f"<p>{ln}</p>")
+    if in_ul:
+        out.append("</ul>")
+
+    return "".join(out) + sources_html
 
 # Initialize components
 @st.cache_resource
@@ -130,6 +341,7 @@ def init_session_state():
         st.session_state.user_profile = None
     if 'recommendations' not in st.session_state:
         st.session_state.recommendations = []
+
 
 def get_rag_response(query: str, user_profile: dict = None) -> str:
     """
@@ -299,9 +511,11 @@ def render_chat_interface():
                 </div>
             """, unsafe_allow_html=True)
         else:
+            cleaned_html = _format_ai_answer(message['content'])
             st.markdown(f"""
                 <div class="chat-message assistant-message">
-                    <strong>Ray Peat AI:</strong> {message['content']}
+                    <strong>Ray Peat AI:</strong>
+                    <div class="rag-answer">{cleaned_html}</div>
                 </div>
             """, unsafe_allow_html=True)
             

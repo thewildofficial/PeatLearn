@@ -25,7 +25,8 @@ from datetime import datetime
 import numpy as np
 
 from config.settings import settings
-from rag.rag_system import RayPeatRAG, RAGResponse
+# NOTE: Legacy RAG modules are deprecated; use Pinecone-backed RAG
+from embedding.pinecone.rag_system import PineconeRAG as RayPeatRAG, RAGResponse
 
 # Import advanced ML components
 try:
@@ -103,7 +104,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Initialize components
+# Initialize components (Pinecone-based)
 rag_system = RayPeatRAG()
 
 @app.on_event("startup")
@@ -524,7 +525,7 @@ if ADVANCED_ML_AVAILABLE:
 
 else:
     # Basic, usable endpoints when advanced ML is not available
-    from personalization.simple_utils import (
+    from .personalization.simple_utils import (
         estimate_difficulty_score,
         generate_mcq_from_passage,
     )

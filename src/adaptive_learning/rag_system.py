@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
 Real RAG System using Ray Peat Knowledge Base with Vector Search + LLM
-Provides detailed, source-based responses with proper retrieval
+Provides detailed, source-based responses with proper retrieval.
+
+Note: Uses Pinecone-backed vector search by default. Legacy file-based
+RAG under `inference/backend/rag` is deprecated.
 """
 
 import asyncio
@@ -16,18 +19,21 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-# Add inference backend to path
-inference_path = Path(__file__).parent.parent.parent / "inference" / "backend"
-sys.path.append(str(inference_path))
-
+# Prefer Pinecone-backed search; fallback to legacy only if unavailable
 try:
-    from rag.vector_search import RayPeatVectorSearch, SearchResult
+    from embedding.pinecone.vector_search import PineconeVectorSearch as RayPeatVectorSearch, SearchResult
     from config.settings import settings
-except ImportError:
-    # Fallback if original modules not available
-    RayPeatVectorSearch = None
-    SearchResult = None
-    settings = None
+except Exception:
+    # Add inference backend to path for legacy fallback
+    inference_path = Path(__file__).parent.parent.parent / "inference" / "backend"
+    sys.path.append(str(inference_path))
+    try:
+        from rag.vector_search import RayPeatVectorSearch, SearchResult  # DEPRECATED fallback
+        from config.settings import settings
+    except Exception:
+        RayPeatVectorSearch = None
+        SearchResult = None
+        settings = None
 
 @dataclass
 class RAGResponse:
@@ -42,6 +48,7 @@ class RayPeatRAG:
     
     def __init__(self, search_engine=None):
         """Initialize the RAG system."""
+        # Initialize Pinecone-backed search by default
         self.search_engine = search_engine or (RayPeatVectorSearch() if RayPeatVectorSearch else None)
         self.llm_model = "gemini-2.5-flash"  # Updated model
         self.api_key = os.getenv('GEMINI_API_KEY')
@@ -133,8 +140,8 @@ class RayPeatRAG:
         try:
             answer = await self._call_gemini_llm(prompt)
             if answer:
-                # Add source information to the answer
-                source_info = f"\n\n📚 **Sources from Ray Peat's work:**\n"
+                # Add source information to the answer (UI parses this header)
+                source_info = f"\n\n📚 Sources:\n"
                 for i, source in enumerate(sources, 1):
                     source_info += f"{i}. {source.source_file} (relevance: {source.similarity_score:.2f})\n"
                 
@@ -154,19 +161,19 @@ class RayPeatRAG:
 
 Question: {question}
 
-Ray Peat's Knowledge Sources:
+SOURCES:
 {context}
 
-Instructions:
-1. Answer based ONLY on the information provided in the sources above
-2. If the sources don't contain enough information to answer the question, say so
-3. Quote or reference specific parts of Ray Peat's responses when possible
-4. Maintain Ray Peat's perspective and terminology (bioenergetic, metabolic rate, etc.)
-5. Be accurate and don't make assumptions beyond what's stated
-6. If multiple sources give different perspectives, acknowledge this"""
+Requirements:
+- Use only the SOURCES. Do not add external knowledge.
+- Provide a clear, well-structured answer with short headings and bullet points where helpful.
+- Include 2–4 short quoted snippets in quotes when directly citing.
+- Cite sources inline as [S1], [S2], etc., matching SOURCE indices.
+- If information is insufficient or contradictory, state this explicitly.
+- End with a 1–2 sentence summary."""
         
         if not user_profile:
-            return base_prompt + "\n\nProvide a comprehensive answer with specific details from Ray Peat's work.\n\nAnswer:"
+            return base_prompt + "\n\nAnswer:"
         
         # Get user's learning state and style
         learning_state = user_profile.get('overall_state', 'learning')
@@ -233,6 +240,34 @@ Answer:"""
         if not self.api_key:
             raise ValueError("GEMINI_API_KEY not found in environment")
         
+        # Prefer official SDK if available; fallback to HTTP
+        try:
+            import google.generativeai as genai  # type: ignore
+            genai.configure(api_key=self.api_key)
+            model = genai.GenerativeModel(self.llm_model)
+            resp = await asyncio.to_thread(
+                model.generate_content,
+                prompt,
+                generation_config={
+                    "temperature": 0.3,
+                    "max_output_tokens": 2048,
+                    "top_p": 0.8,
+                    "top_k": 40,
+                },
+            )
+            text = getattr(resp, "text", None)
+            if isinstance(text, str) and text.strip():
+                return text
+            try:
+                parts = resp.candidates[0].content.parts  # type: ignore[attr-defined]
+                texts = [getattr(p, "text", "") for p in parts if getattr(p, "text", "")]
+                if texts:
+                    return "".join(texts)
+            except Exception:
+                pass
+        except Exception:
+            pass
+
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{self.llm_model}:generateContent"
         headers = {
             "Content-Type": "application/json",
@@ -241,11 +276,12 @@ Answer:"""
         
         payload = {
             "contents": [{
+                "role": "user",
                 "parts": [{"text": prompt}]
             }],
             "generationConfig": {
                 "temperature": 0.3,  # Lower temperature for more factual responses
-                "maxOutputTokens": 1500,  # Increased for more detailed responses
+                "maxOutputTokens": 2048,  # Increased to reduce truncation
                 "topP": 0.8,
                 "topK": 40
             }
@@ -256,10 +292,30 @@ Answer:"""
                 async with session.post(url, json=payload, headers=headers) as response:
                     if response.status == 200:
                         result = await response.json()
-                        if "candidates" in result and len(result["candidates"]) > 0:
-                            return result["candidates"][0]["content"]["parts"][0]["text"]
-                        else:
-                            return None
+                        # Try robust parsing across possible response shapes
+                        try:
+                            candidates = result.get("candidates", [])
+                            if candidates:
+                                content = candidates[0].get("content", {}) if isinstance(candidates[0], dict) else {}
+                                parts = content.get("parts", []) if isinstance(content, dict) else []
+                                for part in parts:
+                                    if isinstance(part, dict) and "text" in part:
+                                        return part["text"]
+                        except Exception:
+                            # Ignore and try fallbacks below
+                            pass
+
+                        # Additional fallbacks observed in some API variants
+                        if isinstance(result, dict):
+                            if "text" in result and isinstance(result["text"], str):
+                                return result["text"]
+                            if "output_text" in result and isinstance(result["output_text"], str):
+                                return result["output_text"]
+                            # Safety/prompt feedback handling: provide a friendly message
+                            prompt_feedback = result.get("promptFeedback") if isinstance(result.get("promptFeedback"), dict) else None
+                            if prompt_feedback and prompt_feedback.get("blockReason"):
+                                return "The model blocked this request per safety settings. Please rephrase your question."
+                        return None
                     else:
                         error_text = await response.text()
                         print(f"LLM API Error {response.status}: {error_text}")

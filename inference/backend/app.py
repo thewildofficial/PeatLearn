@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Ray Peat Legacy - Backend API Server
+Ray Peat Legacy - Backend API Server (Pinecone-backed)
 
-FastAPI application providing RAG-powered search and question answering.
+FastAPI application providing RAG-powered search and question answering using
+Pinecone for vector search. The legacy, file-based RAG has been sunset.
 """
 
 import sys
@@ -17,11 +18,14 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from config.settings import settings
-from rag import RayPeatVectorSearch, RayPeatRAG, SearchResult, RAGResponse
+# NOTE: Legacy RAG modules under inference/backend/rag are deprecated.
+# We now use the Pinecone-backed RAG system.
+from embedding.pinecone.vector_search import PineconeVectorSearch as RayPeatVectorSearch
+from embedding.pinecone.rag_system import PineconeRAG as RayPeatRAG
 
-# Initialize RAG components
-search_engine = RayPeatVectorSearch()
-rag_system = RayPeatRAG(search_engine)
+# Initialize RAG components (Pinecone)
+search_engine = RayPeatVectorSearch(index_name="ray-peat-corpus")
+rag_system = RayPeatRAG(search_engine, index_name="ray-peat-corpus")
 
 app = FastAPI(
     title=settings.PROJECT_NAME,
@@ -63,11 +67,17 @@ class CorpusStatsResponse(BaseModel):
 @app.get("/")
 async def root():
     """Health check endpoint."""
+    try:
+        stats = search_engine.get_corpus_stats()
+        # Pinecone returns total_vectors; treat >0 as loaded
+        vector_count = stats.get("total_vectors") or stats.get("total_embeddings") or 0
+    except Exception:
+        vector_count = 0
     return {
         "message": f"Welcome to {settings.PROJECT_NAME}",
         "status": "healthy",
         "version": settings.VERSION,
-        "corpus_loaded": search_engine.embeddings is not None
+        "corpus_loaded": vector_count > 0
     }
 
 @app.get("/api/search", response_model=SearchResponse)
@@ -145,15 +155,28 @@ async def ask_question(
 
 @app.get("/api/stats", response_model=CorpusStatsResponse)
 async def get_corpus_stats():
-    """Get statistics about the loaded Ray Peat corpus."""
+    """Get statistics about the loaded Ray Peat corpus (adapted for Pinecone)."""
     try:
         stats = search_engine.get_corpus_stats()
-        
         if "error" in stats:
             raise HTTPException(status_code=503, detail=stats["error"])
-        
-        return CorpusStatsResponse(**stats)
-        
+
+        # Adapt Pinecone stats to legacy response schema expected by UI
+        total_embeddings = stats.get("total_vectors", stats.get("total_embeddings", 0))
+        embedding_dimensions = stats.get("embedding_dimensions", 0)
+
+        # Tokens/source breakdown not tracked in Pinecone stats endpoint
+        total_tokens = 0
+        source_files = 0
+        files_breakdown = {}
+
+        return CorpusStatsResponse(
+            total_embeddings=total_embeddings,
+            total_tokens=total_tokens,
+            embedding_dimensions=embedding_dimensions,
+            source_files=source_files,
+            files_breakdown=files_breakdown,
+        )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Stats error: {str(e)}")
 
@@ -177,6 +200,23 @@ async def get_related_topics(
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
+# Health check (for orchestrator)
+@app.get("/api/health")
+async def health_check():
+    try:
+        stats = search_engine.get_corpus_stats()
+        vector_count = stats.get("total_vectors") or stats.get("total_embeddings") or 0
+        return {
+            "status": "healthy",
+            "pinecone": True,
+            "vectors": vector_count,
+        }
+    except Exception as e:
+        return {
+            "status": "degraded",
+            "error": str(e),
+        }
 
 @app.get("/api/topics")
 async def get_topics():

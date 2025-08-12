@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Vector Search Engine for Ray Peat Corpus
+DEPRECATED: Legacy Vector Search (file-based embeddings)
 
-Provides semantic search capabilities using the generated embeddings.
+This module has been superseded by the Pinecone-backed search engine in
+`embedding/pinecone/vector_search.py`. Please migrate imports to the new module.
 """
 
 import json
