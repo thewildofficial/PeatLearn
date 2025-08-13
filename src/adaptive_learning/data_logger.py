@@ -5,6 +5,7 @@ Tracks user interactions, manages sessions, and stores feedback data
 """
 
 import csv
+import pandas as pd
 import json
 import uuid
 from datetime import datetime
@@ -216,6 +217,20 @@ class DataLogger:
             interactions = interactions[-limit:]
         
         return interactions
+
+    def _load_interactions(self) -> pd.DataFrame:
+        """Load all interactions into a pandas DataFrame for analytics convenience."""
+        try:
+            df = pd.read_csv(self.interactions_file)
+            # Normalize types
+            if 'timestamp' in df.columns:
+                # leave as string; caller can parse to datetime
+                pass
+            return df
+        except Exception:
+            return pd.DataFrame(columns=[
+                'user_id','session_id','timestamp','user_query','llm_response','topic','user_feedback','interaction_type','response_time','context'
+            ])
     
     def get_quiz_results(self, user_id: str = None) -> List[Dict[str, Any]]:
         """

@@ -118,93 +118,85 @@ Answer:"""
             return f"I encountered an error while generating the response: {str(e)}"
     
     async def _call_gemini_llm(self, prompt: str) -> Optional[str]:
-        """Call Gemini LLM for text generation."""
+        """Call Gemini LLM with continuation to reduce truncation."""
         if not settings.GEMINI_API_KEY:
             raise ValueError("GEMINI_API_KEY not found in environment")
         
-        # Prefer official SDK if available; fallback to HTTP
-        try:
-            import google.generativeai as genai  # type: ignore
-            genai.configure(api_key=settings.GEMINI_API_KEY)
-            model_name = self.llm_model if self.llm_model.startswith("gemini") else f"models/{self.llm_model}"
-            model = genai.GenerativeModel(model_name)
-            resp = await asyncio.to_thread(
-                model.generate_content,
-                prompt,
-                generation_config={
-                    "temperature": 0.3,
-                    "max_output_tokens": 2048,
-                    "top_p": 0.8,
-                    "top_k": 40,
-                },
-            )
-            text = getattr(resp, "text", None)
-            if isinstance(text, str) and text.strip():
-                return text
+        async def call_once(user_prompt: str) -> tuple[str, str]:
             try:
-                parts = resp.candidates[0].content.parts  # type: ignore[attr-defined]
-                texts = [getattr(p, "text", "") for p in parts if getattr(p, "text", "")]
-                if texts:
-                    return "".join(texts)
+                import google.generativeai as genai  # type: ignore
+                genai.configure(api_key=settings.GEMINI_API_KEY)
+                model_name = self.llm_model if self.llm_model.startswith("gemini") else f"models/{self.llm_model}"
+                model = genai.GenerativeModel(model_name)
+                resp = await asyncio.to_thread(
+                    model.generate_content,
+                    user_prompt,
+                    generation_config={
+                        "temperature": 0.3,
+                        "max_output_tokens": 4096,
+                        "top_p": 0.8,
+                        "top_k": 40,
+                    },
+                )
+                text = getattr(resp, "text", "") or ""
+                finish = ""
+                try:
+                    finish = str(resp.candidates[0].finish_reason)  # type: ignore[attr-defined]
+                except Exception:
+                    finish = ""
+                return text, finish
             except Exception:
                 pass
-        except Exception:
-            pass
 
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{self.llm_model}:generateContent"
-        headers = {
-            "Content-Type": "application/json",
-            "x-goog-api-key": settings.GEMINI_API_KEY
-        }
-        
-        payload = {
-            "contents": [{
-                "role": "user",
-                "parts": [{"text": prompt}]
-            }],
-            "generationConfig": {
-                "temperature": 0.3,  # Lower temperature for more factual responses
-                "maxOutputTokens": 2048,
-                "topP": 0.8,
-                "topK": 40
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{self.llm_model}:generateContent"
+            headers = {"Content-Type": "application/json", "x-goog-api-key": settings.GEMINI_API_KEY}
+            payload = {
+                "contents": [{"role": "user", "parts": [{"text": user_prompt}]}],
+                "generationConfig": {"temperature": 0.3, "maxOutputTokens": 4096, "topP": 0.8, "topK": 40},
             }
-        }
-        
-        try:
-            async with aiohttp.ClientSession() as session:
-                async with session.post(url, json=payload, headers=headers) as response:
-                    if response.status == 200:
-                        result = await response.json()
-                        # Try robust parsing across possible response shapes
-                        try:
-                            candidates = result.get("candidates", [])
-                            if candidates:
-                                content = candidates[0].get("content", {}) if isinstance(candidates[0], dict) else {}
-                                parts = content.get("parts", []) if isinstance(content, dict) else []
-                                for part in parts:
-                                    if isinstance(part, dict) and "text" in part:
-                                        return part["text"]
-                        except Exception:
-                            pass
+            try:
+                async with aiohttp.ClientSession() as session:
+                    async with session.post(url, json=payload, headers=headers) as response:
+                        if response.status == 200:
+                            result = await response.json()
+                            text = ""
+                            finish = ""
+                            try:
+                                candidates = result.get("candidates", [])
+                                if candidates:
+                                    first = candidates[0]
+                                    finish = str(first.get("finishReason", ""))
+                                    content = first.get("content", {})
+                                    parts = content.get("parts", []) if isinstance(content, dict) else []
+                                    texts = [p.get("text", "") for p in parts if isinstance(p, dict) and p.get("text")]
+                                    text = "".join(texts)
+                            except Exception:
+                                pass
+                            if not text and isinstance(result, dict):
+                                text = result.get("text") or result.get("output_text") or ""
+                            return text, finish
+                        else:
+                            return "", ""
+            except Exception:
+                return "", ""
 
-                        # Fallbacks
-                        if isinstance(result, dict):
-                            if "text" in result and isinstance(result["text"], str):
-                                return result["text"]
-                            if "output_text" in result and isinstance(result["output_text"], str):
-                                return result["output_text"]
-                            prompt_feedback = result.get("promptFeedback") if isinstance(result.get("promptFeedback"), dict) else None
-                            if prompt_feedback and prompt_feedback.get("blockReason"):
-                                return "The model blocked this request per safety settings. Please rephrase your question."
-                        return None
-                    else:
-                        error_text = await response.text()
-                        print(f"LLM API Error {response.status}: {error_text}")
-                        return None
-                        
-        except Exception as e:
-            print(f"Error calling LLM API: {e}")
-            return None
+        accumulated = ""
+        loops = 0
+        max_chars = 12000
+        first, finish = await call_once(prompt)
+        accumulated += first or ""
+        while loops < 4 and len(accumulated) < max_chars:
+            seems_cut = not accumulated.strip().endswith(('.', '"', "'", '}', ']', ')'))
+            if finish and finish.upper() != 'MAX_TOKENS' and not seems_cut:
+                break
+            loops += 1
+            tail = accumulated[-600:]
+            cont = f"Continue the previous answer. Continue seamlessly without repeating.\nContext tail: {tail}"
+            more, finish = await call_once(cont)
+            if not more:
+                break
+            accumulated += ("\n" if not accumulated.endswith("\n") else "") + more
+        return accumulated or None
     
     async def get_related_topics(self, query: str, max_topics: int = 8) -> List[str]:
         """Get related topics based on the query."""

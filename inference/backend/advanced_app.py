@@ -30,18 +30,18 @@ from embedding.pinecone.rag_system import PineconeRAG as RayPeatRAG, RAGResponse
 
 # Import advanced ML components
 try:
-    from personalization.neural_personalization import (
+    from .personalization.neural_personalization import (
         AdvancedPersonalizationEngine,
         UserInteraction,
         LearningState,
         personalization_engine
     )
-    from personalization.rl_agent import (
+    from .personalization.rl_agent import (
         AdaptiveLearningAgent,
         LearningEnvironmentState,
         adaptive_agent
     )
-    from personalization.knowledge_graph import (
+    from .personalization.knowledge_graph import (
         AdvancedKnowledgeGraph,
         ray_peat_knowledge_graph
     )
@@ -554,7 +554,7 @@ else:
                         continue
                     seen_sources.add(key)
                     recs.append({
-                        "content_id": r.id,
+                        "content_id": r.source_file or r.id,
                         "predicted_score": float(r.similarity_score),
                         "title": r.source_file,
                         "snippet": r.context[:200] + ("..." if len(r.context) > 200 else ""),

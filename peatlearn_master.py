@@ -335,17 +335,37 @@ def render_user_setup():
         
         if st.session_state.user_id:
             st.write(f"**Current User:** {st.session_state.user_id}")
+            # Ensure session_id is initialized
+            if not st.session_state.get('session_id'):
+                try:
+                    # Lazily initialize session id if missing
+                    DataLogger().get_session_id()
+                except Exception:
+                    pass
             if st.session_state.session_id:
                 st.write(f"**Session:** {st.session_state.session_id[:8]}...")
             else:
                 st.write("**Session:** Not initialized")
             
-            # Show AI status
+            # Show AI and personalization backend status
             api_key = os.getenv('GEMINI_API_KEY')
-            if api_key:
-                st.success("🤖 AI Analysis: Enabled")
-            else:
-                st.warning("🤖 AI Analysis: Using Fallback Mode")
+            adv_ok = False
+            try:
+                resp = requests.get("http://localhost:8001/api/health", timeout=2)
+                adv_ok = resp.status_code == 200 and resp.json().get('status') == 'healthy'
+            except Exception:
+                adv_ok = False
+            cols = st.columns(2)
+            with cols[0]:
+                if api_key:
+                    st.success("🤖 AI Analysis: Enabled")
+                else:
+                    st.warning("🤖 AI Analysis: Using Fallback Mode")
+            with cols[1]:
+                if adv_ok:
+                    st.success("🧩 Personalization API: Connected")
+                else:
+                    st.warning("🧩 Personalization API: Basic Mode")
 
 def render_user_profile():
     """Render user profile and learning analytics"""
@@ -423,32 +443,41 @@ def render_user_profile():
             st.info(f"**Learning Velocity:** {learning_velocity.title()}")
 
 def render_recommendations():
-    """Render AI-generated recommendations"""
-    if not st.session_state.user_profile:
+    """Render personalized recommendations via backend."""
+    if not st.session_state.get('user_id'):
         return
-    
-    recommendations = st.session_state.user_profile.get('recommendations', [])
-    
-    if recommendations:
-        st.subheader("💡 Personalized Recommendations")
-        
-        for rec in recommendations[:3]:  # Show top 3
-            priority_color = {
-                'high': '#ff6b6b',
-                'medium': '#feca57',
-                'low': '#74b9ff'
-            }.get(rec.get('priority', 'medium'), '#74b9ff')
-            
-            st.markdown(f"""
-                <div class="recommendation-card">
-                    <h4 style="color: {priority_color};">
-                        {rec.get('priority', 'medium').upper()} PRIORITY: {rec.get('title', 'Recommendation')}
-                    </h4>
-                    <p>{rec.get('description', '')}</p>
-                    {f"<small><i>Reasoning: {rec.get('reasoning', '')}</i></small>" if rec.get('reasoning') else ""}
-                    <br><small>Source: {rec.get('source', 'unknown').replace('_', ' ').title()}</small>
-                </div>
-            """, unsafe_allow_html=True)
+    st.subheader("💡 Personalized Recommendations")
+    try:
+        topic_mastery = (st.session_state.user_profile or {}).get('topic_mastery', {})
+        topic_filter = list(topic_mastery.keys())[:5] if topic_mastery else None
+        payload = {
+            "user_id": st.session_state.user_id,
+            "num_recommendations": 8,
+            "exclude_seen": True,
+            "topic_filter": topic_filter,
+        }
+        r = requests.post("http://localhost:8001/api/recommendations", json=payload, timeout=6)
+        if r.status_code == 200:
+            data = r.json()
+            recs = data.get("recommendations", [])
+            if not recs:
+                st.info("No recommendations yet. Start interacting to personalize.")
+                return
+            for rec in recs:
+                title = rec.get('title') or rec.get('content_id')
+                reason = rec.get('recommendation_reason', '')
+                snippet = rec.get('snippet', '')
+                st.markdown(f"""
+                    <div class="recommendation-card">
+                        <h4 style="color:#ff6b6b;">{title}</h4>
+                        <p>{snippet}</p>
+                        {f"<small><i>{reason}</i></small>" if reason else ""}
+                    </div>
+                """, unsafe_allow_html=True)
+        else:
+            st.warning("Could not fetch recommendations.")
+    except Exception as e:
+        st.warning(f"Recommendations unavailable: {e}")
 
 def render_chat_interface():
     """Render the main chat interface with AI profiling"""
@@ -457,7 +486,7 @@ def render_chat_interface():
     st.subheader("💬 Chat with Ray Peat AI")
     
     # Display chat history
-    for message in st.session_state.chat_history:
+    for i, message in enumerate(st.session_state.chat_history):
         if message['role'] == 'user':
             st.markdown(f"""
                 <div class="chat-message user-message">
@@ -491,10 +520,10 @@ def render_chat_interface():
             if 'feedback' not in message:
                 col1, col2, col3 = st.columns([1, 1, 8])
                 with col1:
-                    if st.button("👍", key=f"up_{len(st.session_state.chat_history)}_{message.get('timestamp', '')}"):
+                    if st.button("👍", key=f"up_{i}_{message.get('timestamp', '')}"):
                         handle_feedback(message, 1, data_logger, ai_profiler)
                 with col2:
-                    if st.button("👎", key=f"down_{len(st.session_state.chat_history)}_{message.get('timestamp', '')}"):
+                    if st.button("👎", key=f"down_{i}_{message.get('timestamp', '')}"):
                         handle_feedback(message, -1, data_logger, ai_profiler)
     
     # Chat input
@@ -511,12 +540,14 @@ def render_chat_interface():
         with st.spinner("Ray Peat AI is thinking..."):
             response = get_rag_response(prompt, st.session_state.user_profile)
         
-        # Add assistant message
+        # Add assistant message (attach parsed sources)
+        body_md_tmp, sources_tmp = _split_answer_and_sources(response)
         assistant_message = {
             'role': 'assistant', 
             'content': response,
             'timestamp': datetime.now().isoformat(),
-            'user_query': prompt
+            'user_query': prompt,
+            'sources': sources_tmp
         }
         st.session_state.chat_history.append(assistant_message)
         
@@ -524,24 +555,57 @@ def render_chat_interface():
 
 def handle_feedback(message, feedback_value, data_logger, ai_profiler):
     """Handle user feedback and update profile"""
-    if not st.session_state.user_id or not st.session_state.session_id:
+    if not st.session_state.get('user_id'):
+        st.warning("Set a user ID first in the sidebar.")
         return
+    # Ensure session id exists
+    if not st.session_state.get('session_id'):
+        try:
+            DataLogger().get_session_id()
+        except Exception:
+            pass
     
     # Extract topic from the interaction
     from adaptive_learning.profile_analyzer import TopicExtractor
     topic_extractor = TopicExtractor()
     topic = topic_extractor.get_primary_topic(message.get('user_query', '')) or 'general'
     
-    # Log the interaction
-    data_logger.log_interaction(
-        user_id=st.session_state.user_id,
-        session_id=st.session_state.session_id,
+    # Log the interaction (include sources in context if present)
+    sources_list = message.get('sources', []) if isinstance(message, dict) else []
+    # Use a fresh logger to avoid any stale state
+    _logger = DataLogger()
+    _logger.log_interaction(
         user_query=message.get('user_query', ''),
         llm_response=message.get('content', ''),
         topic=topic,
         user_feedback=feedback_value,
-        interaction_type='chat'
+        interaction_type='chat',
+        context={'sources': sources_list}
     )
+
+    # Forward interaction to personalization backend to update state
+    try:
+        perf = 0.9 if feedback_value == 1 else (0.1 if feedback_value == -1 else 0.5)
+        first_source = ''
+        if sources_list:
+            # Try to extract a filename from "1. filename (relevance: x)"
+            import re as _re
+            m = _re.search(r"\d+\.\s*([^\(\n]+)", sources_list[0])
+            if m:
+                first_source = m.group(1).strip()
+        payload = {
+            'user_id': st.session_state.user_id,
+            'content_id': first_source or f"chat_{datetime.now().timestamp():.0f}",
+            'interaction_type': 'chat',
+            'performance_score': perf,
+            'time_spent': 0.0,
+            'difficulty_level': 0.5,
+            'topic_tags': [topic] if topic else [],
+            'context': {'sources': sources_list}
+        }
+        requests.post("http://localhost:8001/api/interactions", json=payload, timeout=3)
+    except Exception:
+        pass
     
     # Update user profile with AI analysis
     all_interactions = data_logger._load_interactions()
@@ -561,46 +625,42 @@ def handle_feedback(message, feedback_value, data_logger, ai_profiler):
     st.rerun()
 
 def render_quiz_interface():
-    """Render personalized quiz interface"""
-    if not st.session_state.user_profile:
-        st.info("Chat with the AI first to build your profile for personalized quizzes! 💬")
+    """Render personalized quiz interface (via backend)."""
+    if not st.session_state.get('user_id'):
+        st.info("Enter your user ID first.")
         return
-    
     st.subheader("🎯 Personalized Quiz")
-    
-    data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
-    
-    # Quiz topic selection
-    topic_mastery = st.session_state.user_profile.get('topic_mastery', {})
-    if topic_mastery:
-        topics = list(topic_mastery.keys())
-        selected_topic = st.selectbox("Choose a topic for your quiz:", topics)
-        
-        if st.button("Generate Quiz", type="primary"):
+    topic_mastery = (st.session_state.user_profile or {}).get('topic_mastery', {})
+    topics = list(topic_mastery.keys()) if topic_mastery else [
+        "thyroid function and metabolism",
+        "progesterone and estrogen balance",
+        "sugar and cellular energy",
+        "carbon dioxide and metabolism",
+    ]
+    selected_topic = st.selectbox("Choose a topic for your quiz:", topics)
+    num_q = st.slider("Number of questions", 3, 10, 5)
+    if st.button("Generate Quiz", type="primary"):
+        try:
+            payload = {"user_id": st.session_state.user_id, "topic": selected_topic, "num_questions": num_q}
             with st.spinner("Creating your personalized quiz..."):
-                quiz = quiz_generator.generate_quiz(
-                    st.session_state.user_profile,
-                    topic=selected_topic,
-                    num_questions=3
-                )
-            
-            if quiz and 'questions' in quiz:
+                r = requests.post("http://localhost:8001/api/quiz/generate", json=payload, timeout=20)
+            if r.status_code == 200:
+                quiz = r.json()
                 st.success("Quiz generated! 📝")
-                
-                # Display quiz questions
-                for i, question in enumerate(quiz['questions']):
-                    st.write(f"**Question {i+1}:** {question.get('question_text', 'Sample question')}")
-                    
-                    # Show options if available
-                    options = question.get('options', [])
+                for i, q in enumerate(quiz.get('questions', [])):
+                    st.write(f"**Question {i+1}:** {q.get('question_text', '')}")
+                    options = q.get('options', [])
                     if options:
-                        for j, option in enumerate(options):
-                            st.write(f"  {chr(65+j)}. {option}")
-                    
-                    st.write(f"**Correct Answer:** {question.get('correct_answer', 'Not specified')}")
+                        for j, opt in enumerate(options):
+                            st.write(f"  {chr(65+j)}. {opt}")
+                    if 'ray_peat_context' in q:
+                        with st.expander("Context"):
+                            st.write(q['ray_peat_context'])
                     st.divider()
             else:
-                st.error("Failed to generate quiz. Please try again.")
+                st.error(f"Failed to generate quiz: {r.text}")
+        except Exception as e:
+            st.error(f"Quiz service unavailable: {e}")
 
 def main():
     """Main application"""
@@ -629,44 +689,42 @@ def main():
     
     with tab4:
         st.subheader("📈 Learning Analytics")
-        if st.session_state.user_profile:
-            # Show detailed analytics
-            data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
-            
-            # Load interaction data
-            all_interactions = data_logger._load_interactions()
-            user_interactions = all_interactions[all_interactions['user_id'] == st.session_state.user_id]
-            
-            if not user_interactions.empty:
-                # Interaction timeline
-                user_interactions['timestamp'] = pd.to_datetime(user_interactions['timestamp'])
-                daily_interactions = user_interactions.groupby(user_interactions['timestamp'].dt.date).size()
-                
-                fig = px.line(x=daily_interactions.index, y=daily_interactions.values, 
-                            title="Daily Interaction Count")
-                fig.update_xaxes(title="Date")
-                fig.update_yaxes(title="Interactions")
-                st.plotly_chart(fig, use_container_width=True)
-                
-                # Topic distribution
-                topic_counts = user_interactions['topic'].value_counts()
-                fig = px.pie(values=topic_counts.values, names=topic_counts.index, 
-                           title="Topics Explored")
-                st.plotly_chart(fig, use_container_width=True)
-                
-                # Feedback analysis
-                feedback_data = user_interactions['user_feedback'].value_counts()
-                if len(feedback_data) > 0:
-                    fig = px.bar(x=['Negative', 'Positive'], 
-                               y=[feedback_data.get(-1, 0), feedback_data.get(1, 0)],
-                               title="Feedback Distribution",
-                               color=['Negative', 'Positive'],
-                               color_discrete_map={'Negative': '#ff6b6b', 'Positive': '#48db71'})
-                    st.plotly_chart(fig, use_container_width=True)
-            else:
-                st.info("No interaction data yet. Start chatting to see analytics!")
+        if not st.session_state.user_id:
+            st.info("Enter your user ID to view analytics.")
         else:
-            st.info("No profile data yet. Chat with the AI to build your profile!")
+            ok = False
+            try:
+                r = requests.get(f"http://localhost:8001/api/analytics/user/{st.session_state.user_id}", timeout=8)
+                ok = r.status_code == 200
+            except Exception:
+                ok = False
+            if ok:
+                data = r.json().get('user_analytics', {})
+                if 'error' in data:
+                    st.info("No analytics yet. Interact more to build your profile.")
+                else:
+                    cols = st.columns(3)
+                    cols[0].metric("Avg Mastery", f"{data.get('average_mastery',0):.2f}")
+                    cols[1].metric("Learning Velocity", f"{data.get('learning_velocity',0):.2f}")
+                    cols[2].metric("Preferred Difficulty", f"{data.get('preferred_difficulty',0):.2f}")
+                    top_topics = data.get('top_topics', [])
+                    if top_topics:
+                        if isinstance(top_topics[0], dict):
+                            df_top = pd.DataFrame(top_topics)
+                            if 'name' in df_top.columns and 'importance' in df_top.columns:
+                                df_top.rename(columns={'name':'Topic','importance':'Mastery'}, inplace=True)
+                        else:
+                            df_top = pd.DataFrame(top_topics, columns=["Topic","Mastery"]) 
+                        st.bar_chart(df_top.set_index(df_top.columns[0]))
+            else:
+                st.info("Analytics service unavailable. Showing local session stats.")
+                data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
+                all_interactions = data_logger._load_interactions()
+                user_interactions = all_interactions[all_interactions['user_id'] == st.session_state.user_id]
+                if not user_interactions.empty:
+                    user_interactions['timestamp'] = pd.to_datetime(user_interactions['timestamp'])
+                    daily = user_interactions.groupby(user_interactions['timestamp'].dt.date).size()
+                    st.line_chart(daily)
 
 if __name__ == "__main__":
     main()
