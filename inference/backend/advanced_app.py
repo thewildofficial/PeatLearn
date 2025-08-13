@@ -27,6 +27,8 @@ import numpy as np
 from config.settings import settings
 # NOTE: Legacy RAG modules are deprecated; use Pinecone-backed RAG
 from embedding.pinecone.rag_system import PineconeRAG as RayPeatRAG, RAGResponse
+import numpy as np
+from pathlib import Path
 
 # Import advanced ML components
 try:
@@ -107,6 +109,31 @@ app.add_middleware(
 # Initialize components (Pinecone-based)
 rag_system = RayPeatRAG()
 
+# Lightweight MF recommender loader
+MF_MODEL_PATH = Path("data/models/recs/mf_model.npz")
+MF_AVAILABLE = False
+MF_U = None  # type: ignore
+MF_V = None  # type: ignore
+MF_USER_TO_IDX = {}
+MF_ITEM_TO_IDX = {}
+
+def load_mf_model() -> None:
+    global MF_AVAILABLE, MF_U, MF_V, MF_USER_TO_IDX, MF_ITEM_TO_IDX
+    if MF_MODEL_PATH.exists():
+        try:
+            data = np.load(MF_MODEL_PATH, allow_pickle=True)
+            MF_U = data['U']
+            MF_V = data['V']
+            MF_USER_TO_IDX = dict(data['user_to_idx'])  # type: ignore
+            MF_ITEM_TO_IDX = dict(data['item_to_idx'])  # type: ignore
+            MF_AVAILABLE = True
+            print(f"✅ MF model loaded: users={len(MF_USER_TO_IDX)}, items={len(MF_ITEM_TO_IDX)}")
+        except Exception as e:
+            print(f"⚠️ MF model load failed: {e}")
+            MF_AVAILABLE = False
+    else:
+        MF_AVAILABLE = False
+
 @app.on_event("startup")
 async def startup_event():
     """Initialize all advanced ML components on startup."""
@@ -125,6 +152,8 @@ async def startup_event():
         print("✅ All advanced ML components initialized!")
     else:
         print("⚠️ Running in basic mode without advanced ML features")
+    # Load MF recommender regardless, if available
+    load_mf_model()
 
 # Basic endpoints (existing)
 @app.get("/")
@@ -266,24 +295,49 @@ if ADVANCED_ML_AVAILABLE:
     
     @app.post("/api/recommendations")
     async def get_recommendations(request: RecommendationRequest):
-        """Get personalized content recommendations."""
-        
-        recommendations = await personalization_engine.get_content_recommendations(
-            request.user_id,
-            request.num_recommendations,
-            request.exclude_seen
-        )
-        
+        """Get personalized content recommendations using MF if available, blended with content relevance."""
+        # Build candidate set via vector search (topic filter or default topics)
+        topics = request.topic_filter or [
+            "thyroid function", "estrogen progesterone", "metabolism energy",
+            "serotonin light", "carbon dioxide", "PUFA oils", "aspirin inflammation"
+        ]
+        seen = set()
+        candidates: Dict[str, float] = {}
+        for topic in topics:
+            results = await rag_system.search_engine.search(query=topic, top_k=30, min_similarity=0.2)
+            for r in results:
+                cid = r.source_file or r.id
+                # Keep max similarity as base relevance
+                candidates[cid] = max(float(r.similarity_score), candidates.get(cid, 0.0))
+
+        # Score with MF if available
+        recs: List[Dict[str, Any]] = []
+        user_idx = MF_USER_TO_IDX.get(request.user_id) if MF_AVAILABLE else None
+        for cid, base_sim in candidates.items():
+            mf_score = 0.0
+            if MF_AVAILABLE and user_idx is not None:
+                item_idx = MF_ITEM_TO_IDX.get(cid)
+                if item_idx is not None:
+                    try:
+                        mf_score = float(np.dot(MF_U[user_idx], MF_V[item_idx]))  # type: ignore
+                    except Exception:
+                        mf_score = 0.0
+            # Blend scores (prefer MF when available)
+            score = 0.7 * mf_score + 0.3 * base_sim if MF_AVAILABLE and user_idx is not None else base_sim
+            recs.append({
+                "content_id": cid,
+                "predicted_score": score,
+                "recommendation_reason": "MF+content blend" if MF_AVAILABLE and user_idx is not None else "content relevance"
+            })
+
+        # Sort and truncate
+        recs.sort(key=lambda x: x["predicted_score"], reverse=True)
+        recs = recs[: request.num_recommendations]
+
         return {
             "user_id": request.user_id,
-            "recommendations": [
-                {
-                    "content_id": content_id,
-                    "predicted_score": score,
-                    "recommendation_reason": "Neural Collaborative Filtering"
-                }
-                for content_id, score in recommendations
-            ]
+            "recommendations": recs,
+            "mode": "mf_blend" if MF_AVAILABLE and user_idx is not None else "content_based"
         }
     
     @app.post("/api/quiz/generate")
@@ -315,10 +369,20 @@ if ADVANCED_ML_AVAILABLE:
         # Generate REAL Ray Peat questions using the RAG system
         import aiohttp
         
-        # Topics for Ray Peat questions
-        ray_peat_topics = [
+        # Determine weakest topics from user state where possible
+        def weakest_topics_from_state(state: LearningState, limit: int) -> list[str]:
+            try:
+                tm = state.topic_mastery or {}
+                # Sort by mastery level ascending; fallback to 0 for missing
+                ranked = sorted(tm.items(), key=lambda kv: float(kv[1].get('mastery_level', 0.0)))
+                return [k.replace('_', ' ') for k, _ in ranked[:max(1, limit)]]
+            except Exception:
+                return []
+
+        # Default topic pool fallback
+        default_topics = [
             "thyroid function and metabolism",
-            "progesterone and estrogen balance", 
+            "progesterone and estrogen balance",
             "sugar and cellular energy",
             "carbon dioxide and metabolism",
             "stress hormones and cortisol",
@@ -326,17 +390,15 @@ if ADVANCED_ML_AVAILABLE:
             "calcium and phosphorus balance",
             "aspirin and inflammation",
             "coconut oil and saturated fats",
-            "gelatin and protein quality"
+            "gelatin and protein quality",
         ]
-        
-        # Select topics based on request
+
+        # Select topics: priority order -> request.topic, weakest from state, fallback to defaults
         if request.topic:
-            selected_topics = [t for t in ray_peat_topics if request.topic.lower() in t.lower()]
-            if not selected_topics:
-                selected_topics = [request.topic + " according to Ray Peat"]
+            selected_topics = [request.topic]
         else:
-            import random
-            selected_topics = random.sample(ray_peat_topics, min(request.num_questions, len(ray_peat_topics)))
+            wt = weakest_topics_from_state(user_state, request.num_questions)
+            selected_topics = wt if wt else default_topics[: request.num_questions]
         
         quiz_questions = []
         
@@ -377,7 +439,7 @@ if ADVANCED_ML_AVAILABLE:
                                 f"Ray Peat believes {topic.split()[0]} is only relevant for certain individuals"
                             ]
                             
-                            # The first option is typically correct based on the search
+                            # Heuristic: first option correct by construction
                             correct_answer = 0
                             
                             question = {

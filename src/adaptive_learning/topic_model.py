@@ -68,6 +68,7 @@ class CorpusTopicModel:
         self.vectorizer_path = self.model_dir / "tfidf_vectorizer.joblib"
         self.centroids_path = self.model_dir / "cluster_centroids.npy"
         self.topics_json_path = self.model_dir / "topics.json"
+        self.whitelist_path = self.model_dir / "cluster_whitelist.json"
         self.report_path = Path("data/reports/topic_clusters_report.md")
         self.report_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -83,6 +84,7 @@ class CorpusTopicModel:
         self.doc_to_cluster: Dict[str, int] = {}
         self.clusters: List[TopicCluster] = []
         self.centroids: Optional[np.ndarray] = None
+        self.cluster_whitelist: Optional[set[int]] = None
 
     def _load_corpus(self) -> Tuple[List[str], List[str]]:
         paths = sorted(glob.glob(self.corpus_glob, recursive=True))
@@ -224,6 +226,13 @@ class CorpusTopicModel:
             data = json.load(f)
         self.doc_to_cluster = data.get("doc_to_cluster", {})
         self.clusters = [TopicCluster(**c) for c in data.get("clusters", [])]
+        # Load whitelist if present
+        if self.whitelist_path.exists():
+            try:
+                wl = json.load(open(self.whitelist_path, 'r', encoding='utf-8'))
+                self.cluster_whitelist = set(wl.get('whitelist_ids', []))
+            except Exception:
+                self.cluster_whitelist = None
 
     def assign_topic_from_rag_sources(self, source_files: List[str]) -> Optional[TopicCluster]:
         if not source_files or not self.doc_to_cluster or not self.clusters:
@@ -240,8 +249,12 @@ class CorpusTopicModel:
                 votes[matched] = votes.get(matched, 0) + 1
         if not votes:
             return None
-        best = max(votes.items(), key=lambda x: x[1])[0]
-        return next((c for c in self.clusters if c.cluster_id == best), None)
+        # Pick the most voted cluster, honoring whitelist if present
+        ranked = sorted(votes.items(), key=lambda x: x[1], reverse=True)
+        for cid, _ in ranked:
+            if self.cluster_whitelist is None or cid in self.cluster_whitelist:
+                return next((c for c in self.clusters if c.cluster_id == cid), None)
+        return None
 
     def assign_topic_from_text(self, text: str) -> Optional[TopicCluster]:
         if self.vectorizer is None or self.centroids is None:
@@ -256,8 +269,12 @@ class CorpusTopicModel:
         x_norm = x_dense / (np.linalg.norm(x_dense, axis=1, keepdims=True) + 1e-9)
         cent_norm = cent / (np.linalg.norm(cent, axis=1, keepdims=True) + 1e-9)
         sims = x_norm @ cent_norm.T
-        best = int(np.argmax(sims))
-        return next((c for c in self.clusters if c.cluster_id == best), None)
+        order = np.argsort(sims[0])[::-1]
+        for idx in order:
+            cid = int(idx)
+            if self.cluster_whitelist is None or cid in self.cluster_whitelist:
+                return next((c for c in self.clusters if c.cluster_id == cid), None)
+        return None
 
     def jargon_score(self, text: str, cluster: TopicCluster, top_n: int = 15) -> float:
         """Measure how much of the cluster's top vocabulary appears in the text (proxy for nomenclature depth).

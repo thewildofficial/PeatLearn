@@ -532,6 +532,14 @@ def render_chat_interface():
                 with col2:
                     if st.button("👎", key=f"down_{i}_{message.get('timestamp', '')}"):
                         handle_feedback(message, -1, data_logger, ai_profiler)
+                with col3:
+                    # Optional transparency hint: show assigned topic last time we computed (from context)
+                    try:
+                        ctx = message.get('context') if isinstance(message, dict) else None
+                        # We don't store context on assistant message; skip
+                        pass
+                    except Exception:
+                        pass
     
     # Chat input
     if prompt := st.chat_input("Ask Ray Peat about bioenergetics, metabolism, hormones..."):
