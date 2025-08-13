@@ -174,9 +174,9 @@ class LearnerProfiler:
         feedback_by_topic = defaultdict(list)
         
         for interaction in interactions:
-            # Extract topic from query
+            # Prefer provided topic (from embedding-based classifier), fallback to keyword extractor
             query = interaction.get('user_query', '')
-            primary_topic = self.topic_extractor.get_primary_topic(query)
+            primary_topic = interaction.get('topic') or self.topic_extractor.get_primary_topic(query)
             
             if primary_topic:
                 topic_interactions[primary_topic].append(interaction)
@@ -246,6 +246,31 @@ class LearnerProfiler:
         
         feedback_ratio = positive_feedback / total_feedback if total_feedback > 0 else 0.5
         
+        # Additional signals from context (embedding-based):
+        # - average jargon_score (0-1)
+        # - average similarity_confidence (0-1)
+        avg_jargon = 0.0
+        avg_sim = 0.0
+        cnt_ctx = 0
+        for it in interactions:
+            ctx = it.get('context') or {}
+            try:
+                # context may be a JSON string in some pipelines
+                if isinstance(ctx, str):
+                    import json as _json
+                    ctx = _json.loads(ctx)
+            except Exception:
+                ctx = {}
+            if isinstance(ctx, dict):
+                if isinstance(ctx.get('jargon_score'), (int, float)):
+                    avg_jargon += float(ctx['jargon_score'])
+                    cnt_ctx += 1
+                if isinstance(ctx.get('similarity_confidence'), (int, float)):
+                    avg_sim += float(ctx['similarity_confidence'])
+        if cnt_ctx > 0:
+            avg_jargon /= cnt_ctx
+            avg_sim /= cnt_ctx
+
         # Determine mastery state based on interaction patterns
         if total_interactions >= 5 and feedback_ratio >= 0.8:
             state = 'advanced'
@@ -256,6 +281,10 @@ class LearnerProfiler:
         else:
             state = 'learning'
             mastery_level = 0.4 + feedback_ratio * 0.3  # 0.4 to 0.7
+
+        # Apply bounded boosts from embedding-based signals (holistic delta)
+        mastery_level = mastery_level + 0.05 * avg_jargon + 0.05 * avg_sim
+        mastery_level = max(0.0, min(1.0, mastery_level))
         
         return {
             'state': state,

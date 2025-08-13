@@ -5,6 +5,7 @@ Tracks user interactions, manages sessions, and stores feedback data
 """
 
 import csv
+import sqlite3
 import pandas as pd
 import json
 import uuid
@@ -19,15 +20,20 @@ class DataLogger:
     """
     
     def __init__(self, data_dir: str = "data/user_interactions"):
-        self.data_dir = Path(data_dir)
+        # Resolve to absolute path relative to project root to avoid CWD issues under Streamlit
+        root = Path(__file__).resolve().parents[2]
+        dd = Path(data_dir)
+        self.data_dir = dd if dd.is_absolute() else (root / dd)
         self.data_dir.mkdir(parents=True, exist_ok=True)
         
         self.interactions_file = self.data_dir / "interactions.csv"
         self.profiles_file = self.data_dir / "user_profiles.json"
         self.quiz_results_file = self.data_dir / "quiz_results.csv"
+        self.db_path = self.data_dir / "interactions.db"
         
         # Initialize files if they don't exist
         self._initialize_files()
+        self._initialize_db()
     
     def _initialize_files(self):
         """Initialize CSV and JSON files with proper headers"""
@@ -64,6 +70,44 @@ class DataLogger:
             }
             with open(self.profiles_file, 'w', encoding='utf-8') as f:
                 json.dump(initial_data, f, indent=2)
+
+    def _initialize_db(self):
+        """Initialize SQLite database for robust logging."""
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cur = conn.cursor()
+            cur.execute(
+                """
+                CREATE TABLE IF NOT EXISTS interactions (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    user_id TEXT,
+                    session_id TEXT,
+                    timestamp TEXT,
+                    user_query TEXT,
+                    llm_response TEXT,
+                    topic TEXT,
+                    user_feedback INTEGER,
+                    interaction_type TEXT,
+                    response_time REAL,
+                    context TEXT,
+                    jargon_score REAL,
+                    similarity_confidence REAL
+                )
+                """
+            )
+            # Migration: ensure new columns exist
+            cur.execute("PRAGMA table_info(interactions)")
+            cols = {row[1] for row in cur.fetchall()}
+            if 'jargon_score' not in cols:
+                cur.execute("ALTER TABLE interactions ADD COLUMN jargon_score REAL")
+            if 'similarity_confidence' not in cols:
+                cur.execute("ALTER TABLE interactions ADD COLUMN similarity_confidence REAL")
+            conn.commit()
+        finally:
+            try:
+                conn.close()
+            except Exception:
+                pass
     
     def get_session_id(self) -> str:
         """Get or create session ID for current Streamlit session"""
@@ -103,14 +147,53 @@ class DataLogger:
         # Convert context dict to JSON string
         context_str = json.dumps(context) if context else ""
         
-        # Append to CSV file
-        with open(self.interactions_file, 'a', newline='', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow([
-                user_id, session_id, timestamp, user_query,
-                llm_response, topic, user_feedback, interaction_type,
-                response_time, context_str
-            ])
+        # Extract explicit scores from context for first-class columns
+        try:
+            ctx_obj = json.loads(context_str) if context_str else {}
+        except json.JSONDecodeError:
+            ctx_obj = {}
+        jargon_val = ctx_obj.get('jargon_score') if isinstance(ctx_obj, dict) else None
+        sim_val = ctx_obj.get('similarity_confidence') if isinstance(ctx_obj, dict) else None
+
+        # Append to SQLite for robustness
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cur = conn.cursor()
+            cur.execute(
+                """
+                INSERT INTO interactions (
+                    user_id, session_id, timestamp, user_query, llm_response,
+                    topic, user_feedback, interaction_type, response_time, context,
+                    jargon_score, similarity_confidence
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """,
+                (
+                    user_id, session_id, timestamp, user_query, llm_response,
+                    topic, user_feedback if user_feedback is not None else None,
+                    interaction_type, response_time, context_str,
+                    float(jargon_val) if jargon_val is not None else None,
+                    float(sim_val) if sim_val is not None else None
+                ),
+            )
+            conn.commit()
+        finally:
+            try:
+                conn.close()
+            except Exception:
+                pass
+
+        # Also append to CSV (human-readable)
+        try:
+            with open(self.interactions_file, 'a', newline='', encoding='utf-8') as f:
+                writer = csv.writer(f)
+                writer.writerow([
+                    user_id, session_id, timestamp, user_query,
+                    llm_response, topic, user_feedback, interaction_type,
+                    response_time, context_str
+                ])
+        except Exception:
+            # Do not fail if CSV write has issues; SQLite is the source of truth
+            pass
     
     def log_feedback(self, 
                      interaction_index: int,
@@ -220,17 +303,20 @@ class DataLogger:
 
     def _load_interactions(self) -> pd.DataFrame:
         """Load all interactions into a pandas DataFrame for analytics convenience."""
+        # Prefer SQLite (more robust), fall back to CSV
         try:
-            df = pd.read_csv(self.interactions_file)
-            # Normalize types
-            if 'timestamp' in df.columns:
-                # leave as string; caller can parse to datetime
-                pass
+            conn = sqlite3.connect(self.db_path)
+            df = pd.read_sql_query("SELECT user_id, session_id, timestamp, user_query, llm_response, topic, user_feedback, interaction_type, response_time, context, jargon_score, similarity_confidence FROM interactions", conn)
+            conn.close()
             return df
         except Exception:
-            return pd.DataFrame(columns=[
-                'user_id','session_id','timestamp','user_query','llm_response','topic','user_feedback','interaction_type','response_time','context'
-            ])
+            try:
+                df = pd.read_csv(self.interactions_file)
+                return df
+            except Exception:
+                return pd.DataFrame(columns=[
+                    'user_id','session_id','timestamp','user_query','llm_response','topic','user_feedback','interaction_type','response_time','context'
+                ])
     
     def get_quiz_results(self, user_id: str = None) -> List[Dict[str, Any]]:
         """

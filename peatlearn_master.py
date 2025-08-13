@@ -91,6 +91,7 @@ from adaptive_learning.content_selector import ContentSelector
 from adaptive_learning.quiz_generator import QuizGenerator
 from adaptive_learning.dashboard import Dashboard
 from adaptive_learning.rag_system import RayPeatRAG
+from adaptive_learning.topic_model import CorpusTopicModel
 
 # Page configuration
 st.set_page_config(
@@ -279,8 +280,14 @@ def init_adaptive_system():
     quiz_generator = QuizGenerator(ai_profiler)
     dashboard = Dashboard()
     rag_system = RayPeatRAG()
+    # Load topic model if available
+    try:
+        topic_model = CorpusTopicModel(model_dir="data/models/topics")
+        topic_model.load()
+    except Exception:
+        topic_model = None
     
-    return data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system
+    return data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system, topic_model
 
 # Initialize session state
 def init_session_state():
@@ -324,7 +331,7 @@ def render_user_setup():
             st.session_state.user_id = user_id
             
             # Initialize session for this user
-            data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
+            data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system, topic_model = init_adaptive_system()
             st.session_state.session_id = data_logger.get_session_id()
             
             # Load existing profile if available
@@ -481,7 +488,7 @@ def render_recommendations():
 
 def render_chat_interface():
     """Render the main chat interface with AI profiling"""
-    data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
+    data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system, topic_model = init_adaptive_system()
     
     st.subheader("💬 Chat with Ray Peat AI")
     
@@ -565,10 +572,42 @@ def handle_feedback(message, feedback_value, data_logger, ai_profiler):
         except Exception:
             pass
     
-    # Extract topic from the interaction
-    from adaptive_learning.profile_analyzer import TopicExtractor
-    topic_extractor = TopicExtractor()
-    topic = topic_extractor.get_primary_topic(message.get('user_query', '')) or 'general'
+    # Extract topic (hybrid): prefer RAG sources vote, fallback to centroid similarity
+    assigned_topic = 'general'
+    similarity_conf = 0.0
+    jargon = 0.0
+    try:
+        tm = CorpusTopicModel(model_dir="data/models/topics")
+        tm.load()
+        # Source vote
+        srcs = message.get('sources', []) if isinstance(message, dict) else []
+        files = []
+        import re as _re
+        for s in srcs:
+            m = _re.search(r"\d+\.\s*([^\(\n]+)", s)
+            if m:
+                files.append(m.group(1).strip())
+        cluster = tm.assign_topic_from_rag_sources(files) if files else None
+        # Filter meta-like clusters from source vote
+        meta_terms = ["host", "author", "dr ", "dr.", "yeah", "uh", "context", "asks"]
+        def is_meta(lbl: str) -> bool:
+            l = lbl.lower()
+            return any(t in l for t in meta_terms)
+        q = message.get('user_query', '')
+        if cluster and is_meta(cluster.label):
+            cluster = None
+        if not cluster:
+            cluster = tm.assign_topic_from_text(q)
+        if cluster:
+            assigned_topic = cluster.label.split(',')[0].strip().lower().replace(' ', '_') or 'general'
+            # Compute both metrics regardless of path
+            similarity_conf = tm.similarity_to_cluster(q, cluster)
+            jargon = tm.jargon_score(q, cluster, top_n=12)
+    except Exception:
+        from adaptive_learning.profile_analyzer import TopicExtractor
+        topic_extractor = TopicExtractor()
+        assigned_topic = topic_extractor.get_primary_topic(message.get('user_query', '')) or 'general'
+    topic = assigned_topic
     
     # Log the interaction (include sources in context if present)
     sources_list = message.get('sources', []) if isinstance(message, dict) else []
@@ -580,8 +619,15 @@ def handle_feedback(message, feedback_value, data_logger, ai_profiler):
         topic=topic,
         user_feedback=feedback_value,
         interaction_type='chat',
-        context={'sources': sources_list}
+        context={'sources': sources_list, 'jargon_score': jargon, 'similarity_confidence': similarity_conf}
     )
+    try:
+        import os as _os
+        csv_path = str(_logger.interactions_file)
+        size = _os.path.getsize(csv_path)
+        st.toast(f"Interaction logged → {csv_path} ({size} bytes)")
+    except Exception:
+        st.toast("Interaction logged.")
 
     # Forward interaction to personalization backend to update state
     try:
@@ -718,7 +764,7 @@ def main():
                         st.bar_chart(df_top.set_index(df_top.columns[0]))
             else:
                 st.info("Analytics service unavailable. Showing local session stats.")
-                data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system = init_adaptive_system()
+                data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system, topic_model = init_adaptive_system()
                 all_interactions = data_logger._load_interactions()
                 user_interactions = all_interactions[all_interactions['user_id'] == st.session_state.user_id]
                 if not user_interactions.empty:
