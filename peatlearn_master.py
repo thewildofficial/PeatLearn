@@ -20,9 +20,31 @@ from pathlib import Path
 from dotenv import load_dotenv
 import html
 import re
+from PIL import Image
 
 # Load environment variables
 load_dotenv()
+
+# Lightweight cached helpers to reduce backend chatter
+@st.cache_data(ttl=60)
+def _fetch_recommendations_cached(user_id: str, topic_filter: list | None, num_recommendations: int = 8):
+    payload = {
+        "user_id": user_id,
+        "num_recommendations": num_recommendations,
+        "exclude_seen": True,
+        "topic_filter": topic_filter,
+    }
+    r = requests.post("http://localhost:8001/api/recommendations", json=payload, timeout=6)
+    r.raise_for_status()
+    return r.json().get("recommendations", [])
+
+@st.cache_data(ttl=30)
+def _adv_health_cached() -> bool:
+    try:
+        resp = requests.get("http://localhost:8001/api/health", timeout=2)
+        return resp.status_code == 200 and resp.json().get('status') == 'healthy'
+    except Exception:
+        return False
 
 # --- Orchestrator: run backend servers + Streamlit together when invoked via `python peatlearn_master.py` ---
 def _wait_for_health(url: str, timeout_seconds: int = 90) -> bool:
@@ -302,6 +324,17 @@ def init_session_state():
         st.session_state.user_profile = None
     if 'recommendations' not in st.session_state:
         st.session_state.recommendations = []
+    # Quiz state
+    if 'quiz_active' not in st.session_state:
+        st.session_state.quiz_active = False
+    if 'quiz_payload' not in st.session_state:
+        st.session_state.quiz_payload = None
+    if 'quiz_index' not in st.session_state:
+        st.session_state.quiz_index = 0
+    if 'quiz_answers' not in st.session_state:
+        st.session_state.quiz_answers = {}
+    if 'quiz_result' not in st.session_state:
+        st.session_state.quiz_result = None
 
 
 def get_rag_response(query: str, user_profile: dict = None) -> str:
@@ -357,11 +390,7 @@ def render_user_setup():
             # Show AI and personalization backend status
             api_key = os.getenv('GEMINI_API_KEY')
             adv_ok = False
-            try:
-                resp = requests.get("http://localhost:8001/api/health", timeout=2)
-                adv_ok = resp.status_code == 200 and resp.json().get('status') == 'healthy'
-            except Exception:
-                adv_ok = False
+            adv_ok = _adv_health_cached()
             cols = st.columns(2)
             with cols[0]:
                 if api_key:
@@ -457,16 +486,8 @@ def render_recommendations():
     try:
         topic_mastery = (st.session_state.user_profile or {}).get('topic_mastery', {})
         topic_filter = list(topic_mastery.keys())[:5] if topic_mastery else None
-        payload = {
-            "user_id": st.session_state.user_id,
-            "num_recommendations": 8,
-            "exclude_seen": True,
-            "topic_filter": topic_filter,
-        }
-        r = requests.post("http://localhost:8001/api/recommendations", json=payload, timeout=6)
-        if r.status_code == 200:
-            data = r.json()
-            recs = data.get("recommendations", [])
+        recs = _fetch_recommendations_cached(st.session_state.user_id, topic_filter, 8)
+        if True:
             if not recs:
                 st.info("No recommendations yet. Start interacting to personalize.")
                 return
@@ -481,8 +502,7 @@ def render_recommendations():
                         {f"<small><i>{reason}</i></small>" if reason else ""}
                     </div>
                 """, unsafe_allow_html=True)
-        else:
-            st.warning("Could not fetch recommendations.")
+        
     except Exception as e:
         st.warning(f"Recommendations unavailable: {e}")
 
@@ -523,23 +543,17 @@ def render_chat_interface():
                     </div>
                 """, unsafe_allow_html=True)
             
-            # Show feedback buttons for assistant messages
+            # Show rating slider for assistant messages (1-10)
             if 'feedback' not in message:
-                col1, col2, col3 = st.columns([1, 1, 8])
+                col1, col2 = st.columns([3, 1])
                 with col1:
-                    if st.button("👍", key=f"up_{i}_{message.get('timestamp', '')}"):
-                        handle_feedback(message, 1, data_logger, ai_profiler)
+                    rating = st.slider(
+                        "Rate your understanding (1=poor, 10=mastered)", 1, 10, 7,
+                        key=f"rate_{i}_{message.get('timestamp','')}"
+                    )
                 with col2:
-                    if st.button("👎", key=f"down_{i}_{message.get('timestamp', '')}"):
-                        handle_feedback(message, -1, data_logger, ai_profiler)
-                with col3:
-                    # Optional transparency hint: show assigned topic last time we computed (from context)
-                    try:
-                        ctx = message.get('context') if isinstance(message, dict) else None
-                        # We don't store context on assistant message; skip
-                        pass
-                    except Exception:
-                        pass
+                    if st.button("Submit", key=f"rate_submit_{i}_{message.get('timestamp','')}"):
+                        handle_feedback(message, int(rating), data_logger, ai_profiler)
     
     # Chat input
     if prompt := st.chat_input("Ask Ray Peat about bioenergetics, metabolism, hormones..."):
@@ -679,11 +693,93 @@ def handle_feedback(message, feedback_value, data_logger, ai_profiler):
     st.rerun()
 
 def render_quiz_interface():
-    """Render personalized quiz interface (via backend)."""
+    """Render personalized quiz interface (one question at a time via backend)."""
     if not st.session_state.get('user_id'):
         st.info("Enter your user ID first.")
         return
     st.subheader("🎯 Personalized Quiz")
+
+    # Debug toggle
+    debug_mode = st.toggle("Show adaptive debug info", value=False, help="Displays ability, item difficulty and target anchors.")
+
+    # Session-based quiz flow using new endpoints
+    if st.session_state.get('quiz_active') and st.session_state.get('quiz_session_id'):
+        session_id = st.session_state.quiz_session_id
+        # Fetch next item if we don't have a current one
+        if 'quiz_current_item' not in st.session_state or st.session_state.quiz_current_item is None:
+            try:
+                params = {"session_id": session_id}
+                if st.session_state.get('user_id'):
+                    params["user_id"] = st.session_state.user_id
+                r = requests.get("http://localhost:8001/api/quiz/next", params=params, timeout=10)
+                data = r.json()
+                if data.get('done'):
+                    # Finish session
+                    fr = requests.post("http://localhost:8001/api/quiz/finish", params={"session_id": session_id}, timeout=10)
+                    if fr.status_code == 200:
+                        st.session_state.quiz_result = fr.json()
+                        st.success(f"Quiz complete: {st.session_state.quiz_result.get('correct',0)}/{st.session_state.quiz_result.get('total',0)}")
+                    st.session_state.quiz_active = False
+                    st.session_state.quiz_session_id = None
+                    st.session_state.quiz_current_item = None
+                    st.rerun()
+                else:
+                    st.session_state.quiz_current_item = data
+            except Exception as e:
+                st.error(f"Quiz service error: {e}")
+                st.session_state.quiz_active = False
+                st.session_state.quiz_session_id = None
+                return
+        item = st.session_state.quiz_current_item
+        st.write(f"**Question:** {item.get('stem','')}")
+        if debug_mode:
+            cols_dbg = st.columns(3)
+            cols_dbg[0].metric("Item difficulty (b)", f"{item.get('difficulty_b', 0.5):.2f}")
+            if item.get('ability_topic') is not None:
+                cols_dbg[1].metric("Ability (θ topic)", f"{item.get('ability_topic'):.2f}")
+            if item.get('target_anchor') is not None:
+                cols_dbg[2].metric("Target anchor", f"{item.get('target_anchor'):.2f}")
+        # Passage and source
+        ctx = item.get('passage_excerpt') or ''
+        src = item.get('source_file') or ''
+        if ctx:
+            st.markdown(f"<div class='metric-card'><small><strong>Passage</strong></small><br/>{html.escape(ctx)}</div>", unsafe_allow_html=True)
+        if src:
+            st.caption(f"Source: {src}")
+        options = item.get('options', [])
+        choice = st.radio("Choose an option:", options=[f"{chr(65+i)}. {opt}" for i, opt in enumerate(options)], key=f"quiz_choice_{item.get('item_id')}")
+        colA, colB = st.columns([1,1])
+        with colA:
+            if st.button("Submit Answer", key=f"submit_{item.get('item_id')}"):
+                try:
+                    selected_idx = [f"{chr(65+i)}. {opt}" for i, opt in enumerate(options)].index(choice)
+                except Exception:
+                    selected_idx = 0
+                with st.spinner("Checking..."):
+                    r = requests.post("http://localhost:8001/api/quiz/answer", json={
+                        "session_id": session_id,
+                        "item_id": item.get('item_id'),
+                        "chosen_index": selected_idx,
+                        "time_ms": 0,
+                        "user_id": st.session_state.user_id,
+                    }, timeout=10)
+                if r.status_code == 200:
+                    res = r.json()
+                    if res.get('correct'):
+                        st.success("Correct!")
+                    else:
+                        st.error(f"Incorrect. Correct answer: {chr(65 + int(res.get('correct_index',0)))}")
+                st.session_state.quiz_current_item = None
+                st.rerun()
+        with colB:
+            if st.button("Cancel Quiz"):
+                st.session_state.quiz_active = False
+                st.session_state.quiz_session_id = None
+                st.session_state.quiz_current_item = None
+                st.rerun()
+        return
+
+    # Config to start a new quiz
     topic_mastery = (st.session_state.user_profile or {}).get('topic_mastery', {})
     topics = list(topic_mastery.keys()) if topic_mastery else [
         "thyroid function and metabolism",
@@ -691,30 +787,114 @@ def render_quiz_interface():
         "sugar and cellular energy",
         "carbon dioxide and metabolism",
     ]
-    selected_topic = st.selectbox("Choose a topic for your quiz:", topics)
+    selected_topic = st.selectbox("Choose a topic for your quiz (optional):", [""] + topics)
     num_q = st.slider("Number of questions", 3, 10, 5)
-    if st.button("Generate Quiz", type="primary"):
+    # Show last result if available
+    if st.session_state.get('quiz_result'):
+        res = st.session_state.quiz_result
+        st.info(f"Last quiz: {res.get('correct',0)}/{res.get('total',0)} correct ({res.get('score_percentage',0):.1f}%)")
+    if st.button("Start Quiz", type="primary"):
         try:
-            payload = {"user_id": st.session_state.user_id, "topic": selected_topic, "num_questions": num_q}
-            with st.spinner("Creating your personalized quiz..."):
-                r = requests.post("http://localhost:8001/api/quiz/generate", json=payload, timeout=20)
+            payload = {"user_id": st.session_state.user_id, "num_questions": num_q}
+            if selected_topic:
+                payload["topics"] = [selected_topic]
+            with st.spinner("Starting your quiz session..."):
+                r = requests.post("http://localhost:8001/api/quiz/session/start", json=payload, timeout=20)
             if r.status_code == 200:
-                quiz = r.json()
-                st.success("Quiz generated! 📝")
-                for i, q in enumerate(quiz.get('questions', [])):
-                    st.write(f"**Question {i+1}:** {q.get('question_text', '')}")
-                    options = q.get('options', [])
-                    if options:
-                        for j, opt in enumerate(options):
-                            st.write(f"  {chr(65+j)}. {opt}")
-                    if 'ray_peat_context' in q:
-                        with st.expander("Context"):
-                            st.write(q['ray_peat_context'])
-                    st.divider()
+                data = r.json()
+                st.session_state.quiz_session_id = data.get('session_id')
+                st.session_state.quiz_active = True
+                st.session_state.quiz_current_item = None
+                st.rerun()
             else:
                 st.error(f"Failed to generate quiz: {r.text}")
         except Exception as e:
             st.error(f"Quiz service unavailable: {e}")
+
+    # Ability history debug view
+    if debug_mode and st.session_state.get('user_id'):
+        try:
+            # Read local ability history from DB if present
+            import sqlite3 as _sql
+            from pathlib import Path as _Path
+            dbp = _Path("data/user_interactions/interactions.db")
+            if dbp.exists():
+                conn = _sql.connect(str(dbp))
+                df_hist = pd.read_sql_query(
+                    "SELECT topic, ability, updated_at FROM user_ability_history WHERE user_id = ? ORDER BY updated_at ASC",
+                    conn,
+                    params=(st.session_state.user_id,),
+                )
+                conn.close()
+                if not df_hist.empty:
+                    df_hist['updated_at'] = pd.to_datetime(df_hist['updated_at'])
+                    for topic in sorted(df_hist['topic'].unique()):
+                        seg = df_hist[df_hist['topic'] == topic]
+                        st.line_chart(seg.set_index('updated_at')['ability'], height=140)
+        except Exception:
+            pass
+
+def render_memorial():
+    """Render an in-app memorial page for Dr. Ray Peat with technical details."""
+    st.header("🕯️ In Memoriam: Dr. Raymond Peat (1936–2022)")
+    col1, col2 = st.columns([1, 2])
+    with col1:
+        try:
+            img_path = Path("data/assets/ray_peat.jpg")
+            if img_path.exists():
+                st.image(str(img_path), caption="Dr. Ray Peat")
+            else:
+                st.image("https://upload.wikimedia.org/wikipedia/commons/6/65/Placeholder_Person.jpg", caption="Dr. Ray Peat")
+        except Exception:
+            pass
+    with col2:
+        st.markdown(
+            """
+            Dr. Ray Peat advanced a bioenergetic view of biology: energy and structure are interdependent at every level.
+            PeatLearn is dedicated to preserving his corpus and helping learners progress with adaptive AI.
+            """
+        )
+
+    st.subheader("Bioenergetics (Primer)")
+    st.markdown("""
+    - Energy as a central variable: oxidative metabolism supports structure and resilience
+    - Thyroid hormones (T3/T4) sustain respiration, temperature, and CO₂ production
+    - Protective factors (progesterone, adequate carbs, calcium, saturated fats) support oxidative metabolism
+    - Stress mediators (excess estrogen, serotonin, nitric oxide, endotoxin, PUFA) push toward stress metabolism
+    - CO₂ improves oxygen delivery (Bohr effect) and stabilizes enzymes and membranes
+    """)
+
+    st.subheader("How PeatLearn Works (User)")
+    st.markdown("- Ask questions and browse sources\n- Get personalized recommendations\n- Take short adaptive quizzes calibrated to your level\n- Improve over time as difficulty adjusts")
+
+    st.subheader("Architecture (Technical)")
+    st.markdown("- RAG over Pinecone index of Ray Peat’s corpus\n- Gemini 2.5 Flash Lite to synthesize grounded items/answers\n- Adaptive updates per answer: ability θ(user, topic) and item difficulty b(item)\n- FastAPI services (8000 basic, 8001 advanced) and SQLite for quiz/session state")
+    st.markdown("""
+```mermaid
+flowchart TD
+  A[Streamlit UI] -->|Ask| B(Advanced API 8001)
+  B -->|Search| C[Pinecone]
+  C --> B
+  B -->|LLM\n(Gemini 2.5 Flash Lite)| D[Question & Answer]
+  D --> B
+  B -->|Return\nAnswer+Sources| A
+  A -->|Start Quiz| B
+  B -->|Seed items| C
+  B -->|Sessions & Stats| E[(SQLite)]
+  A -->|Answer| B
+  B -->|Update θ,b| E
+```
+""")
+
+    st.subheader("Adaptive Model Details")
+    st.code("""
+Ability update:  θ_new = θ + Kθ · (observed − expected)
+Item update:     b_new = b + Kb · (expected − observed)
+Expected prob:   expected = σ(1.7 · (θ − b))
+""", language="text")
+
+    st.subheader("Project Links")
+    st.markdown("- `docs/RAY_Peat_IN_MEMORIAM.md` (full memorial page)\n- README for architecture and endpoints")
 
 def main():
     """Main application"""
@@ -729,7 +909,7 @@ def main():
     render_user_setup()
     
     # Main content tabs
-    tab1, tab2, tab3, tab4 = st.tabs(["💬 Chat", "📊 Profile", "🎯 Quiz", "📈 Analytics"])
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["💬 Chat", "📊 Profile", "🎯 Quiz", "📈 Analytics", "🕯️ Memorial"])
     
     with tab1:
         render_chat_interface()
@@ -774,11 +954,18 @@ def main():
                 st.info("Analytics service unavailable. Showing local session stats.")
                 data_logger, ai_profiler, content_selector, quiz_generator, dashboard, rag_system, topic_model = init_adaptive_system()
                 all_interactions = data_logger._load_interactions()
-                user_interactions = all_interactions[all_interactions['user_id'] == st.session_state.user_id]
+                user_interactions = all_interactions.loc[all_interactions['user_id'] == st.session_state.user_id].copy()
                 if not user_interactions.empty:
                     user_interactions['timestamp'] = pd.to_datetime(user_interactions['timestamp'])
                     daily = user_interactions.groupby(user_interactions['timestamp'].dt.date).size()
                     st.line_chart(daily)
+
+    with tab5:
+        # Import and use the enhanced memorial
+        import sys
+        sys.path.append('.')
+        from enhanced_memorial import render_enhanced_memorial
+        render_enhanced_memorial()
 
 if __name__ == "__main__":
     main()

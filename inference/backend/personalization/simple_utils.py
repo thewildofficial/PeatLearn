@@ -119,28 +119,47 @@ def generate_mcq_from_passage(
     passage_text: str,
     num_options: int = 4
 ) -> Dict[str, Any]:
-    """Template-based MCQ from a passage.
+    """Heuristic MCQ grounded on the passage (no LLM).
 
-    - Simple prompt framing; first option is keyed as correct by design
-    - Distractors vary stance phrasing
+    Strategy:
+    - Extract a central sentence from the passage
+    - Make the stem reference the excerpt directly (no meta-phrases)
+    - Use the central claim as the correct option; create plausible distractors via negation and distortion
     """
-    stem = (
-        f"Based on Ray Peat's views about {topic}, which statement best aligns with the passage?"
-    )
-    key_phrase = topic.split()[0].capitalize() if topic else "topic"
-    options = [
-        f"The passage emphasizes the importance of {key_phrase} for metabolic health.",
-        f"The passage claims {key_phrase} should generally be avoided.",
-        f"The passage suggests {key_phrase} has no meaningful metabolic impact.",
-        f"The passage argues {key_phrase} only matters in rare cases.",
-    ][: num_options]
+    text = (passage_text or "").strip()
+    # Basic sentence split
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    sentences = [s.strip() for s in sentences if s and len(s.strip()) > 20]
+    if not sentences:
+        # fallback simple question
+        key_phrase = (topic or "the topic").strip()
+        central = f"A key idea is that {key_phrase} modulates metabolic function."
+    else:
+        # Choose a mid-length, contentful sentence
+        sentences.sort(key=len)
+        central = sentences[min(len(sentences)//2, len(sentences)-1)]
+        # Clip overly long
+        if len(central) > 220:
+            central = central[:220].rsplit(" ", 1)[0] + "..."
 
-    difficulty = estimate_difficulty_score(passage_text)
+    # Build stem
+    stem = f"According to the excerpt, which statement best reflects the passage?"
+
+    # Correct option is a light paraphrase or the sentence itself
+    correct = central
+    # Simple distractors
+    negation = re.sub(r"\b(is|are|was|were|supports|promotes|increases|reduces)\b",
+                      "does not", central, flags=re.IGNORECASE)
+    distortion = f"{central.split(',')[0]} in only rare cases, if at all."
+    unrelated = f"The passage argues an unrelated point about {(topic or 'another topic')} instead."
+    options = [correct, negation, distortion, unrelated][:num_options]
+
+    difficulty = estimate_difficulty_score(text)
 
     return {
         "question_text": stem,
         "options": options,
         "correct_answer": 0,
         "difficulty": difficulty,
-        "rationale": passage_text[:240] + ("..." if len(passage_text) > 240 else ""),
+        "rationale": text[:400] + ("..." if len(text) > 400 else ""),
     }

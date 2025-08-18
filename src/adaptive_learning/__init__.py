@@ -16,18 +16,18 @@ Main Components:
 __version__ = "1.0.0"
 __author__ = "PeatLearn Development Team"
 
-# Import main classes for easy access
-from .data_logger import DataLogger
-from .profile_analyzer import LearnerProfiler, TopicExtractor
-from .content_selector import ContentSelector
-from .quiz_generator import QuizGenerator
-from .dashboard import Dashboard
+# Import main classes and instances for easy access
+from .data_logger import data_logger
+from .profile_analyzer import profiler, TopicExtractor
+from .content_selector import content_selector
+from .quiz_generator import quiz_generator
+from .dashboard import dashboard
 
 __all__ = [
-    'DataLogger',
-    'LearnerProfiler', 
+    'data_logger',
+    'profiler', 
     'TopicExtractor',
-    'ContentSelector',
-    'QuizGenerator',
-    'Dashboard'
+    'content_selector',
+    'quiz_generator',
+    'dashboard'
 ]

@@ -239,12 +239,22 @@ class LearnerProfiler:
         
         total_interactions = len(interactions)
         
-        # Calculate feedback ratio
-        positive_feedback = sum(1 for f in feedback if f > 0)
-        negative_feedback = sum(1 for f in feedback if f < 0)
+        # Calculate normalized rating statistics (supports 1..10 or legacy +/-1)
         total_feedback = len(feedback)
-        
-        feedback_ratio = positive_feedback / total_feedback if total_feedback > 0 else 0.5
+        if total_feedback > 0:
+            norm = []
+            for f in feedback:
+                try:
+                    val = int(f)
+                    if 1 <= val <= 10:
+                        norm.append((val - 1) / 9.0)
+                    elif val in (-1, 1):
+                        norm.append(1.0 if val > 0 else 0.0)
+                except Exception:
+                    continue
+            avg_norm = sum(norm) / len(norm) if norm else 0.5
+        else:
+            avg_norm = 0.5
         
         # Additional signals from context (embedding-based):
         # - average jargon_score (0-1)
@@ -272,15 +282,15 @@ class LearnerProfiler:
             avg_sim /= cnt_ctx
 
         # Determine mastery state based on interaction patterns
-        if total_interactions >= 5 and feedback_ratio >= 0.8:
+        if total_interactions >= 5 and avg_norm >= 0.8:
             state = 'advanced'
-            mastery_level = 0.8 + (feedback_ratio - 0.8) * 0.5  # 0.8 to 0.9
-        elif total_interactions >= 3 and feedback_ratio <= 0.4:
+            mastery_level = 0.8 + (avg_norm - 0.8) * 0.5  # 0.8 to 0.9
+        elif total_interactions >= 3 and avg_norm <= 0.4:
             state = 'struggling'
-            mastery_level = 0.2 + feedback_ratio * 0.3  # 0.2 to 0.32
+            mastery_level = 0.2 + avg_norm * 0.3  # 0.2 to 0.32
         else:
             state = 'learning'
-            mastery_level = 0.4 + feedback_ratio * 0.3  # 0.4 to 0.7
+            mastery_level = 0.4 + avg_norm * 0.3  # 0.4 to 0.7
 
         # Apply bounded boosts from embedding-based signals (holistic delta)
         mastery_level = mastery_level + 0.05 * avg_jargon + 0.05 * avg_sim
@@ -290,7 +300,8 @@ class LearnerProfiler:
             'state': state,
             'mastery_level': mastery_level,
             'total_interactions': total_interactions,
-            'feedback_ratio': feedback_ratio,
+            # Keep legacy key name for compatibility; now represents avg normalized rating
+            'feedback_ratio': avg_norm,
             'last_interaction': interactions[-1]['timestamp'] if interactions else None,
             'confidence': min(total_interactions / 5.0, 1.0)  # Confidence increases with more data
         }

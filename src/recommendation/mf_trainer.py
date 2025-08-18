@@ -62,11 +62,21 @@ def load_interactions(db_path: Path = DB_PATH) -> List[Tuple[str, str, float]]:
         content_id = _derive_content_id_from_context(ctx)
         if not content_id:
             continue
-        # Map feedback to implicit weight (positives only for now)
-        w = 1.0 if (feedback is not None and int(feedback) > 0) else 0.0
-        if w <= 0.0:
+        # Map feedback (rating 1..10 or legacy +/-1) to implicit target in [0,1]
+        w = None
+        if feedback is None:
             continue
-        interactions.append((str(user_id), content_id, w))
+        try:
+            fb = int(feedback)
+            if 1 <= fb <= 10:
+                w = (fb - 1) / 9.0
+            elif fb in (-1, 1):
+                w = 1.0 if fb > 0 else 0.0
+        except Exception:
+            w = None
+        if w is None:
+            continue
+        interactions.append((str(user_id), content_id, float(w)))
     return interactions
 
 
