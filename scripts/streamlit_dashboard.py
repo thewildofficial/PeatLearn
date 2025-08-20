@@ -291,22 +291,10 @@ def render_chat_interface():
             # Rerun to update the display
             st.rerun()
 
-#!/usr/bin/env python3
-"""
-PeatLearn Advanced ML Dashboard
-Streamlit-based interface for the comprehensive AI learning platform
-"""
-
-import streamlit as st
-import requests
-import json
-import plotly.graph_objects as go
-import plotly.express as px
-import pandas as pd
-import numpy as np
-from datetime import datetime, timedelta
-import asyncio
-import aiohttp
+##
+# Note: The following duplicate header/import block was removed for code hygiene.
+# The file previously contained a full duplicate of the module contents.
+##
 
 # Configuration
 RAG_API_BASE = "http://localhost:8000"
@@ -1276,10 +1264,10 @@ def render_ml_system_details():
     if rag_status:
         with st.expander("🔍 RAG System Details"):
             st.write("**Retrieval-Augmented Generation Components:**")
-            st.write("- **Vector Store:** FAISS with OpenAI embeddings")
-            st.write("- **Embedding Model:** text-embedding-3-large (3072 dimensions)")
+            st.write("- **Vector Store:** Pinecone with Gemini embeddings")
+            st.write("- **Embedding Model:** gemini-embedding-001 (768 dimensions)")
             st.write("- **Search Algorithm:** Cosine similarity with filtering")
-            st.write("- **Generation Model:** GPT-4 with context injection")
+            st.write("- **Generation Model:** Gemini 2.5 Flash with context injection")
             
             try:
                 response = requests.get(f"{RAG_API_BASE}/api/stats", timeout=5)
@@ -1300,8 +1288,6 @@ def render_ml_system_details():
             except Exception as e:
                 st.error(f"Failed to get RAG stats: {e}")
 
-if __name__ == "__main__":
-    main()
 
 def display_quiz(quiz_data):
     """Display the quiz questions and handle answers."""
@@ -1905,10 +1891,10 @@ def render_ml_system_details():
     if rag_status:
         with st.expander("🔍 RAG System Details"):
             st.write("**Retrieval-Augmented Generation Components:**")
-            st.write("- **Vector Store:** FAISS with OpenAI embeddings")
-            st.write("- **Embedding Model:** text-embedding-3-large (3072 dimensions)")
+            st.write("- **Vector Store:** Pinecone with Gemini embeddings")
+            st.write("- **Embedding Model:** gemini-embedding-001 (768 dimensions)")
             st.write("- **Search Algorithm:** Cosine similarity with filtering")
-            st.write("- **Generation Model:** GPT-4 with context injection")
+            st.write("- **Generation Model:** Gemini 2.5 Flash with context injection")
             
             try:
                 response = requests.get(f"{RAG_API_BASE}/api/stats", timeout=5)

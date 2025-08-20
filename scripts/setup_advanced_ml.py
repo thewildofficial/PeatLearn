@@ -124,7 +124,7 @@ def test_imports():
         ("networkx", "NetworkX"),
         ("sklearn", "Scikit-learn"),
         ("stable_baselines3", "Stable Baselines 3"),
-        ("faiss", "FAISS"),
+        ("pinecone", "Pinecone"),
         ("optuna", "Optuna")
     ]
     

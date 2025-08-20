@@ -440,3 +440,4 @@ Output format:
 # Global instance for the API (same pattern as the original)
 rag_system = PineconeRAG()
 
+

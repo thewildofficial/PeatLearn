@@ -639,13 +639,14 @@
         // Update user analytics
         async function updateUserAnalytics() {
             try {
-                const response = await fetch(`${API_BASE}/personalization/analytics/${currentUser}`);
+                const response = await fetch(`${API_BASE}/api/analytics/user/${currentUser}`);
                 
                 if (!response.ok) {
                     return; // User might not exist yet
                 }
                 
-                const analytics = await response.json();
+                const data = await response.json();
+                const analytics = data.user_analytics;
                 
                 document.getElementById('topics-engaged').textContent = analytics.total_topics_engaged || 0;
                 document.getElementById('avg-mastery').textContent = ((analytics.average_mastery || 0) * 100).toFixed(1) + '%';

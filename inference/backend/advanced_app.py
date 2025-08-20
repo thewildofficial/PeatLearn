@@ -803,6 +803,22 @@ if ADVANCED_ML_AVAILABLE:
     async def get_user_analytics(user_id: str):
         """Get comprehensive analytics for a user."""
 
+        # Initialize user if they don't exist
+        if user_id not in personalization_engine.learning_states:
+            from inference.backend.personalization.neural_personalization import LearningState
+            import numpy as np
+            from datetime import datetime
+            
+            personalization_engine.learning_states[user_id] = LearningState(
+                user_id=user_id,
+                topic_mastery={},
+                learning_velocity=0.5,
+                preferred_difficulty=0.5,
+                learning_style_vector=np.random.normal(0, 0.1, 128),
+                attention_span=30.0,
+                last_active=datetime.now()
+            )
+
         user_analytics = personalization_engine.get_user_analytics(user_id)
 
         return {"user_analytics": user_analytics, "timestamp": datetime.now().isoformat()}

@@ -32,7 +32,7 @@ Our RAG implementation represents the heart of PeatLearn's question-answering ca
 class PineconeVectorSearch:
     def __init__(self, index_name="ray-peat-corpus"):
         self.index = pinecone.Index(index_name)
-        self.embedding_model = "text-embedding-3-small"  # OpenAI
+        self.embedding_model = "gemini-embedding-001"  # Gemini
         
     async def search(self, query: str, top_k: int = 10):
         # Generate query embedding

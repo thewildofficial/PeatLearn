@@ -18,10 +18,7 @@ Transform Dr. Ray Peat's complete corpus of bioenergetic knowledge into an intel
 - **Documentation**: Comprehensive guides and API docs
 
 ### ⏳ Planned (Phases 2-4)
-- **Embedding System**: Text vectorization and search index
-- **RAG Implementation**: Question-answering system
-- **Web Interface**: React-based user platform
-- **Fine-tuning**: Domain-specific model optimization
+- (updated) Core components are implemented; ongoing improvements focus on quality and UX
 
 ## 🏗️ Architecture Overview
 
@@ -63,9 +60,7 @@ Transform Dr. Ray Peat's complete corpus of bioenergetic knowledge into an intel
 - `models/` - LLM integration
 
 **`web_ui/`** - Frontend Application
-- `frontend/` - React TypeScript application
-- `components/` - Reusable UI components
-- `pages/` - Application views
+- `frontend/` - Streamlit dashboard and HTML interface
 
 ### Support Infrastructure
 
@@ -114,14 +109,12 @@ User Query → Vector Search → Context Retrieval → LLM Response
 - **Python 3.9+**: Core processing and API
 - **FastAPI**: High-performance API framework
 - **Gemini API**: AI text processing and generation
-- **ChromaDB/Pinecone**: Vector database options
-- **PostgreSQL**: Metadata and user data
+- **Pinecone**: Vector database (current default)
+- **SQLite**: Lightweight storage for quiz/session state
 
 ### Frontend
-- **React 18**: Modern UI framework
-- **TypeScript**: Type-safe development
-- **Tailwind CSS**: Utility-first styling
-- **React Query**: Data fetching and caching
+- **Streamlit**: Primary UI and analytics dashboard
+- **HTML5/JS**: Lightweight static interface
 
 ### AI/ML
 - **Google Gemini**: Primary LLM for processing

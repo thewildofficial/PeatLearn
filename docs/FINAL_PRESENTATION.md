@@ -34,7 +34,7 @@
 - **Features**: Concept extraction, relationship discovery, query enhancement
 
 ### 6. **Retrieval-Augmented Generation (RAG)**
-- **Components**: FAISS vector search + OpenAI embeddings + GPT
+- **Components**: Pinecone vector search + Gemini embeddings + Gemini LLM
 - **Purpose**: Intelligent Q&A with semantic search
 - **Performance**: Sub-second responses with 90%+ relevance
 
@@ -45,9 +45,9 @@
 ### Backend Services
 ```
 ├── RAG Q&A Service (Port 8000)
-│   ├── Vector search with FAISS
-│   ├── OpenAI embeddings
-│   └── GPT response generation
+│   ├── Vector search with Pinecone
+│   ├── Gemini embeddings
+│   └── Gemini response generation
 │
 └── Advanced ML Service (Port 8001)
     ├── Neural Collaborative Filtering
@@ -73,9 +73,9 @@
 - **Quality Assurance**: Automated scoring and duplicate detection
 
 ### Embedding Generation
-- **Model**: OpenAI text-embedding-3-large
-- **Dimensions**: 3072-dimensional vectors
-- **Storage**: FAISS indexing for fast retrieval
+- **Model**: Gemini gemini-embedding-001
+- **Dimensions**: 768-dimensional vectors
+- **Storage**: Pinecone index for fast retrieval
 - **Performance**: <100ms average search time
 
 ---
@@ -112,7 +112,7 @@
 - PyTorch: Deep learning framework
 - Transformers: BERT and attention models
 - scikit-learn: Traditional ML algorithms
-- FAISS: Vector similarity search
+- Pinecone: Vector similarity search
 - NumPy/Pandas: Data processing
 
 # Advanced Techniques

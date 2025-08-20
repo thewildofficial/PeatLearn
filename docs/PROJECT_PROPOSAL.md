@@ -91,7 +91,7 @@ Content Engagement:
    - Personalized learning paths
 
 #### Technology Stack
-- **Backend:** FastAPI, PostgreSQL, Redis
+- **Backend:** FastAPI; Pinecone for vectors; SQLite for quiz/session state
 - **AI/ML:** scikit-learn, sentence-transformers, Gemini API
 - **Frontend:** Streamlit, Plotly, D3.js
 - **Data:** pandas, numpy, networkx

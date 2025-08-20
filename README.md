@@ -6,13 +6,31 @@ Built around Dr. Ray Peat's bioenergetic philosophy, this comprehensive system d
 
 ## 🚀 Quick Start
 
-### Run Complete System Demo
+### Launch PeatLearn Master Dashboard
+
+**Production Mode (Default - Secure)**
 ```bash
-python3 scripts/demo_system.py
+# Production mode - development features disabled
+python peatlearn_master.py
+# OR
+./scripts/launch_prod.sh
 ```
 
-### Launch Web Interfaces
+**Development Mode (with Auto-Refresh)**
 ```bash
+# Development mode - auto-refresh enabled
+python peatlearn_master.py --dev
+# OR
+./scripts/launch_dev.sh
+# OR
+PEATLEARN_DEV_MODE=true python peatlearn_master.py
+```
+
+### Other Interfaces
+```bash
+# Run Complete System Demo
+python3 scripts/demo_system.py
+
 # Streamlit Dashboard (ensure venv is activated)
 source venv/bin/activate && streamlit run scripts/streamlit_dashboard.py --server.port 8502
 
@@ -38,12 +56,37 @@ source venv/bin/activate && cd inference/backend && python -m uvicorn advanced_a
 ✅ **Actor-Critic Methods** - Continuous difficulty adjustment  
 ✅ **Graph Neural Networks** - Knowledge graph reasoning  
 ✅ **Retrieval-Augmented Generation** - Intelligent Q&A system  
-✅ **Fine-tuned BERT** - Domain-specific concept extraction  
+✅ **Fine-tuned BERT** - Domain-specific concept extraction
+
+## 🔧 Development Mode
+
+PeatLearn includes a secure development mode that can be enabled for enhanced development experience:
+
+**Development Features:**
+- 🔄 **Auto-refresh on file changes** - Automatically refresh when Python files are modified
+- ⏱️ **Periodic data refresh** - Configurable periodic updates (10-120 seconds)
+- 🔍 **Enhanced debugging tools** - Additional development utilities
+- 📊 **Real-time status indicators** - Live development mode status
+
+**Enabling Development Mode:**
+```bash
+# Method 1: Command line flag
+python peatlearn_master.py --dev
+
+# Method 2: Environment variable
+export PEATLEARN_DEV_MODE=true
+python peatlearn_master.py
+
+# Method 3: Streamlit environment
+STREAMLIT_DEV_MODE=true streamlit run peatlearn_master.py
+```
+
+**Security:** Development features are **disabled by default** in production for security. The auto-refresh system only activates when explicitly enabled.
 
 ## 📊 System Architecture
 
 - **Backend**: FastAPI microservices with advanced ML models
-- **Frontend**: Modern HTML5 interface + Professional Streamlit dashboard  
+- **Frontend**: Streamlit dashboard (primary) + optional static HTML  
 - **Data**: 1000+ processed Ray Peat documents with vector embeddings
 - **AI/ML**: 10+ state-of-the-art techniques integrated in production
 
@@ -103,10 +146,9 @@ This hybrid approach allows:
    - Quality assessment and validation
 
 3. **Embedding & Vectorization** (`embedding/`)
-   - Text embedding using sentence-transformers/all-mpnet-base-v2
-   - Hugging Face dataset hosting for embeddings
-   - Automatic download and caching system
-   - Similarity search optimization
+   - Text embedding using Gemini `gemini-embedding-001`
+   - Pinecone vector index for semantic search
+   - Optional HF dataset hosting for artifacts
 
 4. **Inference Backend** (`inference/`)
    - RAG (Retrieval-Augmented Generation) system
@@ -114,9 +156,8 @@ This hybrid approach allows:
    - LLM integration and fine-tuning
 
 5. **Web UI Frontend** (`web_ui/`)
-   - React-based user interface
-   - Interactive search and exploration
-   - Responsive design for all devices
+   - Streamlit-based dashboard (primary UI)
+   - Optional static HTML demo
 
 ## Project Structure
 
@@ -148,8 +189,7 @@ PeatLearn/
 
 ### Prerequisites
 - Python 3.9+
-- Node.js 16+ (for frontend)
-- Gemini API key or Hugging Face access
+- Gemini API key and Pinecone API key
 - 8GB+ RAM recommended
 
 ### Setup
@@ -165,10 +205,10 @@ pip install -r requirements.txt
 
 2. **Configure Environment Variables**
 ```bash
-cp .env.template .env
+cp config/env_template.txt .env
 # Edit .env with your API keys:
-# GEMINI_API_KEY=your_key_here
-# HF_TOKEN=your_hugging_face_token  # Optional, for private access
+# GEMINI_API_KEY=your_gemini_api_key
+# PINECONE_API_KEY=your_pinecone_api_key
 ```
 
 3. **Download Pre-trained Embeddings**
@@ -194,17 +234,16 @@ cd ../../embedding
 python embed_corpus.py
 ```
 
-6. **Start Backend Server**
+6. **Start Backend Servers**
 ```bash
 cd ../inference/backend
-python app.py
+python app.py  # RAG service (8000)
+python -m uvicorn advanced_app:app --port 8001  # Advanced ML (8001)
 ```
 
 7. **Launch Frontend**
 ```bash
-cd ../../web_ui/frontend
-npm install
-npm start
+streamlit run scripts/streamlit_dashboard.py
 ```
 
 ### Development Workflow
@@ -302,21 +341,17 @@ We welcome contributions to enhance the Ray Peat Legacy platform:
 ### Backend
 - **Python**: Core processing and API development
 - **FastAPI**: High-performance API framework
-- **Gemini API**: AI-powered text processing
-- **ChromaDB/Pinecone**: Vector database
-- **PostgreSQL**: Metadata storage
+- **Gemini API**: LLM + embeddings
+- **Pinecone**: Vector database
+- **SQLite**: Quiz/session state
 
-### Frontend  
-- **React**: Modern UI framework
-- **TypeScript**: Type-safe development
-- **Tailwind CSS**: Utility-first styling
-- **React Query**: Data fetching and caching
+### Frontend
+- **Streamlit**: Primary UI
 
 ### AI/ML
 - **Google Gemini**: LLM for understanding and generation
-- **Hugging Face**: Alternative embedding models
-- **LangChain**: RAG orchestration
-- **Transformers**: Model management
+- **Transformers**: Model management (BioBERT, etc.)
+- **PyTorch**: Core DL framework
 
 ## Deployment
 

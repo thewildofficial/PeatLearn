@@ -21,9 +21,96 @@ from dotenv import load_dotenv
 import html
 import re
 from PIL import Image
+from watchdog.observers import Observer
+from watchdog.events import FileSystemEventHandler
+import threading
+import argparse
 
 # Load environment variables
 load_dotenv()
+
+# Development mode detection
+def is_development_mode():
+    """Check if development mode is enabled via environment variable or command line"""
+    # Check environment variable
+    if os.getenv('PEATLEARN_DEV_MODE', '').lower() in ['true', '1', 'yes', 'on']:
+        return True
+    
+    # Check command line arguments (for when launched directly)
+    if '--dev' in sys.argv or '--development' in sys.argv:
+        return True
+        
+    # Check if running under Streamlit with dev flag
+    if os.getenv('STREAMLIT_DEV_MODE', '').lower() in ['true', '1']:
+        return True
+        
+    return False
+
+DEVELOPMENT_MODE = is_development_mode()
+
+# Auto-refresh functionality
+class AutoRefreshHandler(FileSystemEventHandler):
+    """Handle file changes and trigger Streamlit refresh"""
+    
+    def __init__(self, watched_files=None):
+        self.watched_files = watched_files or []
+        self.last_modified = {}
+        
+    def on_modified(self, event):
+        if event.is_directory:
+            return
+            
+        file_path = Path(event.src_path)
+        
+        # Only refresh for specific file types or watched files
+        if (file_path.suffix in ['.py', '.json', '.yaml', '.yml', '.env'] or 
+            str(file_path) in self.watched_files):
+            
+            # Debounce: only refresh if file hasn't been modified in last 2 seconds
+            current_time = time.time()
+            if (file_path not in self.last_modified or 
+                current_time - self.last_modified[file_path] > 2):
+                
+                self.last_modified[file_path] = current_time
+                st.rerun()
+
+def setup_auto_refresh(watch_dirs=None, watch_files=None):
+    """Setup file watching for auto-refresh (development mode only)"""
+    if not DEVELOPMENT_MODE:
+        st.error("🔒 Auto-refresh is disabled in production mode")
+        return
+        
+    if 'auto_refresh_setup' in st.session_state:
+        return
+        
+    watch_dirs = watch_dirs or ['.', 'src', 'inference', 'data']
+    watch_files = watch_files or ['peatlearn_master.py', '.env']
+    
+    try:
+        handler = AutoRefreshHandler(watch_files)
+        observer = Observer()
+        
+        for watch_dir in watch_dirs:
+            if Path(watch_dir).exists():
+                observer.schedule(handler, watch_dir, recursive=True)
+        
+        observer.start()
+        st.session_state.auto_refresh_setup = True
+        st.session_state.file_observer = observer
+        
+    except Exception as e:
+        st.warning(f"Auto-refresh setup failed: {e}")
+
+# Periodic refresh options
+def setup_periodic_refresh(interval_seconds=30):
+    """Setup periodic refresh for data updates"""
+    if 'last_refresh' not in st.session_state:
+        st.session_state.last_refresh = time.time()
+    
+    current_time = time.time()
+    if current_time - st.session_state.last_refresh > interval_seconds:
+        st.session_state.last_refresh = current_time
+        st.rerun()
 
 # Lightweight cached helpers to reduce backend chatter
 @st.cache_data(ttl=60)
@@ -64,6 +151,11 @@ def _launch_all():
     env = os.environ.copy()
     # Mark child Streamlit process to avoid re-launch recursion
     env["RUNNING_UNDER_STREAMLIT"] = "1"
+    
+    # Pass through development mode flags
+    if DEVELOPMENT_MODE:
+        env["STREAMLIT_DEV_MODE"] = "true"
+        print("🔧 Development mode enabled")
 
     procs = []
     try:
@@ -101,6 +193,21 @@ def _launch_all():
 
 # If run directly (not by Streamlit), act as a launcher and exit before any Streamlit UI code runs
 if __name__ == "__main__" and os.environ.get("RUNNING_UNDER_STREAMLIT") != "1":
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description='PeatLearn Master Dashboard')
+    parser.add_argument('--dev', '--development', action='store_true', 
+                       help='Enable development mode with auto-refresh features')
+    parser.add_argument('--port', type=int, default=8501,
+                       help='Streamlit port (default: 8501)')
+    
+    # Only parse known args to avoid conflicts with Streamlit args
+    args, unknown = parser.parse_known_args()
+    
+    # Set development mode environment variable if flag is provided
+    if args.dev:
+        os.environ['PEATLEARN_DEV_MODE'] = 'true'
+        print("🔧 Development mode enabled via --dev flag")
+    
     sys.exit(_launch_all())
 
 # Add src directory to path for our adaptive learning modules
@@ -402,6 +509,90 @@ def render_user_setup():
                     st.success("🧩 Personalization API: Connected")
                 else:
                     st.warning("🧩 Personalization API: Basic Mode")
+            
+             # Development mode indicator and controls
+            if DEVELOPMENT_MODE:
+                st.markdown("---")
+                st.subheader("🔄 Development Mode")
+                st.info("🚀 Development mode is active!")
+                
+                auto_refresh_enabled = st.toggle(
+                    "Enable file watching", 
+                    value=st.session_state.get('auto_refresh_enabled', False),
+                    help="Automatically refresh when code files change"
+                )
+                
+                if auto_refresh_enabled != st.session_state.get('auto_refresh_enabled', False):
+                    st.session_state.auto_refresh_enabled = auto_refresh_enabled
+                    if auto_refresh_enabled:
+                        setup_auto_refresh()
+                        st.success("🔄 Auto-refresh enabled!")
+                    else:
+                        # Stop file observer
+                        if 'file_observer' in st.session_state:
+                            try:
+                                st.session_state.file_observer.stop()
+                                del st.session_state.file_observer
+                                del st.session_state.auto_refresh_setup
+                            except Exception:
+                                pass
+                        st.info("🔄 Auto-refresh disabled")
+                    st.rerun()
+                
+                # Periodic refresh for data updates
+                periodic_refresh_enabled = st.toggle(
+                    "Periodic data refresh", 
+                    value=st.session_state.get('periodic_refresh_enabled', False),
+                    help="Refresh analytics/data every 30 seconds"
+                )
+                
+                if periodic_refresh_enabled:
+                    st.session_state.periodic_refresh_enabled = True
+                    refresh_interval = st.slider("Refresh interval (seconds)", 10, 120, 30)
+                    setup_periodic_refresh(refresh_interval)
+                else:
+                    st.session_state.periodic_refresh_enabled = False
+                
+                # Manual refresh button
+                if st.button("🔄 Manual Refresh", help="Force refresh the app"):
+                    st.rerun()
+                    
+                # Status indicators
+                if st.session_state.get('auto_refresh_enabled', False):
+                    st.success("🟢 File watching active")
+                if st.session_state.get('periodic_refresh_enabled', False):
+                    st.info("🔄 Periodic refresh active")
+            else:
+                # Production mode - show minimal refresh options
+                st.markdown("---")
+                st.subheader("🔄 Refresh")
+                
+                # Only manual refresh in production
+                if st.button("🔄 Refresh Data", help="Refresh analytics and data"):
+                    st.rerun()
+                
+                # Show how to enable dev mode
+                with st.expander("💡 Enable Development Mode"):
+                    st.markdown("""
+                    **To enable development features:**
+                    
+                    **Method 1: Environment Variable**
+                    ```bash
+                    export PEATLEARN_DEV_MODE=true
+                    python peatlearn_master.py
+                    ```
+                    
+                    **Method 2: Command Line Flag**
+                    ```bash
+                    python peatlearn_master.py --dev
+                    ```
+                    
+                    **Method 3: Via Streamlit**
+                    ```bash
+                    STREAMLIT_DEV_MODE=true streamlit run peatlearn_master.py
+                    ```
+                    """)
+                st.caption("🔒 Production mode active - development features disabled")
 
 def render_user_profile():
     """Render user profile and learning analytics"""
@@ -899,6 +1090,18 @@ Expected prob:   expected = σ(1.7 · (θ − b))
 def main():
     """Main application"""
     init_session_state()
+    
+    # Setup cleanup on app exit
+    def cleanup_observers():
+        if 'file_observer' in st.session_state:
+            try:
+                st.session_state.file_observer.stop()
+                st.session_state.file_observer.join()
+            except Exception:
+                pass
+    
+    import atexit
+    atexit.register(cleanup_observers)
     
     # Check if user is set up
     if not st.session_state.user_id:

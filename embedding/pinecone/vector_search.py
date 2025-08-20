@@ -393,3 +393,4 @@ class PineconeVectorSearch:
 # Global instance for the API (same pattern as the original)
 search_engine = PineconeVectorSearch()
 
+

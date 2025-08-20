@@ -26,7 +26,7 @@ def demonstrate_rag_system():
     """Demonstrate RAG system capabilities."""
     print_section("1. RETRIEVAL-AUGMENTED GENERATION (RAG)")
     print("Purpose: Intelligent Q&A with Ray Peat's knowledge base")
-    print("Components: FAISS vector search + OpenAI embeddings + GPT responses")
+    print("Components: Pinecone vector search + Gemini embeddings + Gemini responses")
     
     sample_queries = [
         "How does thyroid function affect metabolism?",
@@ -124,9 +124,9 @@ def demonstrate_embeddings():
     print("Purpose: Semantic understanding and similarity search")
     
     print("\n🧮 Embedding Features:")
-    print("   • OpenAI text-embedding-3-large model")
-    print("   • 3072-dimensional vectors")
-    print("   • FAISS indexing for fast retrieval")
+    print("   • Gemini gemini-embedding-001 model")
+    print("   • 768-dimensional vectors")
+    print("   • Pinecone index for fast retrieval")
     print("   • Cosine similarity search")
     
     print("\n⚡ Performance Metrics:")

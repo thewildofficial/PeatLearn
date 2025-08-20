@@ -66,6 +66,12 @@ def render_enhanced_memorial():
         border-radius: 12px;
         margin: 2rem 0;
         border-left: 5px solid #667eea;
+        color: #2c3e50;
+    }
+    
+    .tech-section h3 {
+        color: #1a365d;
+        font-weight: bold;
     }
     
     .feature-grid {
@@ -81,6 +87,7 @@ def render_enhanced_memorial():
         border-radius: 8px;
         border-left: 4px solid #4CAF50;
         box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        color: #333;
     }
     
     .feature-card h5 {
@@ -94,6 +101,16 @@ def render_enhanced_memorial():
         border-radius: 10px;
         border: 2px dashed #667eea;
         margin: 1rem 0;
+        color: #2c3e50;
+    }
+    
+    .architecture-diagram h3 {
+        color: #1a365d;
+        font-weight: bold;
+    }
+    
+    .architecture-diagram p {
+        color: #4a5568;
     }
     
     .memorial-footer {

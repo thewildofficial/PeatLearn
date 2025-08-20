@@ -36,7 +36,7 @@ class Settings(BaseSettings):
     REDIS_URL: str = Field(default="redis://localhost:6379", env="REDIS_URL")
     
     # Vector Database
-    VECTOR_DB_TYPE: str = Field(default="chromadb", env="VECTOR_DB_TYPE")  # chromadb, pinecone, qdrant
+    VECTOR_DB_TYPE: str = Field(default="pinecone", env="VECTOR_DB_TYPE")  # chromadb, pinecone, qdrant
     CHROMA_PERSIST_DIR: str = str(PROJECT_ROOT / "embedding" / "vectorstore" / "chroma")
     
     # Data Paths

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Ray Peat Corpus Scale Analysis
-Analyzes the processed AI-cleaned corpus to calculate exact embedding requirements
+Analyze processed corpus scale and token counts.
+Note: Token counting uses a general-purpose tokenizer proxy.
 """
 
 import os
@@ -11,10 +11,10 @@ from pathlib import Path
 from collections import defaultdict
 import tiktoken
 
-def count_tokens(text, model="cl100k_base"):
-    """Count tokens using tiktoken (GPT-4 tokenizer as proxy for embedding models)"""
+def count_tokens(text: str) -> int:
+    """Count tokens using a fast tokenizer proxy."""
     try:
-        encoding = tiktoken.get_encoding(model)
+        encoding = tiktoken.get_encoding("cl100k_base") # Assuming a default model for the proxy
         return len(encoding.encode(text))
     except Exception as e:
         # Fallback: rough estimate (1 token ≈ 4 characters for English)
